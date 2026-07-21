@@ -481,6 +481,9 @@
       <button id="sync-file-btn" role="menuitem">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>
         <span id="sync-file-label">Connect progress.json</span></button>
+      <button id="gh-sync-btn" role="menuitem">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-4.3 1.4-4.3-2.5-6-3m12 5v-3.5c0-1 .1-1.4-.5-2 2.8-.3 5.5-1.4 5.5-6a4.6 4.6 0 0 0-1.3-3.2 4.2 4.2 0 0 0-.1-3.2s-1.1-.3-3.5 1.3a12.3 12.3 0 0 0-6.2 0C6.5 2.8 5.4 3.1 5.4 3.1a4.2 4.2 0 0 0-.1 3.2A4.6 4.6 0 0 0 4 9.5c0 4.6 2.7 5.7 5.5 6-.6.6-.6 1.2-.5 2V21"/></svg>
+        <span id="gh-sync-label">Connect GitHub sync</span></button>
       <button id="range-master" role="menuitem" class="accent-master">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
         Mark range mastered</button>
@@ -727,13 +730,13 @@ for(const dk of Object.keys(DECKS)){
 
 function baseIds(deck, section){ return section==="__all__" ? ALL_IDS[deck] : (SECTION_IDS[deck][section]||[]); }
 
-/* ---- base order override: lets a scope's "original order" differ from the
-   raw data.json concatenation order (used to seed a specific starting order,
-   e.g. for __all__, while per-section natural order stays untouched) ---- */
-let BASE_ORDER = {}; // scopeKey -> array of ids
+/* ---- "original order" for shuffle/restore purposes is always data.json's
+   natural section-concatenation order, regardless of whatever order is
+   currently loaded from progress.json. That way Shuffle/Restore correctly
+   reflects whether the working order still matches the deck's true default,
+   even right after importing a progress.json whose saved order came from a
+   previous shuffle. ---- */
 function baseOrder(deck, section){
-  const k = deck+"::"+section;
-  if(BASE_ORDER[k]) return BASE_ORDER[k];
   return baseIds(deck, section);
 }
 
@@ -792,6 +795,11 @@ async function saveRaw(v){
   mem[KEY]=v;
 }
 function storageLabel(){
+  if(ghToken){
+    if(ghSyncing) return "Syncing to GitHub…";
+    if(ghLastError) return "GitHub sync error — "+ghLastError;
+    return "Synced to GitHub ("+ghOwner+"/"+ghRepo+")";
+  }
   if(fileHandle) return "Synced to progress.json";
   if(hasWindowStore) return "Progress saved on this device";
   if(hasLocalStore) return "Progress saved in this browser";
@@ -824,7 +832,7 @@ function applyProgressPayload(p){
   const validIds = new Set(ALL_IDS["aerospace"]||[]);
   if(Array.isArray(p.order)){
     const ord = p.order.filter(id=>validIds.has(id));
-    if(ord.length){ BASE_ORDER["aerospace::__all__"]=ord.slice(); S.order["aerospace::__all__"]=ord.slice(); }
+    if(ord.length) S.order["aerospace::__all__"]=ord.slice();
   }
   if(p.mastery) for(const [id,st] of Object.entries(p.mastery)) if(validIds.has(id)) S.mastery[id]=st;
   if(p.notes) for(const [id,txt] of Object.entries(p.notes)) if(validIds.has(id)) S.notes[id]=txt;
@@ -873,7 +881,102 @@ function downloadProgressFile(){
   setTimeout(()=>URL.revokeObjectURL(url), 4000);
 }
 
+/* ---- GitHub-backed auto-sync ----
+   Commits progress.json straight to this repo via the GitHub REST API on
+   every change (debounced), so GitHub Pages redeploys and any other device
+   picks up the update on its next load -- no manual git add/commit/push.
+   The token lives only in this browser's localStorage. ---- */
+let ghToken  = (hasLocalStore && localStorage.getItem("sd_gh_token"))  || null;
+let ghOwner  = (hasLocalStore && localStorage.getItem("sd_gh_owner"))  || null;
+let ghRepo   = (hasLocalStore && localStorage.getItem("sd_gh_repo"))   || null;
+let ghBranch = (hasLocalStore && localStorage.getItem("sd_gh_branch")) || "main";
+let ghSyncTimer=null, ghSyncing=false, ghLastError=null;
+
+function ghDetectRepo(){
+  const h=location.hostname;
+  if(h.endsWith(".github.io")){
+    const owner=h.split(".")[0];
+    const seg=location.pathname.split("/").filter(Boolean)[0];
+    if(owner && seg) return {owner, repo:seg};
+  }
+  return null;
+}
+function ghApiUrl(){ return `https://api.github.com/repos/${ghOwner}/${ghRepo}/contents/progress.json`; }
+async function ghGetFile(){
+  const res=await fetch(ghApiUrl()+"?ref="+encodeURIComponent(ghBranch), {
+    headers:{ Authorization:"Bearer "+ghToken, Accept:"application/vnd.github+json" }, cache:"no-store"
+  });
+  if(res.status===404) return {sha:null};
+  if(!res.ok) throw new Error("read failed ("+res.status+")");
+  return res.json();
+}
+async function ghPutFile(sha){
+  const body=JSON.stringify(progressPayload(), null, 1);
+  const content=btoa(unescape(encodeURIComponent(body)));
+  const res=await fetch(ghApiUrl(), {
+    method:"PUT",
+    headers:{ Authorization:"Bearer "+ghToken, Accept:"application/vnd.github+json", "Content-Type":"application/json" },
+    body: JSON.stringify({ message:"Update progress.json", content, sha: sha||undefined, branch: ghBranch })
+  });
+  if(!res.ok){ const t=await res.text(); throw new Error("write failed ("+res.status+"): "+t.slice(0,200)); }
+  return res.json();
+}
+async function ghSyncNow(){
+  if(!ghToken||!ghOwner||!ghRepo) return;
+  ghSyncing=true; document.getElementById("savestate").textContent=storageLabel();
+  try{
+    const file=await ghGetFile();
+    await ghPutFile(file.sha);
+    ghLastError=null;
+  }catch(e){
+    ghLastError=(e&&e.message)||String(e);
+  }
+  ghSyncing=false; document.getElementById("savestate").textContent=storageLabel();
+}
+function scheduleGhSync(){
+  if(!ghToken) return;
+  clearTimeout(ghSyncTimer);
+  ghSyncTimer=setTimeout(ghSyncNow, 2500);
+}
+async function connectGithubSync(){
+  if(ghToken){
+    if(confirm("Disconnect GitHub sync on this device? (This only forgets the token here -- progress.json already committed stays as-is.)")){
+      ghToken=null;
+      if(hasLocalStore) localStorage.removeItem("sd_gh_token");
+      updateSyncUI();
+      document.getElementById("savestate").textContent=storageLabel();
+    }
+    return;
+  }
+  const detected=ghDetectRepo();
+  const ownerRepo=prompt("GitHub repo (owner/name):", detected?detected.owner+"/"+detected.repo:"");
+  if(!ownerRepo) return;
+  const parts=ownerRepo.split("/").map(s=>s.trim());
+  const owner=parts[0], repo=parts[1];
+  if(!owner||!repo){ alert("Enter as owner/repo, e.g. mshayev92/spaatz-aerospace"); return; }
+  const branch=(prompt("Branch:", "main")||"main").trim();
+  const token=prompt("GitHub personal access token (fine-grained, scoped to this repo only, with Contents: Read and write permission). Stored only in this browser's local storage:");
+  if(!token) return;
+  ghOwner=owner; ghRepo=repo; ghBranch=branch||"main"; ghToken=token.trim();
+  try{
+    await ghGetFile(); // validate access before committing to it
+  }catch(e){
+    alert("Couldn't verify access to "+ghOwner+"/"+ghRepo+": "+((e&&e.message)||e)+"\n\nCheck the token's permissions and the repo name, then try again.");
+    ghToken=null; return;
+  }
+  if(hasLocalStore){
+    localStorage.setItem("sd_gh_token", ghToken);
+    localStorage.setItem("sd_gh_owner", ghOwner);
+    localStorage.setItem("sd_gh_repo", ghRepo);
+    localStorage.setItem("sd_gh_branch", ghBranch);
+  }
+  updateSyncUI();
+  ghSyncNow();
+}
+
 function updateSyncUI(){
+  const ghBtn=$("gh-sync-label");
+  if(ghBtn) ghBtn.textContent = ghToken ? "Disconnect GitHub sync ("+ghOwner+"/"+ghRepo+")" : "Connect GitHub sync";
   const label = $("sync-file-label");
   if(!label) return;
   label.textContent = fileHandle ? "Re-sync progress.json" : (hasFSAccess ? "Connect progress.json" : "Download progress.json");
@@ -913,6 +1016,7 @@ function persist(){
   saveTimer=setTimeout(async()=>{
     await saveRaw(JSON.stringify(S));
     if(fileHandle) await writeProgressFile();
+    scheduleGhSync();
     document.getElementById("savestate").textContent=storageLabel();
   },180);
 }
@@ -1632,6 +1736,7 @@ $("sync-file-btn").addEventListener("click",()=>{
   if(hasFSAccess){ connectProgressFile(); }
   else { downloadProgressFile(); }
 });
+$("gh-sync-btn").addEventListener("click",()=>{ closeMenu(); connectGithubSync(); });
 $("modal-close").addEventListener("click",closeHistory);
 $("history-backdrop").addEventListener("click",e=>{ if(e.target===$("history-backdrop")) closeHistory(); });
 $("modal-copy").addEventListener("click",()=>{
