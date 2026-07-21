@@ -1010,7 +1010,9 @@ function isShuffled(){
   return false;
 }
 
+let lastLocalChangeAt = 0;
 function persist(){
+  lastLocalChangeAt = Date.now();
   document.getElementById("savestate").textContent="Saving…";
   clearTimeout(saveTimer);
   saveTimer=setTimeout(async()=>{
@@ -1867,7 +1869,53 @@ window.addEventListener("resize",()=>{ clearTimeout(resizeFitTimer); resizeFitTi
   updateSyncUI();
   render();
   persist();
+
+  startBackgroundSync();
 })();
+
+/* ---- background sync ----
+   Without this, a tab that's been open since before another device pushed a
+   change never notices -- progress.json was previously only fetched once, at
+   boot. This re-pulls it (a) whenever the tab becomes visible again, and
+   (b) on a periodic timer while it stays visible, so you don't have to open a
+   fresh tab to pick up a change made elsewhere.
+
+   Guard: skip the pull if a local edit happened in the last few seconds and
+   hasn't finished being pushed yet (persist() debounces ~180ms, then GitHub
+   sync debounces another ~2.5s) -- otherwise a background pull could overwrite
+   an edit on this device before it's gone out. ---- */
+const BG_SYNC_MIN_GAP_MS = 4000;
+const BG_SYNC_POLL_MS = 30000;
+let bgSyncPolling=null;
+
+async function pullRemoteProgress(){
+  if(ghSyncing) return;
+  if(Date.now()-lastLocalChangeAt < BG_SYNC_MIN_GAP_MS) return;
+  try{
+    const progRes = await fetch('progress.json', {cache:"no-store"});
+    if(!progRes.ok) return;
+    const text = await progRes.text();
+    if(!text.trim()) return;
+    const before = JSON.stringify(progressPayload());
+    applyProgressPayload(JSON.parse(text));
+    const after = JSON.stringify(progressPayload());
+    if(before!==after){
+      rebuildViews("aerospace");
+      render();
+      const el=document.getElementById("savestate");
+      if(el){ el.textContent="Synced newer progress"; setTimeout(()=>{ el.textContent=storageLabel(); }, 2500); }
+    }
+  }catch(e){ /* progress.json is optional; ignore failures */ }
+}
+
+function startBackgroundSync(){
+  document.addEventListener("visibilitychange", ()=>{
+    if(document.visibilityState==="visible") pullRemoteProgress();
+  });
+  bgSyncPolling=setInterval(()=>{
+    if(document.visibilityState==="visible") pullRemoteProgress();
+  }, BG_SYNC_POLL_MS);
+}
 </script>
 </body>
 </html>
