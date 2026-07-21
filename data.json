@@ -1,0 +1,5037 @@
+{
+ "aerospace": {
+  "name": "Journey of Flight",
+  "code": "AERO",
+  "sections": [
+   {
+    "id": "termdefs",
+    "name": "Terms & Definitions",
+    "cards": [
+     [
+      "Air and space power",
+      "ability to take advantage of air and space to do many things"
+     ],
+     [
+      "Helium",
+      "safer than hydrogen"
+     ],
+     [
+      "Dirigible",
+      "lighter than air craft that can be propelled and steered"
+     ],
+     [
+      "Barnstormers",
+      "flying exhibitor, war-surplus crafts, around country to offer rides, shows, etc."
+     ],
+     [
+      "Blitzkrieg",
+      "lightning war, combined arms (long range), army/air force (incl. ME-109 fighter; American B-17 better though)"
+     ],
+     [
+      "Kamikazes",
+      "suicide bombing; crashed bomb-loaded plane into ships"
+     ],
+     [
+      "Cold War",
+      "antagonistic relationship as US/Russia tried to spread influence w/o wanting to go to war (we reduced military, certain the Atomic Bomb would provide all the security we needed)"
+     ],
+     [
+      "Messerschmitt ME-262A",
+      "most famous jet of WWII (twin engine German jet)"
+     ],
+     [
+      "Vengeance Weapons",
+      "V-1, 26ft unmanned flying bomb, “buzz bomb”; V-2 ballistic missile, rocket propelled"
+     ],
+     [
+      "Berlin Airlift",
+      "Allies (US, Britain, France) flew supplies over blockade"
+     ],
+     [
+      "Korean War",
+      "UN provided assistance to S. Korea, 1st priority to stop advance of N Korean Army (border, 38th parallel)"
+     ],
+     [
+      "Turboprop",
+      "turbine fastened to prop"
+     ],
+     [
+      "Pure jet",
+      "thrust from jet exhaust"
+     ],
+     [
+      "National Advisory Committee on Aeronautics (NACA)",
+      "1915, gov funded research in aeronautics"
+     ],
+     [
+      "Viet Minh",
+      "Communist Separatists"
+     ],
+     [
+      "Vietnam War",
+      "8/7/1964 Tonkin Gulf Resolution to prevent further aggression"
+     ],
+     [
+      "ROLLING THUNDER",
+      "raise moral of S Vietnamese and tell N that if they didn't negotiate, bombing would continue Carried out by B-52 & F-105; F-4 beat back MiGs"
+     ],
+     [
+      "Guerrilla Warfare",
+      "hit and run, disappearing into jungle"
+     ],
+     [
+      "Tet Offensive",
+      "large scale surprise conventional attack on US/SV; simultaneous attacks all over SV"
+     ],
+     [
+      "SAM",
+      "Surface to air missile"
+     ],
+     [
+      "AAA",
+      "Anti-aircraft artillery both Soviet built"
+     ],
+     [
+      "LINEBACKER",
+      "B-52 by Nixon; bombing NV to negotiate and cut off NV from China and Soviets (harbors, rails, SAM target)"
+     ],
+     [
+      "LINEBACKER II",
+      "after failed negotiations, wanted to drive NV back again, more bombing"
+     ],
+     [
+      "DESERT SHIELD",
+      "military to defend Saudi Arabia from Iraq (F-16, F-15E, F-117, A-10, KC-135, KC-10)"
+     ],
+     [
+      "Civil Reserve Air Fleet",
+      "activated for Desert Shield, commercial aircraft to airlift"
+     ],
+     [
+      "DESERT STORM",
+      "deter Iraq aggression, defend Saudi Arabia (military planners developed plans, as learned from Vietnam) expel Iraq from Kuwait"
+     ],
+     [
+      "ALLIED FORCE",
+      "N. Atlantic Treaty Org's opposition to aggression; deter Milosevic from escalating attacks on civilians; damage Serbia's war capability"
+     ],
+     [
+      "Forward Swept Wing",
+      "reduces weight cost and drag (but needs to be stronger for high-speed flight)"
+     ],
+     [
+      "Oblique wing Aircraft",
+      "changes form for maximum lift, rotated to different positions"
+     ],
+     [
+      "Winglets",
+      "at wingtips, eliminates vortices that produce much drag; vertical, improves wing efficiency"
+     ],
+     [
+      "Canards",
+      "horizontal surfaces forward of main wings for trim/control; increases maneuverability (& wings can be smaller)"
+     ],
+     [
+      "Mission adaptive wings",
+      "best efficiency by moving forward for slow, backward for supersonic flight"
+     ],
+     [
+      "UAV",
+      "Unmanned Aerial Vehicle"
+     ],
+     [
+      "Aeronautics",
+      "art and science of flight through atmosphere"
+     ],
+     [
+      "Aerodynamics",
+      "science relating to the energy of gases in motion (atmosphere: 1/5 oxygen, 4/5 nitrogen; up 100mi)"
+     ],
+     [
+      "Mach",
+      "Mach 1 is speed of sound through a medium (decreases w/ height; lower 30degrees, drop 692mph)"
+     ],
+     [
+      "Airfoil",
+      "causes dynamic reaction through air in which it moves; creates forward lift"
+     ],
+     [
+      "Relative Wind",
+      "opposite flight path, impacts airfoil at any angle to chord line"
+     ],
+     [
+      "Angle of Attack",
+      "angle of chord line and oncoming relative wind (Angle of Incidence: between chord and centerline)"
+     ],
+     [
+      "Bernoulli's principle",
+      "as the velocity of a fluid increases, pressure decreases (pressure top less than below, move up)"
+     ],
+     [
+      "Streamlines",
+      "flow of air over an airfoil"
+     ],
+     [
+      "Four forces of flight",
+      "lift, drag, thrust, weight"
+     ],
+     [
+      "Vector",
+      "mathematical illustration showing direction and magnitude (like velocity)"
+     ],
+     [
+      "Induced lift",
+      "induced lower pressure top of wing due to camber; low pressure on top! (dynamic, high pressure bottom)"
+     ],
+     [
+      "Turbulence",
+      "churning of air"
+     ],
+     [
+      "Stall",
+      "streamlines in air next t wing surface separate from airfoil (low pressure lost)"
+     ],
+     [
+      "Weight distribution",
+      "where useful load is has profound effect; rotates around center of gravity in direction of weight"
+     ],
+     [
+      "Thrust vectoring",
+      "allows thrust to be pointed in any direction to assist in maneuvering 9pointed along a direction other than longitudinal axis; exhaust plates, port, etc.)"
+     ],
+     [
+      "Shock Wave",
+      "outspeeding pressure wave, air is forced aside abruptly by plane; Types: Compression (air moves aside at leading edge) and Expansion (filling in as air passes)"
+     ],
+     [
+      "V/STOL",
+      "vertical/short takeoff and landing (rotors turn to take off like helicopter, then back to fixed wing)"
+     ],
+     [
+      "Hypersonic transports",
+      "designed to fly at Mach 5 or higher"
+     ],
+     [
+      "Waverider",
+      "hyper or super sonic vehicle with attached shock wave along leading edge; appears to ride own shock wave"
+     ],
+     [
+      "Modular air vehicle",
+      "build vehicle from different sections, allowing it to do different missions; mix and match for needs"
+     ],
+     [
+      "Great Circle",
+      "circle on earth's surface passing through center; anything else is a small circle"
+     ],
+     [
+      "Graticule",
+      "basic grid system, 18 primary great circles north and south(longitude), equator, parallel small circles (10 degrees spacing, latitude), poles (numbers across top, letters down left side, written in degrees)"
+     ],
+     [
+      "Prime meridian",
+      "zero degrees, great circle through Greenwich, England"
+     ],
+     [
+      "Hemisphere",
+      "half sphere"
+     ],
+     [
+      "Meridian",
+      "north south line that's part of a great circle"
+     ],
+     [
+      "Sectional Aeronautical chart",
+      "aircraft over short distance, Lambert-conformal, info to visually monitor ground"
+     ],
+     [
+      "Relief",
+      "describes elevations; color tints, contour lines (smaller than 1000ft color scheme), shading"
+     ],
+     [
+      "Runway",
+      "most important, number is first two digits of compass direction"
+     ],
+     [
+      "Taxiway",
+      "roads aircraft use to get to runway"
+     ],
+     [
+      "Ramp, hangers",
+      "parking spots"
+     ],
+     [
+      "Control tower",
+      "controls runway, Automated Terminal Info System voice recording from tower"
+     ],
+     [
+      "Passenger terminal (FBO)",
+      "handle people, baggage, cargo"
+     ],
+     [
+      "Flight Service Station",
+      "weather info"
+     ],
+     [
+      "Beacon",
+      "civilian, green and white / military, green white white"
+     ],
+     [
+      "Uncontrolled airport",
+      "does not have control towers"
+     ],
+     [
+      "Controlled Airspace",
+      "airspace has several subdivisions, flyers subject to FAA air traffic controllers"
+     ],
+     [
+      "Airways",
+      "three dimensional highways in the sky"
+     ],
+     [
+      "Special use airspace",
+      "most pilots have to avoid (prohibited meant must avoid, restricted means sometimes must avoid)"
+     ],
+     [
+      "Military Operations Area",
+      "military flight training takes place"
+     ],
+     [
+      "True course",
+      "indicates the course the airplane will follow (w/ regard to true north, earth's north geographic pole)"
+     ],
+     [
+      "True airspeed",
+      "speed of plane through air"
+     ],
+     [
+      "Ground speed",
+      "how fact craft is going across surface of earth"
+     ],
+     [
+      "Wind Triangle",
+      "used by pilot to figure out where wind drift will cause craft to fly, to counter effect drift (degrees between true course and ground track, steer that many into wind)"
+     ],
+     [
+      "Pilotage",
+      "navigating by reference to visible landmarks"
+     ],
+     [
+      "Dead Reckoning",
+      "systematic consideration of all factors that could/will affect flight"
+     ],
+     [
+      "Aircraft radio",
+      "navigational aid, pilots link with FAA etc."
+     ],
+     [
+      "Atmosphere and Space",
+      "(no boundary) best described by AEROSPACE; atmosphere is where we don't need life support"
+     ],
+     [
+      "Density",
+      "indicates how tightly the particles of mater are packed together (decreases w/ altitude)"
+     ],
+     [
+      "Pressure",
+      "weight of molecules above press down on those below"
+     ],
+     [
+      "Mass",
+      "amount of material"
+     ],
+     [
+      "Dew Point",
+      "air temperature at which saturation occurs; Dew Temp is temp at or below which vapor will condense"
+     ],
+     [
+      "Evaporation",
+      "process by which liquid water molecules change to gas/vapor state and enter atmosphere (temp affects it)"
+     ],
+     [
+      "Sublimation",
+      "water molecules leave frozen state and directly enter atmosphere w/o changing into liquid first"
+     ],
+     [
+      "Humidity",
+      "indicates how much water is in the air; Absolute tells actual percentage in air at given time; Relative tells how much that can still enter air before saturation"
+     ],
+     [
+      "Particulate Matter",
+      "dust and small particles, if they weren't there, no condensation and precipitation exists; provide surface for condensation and are called condensation nuclei"
+     ],
+     [
+      "Heat",
+      "sum total of energy of all moving molecules w/in a substance"
+     ],
+     [
+      "Temperature",
+      "a measure that expresses an average of the energy of molecular motion"
+     ],
+     [
+      "Insolation",
+      "rate at which earth's surface is heated by solar radiation"
+     ],
+     [
+      "Coriolis Effect",
+      "causes by rotation of earth, deflects things to east in n Hemisphere"
+     ],
+     [
+      "Convection currents",
+      "along shorelines, heated air rising upward causing advection currents (wind); night, develops over warmer than land water; day, develops over warmer than water land"
+     ],
+     [
+      "Jet Stream",
+      "narrow current of air moving around hemispheres of earth in wavelike pattern (wind river E2W) 30k ft ish"
+     ],
+     [
+      "Weather",
+      "the condition of the atmosphere at any particular time and place (day2day changes in atmospheric conditions)"
+     ],
+     [
+      "Nimbo",
+      "cloud is producing, or capable of, precipitation"
+     ],
+     [
+      "Alto",
+      "high, but not highest"
+     ],
+     [
+      "Fracto",
+      "broken or ragged"
+     ],
+     [
+      "Lenticular",
+      "strong winds sweep up over (only) high mountains, lens like shape"
+     ],
+     [
+      "Rotor Clouds",
+      "motion of air coming over mountain is spinning on axis that parallels mountain's linear shape"
+     ],
+     [
+      "Wind Shear",
+      "atmospheric condition in which changes of speed and direction of wind occur (wind at one elevation in one direction, wind at adjacent level is opposite or calm); can cause abrupt changes in airspeed"
+     ],
+     [
+      "Microburst (downdraft shear)",
+      "associated w/ large thunderstorms, column of air is quickly cooled and falls toward earth"
+     ],
+     [
+      "CAT",
+      "vertical growth, wind shear, obstructions, etc. (Light: maybe seatbelts, objects at rest; Moderate: seatbelts, objects move; Severe: craft may be out of control, occupants thrown against belts, unsecured objects tossed; Extreme: entire craft tossed, near impossible to control)"
+     ],
+     [
+      "Wake Turbulence",
+      "caused by large aircraft in flight; air around wingtips forms vortex (twisting column of air) with tremendous energy; affects small craft like CAT"
+     ],
+     [
+      "Gravitation",
+      "describes force of attraction existing between all matter w/in universe"
+     ],
+     [
+      "Gravity",
+      "when gravitation involves earth and a body or mass on or near earth, gravitation is called gravity"
+     ],
+     [
+      "Newton's Universal Law of Gravitation",
+      "two bodies attract each other with a force directly proportional to their mass, and inversely proportional to the square of the distance between them [F=(GM1GM2)/d2]"
+     ],
+     [
+      "Force",
+      "define the cause of motion; you experience it by exerting muscle to move yourself or object"
+     ],
+     [
+      "Velocity",
+      "rate at which a body moves when force is applied to it"
+     ],
+     [
+      "Acceleration",
+      "when a body is subject to application of force over a continuing period of time"
+     ],
+     [
+      "Momentum",
+      "product of mass and velocity"
+     ],
+     [
+      "Combustion Chamber",
+      "rocket fuel burns here, gases produced are very hot and create high pressure inside"
+     ],
+     [
+      "Throat",
+      "as exhaust moves out, throat constricts exhaust to increase velocity"
+     ],
+     [
+      "Nozzle",
+      "bell shaped nozzle allows exhaust to expand, lowering pressure (pressure inside is lower, only rearward motion)"
+     ],
+     [
+      "Payload",
+      "whatever the rocket is carrying (satellites, astronauts, data, etc.); the four systems exist to deliver it"
+     ],
+     [
+      "Impulse",
+      "thrust, is measure of how much thrust will be obtained from a propellant"
+     ],
+     [
+      "Specific Impulse",
+      "(Isp) number of pounds of thrust delivered by consuming one pound propellant (oxidizer/fuel) in one second; Isp following number means seconds during which 1lb thrust is provided by burning 1lb propellant; ie, 500Isp: burning 1lb produces 1lb thrust for 500sec (or 500lb for 1sec)"
+     ],
+     [
+      "Density Impulse",
+      "another measure of propellant's thrust according to volume involved"
+     ],
+     [
+      "Orbit",
+      "path described by one body in its revolution about another body"
+     ],
+     [
+      "Trajectory",
+      "the path of a body through space"
+     ],
+     [
+      "Inertia",
+      "tendency of body at rest to remain at rest, body in motion to remain in motion in straight line, constant velocity"
+     ],
+     [
+      "Circular Orbit",
+      "orbit maintaining virtually constant altitude above earth's surface"
+     ],
+     [
+      "Elliptical Orbit",
+      "any closed orbit that is not circular; will have an apogee and perigee"
+     ],
+     [
+      "Equatorial Orbit",
+      "Satellite travels from West to East over earth's equator; some incline to equator a certain # degrees"
+     ],
+     [
+      "Escape Trajectory",
+      "to launch to moon or other body, much reach escape velocity (25,000mph); velocity so high, inertia so great it comes under influence of another body's gravity before it reaches apogee"
+     ],
+     [
+      "Apogee",
+      "Point in orbital trajectory or flight path when body is most distant from body being orbited (for earth)"
+     ],
+     [
+      "Perigee",
+      "Point in orbital trajectory or flight path when body is closest to body being orbited (for earth)"
+     ],
+     [
+      "Velocity requirement",
+      "velocity required in order to travel a certain path"
+     ],
+     [
+      "Escape velocity",
+      "requires for payload to escape from gravitational attraction of the planet"
+     ],
+     [
+      "Burnout (velocity)",
+      "the moment rocket engine ceases to produce thrust, it's at burnout; velocity required to place craft on intended trajectory must be attained at burnout"
+     ],
+     [
+      "Total velocity requirements",
+      "adding together the velocity requirements for all stages of the mission"
+     ],
+     [
+      "Retrothrust",
+      "opposite direction thrust"
+     ],
+     [
+      "Ballistics",
+      "the study of the arc of a nonorbiting body; primarily concerned with propelling an object from one place on earth's surface to another (no longer powered, under influence of natural forces)"
+     ],
+     [
+      "Coplanar transfer",
+      "transfer (moving from one orbit to another) w/in same orbital plane"
+     ],
+     [
+      "Geostationary Orbit",
+      "orbit stationed above one point on earth's surface equatorial orbit, revolution takes 24hrs. Valuable for communications, receivers/transmitters lock on and never loose contact; limited # positions"
+     ],
+     [
+      "Geosynchronous orbit",
+      "point of hovering on equator"
+     ],
+     [
+      "Polar orbit",
+      "crosses or nearly crosses M and S poles w/ each orbit; can photograph earth's entire surface"
+     ],
+     [
+      "Sunsynchronous orbit",
+      "polar orbit, constantly exposed to sun (sunlight can generate for onboard operations; monitor sun activities, in space electrical power generation, etc.)"
+     ],
+     [
+      "Rocket",
+      "power plant used to propel payload, by principle of action and reaction"
+     ],
+     [
+      "Missile",
+      "rocket propelled with warhead or weapon as payload (if payload is satellite, the vehicle is a launcher/booster)"
+     ],
+     [
+      "Space",
+      "place that extends indefinitely in all directions and contains all of the stars, planets, and galaxies in universe (widly accepted: 62mi, or 100kl; wings to those who reach 50mi)"
+     ],
+     [
+      "Cislunar space",
+      "space between earth and moon (magnetosphere, protons and electrons, magnetic lines, radiation storms, cosmic rays, sun's photons)"
+     ],
+     [
+      "Interplanetary space",
+      "center of sun to orbit of outermost planet (solar system)"
+     ],
+     [
+      "Interstellar space",
+      "distance between extent of one solar system and beginning of another"
+     ],
+     [
+      "Milky Way",
+      "galaxy in which we live, along w/ 100billion other solar systems and stars; spiraling arms, center older, arms newer stars; halo of gas surrounds"
+     ],
+     [
+      "Light year",
+      "distance a photon can travel in one year; 5 trillion, 878 billion miles"
+     ],
+     [
+      "Parsec",
+      "3.26 light years, 19.2 trillion miles"
+     ],
+     [
+      "Thermonuclear reaction",
+      "nuclear fusion of atoms under pressure and heat into different atoms"
+     ],
+     [
+      "Solar winds",
+      "charged particles ejected from sun flowing continuously through interplanetary space; extension of cornea into interplanetary space; bow shock wave where magnetic lines of force of magnetic field are struck by solar plasma"
+     ],
+     [
+      "Ion",
+      "atom carrying positive or negative charge as result of losing or gaining one or more electrons (caused by powerful ultraviolet radiation of sun, ultra high frequency of cosmic rays from stars of outer space"
+     ],
+     [
+      "Atom",
+      "most mass in central body, or nucleus, cluster of neutrons and protons; negatively charged electrons whirl around"
+     ],
+     [
+      "Magnetosphere",
+      "region of earth's atmosphere where ionized gas plays a big part in the dynamics of the atmosphere and where the geomagnetic field plays an important role"
+     ],
+     [
+      "Cosmic Rays",
+      "energetic charged particles from all over galaxy and beyond rain down on earth atomic particles, mostly electrons and nuclei"
+     ],
+     [
+      "Magnetic Storms",
+      "sudden onset of radiation bursts, magnetic field undergoes marked change in course of hour or less; frequent during years of high sunspot activity, can be linked to solar disturbances, interfere w/ ionosphere reflections"
+     ],
+     [
+      "Polar Magnetic Storms",
+      "solar disturbances observable only in polar areas; produce sporadic radiation emissions from upper atmosphere over middle and high latitudes; cause Aurora Borealis (N) and Australis (S) (interaction of solar radiation and earth's magneticism)"
+     ],
+     [
+      "Scintillation",
+      "electron density variations in the ionosphere cause rapid changes in radio signals"
+     ],
+     [
+      "Outgassing",
+      "removing pressure, bubbles of gas escape"
+     ],
+     [
+      "Cold welding",
+      "moving parts fit with tiny amount of air between; air escapes and they weld together (need lubricant)"
+     ],
+     [
+      "Free fall",
+      "subject to gravity, but we and our craft are falling together w/ nothing to resist"
+     ],
+     [
+      "Intergalactic space",
+      "space between galaxies"
+     ],
+     [
+      "Rille",
+      "long, irregular depressions similar to streambeds on earth"
+     ],
+     [
+      "Planet",
+      "orbits sun; large enough for gravity to make round; cleared neighborhood of smaller objects"
+     ],
+     [
+      "Asteroids",
+      "rocky and metallic bodies orbiting sun, too small to be planets; main belt BETWEEN Mars and Jupiter"
+     ],
+     [
+      "Comet",
+      "small, irregularly shaped body whose nucleus is composed of water, ice, rock, and frozen gases (elliptical orbit, close to sun, often further than Pluto; develop coma when approaching sun; nucleus and coma form head; tail; Oort cloud produces long, possibly medium pulled to shorter orbits, range comets)"
+     ],
+     [
+      "Meteoroids",
+      "dust size: Micrometeorites Meteoroid: clumps of matter in space Meteor/ite: enters atmosphere"
+     ],
+     [
+      "Nova",
+      "stars that aren't stable; flare, subside, flare"
+     ],
+     [
+      "Supernova",
+      "gives up great mass, giant explosion of light/energy"
+     ],
+     [
+      "Pulsar",
+      "pulsating Star, flashes electromagnetic emissions in set patterns"
+     ],
+     [
+      "Quasar",
+      "extremely luminous body"
+     ],
+     [
+      "Nebulae",
+      "vast clouds of matter not yet formed to stars; may be studded w/ stars, be brilliantly colored"
+     ],
+     [
+      "Black Hole",
+      "probably large star that exhausted nuclear fuel and collapsed inward on self; force builds up enough to keep explosion from occurring, but nothing is allowed to leave from resulting gravity"
+     ],
+     [
+      "Galaxy",
+      "grouping of billions of stars apparently merging into luminous band extending across sky"
+     ],
+     [
+      "International Telecommunications Union (ITU)",
+      "UN org. regulating international communications (radio, GEOs)"
+     ],
+     [
+      "Bogata Declaration of 1976",
+      "8 equatorial nations issued, claiming sovereignty over geostationary orbits above them"
+     ],
+     [
+      "ISS Agreement",
+      "1988, US provides management for building of International Space Station, along with Japan ESA, Canada, Russia (1993); new agreement 1998; detailed who bears what cost, managing station through consensus, jurisdiction over own station elements, compromise for military involvement (owner decides peaceful/not)"
+     ],
+     [
+      "Satellite",
+      "natural or artificial object that orbits earth"
+     ],
+     [
+      "Probe",
+      "spacecraft that either fly by, orbit, or land on celestial body other than earth"
+     ],
+     [
+      "EVA",
+      "Extra-vehicular activity; EVA suits have own life support systems"
+     ],
+     [
+      "MMU",
+      "Manned Maneuvering Unit, nitrogen propelled, hand-controlled device, allows more mobility than tethers"
+     ],
+     [
+      "Air Power unique",
+      "fast, elevation"
+     ],
+     [
+      "Kite",
+      "first device enabling flight, by Chinese, 100BC"
+     ],
+     [
+      "Gunpowder",
+      "900, enabled rockets 1100"
+     ],
+     [
+      "Hydrogen",
+      "\"flammable air\" lighter than air, Henry Cavendish"
+     ],
+     [
+      "Oxygen",
+      "discovered by Priestly"
+     ],
+     [
+      "Aerial reporting",
+      "(Balloon Signal Service of Union Army) Lincoln got Gen Scott to let Lowe organize it"
+     ],
+     [
+      "Basic problems of flight",
+      "left to get into air, sustain lift, control craft"
+     ],
+     [
+      "Flyer",
+      "flew 12sec, 120ft, 10:35, 12/17/1903 (controlled, sustained, powered, heavier than air)"
+     ],
+     [
+      "Atlantic crossing",
+      "Curtiss flying boats NY-England; Reed made it; 2weeks later, nonstop cross, John Alcock, Arthur Brown"
+     ],
+     [
+      "Air Mail",
+      "5/15/1918; Air Mail Act 1925: enabled contracting, get businesses involved, contractor gets 80%; Air Commerce Act 1926: standardize and regulate; first safety regs, Aeronautics Branch to license; Air Mail Act 1934: study of commercial aviation; carriers report to Post Office for contracts, AB for airways, Interstate Commerce Commission for rates; Air Mail Act 1938: unified regs for whole field of aviation, Civil Aeronautics Authority"
+     ],
+     [
+      "Pre WWII",
+      "German Luftwaffe: by 1932 3Bomber, 4Fighter, 8Observe; Italy (Germany) battle tested in Spanish Civil War, also Ethiopia; Japan, Army and Navy Air Force; we cut back; England had RAF, offensive bombers, good capabilities; France, ground defense, Maginot Line, small AF in 1936; 1940,41 we built up, but still short"
+     ],
+     [
+      "Axis",
+      "Germany, Italy, Japan"
+     ],
+     [
+      "Allies",
+      "British, Russians, USA, (France?) Sep 1, 1939, first fighting"
+     ],
+     [
+      "12/7/1941",
+      "Pearl Harbor; to cripple our fleet, air superiority, then Navy; 8-8:30 pounded; Afterwards, contact schools trained more pilots; CAA Civilian Pilot Training became CAA War Training Service"
+     ],
+     [
+      "Centralized control allowed",
+      "Air superiority, interdiction (crippling), close ground support"
+     ],
+     [
+      "General Kenney took over Pacific",
+      "did low altitude bombing, para-frag bombs (parachuted down), Kenny Cocktail (white phosphorus); wanted to clear air so advancing Allies could take the islands"
+     ],
+     [
+      "USAF",
+      "National Security Act, July 26, 1947; mission, deterrence"
+     ],
+     [
+      "K War lessons",
+      "Atomic bomb not enough; weren't prepped (few fighters); centralized control, decentralized execution"
+     ],
+     [
+      "Sound Barrier",
+      "(Mach is speed of sound, so Mach 3 is three times speed of sound) X-1 built to explore problems of high speed flight (vibrations, control reversals, break apart) Oct 14, 1947 Chuck Yeager penetrated sound barrier with X-1 X-2 built to study heating at Mach 3"
+     ],
+     [
+      "Wings",
+      "swept back: more efficient at high speed; variable change from regular at takeoff to swept back at higher speed"
+     ],
+     [
+      "Strategic Air Command (SAC)",
+      "Defend US from nuclear attack (B-52, KC-135)"
+     ],
+     [
+      "Final Coalition Air Campaign",
+      "Target Iraq's C&C, war making, etc; air defenses; supply lines&troops; give air support"
+     ],
+     [
+      "England and France joined to make supersonic passenger airliner",
+      "Concorde"
+     ],
+     [
+      "Soviet Union supersonic transport",
+      "TU-144"
+     ],
+     [
+      "Us supersonic transport",
+      "Model 2707 (Cancelled)"
+     ],
+     [
+      "Air Characteristics — Pressure",
+      "higher altitude, less pressure"
+     ],
+     [
+      "Air Characteristics — Temp",
+      "hotter air more energy; decreases 3.5F 1,000ft"
+     ],
+     [
+      "Air Characteristics — Density",
+      "how much squeezed in volume heated, decrease in density (they move apart)"
+     ],
+     [
+      "Air Characteristics — Viscosity",
+      "fluid's resistance to flow"
+     ],
+     [
+      "Airfoil — Leading edge",
+      "meets wind first, slower thicker"
+     ],
+     [
+      "Airfoil — Camber",
+      "curvature determines the thickness, positive curve curves away"
+     ],
+     [
+      "Airfoil — Trailing edge",
+      "they meet again"
+     ],
+     [
+      "Airfoil — Chord",
+      "imaginary line, leading to trailing edge"
+     ],
+     [
+      "Improve — Lift",
+      "increase camber, or angle of attack"
+     ],
+     [
+      "Improve — Weight",
+      "lighter, composite materials"
+     ],
+     [
+      "Improve — Thrust",
+      "propels aircraft forward: engine, much power little weight"
+     ],
+     [
+      "Improve — Drag",
+      "parallel to relative wind: reduce friction"
+     ],
+     [
+      "Drag — Friction",
+      "friction of air against parts of plane (like rubbing sandpaper)"
+     ],
+     [
+      "Drag — Form",
+      "shape creates turbulence"
+     ],
+     [
+      "Drag — Induced",
+      "vortex causes lift vector aslant towards wing; lift vector same direction as drag vector adds to drag"
+     ],
+     [
+      "Drag — Wave",
+      "when flowing across a shock wave, temp, pressure, velocity change – the drag a result of lost energy"
+     ],
+     [
+      "Airplane (parts)",
+      "fuselage, engine, wing/ailerons, tail/horizontal stabilizer/elevator/vertical stabilizer"
+     ],
+     [
+      "Longitudinal axis / Aileron",
+      "Roll"
+     ],
+     [
+      "Vertical axis / Rudder",
+      "Yaw"
+     ],
+     [
+      "Lateral axis / Elevator",
+      "Pitch"
+     ],
+     [
+      "Engines — Reciprocating",
+      "four stroke, five event, circular motion, in cylinder, fuel into energy"
+     ],
+     [
+      "Engines — Turbine",
+      "whirl, refers to device having vanes where wheel turns as vanes struck by moving fluid; take in air, accelerate, push through exhaust"
+     ],
+     [
+      "TurboJet",
+      "compressor blades bring in, fuel, burn, accelerated out exhaust"
+     ],
+     [
+      "TurboFan",
+      "one or more compressor blades, more air pulled in; large amount air accelerate less to get high thrust"
+     ],
+     [
+      "TurboProp (engine)",
+      "gas turbine to turn prop"
+     ],
+     [
+      "PropFan",
+      "air moving efficiency of turbofan with prop of prop (combines three above, turbojet gas generator)"
+     ],
+     [
+      "RamJet",
+      "air rammed in, compressed, ignited, slowed subsonic, and let out"
+     ],
+     [
+      "ScramJet",
+      "same, air not slowed"
+     ],
+     [
+      "Flaps",
+      "increase lift and drag"
+     ],
+     [
+      "Slats",
+      "protrude from leading edge of wing, induced lift (adds energy front, flap back)"
+     ],
+     [
+      "Spoilers",
+      "destroy lift, ruin laminar flow"
+     ],
+     [
+      "Drag devices",
+      "drag only, from fuselage or wing edge; speed, air brakes, parachutes, etc."
+     ],
+     [
+      "Fuselage — Truss",
+      "tubing welded to make well braced framework"
+     ],
+     [
+      "Fuselage — Monocoque",
+      "covering of skin to provide strength (almost like circles as base, then skin covering)"
+     ],
+     [
+      "Fuselage — SemiMonocoque",
+      "internal braces to help skin carry force; longitudal stringers, blukheads"
+     ],
+     [
+      "Landing Gear — Conventional",
+      "two wheels forward, one at tail"
+     ],
+     [
+      "Landing Gear — Tricycle",
+      "one front, two behind, nose gear linked to rudder"
+     ],
+     [
+      "Landing Gear — Tandem",
+      "one in front of second on fuselage, outrigger wheels needed"
+     ],
+     [
+      "Systems — Fuel",
+      "delivery of fuel to engine; tanks mix with air, draw into combustion chamber; can gravity feed, but many use pumps"
+     ],
+     [
+      "Systems — Hydraulic",
+      "brakes, landing gear, flight controls, flaps; pressurized fluid to make parts move, how you can press brakes to stop so many tons"
+     ],
+     [
+      "Systems — Electrical",
+      "generator provides charge, for engine, radio, lights, etc."
+     ],
+     [
+      "Operational classification (instruments)",
+      "mechanical (gyro), pressure, electrical"
+     ],
+     [
+      "Mechanical (instruments)",
+      "gear, float, gyro (Gyro Stability: spinning flat weight lines up in one of its axis, perpendicular to weight)"
+     ],
+     [
+      "Pressure (instruments)",
+      "principle that fluid exerts pressure, and it decreases with height; ie, indicates altitude"
+     ],
+     [
+      "Electrical (instruments)",
+      "operates on electricity and magnetism, being used more and more"
+     ],
+     [
+      "Use classification — Performance",
+      "tells how craft responded to commands"
+     ],
+     [
+      "Use classification — Control",
+      "tells state of devices"
+     ],
+     [
+      "As actually used (instruments)",
+      "engine, flight, navigation"
+     ],
+     [
+      "Engine (instruments)",
+      "tells how thrust producing device is operating (rpm, oil, fluid flow)"
+     ],
+     [
+      "Flight (instruments)",
+      "tell pilot altitude, airspeed, attitude, allow for safe flight, tell how well craft is being controlled"
+     ],
+     [
+      "Navigation (instruments)",
+      "gets from departure to destination; clock, compass, direction, radio, radar, GPS"
+     ],
+     [
+      "Tachometer",
+      "speed measure, how fast engine crankshaft is turning (rpm)"
+     ],
+     [
+      "Oil pressure and temperature",
+      "oil while engine's operating"
+     ],
+     [
+      "Airspeed Indicator",
+      "speed through air mph or knots"
+     ],
+     [
+      "Altimeter",
+      "aneroid barometer, altitude in feet (pressure of mercury)"
+     ],
+     [
+      "Turn and slip Indicator",
+      "needle indicates direction, ball in tube (inclinometer) indicates quality of turn"
+     ],
+     [
+      "Vertical Velocity Indicator",
+      "Rate, feet per minute, of climb or decent"
+     ],
+     [
+      "Attitude indicator",
+      "artificial horizon basic, most important"
+     ],
+     [
+      "Navigation instruments (list)",
+      "Airspeed indicator, clock, magnetic compass, heading indicator (gyro, type of compass)"
+     ],
+     [
+      "Airports (Concepts)",
+      "military or civil; joint use, runways are shared by both (military name appears above civilian)"
+     ],
+     [
+      "Very-High-Frequency Omnidirectional Radio Range (VOR)",
+      "360 degree circle from station, select a radial, head for station. Includes plane receivers and ground station. Stationary signal and rotational signal line up north. Rotational moves around, difference converted to radial info so pilot can select route"
+     ],
+     [
+      "Automatic Direction Finder (ADF)",
+      "same beacon signal, but not selectable. Needle on navigational display is used"
+     ],
+     [
+      "Distance Measuring Equipment (DME)",
+      "VOR stations have special Tactical Air Navigation (TACAN); with VOR it's a VORTAC. TACAN portion will respond with broadcast signal when it receives one from DME. DME measures time it will take to go to VORTAC plane and return, converts to nautical miles"
+     ],
+     [
+      "Radar",
+      "reflected radio energy. Energy bounced back as bright spots, radar scope is very far"
+     ],
+     [
+      "Long Range navigation (LORAN)",
+      "broadcast signals, received by slave stations, which broadcast delayed responding signals; time differences shown, plane position can be plotted on LORAN chart; displays time diff. continuously (on auto)"
+     ],
+     [
+      "GPS",
+      "24 satellites; receiver converts signals into position coordinates, lat, long, elevation, time, w/ 4 satellites"
+     ],
+     [
+      "PPS",
+      "precise, military probably w/in 30 meters"
+     ],
+     [
+      "SPS",
+      "Standard, the rest of us"
+     ],
+     [
+      "Internal Navigation",
+      "measures movement, translated to speed, direction, distance; accelerometer (like pendulum)"
+     ],
+     [
+      "Area Navigation System (RNAV)",
+      "computer controlled, stations and receivers; VOR type stations or GPS as reference, allows to fly w/o following airways; start and end, monitors which VOR stations you pass, compares path to prediction"
+     ],
+     [
+      "Instrument Landing System (ILS)",
+      "short distance, purpose to land plane; precise direction signals; lateral centerline, vertical glide slope; maybe outer(blue) middle(amber) inner(white) indicators; glide slope and beacon receiver, glide slope and azimuth on VOR"
+     ],
+     [
+      "Microwave Landing System (MLS)",
+      "wider beams, funnel (120horizontal, 20 vertical degrees)"
+     ],
+     [
+      "Differential GPS Landing Systems",
+      "very accurate GPS guidance; computer generated, incl. curved paths, tiered altitudes"
+     ],
+     [
+      "Atmosphere (composition)",
+      "78% nitrogen, 21% oxygen, argon, neon, helium, methane, hydrogen, xenon, and variable water vapor, carbon dioxide, ozone, carbon monoxide, sulfur dioxide, and nitrogen dioxide"
+     ],
+     [
+      "Atmospheric regions by",
+      "temp, physiochemical, molecular distribution, dynamic-kinetic processes"
+     ],
+     [
+      "Temp — Troposphere (and pause)",
+      "to 10mi temp decreases"
+     ],
+     [
+      "Temp — Stratosphere (and pause)",
+      "10-30mi temp increases"
+     ],
+     [
+      "Temp — Mesosphere (and pause)",
+      "to 50mi increase then decrease"
+     ],
+     [
+      "Temp — Thermosphere",
+      "to 300mi increases"
+     ],
+     [
+      "Physiochemical — Ozonosphere",
+      "10-30mi oxygen picks up their molecule, shields harmful rays"
+     ],
+     [
+      "Physiochemical — Ionosphere",
+      "25-250mi loss of gain in electrons, forms ions, reflects certain radio waves"
+     ],
+     [
+      "Physiochemical — Neutrosphere",
+      "below above, to earth little ionization takes place"
+     ],
+     [
+      "Physiochemical — Chemosphere",
+      "overlaps ozone & ion, begins at Stratopause, incl. Mesosphere important photochemical (radiant energy & chemical) reactions"
+     ],
+     [
+      "Molecular Composition — Homosphere",
+      "to 60mi same gaseous composition"
+     ],
+     [
+      "Molecular Composition — Hetrosphere",
+      "up from 55-60 molecules/atoms further apart, take on vertical arrangement"
+     ],
+     [
+      "Dynamic/Kinetic — Exosphere",
+      "top of hetrosphere, processes occur, atmospheric particles free orbit subject only to earth's gravity"
+     ],
+     [
+      "Evaporation cycle",
+      "water to vapor (solar radiation heats) to condensation (moves over cooler air to below dew point, makes fog and clouds) to precipitation"
+     ],
+     [
+      "Heat Transfer — Conduction",
+      "heating by direct contact"
+     ],
+     [
+      "Heat Transfer — Convection",
+      "heat transfer by vertical motion"
+     ],
+     [
+      "Heat Transfer — Advection",
+      "temp transferred horizontally, wind or moving air"
+     ],
+     [
+      "Heat Transfer — Radiation",
+      "heat energy of sun reaches earth as this"
+     ],
+     [
+      "Air Mass",
+      "Polar is cold, Tropical is hot, Maritime is humid, Continental is dry"
+     ],
+     [
+      "Front — Cold",
+      "NW-SE; energy of front depends on amount of cold air in high pressure cell behind; cold air denser, pushes under warm air; brings thunderstorms"
+     ],
+     [
+      "Front — Warm",
+      "connected to low pressure cell, extends eastward, travels NE; less dense, slips over cool air forming wedge; dark sky, rain, maybe thunder, low clouds, gentle rain, maybe fog; after front, temp rises"
+     ],
+     [
+      "Front — Stationary",
+      "fronts lose punch, not replacing each other; maybe slow thunderstorms, drizzle, fog, almost any form of weather"
+     ],
+     [
+      "Front — Occluded",
+      "warm air mass between two cold is lifted up; makes a low, sometimes severe precipitation"
+     ],
+     [
+      "Cloud Types",
+      "Cumulus (piled up); Stratus (layered); Cirrus (high, thin)"
+     ],
+     [
+      "Low clouds",
+      "stratus, cumulus, stratocumulus, cumulonimbus, nimbostratus 300-6500"
+     ],
+     [
+      "Middle clouds",
+      "altostratus, altocumulus, maybe nimbostratus 6500-20000"
+     ],
+     [
+      "High clouds",
+      "Cirrus, cirrostratus, cirrocumulus above 20000"
+     ],
+     [
+      "Stratus",
+      "smooth, no turbulence (low clouds can hinder visibility)"
+     ],
+     [
+      "Cirrus",
+      "thin, ice crystals"
+     ],
+     [
+      "Altostratus",
+      "thin, maybe ice crystals or supercooled droplets; if precipitation, it's light"
+     ],
+     [
+      "Stratocumulus",
+      "numerous bumps, thick, heavy rains/snow, turbulence; a warning"
+     ],
+     [
+      "Building cumulus",
+      "strong rain shower, moderate/severe turbulence; thunderstorm likely"
+     ],
+     [
+      "Cumulonimbus",
+      "cumulus built up; precipitation, thunder, lightning; w/ further building/increase, called a thunderstorm"
+     ],
+     [
+      "Fog — Radiation",
+      "night, when land radiates heat; cools air near it by conduction below dew point"
+     ],
+     [
+      "Fog — High-inversion",
+      "low cloud; condensation of vapor near top of cool air covered by warmer air"
+     ],
+     [
+      "Fog — Advection",
+      "wind blows moist air over cool surface, cools to dew pt temp"
+     ],
+     [
+      "Fog — Evaporation",
+      "or steam; when cold air moves over warm water; normal evaporation saturates cold air"
+     ],
+     [
+      "Fog — Upslope",
+      "moist air carried up slope, air is cooled"
+     ],
+     [
+      "Newton's law of Motion — 1",
+      "A body in the state of rest and a body in motion tend to remain at rest or in uniform motion unless acted upon by some outside force (inertia, or tendency of all things to remain in a fixed condition) [when launching, propulsion must produce enough force to overcome inertia]"
+     ],
+     [
+      "Newton's law of Motion — 2",
+      "The rate of change in the momentum of a body is proportional to the force acting upon the body and is in the direction of the force. [FuMA, Force proportional to mass times acceleration; force required depends on mass]"
+     ],
+     [
+      "Newton's law of Motion — 3",
+      "To every action there is an equal and opposite reaction [action of rocket engine produces forward motion] heart of rocketry"
+     ],
+     [
+      "Four Major Rocket Systems",
+      "Airframe, Propulsion, Guidance, Control"
+     ],
+     [
+      "Airframe",
+      "contains other systems and provides streamlined shape"
+     ],
+     [
+      "Propulsion",
+      "includes propellant, plumbing, engine; anything associated w/ propelling rocket"
+     ],
+     [
+      "Propulsion — Chemical",
+      "mixing and burning chemical fuel and oxidizer to produce hot expanding gases"
+     ],
+     [
+      "Propulsion — Gas-heating",
+      "external source to heat and cause propellant to build pressure necessary to provide thrust by exiting nozzle at high velocity"
+     ],
+     [
+      "Propulsion — Electric",
+      "magnetic fields and currents to propel matter in small amounts"
+     ],
+     [
+      "Guidance",
+      "brain; self-contained electronic unit that employs computer and inertial platform (may have star tracking); programmed for desired flight trajectory"
+     ],
+     [
+      "Guidance — Inertial",
+      "self-contained, senses rockets motion, fed to computer; impulses for correction are sent to control"
+     ],
+     [
+      "Guidance — Command",
+      "guided to targets by command of human director (probably short range)"
+     ],
+     [
+      "Guidance — Homing",
+      "Home in on target radiating light or heat"
+     ],
+     [
+      "Guidance — Beam-rider",
+      "fly along a beam aimed at and kept on target"
+     ],
+     [
+      "Control",
+      "self-contained; carries out what guidance system dictates should be done"
+     ],
+     [
+      "Remaining in Orbit",
+      "gravity pulls something to earth's surface at the same rate earth's surface curves. Thus objects remains at consistent altitude from surface, though falling towards surface"
+     ],
+     [
+      "Two basic orbit types",
+      "elliptical and circular"
+     ],
+     [
+      "Hohmann Transfer",
+      "place in low elliptical parking orbit, when at perigee, push vehicle to apogee of desired orbit; when reaches high point, thrust again and move out on circle tangent to transfer ellipse"
+     ],
+     [
+      "Fast Transfer",
+      "trajectory chosen that intersects the two orbits; in direct ascent, more launch given than needed for apogee; at desired altitude, kick applied lower than apogee, with deflected thrust to aim to desired circle. Energy not in straight line, so extra energy needed; boosts to higher orbit faster than H transfer."
+     ],
+     [
+      "Non-coplanar transfer",
+      "launched at minimum angel of inclination, 28.5degrees. At one of two points when crossing equator, thrust applied to put in correct orbit (kicking vehicle sideways; may need several times)"
+     ],
+     [
+      "Reasons to exploit space",
+      "global view of earth; see universe more clearly; abundant resources; making new materials"
+     ],
+     [
+      "Sun",
+      "medium sized star, diameter of 864,000 miles; strongest gravitational force in solar system, its gravity controls orbital paths of all objects in solar system; magnetic activity affects how energy is released from it, magnetic field is 100x stronger than earth's, lacks definite structure; its rotation alters magnetic fields; 27day rotation, 11yr sunspot cycle"
+     ],
+     [
+      "Sun's atmosphere — Photosphere",
+      "thin shell which gives light"
+     ],
+     [
+      "Sun's atmosphere — Chromosphere",
+      "sphere of color, spicules"
+     ],
+     [
+      "Sun's atmosphere — Corona",
+      "enormous area of faint white light visibly extending outward from surface"
+     ],
+     [
+      "Sun Phenomena — Sunspots",
+      "on photosphere; dark spots, cooler than surrounding plasma"
+     ],
+     [
+      "Sun Phenomena — Prominences",
+      "Hot spots shown as bright blotches, ionized gases flowing down magnetic lines: against black background"
+     ],
+     [
+      "Sun Phenomena — Filaments",
+      "against solar disk (appear darker)"
+     ],
+     [
+      "Sun Phenomena — Solar Flares",
+      "Bursting from surface, extend through chromosphere into corona"
+     ],
+     [
+      "Ionospheric behavior",
+      "Sunspots, solar flares, and other disturbances produce fluctuations in output of sun's rays; these produce Sudden Ionospheric Disturbances (SIDs) and other variations; ionosphere blends with exosphere"
+     ],
+     [
+      "Magnetosphere characteristics",
+      "like the effect of filaments producing cloud around magnet; N and S magnetic poles near the N and S celestial poles, rotational axis; tail pointing away from sun because of solar radiation pressure pushing out"
+     ],
+     [
+      "Van Allen belts",
+      "crescent shaped in cross section, composed of two shells. Horns dip to magnetic poles; caused by sun, emitting charged particles sweeping in all directions, mainly protons and electrons traveling million mph as plasma; more powerful cosmic rays come into upper layers where are stopped and collide w/ atmospheric molecules; collisions release neutrons, so travel outward from earth; neutrons decay into protons/electrons, then trapped by magnetic field"
+     ],
+     [
+      "Effects on Communication",
+      "not all frequencies usable for uplink/downlink ground to satellite comm; scintillation; solar flares realease large amount of energy, hurts radio comm. Termed, Solar Radio Burst"
+     ],
+     [
+      "Spacecraft — Atmosphere",
+      "produces drag, oxidation from free oxygen atoms (these atoms in water break away, combine with iron, make rust)"
+     ],
+     [
+      "Spacecraft — Vacuum",
+      "empty; causes outgassing, cold welding"
+     ],
+     [
+      "Electric charging — Absolute",
+      "whole craft is charged (like when craft passes through fields of plasma such as solar wind; imparts negative charge on whole satellite)"
+     ],
+     [
+      "Electric charging — Differential",
+      "one part gets charged and has different charge than rest of craft (usually negative on shaded sides due to plasma charging on sunlit sides)"
+     ],
+     [
+      "Free fall (effects)",
+      "can cause dehydration (fluid distributes to upper body, eliminated), heart can weaken, dizziness"
+     ],
+     [
+      "America's early space efforts",
+      "Army assembles scientists/engineers White Sands Proving grounds NM 1946 to research upper atmosphere; Navy researched to build improved V-2, called Viking; Army developed Redstone Missile, 1953, 200mi, 3000mph; Air Force researched Intercontinental Ballistic missiles (canceled); restarted, made Atlas, nucear warheads that could be mounted"
+     ],
+     [
+      "Soviet Union's efforts",
+      "upper atmosphere research with captured V-2s; improved V-2 called T-1, in 1954 worked on multistage; 1956, had ICBM, soon to come nuclear warheads; October 4, 1957 Sputnik (we reacted immediately; to launch vanguard 1 from Cape Canaveral; exploded, launched Explorer 1 Jan 31, 1958)"
+     ],
+     [
+      "National Aeronautics and Space Act Law",
+      "Eisenhower, July 29, 1958; legal basis for military and civil space activities"
+     ],
+     [
+      "Sources for international law",
+      "treaties; decisions made by international courts; Opinio Juris (scholars, may be based off previous court cases); customs (maybe most effective) [international treaties, laws, courts, customs]"
+     ],
+     [
+      "Three principles of space law",
+      "freedom of use (all nations have access); non-appropriation (no one owns space); common interests (all nations should share in benefits)"
+     ],
+     [
+      "1967 Outer Space Treaty",
+      "principle of freedom of use, space is \"providence of all mankind\"; exploration should benefit all; all three principles in written form, legitimizes military presence in space (addressed accidents/emergencies)"
+     ],
+     [
+      "1972 ABM Treaty",
+      "USA and USSR agreed not to develop or test Anti-Ballistic Missile systems (ABM); it sanctioned monitoring other countries from space for treaty compliance"
+     ],
+     [
+      "NASA Act",
+      "1958"
+     ],
+     [
+      "Commercial Space Launch Act",
+      "promote private sector activity; US citizen or org. must be licensed to conduct space ops. CSLA authorized military to provide support/facilities for commercial launches"
+     ],
+     [
+      "Land Remote Sensing Commercialization Act (LANDSAT Act)",
+      "commercialize government LANDSAT (earth observation satellite producing special dig. images); allowed sale of government data, limit for quality; provision for all at same price)"
+     ],
+     [
+      "Four satellite categories",
+      "Communication, observation, navigation, scientific"
+     ],
+     [
+      "Communication (SATCOM)",
+      "media transmission like radio, TV; data transmission like internet; cell phones; links to craft; Active if it amplifies signals; Passive if it just reflects"
+     ],
+     [
+      "INTELSAT",
+      "Satellites, and organization; International Telecommunications Satellite Organization, links telecommunication networks via global satellite system of geostationary satellites"
+     ],
+     [
+      "TDRSS",
+      "(Tracking and Data Relay Satellite System) three satellites and ground station; simultaneous, full time coverage for Space Shuttle and up to 25 other low orbiting spacecraft (Galaxy distributed cable TV) assists DSN"
+     ],
+     [
+      "DSN (Deep Space Network)",
+      "supported deep space probes 1959, supported all Apollo missions"
+     ],
+     [
+      "Defense Satellite Communication System (DSCS)",
+      "continuous long distance message service; exclusive comm to high gov."
+     ],
+     [
+      "Navigation (TRANSIT and TIMATION)",
+      "TRANSIT [update internal navigation system on Polaris] and TIMATION [two-dimensional, got lat/long] early designs"
+     ],
+     [
+      "NAVSTAR GPS",
+      "radio positioning system, provides navigation and timing info to civilians and military; 24 satellites, worldwide control network, and receiver (6 in view any time); ships, planes, trucking, S&R, military, etc."
+     ],
+     [
+      "Observation (categories)",
+      "Weather, Multi-spectrum imaging, reconnaissance"
+     ],
+     [
+      "Weather (satellites)",
+      "measure temp on surface and in atmosphere, cloud cover, moisture levels, lightning (1st: Tiros; Nimbus measures radiation); National Oceanic and Atmospheric Administration (NOAA) have advances Tiros N craft, special S&R; TIROS program cooperative between NASA, NOAA, UK, France GOES: Geostationary Operational Environmental Satellite Military has weather satellites, too; Defense Meteorological Satellite Program"
+     ],
+     [
+      "Multi-spectrum Imaging",
+      "observes radiant energy, info on crops, ocean currents, natural resources; LANDSATs locate natural resources and monitor conditions on Earth's surface (Arianne 1)"
+     ],
+     [
+      "Reconnaissance (satellites)",
+      "monitors activities of people on earth; provide early warning by detecting enemy missile launches, detect nuclear explosions, electronic reconnaissance, photo-surveillance Defense Support Program (DSP) satellites are used for treaty compliance, to monitor ballistic missile and space launches"
+     ],
+     [
+      "Scientific (satellites)",
+      "gain information; orbital astronomy or environmental analysis"
+     ],
+     [
+      "Explorers",
+      "1 discovered van Allen belts, 3 orbited in 1958 and gave more info on radiation, 6 first photographs of earth from space; they were essential to understanding space environment before astronauts were sent out"
+     ],
+     [
+      "Orbiting Solar Observatory (OSO)",
+      "sun studied"
+     ],
+     [
+      "Orbiting Astronomical Observatory (OAO)",
+      "broadened understanding of universe; stars in ultraviolet, infrared, gamma, x-ray wavelengths; extend knowledge of gasses, confirmed predicted hydrogen clouds around comets"
+     ],
+     [
+      "High-energy Astronomy Observatory (HEAO)",
+      "investigate sources and intensities of high energy radiation at far end of electromagnetic spectrum"
+     ],
+     [
+      "Rossi X-ray Timing Explorer",
+      "explorer class, continuation of strides made in x-ray astronomy thru using satellites"
+     ],
+     [
+      "Hubble Space Telescope",
+      "built to work like ground observatory, free from atmospheric interference, 310mi employed by Discovery"
+     ],
+     [
+      "Solar Mesosphere explorer",
+      "studies reactions of sunlight and atmosphere"
+     ],
+     [
+      "Earth Radiation Budget Satellite (ERBS)",
+      "study radiation and earth's interaction w/ radiation energy of sun"
+     ],
+     [
+      "Earth Observing System (EOS)",
+      "study earth as complete environmental system; was called Earth Science Enterprise; has observation satellites, data system, scientists; data collected from existing satellites and space shuttle, specialized satellites also gather data; fist system to give integrated measurements of earth's systems"
+     ],
+     [
+      "Rangers",
+      "early probes, investigated moon"
+     ],
+     [
+      "Surveyors",
+      "concentrated attention to moon, landed on surface, soft landers; had to know what module would encounter"
+     ],
+     [
+      "Lunar Orbiters",
+      "photos of moon's surface so maps were made (flyby; above landed ?)"
+     ],
+     [
+      "Mariners",
+      "inner planets, 10 flew by Venus/Mercury"
+     ],
+     [
+      "Pioneers",
+      "outer and inner; 10, first close up photos of Jupiter; 11, trajectory to Saturn"
+     ],
+     [
+      "Vikings",
+      "1&2 explored Mars, searched for life"
+     ],
+     [
+      "Voyagers 1&2",
+      "greatly improved pics and data on Pioneers opening to outer planets; 2 flew by Uranus"
+     ],
+     [
+      "Giotto",
+      "explored Halley's Comet"
+     ],
+     [
+      "Mars Global Surveyor",
+      "mapped and collected info on surface of Mars; also atmosphere, gravity, magnetic fields, etc."
+     ],
+     [
+      "Mars Pathfinder",
+      "second of low-cost Discovery missions; stationary lander and surface rover"
+     ],
+     [
+      "Galileo",
+      "entered orbit around Jupiter 1995"
+     ],
+     [
+      "Cassini",
+      "Saturn; international between NASA, ESA, and other European partners"
+     ],
+     [
+      "Chandra",
+      "new x-ray observatory"
+     ],
+     [
+      "X-Prize",
+      "10million to first non-government reusable manned craft launched to 62km, and return w/in 2weeks, w/ weight of 3 adult humans November 6, 2004 was awarded to Mojave Aerospace Ventures, SpaceShipOne"
+     ],
+     [
+      "Leonardo da Vinci",
+      "first designs of parachute and helicopter"
+     ],
+     [
+      "Torriccelli, Von Guericke, Paschal",
+      "studied atmosphere, decreasing pressure, invented barometer"
+     ],
+     [
+      "Francesco de Lana",
+      "Aerial ship"
+     ],
+     [
+      "Laurenco de Gusmao",
+      "hot air balloon"
+     ],
+     [
+      "Priestly",
+      "discovered Oxygen"
+     ],
+     [
+      "Montgolfier balloon over Paris, Nov 21, 1783",
+      "flown by Pilatre de Rozier and Marquis d'Arlandes"
+     ],
+     [
+      "Jean Pierre Blanchard, Dr. John Jeffries",
+      "flew balloon across English Channel"
+     ],
+     [
+      "First successful rigid zeppelin",
+      "by Zeppelin"
+     ],
+     [
+      "First dirigible",
+      "Henry Gifford or Charles Renard and AC Krebs; electric motors, steered back to takeoff pt"
+     ],
+     [
+      "Alberto Santos-Dumont and Count Ferdinand von Zeppelin",
+      "used internal combustion to power their craft"
+     ],
+     [
+      "Cayley",
+      "lift, drag and thrust; first full-sized manned glider; camber to increase lift; props, bi-tri wings, power plants"
+     ],
+     [
+      "Penaud",
+      "Planaphore, front to back stability"
+     ],
+     [
+      "Francis Wenham",
+      "first wind tunnel to test wing shapes"
+     ],
+     [
+      "Clement Ader",
+      "first manned craft to take off from level ground under own power"
+     ],
+     [
+      "Montgomery",
+      "man carrying glider with wings like a seagull (Maloney flew it)"
+     ],
+     [
+      "Lilithenthal",
+      "Father of Modern Aviation, powered flight, engine to wingtips, head worked controls, powered biplane"
+     ],
+     [
+      "Octave Chanute",
+      "designed gliders, study and distribution of aviation history"
+     ],
+     [
+      "Henson and Stringfellow",
+      "plans and patent for man-carrying powered aircraft, never built; steam driven model flew"
+     ],
+     [
+      "Langley",
+      "attempted to add power to glider, successful steam powered (but Aerodome fell into Pacific)"
+     ],
+     [
+      "Curtiss",
+      "motorcycles to planes, fastes man on earth, founded Aerial Experiment Association (ailerons, first seaplane)"
+     ],
+     [
+      "Ely",
+      "first flight from deck of ship"
+     ],
+     [
+      "Rodgers",
+      "first cross country flight, 1911 (Long Island – CA)"
+     ],
+     [
+      "Harriet Quimby",
+      "first licenses female pilot, first woman solo across E. Channel"
+     ],
+     [
+      "Robert Esnault-Pelterie",
+      "Wright-glider 1904 w/ ailerons, first fully enclosed fuselage"
+     ],
+     [
+      "Alberto Santos-Dumont",
+      "first powered airplane in Europe"
+     ],
+     [
+      "Louis Beleriot",
+      "1st powered monoplane, 1st flight English Channel, 1909; also 1st international air meet, Rheims 8/22-28"
+     ],
+     [
+      "WH Phillips",
+      "1st successful helicopter, 1842"
+     ],
+     [
+      "Louis Breguet",
+      "1st copter to lift man, 1907 (also Paul Cornu)"
+     ],
+     [
+      "Emile and Henry Berliner",
+      "first Americans to build and fly helicopter, 1909"
+     ],
+     [
+      "Nonstop NY to San Diego",
+      "Kelly and Macready, 1922"
+     ],
+     [
+      "World round",
+      "Chicago, New Orleans, Seattle to Seattle"
+     ],
+     [
+      "Smith and Ritcher",
+      "in flight 37hours with first aerial refueling in 1923"
+     ],
+     [
+      "Russell",
+      "coast to coast in >22hrs, NY to SF"
+     ],
+     [
+      "Lindbergh",
+      "crossed Atlantic, 5/20/1927, NY to Paris"
+     ],
+     [
+      "Earhart",
+      "1st woman passenger across Atlantic, first woman solo transatlantic flight, president of 99s, lost around world"
+     ],
+     [
+      "Hindenburg",
+      "fatal accident, 1936; first fatalities in scheduled service"
+     ],
+     [
+      "Air Supremacy theory — Douhet",
+      "Massive first strike, then population"
+     ],
+     [
+      "Air Supremacy theory — Trenchard",
+      "father of RAF, long range bombing, 2/3 B, 1/3 F, paralyze vital centers"
+     ],
+     [
+      "Air Supremacy theory — Mitchell",
+      "destroy will to resist, 60% fighter"
+     ],
+     [
+      "Air Supremacy theory — Chennault",
+      "need fighter escort"
+     ],
+     [
+      "Air Corp Tactical School (theory)",
+      "daylight precision Target: submarine, air factories, comms and transport"
+     ],
+     [
+      "B-17s",
+      "dropped bombs on Japanese ships"
+     ],
+     [
+      "B-25s",
+      "came below to skip 500lb bombs into sides of ships"
+     ],
+     [
+      "B-29",
+      "strategic bomber against Japan (Tokyo attacked in night attack w/them, 3/9-10/1945 MOST destructive air raid)"
+     ],
+     [
+      "B-36",
+      "in 1948, biggest bomber; 10,000lbs bombs 10,000mi"
+     ],
+     [
+      "Sikorsky R-4",
+      "1st successful military helicopter, rescue downed pilots behind enemy lines, good for search and rescue"
+     ],
+     [
+      "C-47",
+      "three and a half tons of cargo for Berlin Airlift"
+     ],
+     [
+      "F-80 Shooting Star",
+      "Korean War, used above enemies to strafe and cut supply (also F-51 and F-84)"
+     ],
+     [
+      "DC-4",
+      "surplus made it popular, but then Constellation became the best"
+     ],
+     [
+      "Comet 1",
+      "first pure jet airliner"
+     ],
+     [
+      "Viscount",
+      "first turboprop airliner"
+     ],
+     [
+      "Convair",
+      "short-medium range, later equipped w/ turboprop; 240 enlarged to be 44seat 340, to 56seat 440"
+     ],
+     [
+      "B-52 (people/aircraft)",
+      "needed larger, longer range bomber than B-47"
+     ],
+     [
+      "Northrup SM62 Snark",
+      "jet propped, tailless, pilotless airplane, internal guidance, smart"
+     ],
+     [
+      "GAM 63 Rascal",
+      "small rocket propped winged bomb These allowed soldiers to stay further away from target"
+     ],
+     [
+      "A-6",
+      "Navy fighter-bomber, all weather capable, Vietnam"
+     ],
+     [
+      "EC-121",
+      "radar and surveillance; used to alert AF/Navy for MiGs"
+     ],
+     [
+      "F-105 (AF), A-7E (Navy)",
+      "attacked SAMs"
+     ],
+     [
+      "Tomahawk Land Attack Cruise Missiles",
+      "naval launched against Iraq"
+     ],
+     [
+      "USC-130",
+      "moved men and supplies Tet Offensive"
+     ],
+     [
+      "X-15",
+      "AF, Navy, NACA project for airplane 4,500mph, 250,000ft"
+     ],
+     [
+      "XB-70",
+      "supersonic replacement for B-52, Mach 3, 70,000ft; cancelled"
+     ],
+     [
+      "B-1B",
+      "B-1 designed low altitude penetration bomber"
+     ],
+     [
+      "B-2 and F-117A",
+      "stealth aircraft, invisible to enemy radar"
+     ],
+     [
+      "Caravelle I",
+      "first short haul jet"
+     ],
+     [
+      "707",
+      "revolutionized commercial aviation industry 1960's jets travel reached peak"
+     ],
+     [
+      "Boeing 747",
+      "jumbo jet"
+     ],
+     [
+      "Lockheed Martin's F-35 Lightning II",
+      "Stealth, supersonic, multirole, Joint Strike Fighter"
+     ],
+     [
+      "Konrad Kyeser von Eichstadt",
+      "devised gunpowder propelled rocket"
+     ],
+     [
+      "William Congreve",
+      "standardized composition of gunpowder, added flight stabilizing guide sticks, first viable launching pad, increased rocket range from 300yds to several thousand yds"
+     ],
+     [
+      "William Hale",
+      "spin stabilization, angles exhaust tubes that spun during flight"
+     ],
+     [
+      "Konstantin Eduardovich Tsiolkovsky",
+      "Russian scientist, first computations for rocket flights into space, solved theoretically how reaction engines could escape from and reenter earth's atmosphere"
+     ],
+     [
+      "Dr. Goddard",
+      "Father of modern rocketry, first to use liquid propellants"
+     ],
+     [
+      "Dr. Oberth",
+      "worked w/ liquid oxygen and alcohol propellants, followed Goddard; 1st use of these more powerful liquid propellants was 1920s"
+     ],
+     [
+      "Titan IV",
+      "(all Titans started as twostage Titan II ICBM) stretched 1st and 2nd stage, 2 seven-segment solid strp on boosters, Centaur G third stage; can place 10,200lbs geosynchronous orbit, or 31,100 near earth orbit; Titans are largest, most powerful launch vehicles in US, only larger one was Saturn V Moon rocket"
+     ],
+     [
+      "Atlas and Delta",
+      "two basic launch vehicles, Thor and Atlas. Thor w/ 2nd and 3rd stages became known as Thor-Delta; first delta could put a 480lb payload into orbit 300mi above earth; Delta II is three stage booster, can put 2,000lb into orbit 22,000mi high; nine solid fuel strap ons on first stage; Atlas launched world's first comm. satellite 1958; project mercury boosted by it; also first spacecraft to Venus, Mercury, Mars, Jupiter"
+     ],
+     [
+      "Vomit Comet",
+      "NASA's plane that flies high as can, then dives straight down to put passengers in 1min free fall"
+     ],
+     [
+      "Voyager spacecraft",
+      "launched to study outer planets"
+     ],
+     [
+      "Sputnik",
+      "first artificial satellite, October 4th, 1957"
+     ],
+     [
+      "Explorer 1",
+      "our first satellite, January 31, 1958"
+     ],
+     [
+      "Mercury (program)",
+      "to find out if humans could survive in space, effects of travel on the body"
+     ],
+     [
+      "Gemini",
+      "improve for lunar mission, 2 people in space, rendezvous, and cock, first walk (1st 2man capsule, first walk)"
+     ],
+     [
+      "Apollo",
+      "to put man on moon Apollo 11 landed on moon July 20th, 1969"
+     ],
+     [
+      "Skylab",
+      "to put a laboratory in space"
+     ],
+     [
+      "Apollo-Soyuz",
+      "joint American and Soviet manned spacecraft mission; July 1975"
+     ],
+     [
+      "Space Transportation System (STS)",
+      "AKA Space Shuttle, 1981; system for transportation into and return back from space; Main parts: Orbiter, solid rocket boosters, external tank"
+     ],
+     [
+      "Long-Duration Exposure Facility (LDEF)",
+      "placed by STS-13 to conduct experiments; long term data on space environment and effects on space systems and operations"
+     ],
+     [
+      "Vostok",
+      "first soviet craft to take people to space"
+     ],
+     [
+      "Vokhod",
+      "1964, three man capsule, first walk in space"
+     ],
+     [
+      "Soyuz",
+      "\"union\"; designed for docking in space"
+     ],
+     [
+      "Salyut",
+      "space station (first ever) 1971. Soyuz with world's first space laboratory (being this)"
+     ],
+     [
+      "Skylab (American station)",
+      "2yrs after Salyut, American space station"
+     ],
+     [
+      "Spacelab",
+      "orbiting laboratory by ESA"
+     ],
+     [
+      "First man in space",
+      "Maj. Yuri Gagarin"
+     ],
+     [
+      "First American man in space",
+      "Alan Shepard"
+     ],
+     [
+      "First women in space",
+      "Valentina Tereshkova"
+     ],
+     [
+      "First American woman in space",
+      "Dr. Sally Ride (Challenger)"
+     ],
+     [
+      "First man to orbit Earth",
+      "Maj. Yuri Gargarin"
+     ],
+     [
+      "First American man to orbit Earth",
+      "John Glenn"
+     ],
+     [
+      "First man to walk in space",
+      "Aleksei Leonov"
+     ],
+     [
+      "First American man to walk in space",
+      "Edward H. White"
+     ],
+     [
+      "First woman to walk in space",
+      "Svetlana Savitskaya"
+     ],
+     [
+      "First American woman to walk in space",
+      "Kathryn Dwyer Sullivan"
+     ],
+     [
+      "First man on moon",
+      "Neil Armstrong (then Edwin Aldrin)"
+     ],
+     [
+      "Legends of Flight",
+      "Emperor Shun escaped from prison as bird; Kei Kung flew w/ bat wings; Ki-Kung-Shi build flying chariot; Wan Hoo, wicker chair w/ rockets; Daedalus and Icarus"
+     ],
+     [
+      "Wing warping",
+      "one of greatest Wright contributions to flight; also pivoting to make turning quicker and smooth, slide"
+     ],
+     [
+      "Wright's contract",
+      "pilot, passenger, 125mi fuel, 36mph, perfect control, land/takeoff war zone, disassemble-able, train 2 pilots. (They also signed a French contract) 8/2/1909, first Army airplane"
+     ],
+     [
+      "Multiengine",
+      "increase power, improve reliability and safety (Short bros, patent for first multiengine, 1911; Igor Sikorsky 4 engine; first practical helicopter)"
+     ],
+     [
+      "Helicopters (early)",
+      "Roger Bacon, da Vinci, George Cayley"
+     ],
+     [
+      "St. Petersburg-Tampa Airboat Line",
+      "by Tony Jannus, 22mi, 2passengers, $5, 20min across Tampa Bay; 1/1/1914, 5mo"
+     ],
+     [
+      "Fighters",
+      "would shoot guns at enemy; Roland Garros mounted automatic rifle; Fokker designed interrupting gear"
+     ],
+     [
+      "Ace",
+      "US, French, British: 5; Germany: 10; Rickenbacker, Fonck, Mannock, Manfred"
+     ],
+     [
+      "Lafayette Escadrille",
+      "Americans joining up in Paris; Rickenbacker, value of watching sky, commander of 94th; only living recipient of Congressional Medal of Honor WWI"
+     ],
+     [
+      "Mitchell (airpower)",
+      "airpower offensive, spate from army, if you control air you can't be beaten; control, offense, into heart"
+     ],
+     [
+      "Paratroopers",
+      "Sep 1929, TX, 17 men, guns action w/in 4min (Women's air Derby, CA to OH)"
+     ],
+     [
+      "Air races",
+      "Pulitzer (<speed); Thompson trophy, pylon race; Bendix, transcontinental speed; Schneider, seaplane"
+     ],
+     [
+      "Cessna, Beech, Stearman, Taylor",
+      "became Piper (Cessna, Piper, Beech = big three)"
+     ],
+     [
+      "McNary-Watres Act",
+      "contractors paid according to available cargo weight, postmaster could extend or combine mail. Airlines were: United (Boeing), and Transcontinental and Western (Douglas), American (Douglas); Douglas Commercial 3 became standard for all commercial airliners (w/o fatal accidents)"
+     ],
+     [
+      "Pan American Clipper",
+      "first airline crossing of both Pacific and Atlantic; Yankee Clippers, transatlantic passenger service"
+     ],
+     [
+      "WAFS + WFTD",
+      "(Women's Auxiliary Ferrying Sqd.) + (Women's Flying Training Detachment) = Women's AF Service Pilots"
+     ],
+     [
+      "Airpower dominant role in war — Europe",
+      "centralized control, air superiority was first priority; new technology added to original doctrine (ie fighters) flexibility"
+     ],
+     [
+      "Airpower dominant role in war — Pacific",
+      "Flexibility, high daylight to low nighttime bombing"
+     ],
+     [
+      "Zero",
+      "Japanese reconnaissance? Precision (precise); area (against Japan)?"
+     ],
+     [
+      "Best weapons in Korea",
+      "new rockets delivered by planes; bomb like Gen. Kenney's, \"firebomb\""
+     ],
+     [
+      "Thanh Hoa Bridge",
+      "Finally destroyed by laser guided bombs"
+     ],
+     [
+      "Rolling Thunder (control)",
+      "hand behind back, certain off limits, president chose targets, etc."
+     ],
+     [
+      "Linebacker (control)",
+      "military leaders planned, cut off external supply, stopped communist advance"
+     ],
+     [
+      "100hr War",
+      "escaping forces caught by air power and pummeled"
+     ],
+     [
+      "Composite Materials",
+      "super strong, yet light"
+     ],
+     [
+      "Gen.A in US",
+      "geography, expense, freedom to fly"
+     ],
+     [
+      "Unpaved (chart symbol)",
+      "magenta"
+     ],
+     [
+      "Facilities, four ticks no tower (chart symbol)",
+      "magenta"
+     ],
+     [
+      "Tower (chart symbol)",
+      "blue"
+     ],
+     [
+      "FAA (federal Aviation Admin)",
+      "establishes and enforces restrictions in US"
+     ],
+     [
+      "Airports (hazards)",
+      "wildlife is a danger; noise; encroachment (noise abatement procedures)"
+     ],
+     [
+      "Primary causes of atmospheric motion",
+      "heat & earth's motion (heat in atmosphere responsible for all weather processes)"
+     ],
+     [
+      "latent heat of condensation",
+      "Water vapor condenses, heat is released and effects temperature"
+     ],
+     [
+      "Heat Balance",
+      "if none, earth would become warmer; insolation is turned back from earth by space or atmosphere"
+     ],
+     [
+      "Centrifugal force",
+      "acts on air moving in curved path, decreases speed in low pressure, increases in high pressure (air flows clockwise around high pressure [anticyclone] and counterclockwise around low pressure [cyclone] in N Hemisphere)"
+     ],
+     [
+      "Air Mass characteristics depend",
+      "surface formed over, season, surface traveling over, length of time from source; (to E)"
+     ],
+     [
+      "reaction engine",
+      "The action or a rocket's exhaust produces a reaction, the moving of the rocket in opposite direction"
+     ],
+     [
+      "To increase thrust of rocket",
+      "increase mass of exhaust, or accelerate exhaust to higher velocity"
+     ],
+     [
+      "Takeoff mass",
+      "payload, fuel load, dead weight"
+     ],
+     [
+      "Launch vehicles",
+      "can be expendable (Titan, Atlas, Delta) or reusable (space shuttle)"
+     ],
+     [
+      "NASA",
+      "launches nonmilitary spacecraft"
+     ],
+     [
+      "SOHO",
+      "Solar and Heliospheric Observatory, Dec 1995"
+     ],
+     [
+      "Radiation effects",
+      "safe is .3 roentgens per hour; internal belt gives 10-20 roentgens per hour; can damage satellites"
+     ],
+     [
+      "Spitzer space telescope",
+      "launched to orbit 2003"
+     ],
+     [
+      "Sputnik (custom)",
+      "established important new custom of satellites to fly over countries w/o permission (freedom of use)"
+     ],
+     [
+      "Space Suits",
+      "1930s, high flyers wore pressure suits; Mercury wore modified version of Navy high altitude pressure suit; Gemini, lighter, easily removable, could be removed in orbit; up through Apollo, separate, backpack life support system and tailor made suits; w/ Space Shuttle, lighter, durable, easier to move suits, made in sizes; life support built into torso"
+     ],
+     [
+      "Space Station Alpha",
+      "venture between US, Europe, Japan, Russia; permanent space station of near future"
+     ],
+     [
+      "L4, L5",
+      "potential points for space colonies, gravitational equilibrium, named for Lagrange"
+     ],
+     [
+      "Mercury",
+      "closest to sun, slightly larger than moon, second smallest of nine; rocky crust surface with many craters, much like Moon. Everything is extreme. Messenger first orbited it."
+     ],
+     [
+      "Venus",
+      "nearest to earth in distance and size, sister; highly reflective atmosphere, strong greenhouse effect; mapped by Magellan probe"
+     ],
+     [
+      "Mariner 2",
+      "confirmed high surface temp, first successful interplanetary mission"
+     ],
+     [
+      "Venera 3",
+      "Soviet; crash landed"
+     ],
+     [
+      "Mariner 5",
+      "carbon dioxide rich atmosphere"
+     ],
+     [
+      "Mariner 10",
+      "direction/speed of clouds"
+     ],
+     [
+      "Veneras 9 & 10",
+      "craters"
+     ],
+     [
+      "Pioneer 1 (Venus)",
+      "tall mountains, plateaus, canyons"
+     ],
+     [
+      "Pioneer 2 (Venus)",
+      "4 distinct could and haze layers"
+     ],
+     [
+      "Magellan",
+      "mapped 99%"
+     ],
+     [
+      "Galileo (Venus)",
+      "orbiter and space probe"
+     ],
+     [
+      "Venus Express",
+      "ESA"
+     ],
+     [
+      "Earth",
+      "70% water, Pacific Ocean 50%; revolves 365 ¼ days, rotates 24hrs"
+     ],
+     [
+      "Moon",
+      "same side towards earth, 270o during 14 earth days, equaling one moon day, -250o lunar night; impact craters; rillies; dust may have come from meteorites striking surface, or is picked up from space; tests showed dust to have sterilizing effect"
+     ],
+     [
+      "Moon rocks",
+      "Basalt (dark gray, tiny holes gas escaped from; Anorthosite (commonest, feldspar, highlands and light areas); others include Breccia (combination) and KREEP (not on earth)"
+     ],
+     [
+      "Mars",
+      "fourth planet, red planet; thin carbon dioxide atmosphere, half gravity of earth"
+     ],
+     [
+      "Mariner (Mars)",
+      "4, flyby w/ 21 photos 6/7, 200 photos, clues for puzzling features 9, pics of entire surface"
+     ],
+     [
+      "Vikings 1/2",
+      "orbiters and landers both; orbiters surveyed planet, relayed pics/data gathered by landers below; more water than expected; Viking 1 found -18 thru -130 degrees"
+     ],
+     [
+      "Pathfinder",
+      "rover Sojourner investigated rocks and soil"
+     ],
+     [
+      "Global surveyor",
+      "entered orbit"
+     ],
+     [
+      "Spirit and Opportunity",
+      "rovers landed 2004, exploring"
+     ],
+     [
+      "Jupiter",
+      "largest planet: rotates 10hrs, bulges at equator; high winds, giant storms; hydrogen gass giant, w/ helium, methane, and ammonia; giant red spot; 16 known moons, larger four Galilean moons, rotate clockwise); Jupiter has strong magnetic field and radiation belts; like ALL gas giants, has RINGS"
+     ],
+     [
+      "Pioneers 10/11 (Jupiter)",
+      "first investigated; discovered that banded structure lack near poles, for circular/oval patterns"
+     ],
+     [
+      "Voyager (Jupiter)",
+      "volcanic eruptions on Io, discovered three mons (to make 16)"
+     ],
+     [
+      "Saturn",
+      "second largest, rings! Icey chunks of rock, hundreds of narrow ringlets, 1mi thick, extending 250,000 miles from planet; SEVEN distinct RINGS; final two discovered by Pioneer; rotates fast, 10hrs. 29yrs to revolve. 18 moons, Titan has own atmosphere; Pioneer and voyager revealed: outermost region has planet's atmosphere and cloud layers; pioneer discovered good magnetic field; Saturn is LESS DENSE than WATER, so would float"
+     ],
+     [
+      "Uranus",
+      "third largest, gas giant, rocky core surrounded by water, ammonia, methane; methane gives bluish greenish color; rotates 18hrs, spins sideways, 84 years to orbit sun, 42yr day then night; Voyager 2 discovered magnetic field to be tilted 60o and offset from center; 11 rings, 15 moons"
+     ],
+     [
+      "Neptune",
+      "fourth largest, outermost gas giant; Uranus' twin; 165yrs to orbit, day lasts 19hrs, rocky core w/ water, ammonia, methane; hydrogen, helium, methane atmosphere; WNDIEST planet; 8 moons, Triton circles Neptune tilted, more interior rock than Uranus and Neptune"
+     ],
+     [
+      "Pluto",
+      "yellowish gold, Mars size; rotates 6.5 days, orbit inclined to elliptic 17o, bringing it inside Neptune sometimes during 249yr orbit; 50-75% rock mixed with ice; temp varies widely; atmosphere freezes as moves away from sun; minor planets lie beyond Pluto, Kuiper Belt. New Horizons launched towards Pluto"
+     ],
+     [
+      "Eris",
+      "dwarf has moon"
+     ],
+     [
+      "Sedna",
+      "most distant body recorded"
+     ],
+     [
+      "Quaoar",
+      "edge of Kuiper belt, in field of icy bodies"
+     ]
+    ],
+    "group": "views"
+   },
+   {
+    "id": "facts",
+    "name": "Facts & Concepts",
+    "cards": [
+     [
+      "Radar and telephones helped British in Battle of Britain; It was a defensive battle for RAF, they built fighters (Germans not); Radar, radar, radar; Germany's lack of persistence – should've pressed the RAF"
+     ],
+     [
+      "Unescorted, daylight, precision does not work; need fighters. P-51 Mustang long range fighter (best fighter of WWII)"
+     ],
+     [
+      "Flow pattern around an object through air is either turbulent or smooth (laminar)"
+     ],
+     [
+      "Fixed gear cheaper, retractable reduces drag"
+     ],
+     [
+      "Instruments: early ones were wind gauges, altimeters, cork in fuel tank, string behind tail, etc."
+     ],
+     [
+      "Density decreases with increase in altitude"
+     ],
+     [
+      "Air is saturated when it cannot hold any more water vapor"
+     ],
+     [
+      "Wind flows from high pressure mountains to low pressure valleys, called pressure gradient; steepness is shown by lines called isobars; high is high pressure surrounded by lower; low is low pressure surrounded by high; col is saddleback between two highs and two lows; trough is elongated low pressure; ridge is elongated high pressure"
+     ],
+     [
+      "Below fair-weather cumulus can be updrafts"
+     ],
+     [
+      "Mountains cause air to rise, loses moisture on W (windward) side; descending, dry air is heated and absorbs moisture on leeward side (low turbulence windward, high turbulence, leeward)"
+     ],
+     [
+      "Increase in velocity is HIGHER, nor faster orbit; put on brakes to reach lower, faster orbit"
+     ],
+     [
+      "Trajectory of a sounding rocket is straight up"
+     ],
+     [
+      "Lower velocities required to stay in orbit at successively higher altitudes, due to weakening of gravitational effect"
+     ],
+     [
+      "Wright biplane 1908 as \"Air Force\"; 1911, more planes, by 1913: 19 craft 29 pilots 1914; Germany 200, Britain, France 450; congress failed, we flew British planes After war ended, we dropped by 85%"
+     ],
+     [
+      "Tank, Machine gun changed war, then plane: mastery of air and space to gain new advantage, observation, hand bombs"
+     ],
+     [
+      "Air power could attack past enemy lines; Mitchell sank Ostfriesland (w/in 8mo, Navy had aircraft carrier)"
+     ],
+     [
+      "Bi-wing gave way to monoplane, more effective wing shapes and cowlings (covers), pressurized cabins, air-cooled engines, Doolittle first successful blind takeoff (9/24/1929); Juan de la Cierve, first autogiro"
+     ],
+     [
+      "Army Air Corp turned to civilian schools, check rides from Army afterwards; Civilian Pilot Training act 1939, CAA to conduct civilian training of pilots 99th Tuskegee, AL"
+     ],
+     [
+      "At first, Luftwaffe could not produce larger aircraft, then when they could they chose not to"
+     ],
+     [
+      "In Russia, Luftwaffe was extended artillery for ground forces; Russia had women pilots"
+     ],
+     [
+      "Japan needed many raw materials and had a spread out fleet"
+     ],
+     [
+      "Allies: defensive to offensive after we entered war; recapture captured; force unconditional surrender"
+     ],
+     [
+      "June 6, 1944 invasion of Europe, almost unopposed by Luftwaffe; air superiority saved lives"
+     ],
+     [
+      "Japan wanted air superiority, then invasion; but Battle of Coral Sea and Battle of Midway naval/air battle stopped them (with control of Islands, Allies could start strategic bombing of Japan)"
+     ],
+     [
+      "Beginning of end of Japanese: Battle of Bismarck Japan fought to death: atomic bombs saved lives (Hiroshima)"
+     ],
+     [
+      "In addition to B-36 during WWII, advances in aircraft design, electronic systems, engines, armor protection, pressurized crew compartment, firing guns by remote"
+     ],
+     [
+      "Americans could shoot down amazing MiG jets because we had better trained pilots"
+     ],
+     [
+      "TV showed people ugliness of Vietnam War"
+     ],
+     [
+      "Satellites watched enemy's missile field to avoid surprise attack"
+     ],
+     [
+      "Radar could detect aircraft miles away"
+     ],
+     [
+      "Into Saudi Arabia: spotted nighttime move, cut off reserves, got pics from satellites"
+     ],
+     [
+      "Cold air more dense than hot"
+     ],
+     [
+      "Subtract empty weight from maximum allowable to find useful load"
+     ],
+     [
+      "Hydraulic features useful on maps, easy to identify, accurately drawn"
+     ],
+     [
+      "When True Course line crosses line of longitude, point is formed. Direction in degrees is measured clockwise from longitude to true course."
+     ],
+     [
+      "Magnetic N,S lines move, show where earth's magnetic field is same"
+     ],
+     [
+      "Pilot must steer magnetic North, add or subtract True north difference to find direction"
+     ],
+     [
+      "Compass needs to be adjusted once installed, electrical power and metal cause deviations"
+     ],
+     [
+      "Atmospheric water, pretty much only on troposphere"
+     ],
+     [
+      "Higher temp of air, more water vapor can be held"
+     ],
+     [
+      "If water falls it's precipitation, if no water falls it's condensation"
+     ],
+     [
+      "Cold air masses move faster than warm air masses"
+     ],
+     [
+      "Along seacoasts, breeze from sea by day; clouds from inland and bring showers, at night, current reverse, brings breeze from land to sea"
+     ],
+     [
+      "Wind blowing to/w/ upward land formations carries moist air to altitude where at dew pt temp condensation occurs; reverse can also occur; Anytime flow of wind is interrupted, turbulence occurs"
+     ],
+     [
+      "Rockets first used by Chinese in 1220; they were also first to use the in war, 1232"
+     ],
+     [
+      "Earth Rotates EAST"
+     ],
+     [
+      "Ionosphere contains reflecting layers"
+     ],
+     [
+      "Sun is active when solar flares and other disturbances are occurring"
+     ],
+     [
+      "Collisions are dangerous, most common are high energy particles from solar flares and cosmic rays; protections from collisions not feasible because shielding is too heavy"
+     ],
+     [
+      "Free fall effects, along w/ physiological, are considerations"
+     ],
+     [
+      "Biggest reason for space race was international prestige"
+     ],
+     [
+      "Military primary responsibility is defense, so space exploration should be civilian"
+     ],
+     [
+      "In space: microgravity, dehydrated food saving weight and storage space; exercise to counter muscle atrophy"
+     ],
+     [
+      "Circular velocity minus apogee velocity equals amount of kick needed to circularize an orbit at given altitude"
+     ]
+    ],
+    "group": "views"
+   },
+   {
+    "id": "definitions",
+    "name": "Definitions",
+    "cards": [
+     [
+      "Air and space power",
+      "ability to take advantage of air and space to do many things"
+     ],
+     [
+      "Helium",
+      "safer than hydrogen"
+     ],
+     [
+      "Dirigible",
+      "lighter than air craft that can be propelled and steered"
+     ],
+     [
+      "Barnstormers",
+      "flying exhibitor, war-surplus crafts, around country to offer rides, shows, etc."
+     ],
+     [
+      "Blitzkrieg",
+      "lightning war, combined arms (long range), army/air force (incl. ME-109 fighter; American B-17 better though)"
+     ],
+     [
+      "Kamikazes",
+      "suicide bombing; crashed bomb-loaded plane into ships"
+     ],
+     [
+      "Cold War",
+      "antagonistic relationship as US/Russia tried to spread influence w/o wanting to go to war (we reduced military, certain the Atomic Bomb would provide all the security we needed)"
+     ],
+     [
+      "Messerschmitt ME-262A",
+      "most famous jet of WWII (twin engine German jet)"
+     ],
+     [
+      "Vengeance Weapons",
+      "V-1, 26ft unmanned flying bomb, “buzz bomb”; V-2 ballistic missile, rocket propelled"
+     ],
+     [
+      "Berlin Airlift",
+      "Allies (US, Britain, France) flew supplies over blockade"
+     ],
+     [
+      "Korean War",
+      "UN provided assistance to S. Korea, 1st priority to stop advance of N Korean Army (border, 38th parallel)"
+     ],
+     [
+      "Turboprop",
+      "turbine fastened to prop"
+     ],
+     [
+      "Pure jet",
+      "thrust from jet exhaust"
+     ],
+     [
+      "National Advisory Committee on Aeronautics (NACA)",
+      "1915, gov funded research in aeronautics"
+     ],
+     [
+      "Viet Minh",
+      "Communist Separatists"
+     ],
+     [
+      "Vietnam War",
+      "8/7/1964 Tonkin Gulf Resolution to prevent further aggression"
+     ],
+     [
+      "ROLLING THUNDER",
+      "raise moral of S Vietnamese and tell N that if they didn't negotiate, bombing would continue Carried out by B-52 & F-105; F-4 beat back MiGs"
+     ],
+     [
+      "Guerrilla Warfare",
+      "hit and run, disappearing into jungle"
+     ],
+     [
+      "Tet Offensive",
+      "large scale surprise conventional attack on US/SV; simultaneous attacks all over SV"
+     ],
+     [
+      "SAM",
+      "Surface to air missile"
+     ],
+     [
+      "AAA",
+      "Anti-aircraft artillery both Soviet built"
+     ],
+     [
+      "LINEBACKER",
+      "B-52 by Nixon; bombing NV to negotiate and cut off NV from China and Soviets (harbors, rails, SAM target)"
+     ],
+     [
+      "LINEBACKER II",
+      "after failed negotiations, wanted to drive NV back again, more bombing"
+     ],
+     [
+      "DESERT SHIELD",
+      "military to defend Saudi Arabia from Iraq (F-16, F-15E, F-117, A-10, KC-135, KC-10)"
+     ],
+     [
+      "Civil Reserve Air Fleet",
+      "activated for Desert Shield, commercial aircraft to airlift"
+     ],
+     [
+      "DESERT STORM",
+      "deter Iraq aggression, defend Saudi Arabia (military planners developed plans, as learned from Vietnam) expel Iraq from Kuwait"
+     ],
+     [
+      "ALLIED FORCE",
+      "N. Atlantic Treaty Org's opposition to aggression; deter Milosevic from escalating attacks on civilians; damage Serbia's war capability"
+     ],
+     [
+      "Forward Swept Wing",
+      "reduces weight cost and drag (but needs to be stronger for high-speed flight)"
+     ],
+     [
+      "Oblique wing Aircraft",
+      "changes form for maximum lift, rotated to different positions"
+     ],
+     [
+      "Winglets",
+      "at wingtips, eliminates vortices that produce much drag; vertical, improves wing efficiency"
+     ],
+     [
+      "Canards",
+      "horizontal surfaces forward of main wings for trim/control; increases maneuverability (& wings can be smaller)"
+     ],
+     [
+      "Mission adaptive wings",
+      "best efficiency by moving forward for slow, backward for supersonic flight"
+     ],
+     [
+      "UAV",
+      "Unmanned Aerial Vehicle"
+     ],
+     [
+      "Aeronautics",
+      "art and science of flight through atmosphere"
+     ],
+     [
+      "Aerodynamics",
+      "science relating to the energy of gases in motion (atmosphere: 1/5 oxygen, 4/5 nitrogen; up 100mi)"
+     ],
+     [
+      "Mach",
+      "Mach 1 is speed of sound through a medium (decreases w/ height; lower 30degrees, drop 692mph)"
+     ],
+     [
+      "Airfoil",
+      "causes dynamic reaction through air in which it moves; creates forward lift"
+     ],
+     [
+      "Relative Wind",
+      "opposite flight path, impacts airfoil at any angle to chord line"
+     ],
+     [
+      "Angle of Attack",
+      "angle of chord line and oncoming relative wind (Angle of Incidence: between chord and centerline)"
+     ],
+     [
+      "Bernoulli's principle",
+      "as the velocity of a fluid increases, pressure decreases (pressure top less than below, move up)"
+     ],
+     [
+      "Streamlines",
+      "flow of air over an airfoil"
+     ],
+     [
+      "Four forces of flight",
+      "lift, drag, thrust, weight"
+     ],
+     [
+      "Vector",
+      "mathematical illustration showing direction and magnitude (like velocity)"
+     ],
+     [
+      "Induced lift",
+      "induced lower pressure top of wing due to camber; low pressure on top! (dynamic, high pressure bottom)"
+     ],
+     [
+      "Turbulence",
+      "churning of air"
+     ],
+     [
+      "Stall",
+      "streamlines in air next t wing surface separate from airfoil (low pressure lost)"
+     ],
+     [
+      "Weight distribution",
+      "where useful load is has profound effect; rotates around center of gravity in direction of weight"
+     ],
+     [
+      "Thrust vectoring",
+      "allows thrust to be pointed in any direction to assist in maneuvering 9pointed along a direction other than longitudinal axis; exhaust plates, port, etc.)"
+     ],
+     [
+      "Shock Wave",
+      "outspeeding pressure wave, air is forced aside abruptly by plane; Types: Compression (air moves aside at leading edge) and Expansion (filling in as air passes)"
+     ],
+     [
+      "V/STOL",
+      "vertical/short takeoff and landing (rotors turn to take off like helicopter, then back to fixed wing)"
+     ],
+     [
+      "Hypersonic transports",
+      "designed to fly at Mach 5 or higher"
+     ],
+     [
+      "Waverider",
+      "hyper or super sonic vehicle with attached shock wave along leading edge; appears to ride own shock wave"
+     ],
+     [
+      "Modular air vehicle",
+      "build vehicle from different sections, allowing it to do different missions; mix and match for needs"
+     ],
+     [
+      "Great Circle",
+      "circle on earth's surface passing through center; anything else is a small circle"
+     ],
+     [
+      "Graticule",
+      "basic grid system, 18 primary great circles north and south(longitude), equator, parallel small circles (10 degrees spacing, latitude), poles (numbers across top, letters down left side, written in degrees)"
+     ],
+     [
+      "Prime meridian",
+      "zero degrees, great circle through Greenwich, England"
+     ],
+     [
+      "Hemisphere",
+      "half sphere"
+     ],
+     [
+      "Meridian",
+      "north south line that's part of a great circle"
+     ],
+     [
+      "Sectional Aeronautical chart",
+      "aircraft over short distance, Lambert-conformal, info to visually monitor ground"
+     ],
+     [
+      "Relief",
+      "describes elevations; color tints, contour lines (smaller than 1000ft color scheme), shading"
+     ],
+     [
+      "Runway",
+      "most important, number is first two digits of compass direction"
+     ],
+     [
+      "Taxiway",
+      "roads aircraft use to get to runway"
+     ],
+     [
+      "Ramp, hangers",
+      "parking spots"
+     ],
+     [
+      "Control tower",
+      "controls runway, Automated Terminal Info System voice recording from tower"
+     ],
+     [
+      "Passenger terminal (FBO)",
+      "handle people, baggage, cargo"
+     ],
+     [
+      "Flight Service Station",
+      "weather info"
+     ],
+     [
+      "Beacon",
+      "civilian, green and white / military, green white white"
+     ],
+     [
+      "Uncontrolled airport",
+      "does not have control towers"
+     ],
+     [
+      "Controlled Airspace",
+      "airspace has several subdivisions, flyers subject to FAA air traffic controllers"
+     ],
+     [
+      "Airways",
+      "three dimensional highways in the sky"
+     ],
+     [
+      "Special use airspace",
+      "most pilots have to avoid (prohibited meant must avoid, restricted means sometimes must avoid)"
+     ],
+     [
+      "Military Operations Area",
+      "military flight training takes place"
+     ],
+     [
+      "True course",
+      "indicates the course the airplane will follow (w/ regard to true north, earth's north geographic pole)"
+     ],
+     [
+      "True airspeed",
+      "speed of plane through air"
+     ],
+     [
+      "Ground speed",
+      "how fact craft is going across surface of earth"
+     ],
+     [
+      "Wind Triangle",
+      "used by pilot to figure out where wind drift will cause craft to fly, to counter effect drift (degrees between true course and ground track, steer that many into wind)"
+     ],
+     [
+      "Pilotage",
+      "navigating by reference to visible landmarks"
+     ],
+     [
+      "Dead Reckoning",
+      "systematic consideration of all factors that could/will affect flight"
+     ],
+     [
+      "Aircraft radio",
+      "navigational aid, pilots link with FAA etc."
+     ],
+     [
+      "Atmosphere and Space",
+      "(no boundary) best described by AEROSPACE; atmosphere is where we don't need life support"
+     ],
+     [
+      "Density",
+      "indicates how tightly the particles of mater are packed together (decreases w/ altitude)"
+     ],
+     [
+      "Pressure",
+      "weight of molecules above press down on those below"
+     ],
+     [
+      "Mass",
+      "amount of material"
+     ],
+     [
+      "Dew Point",
+      "air temperature at which saturation occurs; Dew Temp is temp at or below which vapor will condense"
+     ],
+     [
+      "Evaporation",
+      "process by which liquid water molecules change to gas/vapor state and enter atmosphere (temp affects it)"
+     ],
+     [
+      "Sublimation",
+      "water molecules leave frozen state and directly enter atmosphere w/o changing into liquid first"
+     ],
+     [
+      "Humidity",
+      "indicates how much water is in the air; Absolute tells actual percentage in air at given time; Relative tells how much that can still enter air before saturation"
+     ],
+     [
+      "Particulate Matter",
+      "dust and small particles, if they weren't there, no condensation and precipitation exists; provide surface for condensation and are called condensation nuclei"
+     ],
+     [
+      "Heat",
+      "sum total of energy of all moving molecules w/in a substance"
+     ],
+     [
+      "Temperature",
+      "a measure that expresses an average of the energy of molecular motion"
+     ],
+     [
+      "Insolation",
+      "rate at which earth's surface is heated by solar radiation"
+     ],
+     [
+      "Coriolis Effect",
+      "causes by rotation of earth, deflects things to east in n Hemisphere"
+     ],
+     [
+      "Convection currents",
+      "along shorelines, heated air rising upward causing advection currents (wind); night, develops over warmer than land water; day, develops over warmer than water land"
+     ],
+     [
+      "Jet Stream",
+      "narrow current of air moving around hemispheres of earth in wavelike pattern (wind river E2W) 30k ft ish"
+     ],
+     [
+      "Weather",
+      "the condition of the atmosphere at any particular time and place (day2day changes in atmospheric conditions)"
+     ],
+     [
+      "Nimbo",
+      "cloud is producing, or capable of, precipitation"
+     ],
+     [
+      "Alto",
+      "high, but not highest"
+     ],
+     [
+      "Fracto",
+      "broken or ragged"
+     ],
+     [
+      "Lenticular",
+      "strong winds sweep up over (only) high mountains, lens like shape"
+     ],
+     [
+      "Rotor Clouds",
+      "motion of air coming over mountain is spinning on axis that parallels mountain's linear shape"
+     ],
+     [
+      "Wind Shear",
+      "atmospheric condition in which changes of speed and direction of wind occur (wind at one elevation in one direction, wind at adjacent level is opposite or calm); can cause abrupt changes in airspeed"
+     ],
+     [
+      "Microburst (downdraft shear)",
+      "associated w/ large thunderstorms, column of air is quickly cooled and falls toward earth"
+     ],
+     [
+      "CAT",
+      "vertical growth, wind shear, obstructions, etc. (Light: maybe seatbelts, objects at rest; Moderate: seatbelts, objects move; Severe: craft may be out of control, occupants thrown against belts, unsecured objects tossed; Extreme: entire craft tossed, near impossible to control)"
+     ],
+     [
+      "Wake Turbulence",
+      "caused by large aircraft in flight; air around wingtips forms vortex (twisting column of air) with tremendous energy; affects small craft like CAT"
+     ],
+     [
+      "Gravitation",
+      "describes force of attraction existing between all matter w/in universe"
+     ],
+     [
+      "Gravity",
+      "when gravitation involves earth and a body or mass on or near earth, gravitation is called gravity"
+     ],
+     [
+      "Newton's Universal Law of Gravitation",
+      "two bodies attract each other with a force directly proportional to their mass, and inversely proportional to the square of the distance between them [F=(GM1GM2)/d2]"
+     ],
+     [
+      "Force",
+      "define the cause of motion; you experience it by exerting muscle to move yourself or object"
+     ],
+     [
+      "Velocity",
+      "rate at which a body moves when force is applied to it"
+     ],
+     [
+      "Acceleration",
+      "when a body is subject to application of force over a continuing period of time"
+     ],
+     [
+      "Momentum",
+      "product of mass and velocity"
+     ],
+     [
+      "Combustion Chamber",
+      "rocket fuel burns here, gases produced are very hot and create high pressure inside"
+     ],
+     [
+      "Throat",
+      "as exhaust moves out, throat constricts exhaust to increase velocity"
+     ],
+     [
+      "Nozzle",
+      "bell shaped nozzle allows exhaust to expand, lowering pressure (pressure inside is lower, only rearward motion)"
+     ],
+     [
+      "Payload",
+      "whatever the rocket is carrying (satellites, astronauts, data, etc.); the four systems exist to deliver it"
+     ],
+     [
+      "Impulse",
+      "thrust, is measure of how much thrust will be obtained from a propellant"
+     ],
+     [
+      "Specific Impulse",
+      "(Isp) number of pounds of thrust delivered by consuming one pound propellant (oxidizer/fuel) in one second; Isp following number means seconds during which 1lb thrust is provided by burning 1lb propellant; ie, 500Isp: burning 1lb produces 1lb thrust for 500sec (or 500lb for 1sec)"
+     ],
+     [
+      "Density Impulse",
+      "another measure of propellant's thrust according to volume involved"
+     ],
+     [
+      "Orbit",
+      "path described by one body in its revolution about another body"
+     ],
+     [
+      "Trajectory",
+      "the path of a body through space"
+     ],
+     [
+      "Inertia",
+      "tendency of body at rest to remain at rest, body in motion to remain in motion in straight line, constant velocity"
+     ],
+     [
+      "Circular Orbit",
+      "orbit maintaining virtually constant altitude above earth's surface"
+     ],
+     [
+      "Elliptical Orbit",
+      "any closed orbit that is not circular; will have an apogee and perigee"
+     ],
+     [
+      "Equatorial Orbit",
+      "Satellite travels from West to East over earth's equator; some incline to equator a certain # degrees"
+     ],
+     [
+      "Escape Trajectory",
+      "to launch to moon or other body, much reach escape velocity (25,000mph); velocity so high, inertia so great it comes under influence of another body's gravity before it reaches apogee"
+     ],
+     [
+      "Apogee",
+      "Point in orbital trajectory or flight path when body is most distant from body being orbited (for earth)"
+     ],
+     [
+      "Perigee",
+      "Point in orbital trajectory or flight path when body is closest to body being orbited (for earth)"
+     ],
+     [
+      "Velocity requirement",
+      "velocity required in order to travel a certain path"
+     ],
+     [
+      "Escape velocity",
+      "requires for payload to escape from gravitational attraction of the planet"
+     ],
+     [
+      "Burnout (velocity)",
+      "the moment rocket engine ceases to produce thrust, it's at burnout; velocity required to place craft on intended trajectory must be attained at burnout"
+     ],
+     [
+      "Total velocity requirements",
+      "adding together the velocity requirements for all stages of the mission"
+     ],
+     [
+      "Retrothrust",
+      "opposite direction thrust"
+     ],
+     [
+      "Ballistics",
+      "the study of the arc of a nonorbiting body; primarily concerned with propelling an object from one place on earth's surface to another (no longer powered, under influence of natural forces)"
+     ],
+     [
+      "Coplanar transfer",
+      "transfer (moving from one orbit to another) w/in same orbital plane"
+     ],
+     [
+      "Geostationary Orbit",
+      "orbit stationed above one point on earth's surface equatorial orbit, revolution takes 24hrs. Valuable for communications, receivers/transmitters lock on and never loose contact; limited # positions"
+     ],
+     [
+      "Geosynchronous orbit",
+      "point of hovering on equator"
+     ],
+     [
+      "Polar orbit",
+      "crosses or nearly crosses M and S poles w/ each orbit; can photograph earth's entire surface"
+     ],
+     [
+      "Sunsynchronous orbit",
+      "polar orbit, constantly exposed to sun (sunlight can generate for onboard operations; monitor sun activities, in space electrical power generation, etc.)"
+     ],
+     [
+      "Rocket",
+      "power plant used to propel payload, by principle of action and reaction"
+     ],
+     [
+      "Missile",
+      "rocket propelled with warhead or weapon as payload (if payload is satellite, the vehicle is a launcher/booster)"
+     ],
+     [
+      "Space",
+      "place that extends indefinitely in all directions and contains all of the stars, planets, and galaxies in universe (widly accepted: 62mi, or 100kl; wings to those who reach 50mi)"
+     ],
+     [
+      "Cislunar space",
+      "space between earth and moon (magnetosphere, protons and electrons, magnetic lines, radiation storms, cosmic rays, sun's photons)"
+     ],
+     [
+      "Interplanetary space",
+      "center of sun to orbit of outermost planet (solar system)"
+     ],
+     [
+      "Interstellar space",
+      "distance between extent of one solar system and beginning of another"
+     ],
+     [
+      "Milky Way",
+      "galaxy in which we live, along w/ 100billion other solar systems and stars; spiraling arms, center older, arms newer stars; halo of gas surrounds"
+     ],
+     [
+      "Light year",
+      "distance a photon can travel in one year; 5 trillion, 878 billion miles"
+     ],
+     [
+      "Parsec",
+      "3.26 light years, 19.2 trillion miles"
+     ],
+     [
+      "Thermonuclear reaction",
+      "nuclear fusion of atoms under pressure and heat into different atoms"
+     ],
+     [
+      "Solar winds",
+      "charged particles ejected from sun flowing continuously through interplanetary space; extension of cornea into interplanetary space; bow shock wave where magnetic lines of force of magnetic field are struck by solar plasma"
+     ],
+     [
+      "Ion",
+      "atom carrying positive or negative charge as result of losing or gaining one or more electrons (caused by powerful ultraviolet radiation of sun, ultra high frequency of cosmic rays from stars of outer space"
+     ],
+     [
+      "Atom",
+      "most mass in central body, or nucleus, cluster of neutrons and protons; negatively charged electrons whirl around"
+     ],
+     [
+      "Magnetosphere",
+      "region of earth's atmosphere where ionized gas plays a big part in the dynamics of the atmosphere and where the geomagnetic field plays an important role"
+     ],
+     [
+      "Cosmic Rays",
+      "energetic charged particles from all over galaxy and beyond rain down on earth atomic particles, mostly electrons and nuclei"
+     ],
+     [
+      "Magnetic Storms",
+      "sudden onset of radiation bursts, magnetic field undergoes marked change in course of hour or less; frequent during years of high sunspot activity, can be linked to solar disturbances, interfere w/ ionosphere reflections"
+     ],
+     [
+      "Polar Magnetic Storms",
+      "solar disturbances observable only in polar areas; produce sporadic radiation emissions from upper atmosphere over middle and high latitudes; cause Aurora Borealis (N) and Australis (S) (interaction of solar radiation and earth's magneticism)"
+     ],
+     [
+      "Scintillation",
+      "electron density variations in the ionosphere cause rapid changes in radio signals"
+     ],
+     [
+      "Outgassing",
+      "removing pressure, bubbles of gas escape"
+     ],
+     [
+      "Cold welding",
+      "moving parts fit with tiny amount of air between; air escapes and they weld together (need lubricant)"
+     ],
+     [
+      "Free fall",
+      "subject to gravity, but we and our craft are falling together w/ nothing to resist"
+     ],
+     [
+      "Intergalactic space",
+      "space between galaxies"
+     ],
+     [
+      "Rille",
+      "long, irregular depressions similar to streambeds on earth"
+     ],
+     [
+      "Planet",
+      "orbits sun; large enough for gravity to make round; cleared neighborhood of smaller objects"
+     ],
+     [
+      "Asteroids",
+      "rocky and metallic bodies orbiting sun, too small to be planets; main belt BETWEEN Mars and Jupiter"
+     ],
+     [
+      "Comet",
+      "small, irregularly shaped body whose nucleus is composed of water, ice, rock, and frozen gases (elliptical orbit, close to sun, often further than Pluto; develop coma when approaching sun; nucleus and coma form head; tail; Oort cloud produces long, possibly medium pulled to shorter orbits, range comets)"
+     ],
+     [
+      "Meteoroids",
+      "dust size: Micrometeorites Meteoroid: clumps of matter in space Meteor/ite: enters atmosphere"
+     ],
+     [
+      "Nova",
+      "stars that aren't stable; flare, subside, flare"
+     ],
+     [
+      "Supernova",
+      "gives up great mass, giant explosion of light/energy"
+     ],
+     [
+      "Pulsar",
+      "pulsating Star, flashes electromagnetic emissions in set patterns"
+     ],
+     [
+      "Quasar",
+      "extremely luminous body"
+     ],
+     [
+      "Nebulae",
+      "vast clouds of matter not yet formed to stars; may be studded w/ stars, be brilliantly colored"
+     ],
+     [
+      "Black Hole",
+      "probably large star that exhausted nuclear fuel and collapsed inward on self; force builds up enough to keep explosion from occurring, but nothing is allowed to leave from resulting gravity"
+     ],
+     [
+      "Galaxy",
+      "grouping of billions of stars apparently merging into luminous band extending across sky"
+     ],
+     [
+      "International Telecommunications Union (ITU)",
+      "UN org. regulating international communications (radio, GEOs)"
+     ],
+     [
+      "Bogata Declaration of 1976",
+      "8 equatorial nations issued, claiming sovereignty over geostationary orbits above them"
+     ],
+     [
+      "ISS Agreement",
+      "1988, US provides management for building of International Space Station, along with Japan ESA, Canada, Russia (1993); new agreement 1998; detailed who bears what cost, managing station through consensus, jurisdiction over own station elements, compromise for military involvement (owner decides peaceful/not)"
+     ],
+     [
+      "Satellite",
+      "natural or artificial object that orbits earth"
+     ],
+     [
+      "Probe",
+      "spacecraft that either fly by, orbit, or land on celestial body other than earth"
+     ],
+     [
+      "EVA",
+      "Extra-vehicular activity; EVA suits have own life support systems"
+     ],
+     [
+      "MMU",
+      "Manned Maneuvering Unit, nitrogen propelled, hand-controlled device, allows more mobility than tethers"
+     ]
+    ],
+    "group": "sections"
+   },
+   {
+    "id": "concepts",
+    "name": "Concepts",
+    "cards": [
+     [
+      "Air Power unique",
+      "fast, elevation"
+     ],
+     [
+      "Kite",
+      "first device enabling flight, by Chinese, 100BC"
+     ],
+     [
+      "Gunpowder",
+      "900, enabled rockets 1100"
+     ],
+     [
+      "Hydrogen",
+      "\"flammable air\" lighter than air, Henry Cavendish"
+     ],
+     [
+      "Oxygen",
+      "discovered by Priestly"
+     ],
+     [
+      "Aerial reporting",
+      "(Balloon Signal Service of Union Army) Lincoln got Gen Scott to let Lowe organize it"
+     ],
+     [
+      "Basic problems of flight",
+      "left to get into air, sustain lift, control craft"
+     ],
+     [
+      "Flyer",
+      "flew 12sec, 120ft, 10:35, 12/17/1903 (controlled, sustained, powered, heavier than air)"
+     ],
+     [
+      "Atlantic crossing",
+      "Curtiss flying boats NY-England; Reed made it; 2weeks later, nonstop cross, John Alcock, Arthur Brown"
+     ],
+     [
+      "Air Mail",
+      "5/15/1918; Air Mail Act 1925: enabled contracting, get businesses involved, contractor gets 80%; Air Commerce Act 1926: standardize and regulate; first safety regs, Aeronautics Branch to license; Air Mail Act 1934: study of commercial aviation; carriers report to Post Office for contracts, AB for airways, Interstate Commerce Commission for rates; Air Mail Act 1938: unified regs for whole field of aviation, Civil Aeronautics Authority"
+     ],
+     [
+      "Pre WWII",
+      "German Luftwaffe: by 1932 3Bomber, 4Fighter, 8Observe; Italy (Germany) battle tested in Spanish Civil War, also Ethiopia; Japan, Army and Navy Air Force; we cut back; England had RAF, offensive bombers, good capabilities; France, ground defense, Maginot Line, small AF in 1936; 1940,41 we built up, but still short"
+     ],
+     [
+      "Axis",
+      "Germany, Italy, Japan"
+     ],
+     [
+      "Allies",
+      "British, Russians, USA, (France?) Sep 1, 1939, first fighting"
+     ],
+     [
+      "Radar and telephones helped British in Battle of Britain; It was a defensive battle for RAF, they built fighters (Germans not); Radar, radar, radar; Germany's lack of persistence – should've pressed the RAF"
+     ],
+     [
+      "12/7/1941",
+      "Pearl Harbor; to cripple our fleet, air superiority, then Navy; 8-8:30 pounded; Afterwards, contact schools trained more pilots; CAA Civilian Pilot Training became CAA War Training Service"
+     ],
+     [
+      "Centralized control allowed",
+      "Air superiority, interdiction (crippling), close ground support"
+     ],
+     [
+      "Unescorted, daylight, precision does not work; need fighters. P-51 Mustang long range fighter (best fighter of WWII)"
+     ],
+     [
+      "General Kenney took over Pacific",
+      "did low altitude bombing, para-frag bombs (parachuted down), Kenny Cocktail (white phosphorus); wanted to clear air so advancing Allies could take the islands"
+     ],
+     [
+      "USAF",
+      "National Security Act, July 26, 1947; mission, deterrence"
+     ],
+     [
+      "K War lessons",
+      "Atomic bomb not enough; weren't prepped (few fighters); centralized control, decentralized execution"
+     ],
+     [
+      "Sound Barrier",
+      "(Mach is speed of sound, so Mach 3 is three times speed of sound) X-1 built to explore problems of high speed flight (vibrations, control reversals, break apart) Oct 14, 1947 Chuck Yeager penetrated sound barrier with X-1 X-2 built to study heating at Mach 3"
+     ],
+     [
+      "Wings",
+      "swept back: more efficient at high speed; variable change from regular at takeoff to swept back at higher speed"
+     ],
+     [
+      "Strategic Air Command (SAC)",
+      "Defend US from nuclear attack (B-52, KC-135)"
+     ],
+     [
+      "Final Coalition Air Campaign",
+      "Target Iraq's C&C, war making, etc; air defenses; supply lines&troops; give air support"
+     ],
+     [
+      "England and France joined to make supersonic passenger airliner",
+      "Concorde"
+     ],
+     [
+      "Soviet Union supersonic transport",
+      "TU-144"
+     ],
+     [
+      "Us supersonic transport",
+      "Model 2707 (Cancelled)"
+     ],
+     [
+      "Air Characteristics — Pressure",
+      "higher altitude, less pressure"
+     ],
+     [
+      "Air Characteristics — Temp",
+      "hotter air more energy; decreases 3.5F 1,000ft"
+     ],
+     [
+      "Air Characteristics — Density",
+      "how much squeezed in volume heated, decrease in density (they move apart)"
+     ],
+     [
+      "Air Characteristics — Viscosity",
+      "fluid's resistance to flow"
+     ],
+     [
+      "Flow pattern around an object through air is either turbulent or smooth (laminar)"
+     ],
+     [
+      "Airfoil — Leading edge",
+      "meets wind first, slower thicker"
+     ],
+     [
+      "Airfoil — Camber",
+      "curvature determines the thickness, positive curve curves away"
+     ],
+     [
+      "Airfoil — Trailing edge",
+      "they meet again"
+     ],
+     [
+      "Airfoil — Chord",
+      "imaginary line, leading to trailing edge"
+     ],
+     [
+      "Improve — Lift",
+      "increase camber, or angle of attack"
+     ],
+     [
+      "Improve — Weight",
+      "lighter, composite materials"
+     ],
+     [
+      "Improve — Thrust",
+      "propels aircraft forward: engine, much power little weight"
+     ],
+     [
+      "Improve — Drag",
+      "parallel to relative wind: reduce friction"
+     ],
+     [
+      "Drag — Friction",
+      "friction of air against parts of plane (like rubbing sandpaper)"
+     ],
+     [
+      "Drag — Form",
+      "shape creates turbulence"
+     ],
+     [
+      "Drag — Induced",
+      "vortex causes lift vector aslant towards wing; lift vector same direction as drag vector adds to drag"
+     ],
+     [
+      "Drag — Wave",
+      "when flowing across a shock wave, temp, pressure, velocity change – the drag a result of lost energy"
+     ],
+     [
+      "Airplane (parts)",
+      "fuselage, engine, wing/ailerons, tail/horizontal stabilizer/elevator/vertical stabilizer"
+     ],
+     [
+      "Longitudinal axis / Aileron",
+      "Roll"
+     ],
+     [
+      "Vertical axis / Rudder",
+      "Yaw"
+     ],
+     [
+      "Lateral axis / Elevator",
+      "Pitch"
+     ],
+     [
+      "Engines — Reciprocating",
+      "four stroke, five event, circular motion, in cylinder, fuel into energy"
+     ],
+     [
+      "Engines — Turbine",
+      "whirl, refers to device having vanes where wheel turns as vanes struck by moving fluid; take in air, accelerate, push through exhaust"
+     ],
+     [
+      "TurboJet",
+      "compressor blades bring in, fuel, burn, accelerated out exhaust"
+     ],
+     [
+      "TurboFan",
+      "one or more compressor blades, more air pulled in; large amount air accelerate less to get high thrust"
+     ],
+     [
+      "TurboProp (engine)",
+      "gas turbine to turn prop"
+     ],
+     [
+      "PropFan",
+      "air moving efficiency of turbofan with prop of prop (combines three above, turbojet gas generator)"
+     ],
+     [
+      "RamJet",
+      "air rammed in, compressed, ignited, slowed subsonic, and let out"
+     ],
+     [
+      "ScramJet",
+      "same, air not slowed"
+     ],
+     [
+      "Flaps",
+      "increase lift and drag"
+     ],
+     [
+      "Slats",
+      "protrude from leading edge of wing, induced lift (adds energy front, flap back)"
+     ],
+     [
+      "Spoilers",
+      "destroy lift, ruin laminar flow"
+     ],
+     [
+      "Drag devices",
+      "drag only, from fuselage or wing edge; speed, air brakes, parachutes, etc."
+     ],
+     [
+      "Fuselage — Truss",
+      "tubing welded to make well braced framework"
+     ],
+     [
+      "Fuselage — Monocoque",
+      "covering of skin to provide strength (almost like circles as base, then skin covering)"
+     ],
+     [
+      "Fuselage — SemiMonocoque",
+      "internal braces to help skin carry force; longitudal stringers, blukheads"
+     ],
+     [
+      "Landing Gear — Conventional",
+      "two wheels forward, one at tail"
+     ],
+     [
+      "Landing Gear — Tricycle",
+      "one front, two behind, nose gear linked to rudder"
+     ],
+     [
+      "Landing Gear — Tandem",
+      "one in front of second on fuselage, outrigger wheels needed"
+     ],
+     [
+      "Fixed gear cheaper, retractable reduces drag"
+     ],
+     [
+      "Systems — Fuel",
+      "delivery of fuel to engine; tanks mix with air, draw into combustion chamber; can gravity feed, but many use pumps"
+     ],
+     [
+      "Systems — Hydraulic",
+      "brakes, landing gear, flight controls, flaps; pressurized fluid to make parts move, how you can press brakes to stop so many tons"
+     ],
+     [
+      "Systems — Electrical",
+      "generator provides charge, for engine, radio, lights, etc."
+     ],
+     [
+      "Instruments: early ones were wind gauges, altimeters, cork in fuel tank, string behind tail, etc."
+     ],
+     [
+      "Operational classification (instruments)",
+      "mechanical (gyro), pressure, electrical"
+     ],
+     [
+      "Mechanical (instruments)",
+      "gear, float, gyro (Gyro Stability: spinning flat weight lines up in one of its axis, perpendicular to weight)"
+     ],
+     [
+      "Pressure (instruments)",
+      "principle that fluid exerts pressure, and it decreases with height; ie, indicates altitude"
+     ],
+     [
+      "Electrical (instruments)",
+      "operates on electricity and magnetism, being used more and more"
+     ],
+     [
+      "Use classification — Performance",
+      "tells how craft responded to commands"
+     ],
+     [
+      "Use classification — Control",
+      "tells state of devices"
+     ],
+     [
+      "As actually used (instruments)",
+      "engine, flight, navigation"
+     ],
+     [
+      "Engine (instruments)",
+      "tells how thrust producing device is operating (rpm, oil, fluid flow)"
+     ],
+     [
+      "Flight (instruments)",
+      "tell pilot altitude, airspeed, attitude, allow for safe flight, tell how well craft is being controlled"
+     ],
+     [
+      "Navigation (instruments)",
+      "gets from departure to destination; clock, compass, direction, radio, radar, GPS"
+     ],
+     [
+      "Tachometer",
+      "speed measure, how fast engine crankshaft is turning (rpm)"
+     ],
+     [
+      "Oil pressure and temperature",
+      "oil while engine's operating"
+     ],
+     [
+      "Airspeed Indicator",
+      "speed through air mph or knots"
+     ],
+     [
+      "Altimeter",
+      "aneroid barometer, altitude in feet (pressure of mercury)"
+     ],
+     [
+      "Turn and slip Indicator",
+      "needle indicates direction, ball in tube (inclinometer) indicates quality of turn"
+     ],
+     [
+      "Vertical Velocity Indicator",
+      "Rate, feet per minute, of climb or decent"
+     ],
+     [
+      "Attitude indicator",
+      "artificial horizon basic, most important"
+     ],
+     [
+      "Navigation instruments (list)",
+      "Airspeed indicator, clock, magnetic compass, heading indicator (gyro, type of compass)"
+     ],
+     [
+      "Airports (Concepts)",
+      "military or civil; joint use, runways are shared by both (military name appears above civilian)"
+     ],
+     [
+      "Very-High-Frequency Omnidirectional Radio Range (VOR)",
+      "360 degree circle from station, select a radial, head for station. Includes plane receivers and ground station. Stationary signal and rotational signal line up north. Rotational moves around, difference converted to radial info so pilot can select route"
+     ],
+     [
+      "Automatic Direction Finder (ADF)",
+      "same beacon signal, but not selectable. Needle on navigational display is used"
+     ],
+     [
+      "Distance Measuring Equipment (DME)",
+      "VOR stations have special Tactical Air Navigation (TACAN); with VOR it's a VORTAC. TACAN portion will respond with broadcast signal when it receives one from DME. DME measures time it will take to go to VORTAC plane and return, converts to nautical miles"
+     ],
+     [
+      "Radar",
+      "reflected radio energy. Energy bounced back as bright spots, radar scope is very far"
+     ],
+     [
+      "Long Range navigation (LORAN)",
+      "broadcast signals, received by slave stations, which broadcast delayed responding signals; time differences shown, plane position can be plotted on LORAN chart; displays time diff. continuously (on auto)"
+     ],
+     [
+      "GPS",
+      "24 satellites; receiver converts signals into position coordinates, lat, long, elevation, time, w/ 4 satellites"
+     ],
+     [
+      "PPS",
+      "precise, military probably w/in 30 meters"
+     ],
+     [
+      "SPS",
+      "Standard, the rest of us"
+     ],
+     [
+      "Internal Navigation",
+      "measures movement, translated to speed, direction, distance; accelerometer (like pendulum)"
+     ],
+     [
+      "Area Navigation System (RNAV)",
+      "computer controlled, stations and receivers; VOR type stations or GPS as reference, allows to fly w/o following airways; start and end, monitors which VOR stations you pass, compares path to prediction"
+     ],
+     [
+      "Instrument Landing System (ILS)",
+      "short distance, purpose to land plane; precise direction signals; lateral centerline, vertical glide slope; maybe outer(blue) middle(amber) inner(white) indicators; glide slope and beacon receiver, glide slope and azimuth on VOR"
+     ],
+     [
+      "Microwave Landing System (MLS)",
+      "wider beams, funnel (120horizontal, 20 vertical degrees)"
+     ],
+     [
+      "Differential GPS Landing Systems",
+      "very accurate GPS guidance; computer generated, incl. curved paths, tiered altitudes"
+     ],
+     [
+      "Atmosphere (composition)",
+      "78% nitrogen, 21% oxygen, argon, neon, helium, methane, hydrogen, xenon, and variable water vapor, carbon dioxide, ozone, carbon monoxide, sulfur dioxide, and nitrogen dioxide"
+     ],
+     [
+      "Atmospheric regions by",
+      "temp, physiochemical, molecular distribution, dynamic-kinetic processes"
+     ],
+     [
+      "Temp — Troposphere (and pause)",
+      "to 10mi temp decreases"
+     ],
+     [
+      "Temp — Stratosphere (and pause)",
+      "10-30mi temp increases"
+     ],
+     [
+      "Temp — Mesosphere (and pause)",
+      "to 50mi increase then decrease"
+     ],
+     [
+      "Temp — Thermosphere",
+      "to 300mi increases"
+     ],
+     [
+      "Physiochemical — Ozonosphere",
+      "10-30mi oxygen picks up their molecule, shields harmful rays"
+     ],
+     [
+      "Physiochemical — Ionosphere",
+      "25-250mi loss of gain in electrons, forms ions, reflects certain radio waves"
+     ],
+     [
+      "Physiochemical — Neutrosphere",
+      "below above, to earth little ionization takes place"
+     ],
+     [
+      "Physiochemical — Chemosphere",
+      "overlaps ozone & ion, begins at Stratopause, incl. Mesosphere important photochemical (radiant energy & chemical) reactions"
+     ],
+     [
+      "Molecular Composition — Homosphere",
+      "to 60mi same gaseous composition"
+     ],
+     [
+      "Molecular Composition — Hetrosphere",
+      "up from 55-60 molecules/atoms further apart, take on vertical arrangement"
+     ],
+     [
+      "Dynamic/Kinetic — Exosphere",
+      "top of hetrosphere, processes occur, atmospheric particles free orbit subject only to earth's gravity"
+     ],
+     [
+      "Density decreases with increase in altitude"
+     ],
+     [
+      "Air is saturated when it cannot hold any more water vapor"
+     ],
+     [
+      "Evaporation cycle",
+      "water to vapor (solar radiation heats) to condensation (moves over cooler air to below dew point, makes fog and clouds) to precipitation"
+     ],
+     [
+      "Heat Transfer — Conduction",
+      "heating by direct contact"
+     ],
+     [
+      "Heat Transfer — Convection",
+      "heat transfer by vertical motion"
+     ],
+     [
+      "Heat Transfer — Advection",
+      "temp transferred horizontally, wind or moving air"
+     ],
+     [
+      "Heat Transfer — Radiation",
+      "heat energy of sun reaches earth as this"
+     ],
+     [
+      "Wind flows from high pressure mountains to low pressure valleys, called pressure gradient; steepness is shown by lines called isobars; high is high pressure surrounded by lower; low is low pressure surrounded by high; col is saddleback between two highs and two lows; trough is elongated low pressure; ridge is elongated high pressure"
+     ],
+     [
+      "Air Mass",
+      "Polar is cold, Tropical is hot, Maritime is humid, Continental is dry"
+     ],
+     [
+      "Front — Cold",
+      "NW-SE; energy of front depends on amount of cold air in high pressure cell behind; cold air denser, pushes under warm air; brings thunderstorms"
+     ],
+     [
+      "Front — Warm",
+      "connected to low pressure cell, extends eastward, travels NE; less dense, slips over cool air forming wedge; dark sky, rain, maybe thunder, low clouds, gentle rain, maybe fog; after front, temp rises"
+     ],
+     [
+      "Front — Stationary",
+      "fronts lose punch, not replacing each other; maybe slow thunderstorms, drizzle, fog, almost any form of weather"
+     ],
+     [
+      "Front — Occluded",
+      "warm air mass between two cold is lifted up; makes a low, sometimes severe precipitation"
+     ],
+     [
+      "Cloud Types",
+      "Cumulus (piled up); Stratus (layered); Cirrus (high, thin)"
+     ],
+     [
+      "Low clouds",
+      "stratus, cumulus, stratocumulus, cumulonimbus, nimbostratus 300-6500"
+     ],
+     [
+      "Middle clouds",
+      "altostratus, altocumulus, maybe nimbostratus 6500-20000"
+     ],
+     [
+      "High clouds",
+      "Cirrus, cirrostratus, cirrocumulus above 20000"
+     ],
+     [
+      "Stratus",
+      "smooth, no turbulence (low clouds can hinder visibility)"
+     ],
+     [
+      "Cirrus",
+      "thin, ice crystals"
+     ],
+     [
+      "Altostratus",
+      "thin, maybe ice crystals or supercooled droplets; if precipitation, it's light"
+     ],
+     [
+      "Stratocumulus",
+      "numerous bumps, thick, heavy rains/snow, turbulence; a warning"
+     ],
+     [
+      "Below fair-weather cumulus can be updrafts"
+     ],
+     [
+      "Building cumulus",
+      "strong rain shower, moderate/severe turbulence; thunderstorm likely"
+     ],
+     [
+      "Cumulonimbus",
+      "cumulus built up; precipitation, thunder, lightning; w/ further building/increase, called a thunderstorm"
+     ],
+     [
+      "Fog — Radiation",
+      "night, when land radiates heat; cools air near it by conduction below dew point"
+     ],
+     [
+      "Fog — High-inversion",
+      "low cloud; condensation of vapor near top of cool air covered by warmer air"
+     ],
+     [
+      "Fog — Advection",
+      "wind blows moist air over cool surface, cools to dew pt temp"
+     ],
+     [
+      "Fog — Evaporation",
+      "or steam; when cold air moves over warm water; normal evaporation saturates cold air"
+     ],
+     [
+      "Fog — Upslope",
+      "moist air carried up slope, air is cooled"
+     ],
+     [
+      "Mountains cause air to rise, loses moisture on W (windward) side; descending, dry air is heated and absorbs moisture on leeward side (low turbulence windward, high turbulence, leeward)"
+     ],
+     [
+      "Newton's law of Motion — 1",
+      "A body in the state of rest and a body in motion tend to remain at rest or in uniform motion unless acted upon by some outside force (inertia, or tendency of all things to remain in a fixed condition) [when launching, propulsion must produce enough force to overcome inertia]"
+     ],
+     [
+      "Newton's law of Motion — 2",
+      "The rate of change in the momentum of a body is proportional to the force acting upon the body and is in the direction of the force. [FuMA, Force proportional to mass times acceleration; force required depends on mass]"
+     ],
+     [
+      "Newton's law of Motion — 3",
+      "To every action there is an equal and opposite reaction [action of rocket engine produces forward motion] heart of rocketry"
+     ],
+     [
+      "Four Major Rocket Systems",
+      "Airframe, Propulsion, Guidance, Control"
+     ],
+     [
+      "Airframe",
+      "contains other systems and provides streamlined shape"
+     ],
+     [
+      "Propulsion",
+      "includes propellant, plumbing, engine; anything associated w/ propelling rocket"
+     ],
+     [
+      "Propulsion — Chemical",
+      "mixing and burning chemical fuel and oxidizer to produce hot expanding gases"
+     ],
+     [
+      "Propulsion — Gas-heating",
+      "external source to heat and cause propellant to build pressure necessary to provide thrust by exiting nozzle at high velocity"
+     ],
+     [
+      "Propulsion — Electric",
+      "magnetic fields and currents to propel matter in small amounts"
+     ],
+     [
+      "Guidance",
+      "brain; self-contained electronic unit that employs computer and inertial platform (may have star tracking); programmed for desired flight trajectory"
+     ],
+     [
+      "Guidance — Inertial",
+      "self-contained, senses rockets motion, fed to computer; impulses for correction are sent to control"
+     ],
+     [
+      "Guidance — Command",
+      "guided to targets by command of human director (probably short range)"
+     ],
+     [
+      "Guidance — Homing",
+      "Home in on target radiating light or heat"
+     ],
+     [
+      "Guidance — Beam-rider",
+      "fly along a beam aimed at and kept on target"
+     ],
+     [
+      "Control",
+      "self-contained; carries out what guidance system dictates should be done"
+     ],
+     [
+      "Remaining in Orbit",
+      "gravity pulls something to earth's surface at the same rate earth's surface curves. Thus objects remains at consistent altitude from surface, though falling towards surface"
+     ],
+     [
+      "Increase in velocity is HIGHER, nor faster orbit; put on brakes to reach lower, faster orbit"
+     ],
+     [
+      "Trajectory of a sounding rocket is straight up"
+     ],
+     [
+      "Two basic orbit types",
+      "elliptical and circular"
+     ],
+     [
+      "Lower velocities required to stay in orbit at successively higher altitudes, due to weakening of gravitational effect"
+     ],
+     [
+      "Hohmann Transfer",
+      "place in low elliptical parking orbit, when at perigee, push vehicle to apogee of desired orbit; when reaches high point, thrust again and move out on circle tangent to transfer ellipse"
+     ],
+     [
+      "Fast Transfer",
+      "trajectory chosen that intersects the two orbits; in direct ascent, more launch given than needed for apogee; at desired altitude, kick applied lower than apogee, with deflected thrust to aim to desired circle. Energy not in straight line, so extra energy needed; boosts to higher orbit faster than H transfer."
+     ],
+     [
+      "Non-coplanar transfer",
+      "launched at minimum angel of inclination, 28.5degrees. At one of two points when crossing equator, thrust applied to put in correct orbit (kicking vehicle sideways; may need several times)"
+     ],
+     [
+      "Reasons to exploit space",
+      "global view of earth; see universe more clearly; abundant resources; making new materials"
+     ],
+     [
+      "Sun",
+      "medium sized star, diameter of 864,000 miles; strongest gravitational force in solar system, its gravity controls orbital paths of all objects in solar system; magnetic activity affects how energy is released from it, magnetic field is 100x stronger than earth's, lacks definite structure; its rotation alters magnetic fields; 27day rotation, 11yr sunspot cycle"
+     ],
+     [
+      "Sun's atmosphere — Photosphere",
+      "thin shell which gives light"
+     ],
+     [
+      "Sun's atmosphere — Chromosphere",
+      "sphere of color, spicules"
+     ],
+     [
+      "Sun's atmosphere — Corona",
+      "enormous area of faint white light visibly extending outward from surface"
+     ],
+     [
+      "Sun Phenomena — Sunspots",
+      "on photosphere; dark spots, cooler than surrounding plasma"
+     ],
+     [
+      "Sun Phenomena — Prominences",
+      "Hot spots shown as bright blotches, ionized gases flowing down magnetic lines: against black background"
+     ],
+     [
+      "Sun Phenomena — Filaments",
+      "against solar disk (appear darker)"
+     ],
+     [
+      "Sun Phenomena — Solar Flares",
+      "Bursting from surface, extend through chromosphere into corona"
+     ],
+     [
+      "Ionospheric behavior",
+      "Sunspots, solar flares, and other disturbances produce fluctuations in output of sun's rays; these produce Sudden Ionospheric Disturbances (SIDs) and other variations; ionosphere blends with exosphere"
+     ],
+     [
+      "Magnetosphere characteristics",
+      "like the effect of filaments producing cloud around magnet; N and S magnetic poles near the N and S celestial poles, rotational axis; tail pointing away from sun because of solar radiation pressure pushing out"
+     ],
+     [
+      "Van Allen belts",
+      "crescent shaped in cross section, composed of two shells. Horns dip to magnetic poles; caused by sun, emitting charged particles sweeping in all directions, mainly protons and electrons traveling million mph as plasma; more powerful cosmic rays come into upper layers where are stopped and collide w/ atmospheric molecules; collisions release neutrons, so travel outward from earth; neutrons decay into protons/electrons, then trapped by magnetic field"
+     ],
+     [
+      "Effects on Communication",
+      "not all frequencies usable for uplink/downlink ground to satellite comm; scintillation; solar flares realease large amount of energy, hurts radio comm. Termed, Solar Radio Burst"
+     ],
+     [
+      "Spacecraft — Atmosphere",
+      "produces drag, oxidation from free oxygen atoms (these atoms in water break away, combine with iron, make rust)"
+     ],
+     [
+      "Spacecraft — Vacuum",
+      "empty; causes outgassing, cold welding"
+     ],
+     [
+      "Electric charging — Absolute",
+      "whole craft is charged (like when craft passes through fields of plasma such as solar wind; imparts negative charge on whole satellite)"
+     ],
+     [
+      "Electric charging — Differential",
+      "one part gets charged and has different charge than rest of craft (usually negative on shaded sides due to plasma charging on sunlit sides)"
+     ],
+     [
+      "Free fall (effects)",
+      "can cause dehydration (fluid distributes to upper body, eliminated), heart can weaken, dizziness"
+     ],
+     [
+      "America's early space efforts",
+      "Army assembles scientists/engineers White Sands Proving grounds NM 1946 to research upper atmosphere; Navy researched to build improved V-2, called Viking; Army developed Redstone Missile, 1953, 200mi, 3000mph; Air Force researched Intercontinental Ballistic missiles (canceled); restarted, made Atlas, nucear warheads that could be mounted"
+     ],
+     [
+      "Soviet Union's efforts",
+      "upper atmosphere research with captured V-2s; improved V-2 called T-1, in 1954 worked on multistage; 1956, had ICBM, soon to come nuclear warheads; October 4, 1957 Sputnik (we reacted immediately; to launch vanguard 1 from Cape Canaveral; exploded, launched Explorer 1 Jan 31, 1958)"
+     ],
+     [
+      "National Aeronautics and Space Act Law",
+      "Eisenhower, July 29, 1958; legal basis for military and civil space activities"
+     ],
+     [
+      "Sources for international law",
+      "treaties; decisions made by international courts; Opinio Juris (scholars, may be based off previous court cases); customs (maybe most effective) [international treaties, laws, courts, customs]"
+     ],
+     [
+      "Three principles of space law",
+      "freedom of use (all nations have access); non-appropriation (no one owns space); common interests (all nations should share in benefits)"
+     ],
+     [
+      "1967 Outer Space Treaty",
+      "principle of freedom of use, space is \"providence of all mankind\"; exploration should benefit all; all three principles in written form, legitimizes military presence in space (addressed accidents/emergencies)"
+     ],
+     [
+      "1972 ABM Treaty",
+      "USA and USSR agreed not to develop or test Anti-Ballistic Missile systems (ABM); it sanctioned monitoring other countries from space for treaty compliance"
+     ],
+     [
+      "NASA Act",
+      "1958"
+     ],
+     [
+      "Commercial Space Launch Act",
+      "promote private sector activity; US citizen or org. must be licensed to conduct space ops. CSLA authorized military to provide support/facilities for commercial launches"
+     ],
+     [
+      "Land Remote Sensing Commercialization Act (LANDSAT Act)",
+      "commercialize government LANDSAT (earth observation satellite producing special dig. images); allowed sale of government data, limit for quality; provision for all at same price)"
+     ],
+     [
+      "Four satellite categories",
+      "Communication, observation, navigation, scientific"
+     ],
+     [
+      "Communication (SATCOM)",
+      "media transmission like radio, TV; data transmission like internet; cell phones; links to craft; Active if it amplifies signals; Passive if it just reflects"
+     ],
+     [
+      "INTELSAT",
+      "Satellites, and organization; International Telecommunications Satellite Organization, links telecommunication networks via global satellite system of geostationary satellites"
+     ],
+     [
+      "TDRSS",
+      "(Tracking and Data Relay Satellite System) three satellites and ground station; simultaneous, full time coverage for Space Shuttle and up to 25 other low orbiting spacecraft (Galaxy distributed cable TV) assists DSN"
+     ],
+     [
+      "DSN (Deep Space Network)",
+      "supported deep space probes 1959, supported all Apollo missions"
+     ],
+     [
+      "Defense Satellite Communication System (DSCS)",
+      "continuous long distance message service; exclusive comm to high gov."
+     ],
+     [
+      "Navigation (TRANSIT and TIMATION)",
+      "TRANSIT [update internal navigation system on Polaris] and TIMATION [two-dimensional, got lat/long] early designs"
+     ],
+     [
+      "NAVSTAR GPS",
+      "radio positioning system, provides navigation and timing info to civilians and military; 24 satellites, worldwide control network, and receiver (6 in view any time); ships, planes, trucking, S&R, military, etc."
+     ],
+     [
+      "Observation (categories)",
+      "Weather, Multi-spectrum imaging, reconnaissance"
+     ],
+     [
+      "Weather (satellites)",
+      "measure temp on surface and in atmosphere, cloud cover, moisture levels, lightning (1st: Tiros; Nimbus measures radiation); National Oceanic and Atmospheric Administration (NOAA) have advances Tiros N craft, special S&R; TIROS program cooperative between NASA, NOAA, UK, France GOES: Geostationary Operational Environmental Satellite Military has weather satellites, too; Defense Meteorological Satellite Program"
+     ],
+     [
+      "Multi-spectrum Imaging",
+      "observes radiant energy, info on crops, ocean currents, natural resources; LANDSATs locate natural resources and monitor conditions on Earth's surface (Arianne 1)"
+     ],
+     [
+      "Reconnaissance (satellites)",
+      "monitors activities of people on earth; provide early warning by detecting enemy missile launches, detect nuclear explosions, electronic reconnaissance, photo-surveillance Defense Support Program (DSP) satellites are used for treaty compliance, to monitor ballistic missile and space launches"
+     ],
+     [
+      "Scientific (satellites)",
+      "gain information; orbital astronomy or environmental analysis"
+     ],
+     [
+      "Explorers",
+      "1 discovered van Allen belts, 3 orbited in 1958 and gave more info on radiation, 6 first photographs of earth from space; they were essential to understanding space environment before astronauts were sent out"
+     ],
+     [
+      "Orbiting Solar Observatory (OSO)",
+      "sun studied"
+     ],
+     [
+      "Orbiting Astronomical Observatory (OAO)",
+      "broadened understanding of universe; stars in ultraviolet, infrared, gamma, x-ray wavelengths; extend knowledge of gasses, confirmed predicted hydrogen clouds around comets"
+     ],
+     [
+      "High-energy Astronomy Observatory (HEAO)",
+      "investigate sources and intensities of high energy radiation at far end of electromagnetic spectrum"
+     ],
+     [
+      "Rossi X-ray Timing Explorer",
+      "explorer class, continuation of strides made in x-ray astronomy thru using satellites"
+     ],
+     [
+      "Hubble Space Telescope",
+      "built to work like ground observatory, free from atmospheric interference, 310mi employed by Discovery"
+     ],
+     [
+      "Solar Mesosphere explorer",
+      "studies reactions of sunlight and atmosphere"
+     ],
+     [
+      "Earth Radiation Budget Satellite (ERBS)",
+      "study radiation and earth's interaction w/ radiation energy of sun"
+     ],
+     [
+      "Earth Observing System (EOS)",
+      "study earth as complete environmental system; was called Earth Science Enterprise; has observation satellites, data system, scientists; data collected from existing satellites and space shuttle, specialized satellites also gather data; fist system to give integrated measurements of earth's systems"
+     ],
+     [
+      "Rangers",
+      "early probes, investigated moon"
+     ],
+     [
+      "Surveyors",
+      "concentrated attention to moon, landed on surface, soft landers; had to know what module would encounter"
+     ],
+     [
+      "Lunar Orbiters",
+      "photos of moon's surface so maps were made (flyby; above landed ?)"
+     ],
+     [
+      "Mariners",
+      "inner planets, 10 flew by Venus/Mercury"
+     ],
+     [
+      "Pioneers",
+      "outer and inner; 10, first close up photos of Jupiter; 11, trajectory to Saturn"
+     ],
+     [
+      "Vikings",
+      "1&2 explored Mars, searched for life"
+     ],
+     [
+      "Voyagers 1&2",
+      "greatly improved pics and data on Pioneers opening to outer planets; 2 flew by Uranus"
+     ],
+     [
+      "Giotto",
+      "explored Halley's Comet"
+     ],
+     [
+      "Mars Global Surveyor",
+      "mapped and collected info on surface of Mars; also atmosphere, gravity, magnetic fields, etc."
+     ],
+     [
+      "Mars Pathfinder",
+      "second of low-cost Discovery missions; stationary lander and surface rover"
+     ],
+     [
+      "Galileo",
+      "entered orbit around Jupiter 1995"
+     ],
+     [
+      "Cassini",
+      "Saturn; international between NASA, ESA, and other European partners"
+     ],
+     [
+      "Chandra",
+      "new x-ray observatory"
+     ],
+     [
+      "X-Prize",
+      "10million to first non-government reusable manned craft launched to 62km, and return w/in 2weeks, w/ weight of 3 adult humans November 6, 2004 was awarded to Mojave Aerospace Ventures, SpaceShipOne"
+     ]
+    ],
+    "group": "sections"
+   },
+   {
+    "id": "people",
+    "name": "People / Aircraft",
+    "cards": [
+     [
+      "Leonardo da Vinci",
+      "first designs of parachute and helicopter"
+     ],
+     [
+      "Torriccelli, Von Guericke, Paschal",
+      "studied atmosphere, decreasing pressure, invented barometer"
+     ],
+     [
+      "Francesco de Lana",
+      "Aerial ship"
+     ],
+     [
+      "Laurenco de Gusmao",
+      "hot air balloon"
+     ],
+     [
+      "Priestly",
+      "discovered Oxygen"
+     ],
+     [
+      "Montgolfier balloon over Paris, Nov 21, 1783",
+      "flown by Pilatre de Rozier and Marquis d'Arlandes"
+     ],
+     [
+      "Jean Pierre Blanchard, Dr. John Jeffries",
+      "flew balloon across English Channel"
+     ],
+     [
+      "First successful rigid zeppelin",
+      "by Zeppelin"
+     ],
+     [
+      "First dirigible",
+      "Henry Gifford or Charles Renard and AC Krebs; electric motors, steered back to takeoff pt"
+     ],
+     [
+      "Alberto Santos-Dumont and Count Ferdinand von Zeppelin",
+      "used internal combustion to power their craft"
+     ],
+     [
+      "Cayley",
+      "lift, drag and thrust; first full-sized manned glider; camber to increase lift; props, bi-tri wings, power plants"
+     ],
+     [
+      "Penaud",
+      "Planaphore, front to back stability"
+     ],
+     [
+      "Francis Wenham",
+      "first wind tunnel to test wing shapes"
+     ],
+     [
+      "Clement Ader",
+      "first manned craft to take off from level ground under own power"
+     ],
+     [
+      "Montgomery",
+      "man carrying glider with wings like a seagull (Maloney flew it)"
+     ],
+     [
+      "Lilithenthal",
+      "Father of Modern Aviation, powered flight, engine to wingtips, head worked controls, powered biplane"
+     ],
+     [
+      "Octave Chanute",
+      "designed gliders, study and distribution of aviation history"
+     ],
+     [
+      "Henson and Stringfellow",
+      "plans and patent for man-carrying powered aircraft, never built; steam driven model flew"
+     ],
+     [
+      "Langley",
+      "attempted to add power to glider, successful steam powered (but Aerodome fell into Pacific)"
+     ],
+     [
+      "Curtiss",
+      "motorcycles to planes, fastes man on earth, founded Aerial Experiment Association (ailerons, first seaplane)"
+     ],
+     [
+      "Ely",
+      "first flight from deck of ship"
+     ],
+     [
+      "Rodgers",
+      "first cross country flight, 1911 (Long Island – CA)"
+     ],
+     [
+      "Harriet Quimby",
+      "first licenses female pilot, first woman solo across E. Channel"
+     ],
+     [
+      "Robert Esnault-Pelterie",
+      "Wright-glider 1904 w/ ailerons, first fully enclosed fuselage"
+     ],
+     [
+      "Alberto Santos-Dumont",
+      "first powered airplane in Europe"
+     ],
+     [
+      "Louis Beleriot",
+      "1st powered monoplane, 1st flight English Channel, 1909; also 1st international air meet, Rheims 8/22-28"
+     ],
+     [
+      "WH Phillips",
+      "1st successful helicopter, 1842"
+     ],
+     [
+      "Louis Breguet",
+      "1st copter to lift man, 1907 (also Paul Cornu)"
+     ],
+     [
+      "Emile and Henry Berliner",
+      "first Americans to build and fly helicopter, 1909"
+     ],
+     [
+      "Nonstop NY to San Diego",
+      "Kelly and Macready, 1922"
+     ],
+     [
+      "World round",
+      "Chicago, New Orleans, Seattle to Seattle"
+     ],
+     [
+      "Smith and Ritcher",
+      "in flight 37hours with first aerial refueling in 1923"
+     ],
+     [
+      "Russell",
+      "coast to coast in >22hrs, NY to SF"
+     ],
+     [
+      "Lindbergh",
+      "crossed Atlantic, 5/20/1927, NY to Paris"
+     ],
+     [
+      "Earhart",
+      "1st woman passenger across Atlantic, first woman solo transatlantic flight, president of 99s, lost around world"
+     ],
+     [
+      "Hindenburg",
+      "fatal accident, 1936; first fatalities in scheduled service"
+     ],
+     [
+      "Air Supremacy theory — Douhet",
+      "Massive first strike, then population"
+     ],
+     [
+      "Air Supremacy theory — Trenchard",
+      "father of RAF, long range bombing, 2/3 B, 1/3 F, paralyze vital centers"
+     ],
+     [
+      "Air Supremacy theory — Mitchell",
+      "destroy will to resist, 60% fighter"
+     ],
+     [
+      "Air Supremacy theory — Chennault",
+      "need fighter escort"
+     ],
+     [
+      "Air Corp Tactical School (theory)",
+      "daylight precision Target: submarine, air factories, comms and transport"
+     ],
+     [
+      "B-17s",
+      "dropped bombs on Japanese ships"
+     ],
+     [
+      "B-25s",
+      "came below to skip 500lb bombs into sides of ships"
+     ],
+     [
+      "B-29",
+      "strategic bomber against Japan (Tokyo attacked in night attack w/them, 3/9-10/1945 MOST destructive air raid)"
+     ],
+     [
+      "B-36",
+      "in 1948, biggest bomber; 10,000lbs bombs 10,000mi"
+     ],
+     [
+      "Sikorsky R-4",
+      "1st successful military helicopter, rescue downed pilots behind enemy lines, good for search and rescue"
+     ],
+     [
+      "C-47",
+      "three and a half tons of cargo for Berlin Airlift"
+     ],
+     [
+      "F-80 Shooting Star",
+      "Korean War, used above enemies to strafe and cut supply (also F-51 and F-84)"
+     ],
+     [
+      "DC-4",
+      "surplus made it popular, but then Constellation became the best"
+     ],
+     [
+      "Comet 1",
+      "first pure jet airliner"
+     ],
+     [
+      "Viscount",
+      "first turboprop airliner"
+     ],
+     [
+      "Convair",
+      "short-medium range, later equipped w/ turboprop; 240 enlarged to be 44seat 340, to 56seat 440"
+     ],
+     [
+      "B-52 (people/aircraft)",
+      "needed larger, longer range bomber than B-47"
+     ],
+     [
+      "Northrup SM62 Snark",
+      "jet propped, tailless, pilotless airplane, internal guidance, smart"
+     ],
+     [
+      "GAM 63 Rascal",
+      "small rocket propped winged bomb These allowed soldiers to stay further away from target"
+     ],
+     [
+      "A-6",
+      "Navy fighter-bomber, all weather capable, Vietnam"
+     ],
+     [
+      "EC-121",
+      "radar and surveillance; used to alert AF/Navy for MiGs"
+     ],
+     [
+      "F-105 (AF), A-7E (Navy)",
+      "attacked SAMs"
+     ],
+     [
+      "Tomahawk Land Attack Cruise Missiles",
+      "naval launched against Iraq"
+     ],
+     [
+      "USC-130",
+      "moved men and supplies Tet Offensive"
+     ],
+     [
+      "X-15",
+      "AF, Navy, NACA project for airplane 4,500mph, 250,000ft"
+     ],
+     [
+      "XB-70",
+      "supersonic replacement for B-52, Mach 3, 70,000ft; cancelled"
+     ],
+     [
+      "B-1B",
+      "B-1 designed low altitude penetration bomber"
+     ],
+     [
+      "B-2 and F-117A",
+      "stealth aircraft, invisible to enemy radar"
+     ],
+     [
+      "Caravelle I",
+      "first short haul jet"
+     ],
+     [
+      "707",
+      "revolutionized commercial aviation industry 1960's jets travel reached peak"
+     ],
+     [
+      "Boeing 747",
+      "jumbo jet"
+     ],
+     [
+      "Lockheed Martin's F-35 Lightning II",
+      "Stealth, supersonic, multirole, Joint Strike Fighter"
+     ],
+     [
+      "Konrad Kyeser von Eichstadt",
+      "devised gunpowder propelled rocket"
+     ],
+     [
+      "William Congreve",
+      "standardized composition of gunpowder, added flight stabilizing guide sticks, first viable launching pad, increased rocket range from 300yds to several thousand yds"
+     ],
+     [
+      "William Hale",
+      "spin stabilization, angles exhaust tubes that spun during flight"
+     ],
+     [
+      "Konstantin Eduardovich Tsiolkovsky",
+      "Russian scientist, first computations for rocket flights into space, solved theoretically how reaction engines could escape from and reenter earth's atmosphere"
+     ],
+     [
+      "Dr. Goddard",
+      "Father of modern rocketry, first to use liquid propellants"
+     ],
+     [
+      "Dr. Oberth",
+      "worked w/ liquid oxygen and alcohol propellants, followed Goddard; 1st use of these more powerful liquid propellants was 1920s"
+     ],
+     [
+      "Titan IV",
+      "(all Titans started as twostage Titan II ICBM) stretched 1st and 2nd stage, 2 seven-segment solid strp on boosters, Centaur G third stage; can place 10,200lbs geosynchronous orbit, or 31,100 near earth orbit; Titans are largest, most powerful launch vehicles in US, only larger one was Saturn V Moon rocket"
+     ],
+     [
+      "Atlas and Delta",
+      "two basic launch vehicles, Thor and Atlas. Thor w/ 2nd and 3rd stages became known as Thor-Delta; first delta could put a 480lb payload into orbit 300mi above earth; Delta II is three stage booster, can put 2,000lb into orbit 22,000mi high; nine solid fuel strap ons on first stage; Atlas launched world's first comm. satellite 1958; project mercury boosted by it; also first spacecraft to Venus, Mercury, Mars, Jupiter"
+     ],
+     [
+      "Vomit Comet",
+      "NASA's plane that flies high as can, then dives straight down to put passengers in 1min free fall"
+     ],
+     [
+      "Voyager spacecraft",
+      "launched to study outer planets"
+     ],
+     [
+      "Sputnik",
+      "first artificial satellite, October 4th, 1957"
+     ],
+     [
+      "Explorer 1",
+      "our first satellite, January 31, 1958"
+     ],
+     [
+      "Mercury (program)",
+      "to find out if humans could survive in space, effects of travel on the body"
+     ],
+     [
+      "Gemini",
+      "improve for lunar mission, 2 people in space, rendezvous, and cock, first walk (1st 2man capsule, first walk)"
+     ],
+     [
+      "Apollo",
+      "to put man on moon Apollo 11 landed on moon July 20th, 1969"
+     ],
+     [
+      "Skylab",
+      "to put a laboratory in space"
+     ],
+     [
+      "Apollo-Soyuz",
+      "joint American and Soviet manned spacecraft mission; July 1975"
+     ],
+     [
+      "Space Transportation System (STS)",
+      "AKA Space Shuttle, 1981; system for transportation into and return back from space; Main parts: Orbiter, solid rocket boosters, external tank"
+     ],
+     [
+      "Long-Duration Exposure Facility (LDEF)",
+      "placed by STS-13 to conduct experiments; long term data on space environment and effects on space systems and operations"
+     ],
+     [
+      "Vostok",
+      "first soviet craft to take people to space"
+     ],
+     [
+      "Vokhod",
+      "1964, three man capsule, first walk in space"
+     ],
+     [
+      "Soyuz",
+      "\"union\"; designed for docking in space"
+     ],
+     [
+      "Salyut",
+      "space station (first ever) 1971. Soyuz with world's first space laboratory (being this)"
+     ],
+     [
+      "Skylab (American station)",
+      "2yrs after Salyut, American space station"
+     ],
+     [
+      "Spacelab",
+      "orbiting laboratory by ESA"
+     ],
+     [
+      "First man in space",
+      "Maj. Yuri Gagarin"
+     ],
+     [
+      "First American man in space",
+      "Alan Shepard"
+     ],
+     [
+      "First women in space",
+      "Valentina Tereshkova"
+     ],
+     [
+      "First American woman in space",
+      "Dr. Sally Ride (Challenger)"
+     ],
+     [
+      "First man to orbit Earth",
+      "Maj. Yuri Gargarin"
+     ],
+     [
+      "First American man to orbit Earth",
+      "John Glenn"
+     ],
+     [
+      "First man to walk in space",
+      "Aleksei Leonov"
+     ],
+     [
+      "First American man to walk in space",
+      "Edward H. White"
+     ],
+     [
+      "First woman to walk in space",
+      "Svetlana Savitskaya"
+     ],
+     [
+      "First American woman to walk in space",
+      "Kathryn Dwyer Sullivan"
+     ],
+     [
+      "First man on moon",
+      "Neil Armstrong (then Edwin Aldrin)"
+     ]
+    ],
+    "group": "sections"
+   },
+   {
+    "id": "misc",
+    "name": "Miscellaneous",
+    "cards": [
+     [
+      "Legends of Flight",
+      "Emperor Shun escaped from prison as bird; Kei Kung flew w/ bat wings; Ki-Kung-Shi build flying chariot; Wan Hoo, wicker chair w/ rockets; Daedalus and Icarus"
+     ],
+     [
+      "Wing warping",
+      "one of greatest Wright contributions to flight; also pivoting to make turning quicker and smooth, slide"
+     ],
+     [
+      "Wright's contract",
+      "pilot, passenger, 125mi fuel, 36mph, perfect control, land/takeoff war zone, disassemble-able, train 2 pilots. (They also signed a French contract) 8/2/1909, first Army airplane"
+     ],
+     [
+      "Multiengine",
+      "increase power, improve reliability and safety (Short bros, patent for first multiengine, 1911; Igor Sikorsky 4 engine; first practical helicopter)"
+     ],
+     [
+      "Helicopters (early)",
+      "Roger Bacon, da Vinci, George Cayley"
+     ],
+     [
+      "St. Petersburg-Tampa Airboat Line",
+      "by Tony Jannus, 22mi, 2passengers, $5, 20min across Tampa Bay; 1/1/1914, 5mo"
+     ],
+     [
+      "Wright biplane 1908 as \"Air Force\"; 1911, more planes, by 1913: 19 craft 29 pilots 1914; Germany 200, Britain, France 450; congress failed, we flew British planes After war ended, we dropped by 85%"
+     ],
+     [
+      "Tank, Machine gun changed war, then plane: mastery of air and space to gain new advantage, observation, hand bombs"
+     ],
+     [
+      "Fighters",
+      "would shoot guns at enemy; Roland Garros mounted automatic rifle; Fokker designed interrupting gear"
+     ],
+     [
+      "Ace",
+      "US, French, British: 5; Germany: 10; Rickenbacker, Fonck, Mannock, Manfred"
+     ],
+     [
+      "Lafayette Escadrille",
+      "Americans joining up in Paris; Rickenbacker, value of watching sky, commander of 94th; only living recipient of Congressional Medal of Honor WWI"
+     ],
+     [
+      "Mitchell (airpower)",
+      "airpower offensive, spate from army, if you control air you can't be beaten; control, offense, into heart"
+     ],
+     [
+      "Air power could attack past enemy lines; Mitchell sank Ostfriesland (w/in 8mo, Navy had aircraft carrier)"
+     ],
+     [
+      "Paratroopers",
+      "Sep 1929, TX, 17 men, guns action w/in 4min (Women's air Derby, CA to OH)"
+     ],
+     [
+      "Air races",
+      "Pulitzer (<speed); Thompson trophy, pylon race; Bendix, transcontinental speed; Schneider, seaplane"
+     ],
+     [
+      "Cessna, Beech, Stearman, Taylor",
+      "became Piper (Cessna, Piper, Beech = big three)"
+     ],
+     [
+      "Bi-wing gave way to monoplane, more effective wing shapes and cowlings (covers), pressurized cabins, air-cooled engines, Doolittle first successful blind takeoff (9/24/1929); Juan de la Cierve, first autogiro"
+     ],
+     [
+      "McNary-Watres Act",
+      "contractors paid according to available cargo weight, postmaster could extend or combine mail. Airlines were: United (Boeing), and Transcontinental and Western (Douglas), American (Douglas); Douglas Commercial 3 became standard for all commercial airliners (w/o fatal accidents)"
+     ],
+     [
+      "Pan American Clipper",
+      "first airline crossing of both Pacific and Atlantic; Yankee Clippers, transatlantic passenger service"
+     ],
+     [
+      "Army Air Corp turned to civilian schools, check rides from Army afterwards; Civilian Pilot Training act 1939, CAA to conduct civilian training of pilots 99th Tuskegee, AL"
+     ],
+     [
+      "At first, Luftwaffe could not produce larger aircraft, then when they could they chose not to"
+     ],
+     [
+      "In Russia, Luftwaffe was extended artillery for ground forces; Russia had women pilots"
+     ],
+     [
+      "Japan needed many raw materials and had a spread out fleet"
+     ],
+     [
+      "WAFS + WFTD",
+      "(Women's Auxiliary Ferrying Sqd.) + (Women's Flying Training Detachment) = Women's AF Service Pilots"
+     ],
+     [
+      "Allies: defensive to offensive after we entered war; recapture captured; force unconditional surrender"
+     ],
+     [
+      "June 6, 1944 invasion of Europe, almost unopposed by Luftwaffe; air superiority saved lives"
+     ],
+     [
+      "Japan wanted air superiority, then invasion; but Battle of Coral Sea and Battle of Midway naval/air battle stopped them (with control of Islands, Allies could start strategic bombing of Japan)"
+     ],
+     [
+      "Beginning of end of Japanese: Battle of Bismarck Japan fought to death: atomic bombs saved lives (Hiroshima)"
+     ],
+     [
+      "Airpower dominant role in war — Europe",
+      "centralized control, air superiority was first priority; new technology added to original doctrine (ie fighters) flexibility"
+     ],
+     [
+      "Airpower dominant role in war — Pacific",
+      "Flexibility, high daylight to low nighttime bombing"
+     ],
+     [
+      "Zero",
+      "Japanese reconnaissance? Precision (precise); area (against Japan)?"
+     ],
+     [
+      "In addition to B-36 during WWII, advances in aircraft design, electronic systems, engines, armor protection, pressurized crew compartment, firing guns by remote"
+     ],
+     [
+      "Americans could shoot down amazing MiG jets because we had better trained pilots"
+     ],
+     [
+      "Best weapons in Korea",
+      "new rockets delivered by planes; bomb like Gen. Kenney's, \"firebomb\""
+     ],
+     [
+      "TV showed people ugliness of Vietnam War"
+     ],
+     [
+      "Thanh Hoa Bridge",
+      "Finally destroyed by laser guided bombs"
+     ],
+     [
+      "Rolling Thunder (control)",
+      "hand behind back, certain off limits, president chose targets, etc."
+     ],
+     [
+      "Linebacker (control)",
+      "military leaders planned, cut off external supply, stopped communist advance"
+     ],
+     [
+      "Satellites watched enemy's missile field to avoid surprise attack"
+     ],
+     [
+      "Radar could detect aircraft miles away"
+     ],
+     [
+      "Into Saudi Arabia: spotted nighttime move, cut off reserves, got pics from satellites"
+     ],
+     [
+      "100hr War",
+      "escaping forces caught by air power and pummeled"
+     ],
+     [
+      "Composite Materials",
+      "super strong, yet light"
+     ],
+     [
+      "Gen.A in US",
+      "geography, expense, freedom to fly"
+     ],
+     [
+      "Cold air more dense than hot"
+     ],
+     [
+      "Subtract empty weight from maximum allowable to find useful load"
+     ],
+     [
+      "Hydraulic features useful on maps, easy to identify, accurately drawn"
+     ],
+     [
+      "Unpaved (chart symbol)",
+      "magenta"
+     ],
+     [
+      "Facilities, four ticks no tower (chart symbol)",
+      "magenta"
+     ],
+     [
+      "Tower (chart symbol)",
+      "blue"
+     ],
+     [
+      "FAA (federal Aviation Admin)",
+      "establishes and enforces restrictions in US"
+     ],
+     [
+      "Airports (hazards)",
+      "wildlife is a danger; noise; encroachment (noise abatement procedures)"
+     ],
+     [
+      "When True Course line crosses line of longitude, point is formed. Direction in degrees is measured clockwise from longitude to true course."
+     ],
+     [
+      "Magnetic N,S lines move, show where earth's magnetic field is same"
+     ],
+     [
+      "Pilot must steer magnetic North, add or subtract True north difference to find direction"
+     ],
+     [
+      "Compass needs to be adjusted once installed, electrical power and metal cause deviations"
+     ],
+     [
+      "Atmospheric water, pretty much only on troposphere"
+     ],
+     [
+      "Higher temp of air, more water vapor can be held"
+     ],
+     [
+      "If water falls it's precipitation, if no water falls it's condensation"
+     ],
+     [
+      "Primary causes of atmospheric motion",
+      "heat & earth's motion (heat in atmosphere responsible for all weather processes)"
+     ],
+     [
+      "latent heat of condensation",
+      "Water vapor condenses, heat is released and effects temperature"
+     ],
+     [
+      "Heat Balance",
+      "if none, earth would become warmer; insolation is turned back from earth by space or atmosphere"
+     ],
+     [
+      "Centrifugal force",
+      "acts on air moving in curved path, decreases speed in low pressure, increases in high pressure (air flows clockwise around high pressure [anticyclone] and counterclockwise around low pressure [cyclone] in N Hemisphere)"
+     ],
+     [
+      "Air Mass characteristics depend",
+      "surface formed over, season, surface traveling over, length of time from source; (to E)"
+     ],
+     [
+      "Cold air masses move faster than warm air masses"
+     ],
+     [
+      "Along seacoasts, breeze from sea by day; clouds from inland and bring showers, at night, current reverse, brings breeze from land to sea"
+     ],
+     [
+      "Wind blowing to/w/ upward land formations carries moist air to altitude where at dew pt temp condensation occurs; reverse can also occur; Anytime flow of wind is interrupted, turbulence occurs"
+     ],
+     [
+      "reaction engine",
+      "The action or a rocket's exhaust produces a reaction, the moving of the rocket in opposite direction"
+     ],
+     [
+      "Rockets first used by Chinese in 1220; they were also first to use the in war, 1232"
+     ],
+     [
+      "To increase thrust of rocket",
+      "increase mass of exhaust, or accelerate exhaust to higher velocity"
+     ],
+     [
+      "Takeoff mass",
+      "payload, fuel load, dead weight"
+     ],
+     [
+      "Earth Rotates EAST"
+     ],
+     [
+      "Launch vehicles",
+      "can be expendable (Titan, Atlas, Delta) or reusable (space shuttle)"
+     ],
+     [
+      "NASA",
+      "launches nonmilitary spacecraft"
+     ],
+     [
+      "SOHO",
+      "Solar and Heliospheric Observatory, Dec 1995"
+     ],
+     [
+      "Ionosphere contains reflecting layers"
+     ],
+     [
+      "Sun is active when solar flares and other disturbances are occurring"
+     ],
+     [
+      "Radiation effects",
+      "safe is .3 roentgens per hour; internal belt gives 10-20 roentgens per hour; can damage satellites"
+     ],
+     [
+      "Collisions are dangerous, most common are high energy particles from solar flares and cosmic rays; protections from collisions not feasible because shielding is too heavy"
+     ],
+     [
+      "Free fall effects, along w/ physiological, are considerations"
+     ],
+     [
+      "Spitzer space telescope",
+      "launched to orbit 2003"
+     ],
+     [
+      "Biggest reason for space race was international prestige"
+     ],
+     [
+      "Military primary responsibility is defense, so space exploration should be civilian"
+     ],
+     [
+      "Sputnik (custom)",
+      "established important new custom of satellites to fly over countries w/o permission (freedom of use)"
+     ],
+     [
+      "In space: microgravity, dehydrated food saving weight and storage space; exercise to counter muscle atrophy"
+     ],
+     [
+      "Space Suits",
+      "1930s, high flyers wore pressure suits; Mercury wore modified version of Navy high altitude pressure suit; Gemini, lighter, easily removable, could be removed in orbit; up through Apollo, separate, backpack life support system and tailor made suits; w/ Space Shuttle, lighter, durable, easier to move suits, made in sizes; life support built into torso"
+     ],
+     [
+      "Space Station Alpha",
+      "venture between US, Europe, Japan, Russia; permanent space station of near future"
+     ],
+     [
+      "L4, L5",
+      "potential points for space colonies, gravitational equilibrium, named for Lagrange"
+     ],
+     [
+      "Circular velocity minus apogee velocity equals amount of kick needed to circularize an orbit at given altitude"
+     ]
+    ],
+    "group": "sections"
+   },
+   {
+    "id": "planets",
+    "name": "Planets",
+    "cards": [
+     [
+      "Mercury",
+      "closest to sun, slightly larger than moon, second smallest of nine; rocky crust surface with many craters, much like Moon. Everything is extreme. Messenger first orbited it."
+     ],
+     [
+      "Venus",
+      "nearest to earth in distance and size, sister; highly reflective atmosphere, strong greenhouse effect; mapped by Magellan probe"
+     ],
+     [
+      "Mariner 2",
+      "confirmed high surface temp, first successful interplanetary mission"
+     ],
+     [
+      "Venera 3",
+      "Soviet; crash landed"
+     ],
+     [
+      "Mariner 5",
+      "carbon dioxide rich atmosphere"
+     ],
+     [
+      "Mariner 10",
+      "direction/speed of clouds"
+     ],
+     [
+      "Veneras 9 & 10",
+      "craters"
+     ],
+     [
+      "Pioneer 1 (Venus)",
+      "tall mountains, plateaus, canyons"
+     ],
+     [
+      "Pioneer 2 (Venus)",
+      "4 distinct could and haze layers"
+     ],
+     [
+      "Magellan",
+      "mapped 99%"
+     ],
+     [
+      "Galileo (Venus)",
+      "orbiter and space probe"
+     ],
+     [
+      "Venus Express",
+      "ESA"
+     ],
+     [
+      "Earth",
+      "70% water, Pacific Ocean 50%; revolves 365 ¼ days, rotates 24hrs"
+     ],
+     [
+      "Moon",
+      "same side towards earth, 270o during 14 earth days, equaling one moon day, -250o lunar night; impact craters; rillies; dust may have come from meteorites striking surface, or is picked up from space; tests showed dust to have sterilizing effect"
+     ],
+     [
+      "Moon rocks",
+      "Basalt (dark gray, tiny holes gas escaped from; Anorthosite (commonest, feldspar, highlands and light areas); others include Breccia (combination) and KREEP (not on earth)"
+     ],
+     [
+      "Mars",
+      "fourth planet, red planet; thin carbon dioxide atmosphere, half gravity of earth"
+     ],
+     [
+      "Mariner (Mars)",
+      "4, flyby w/ 21 photos 6/7, 200 photos, clues for puzzling features 9, pics of entire surface"
+     ],
+     [
+      "Vikings 1/2",
+      "orbiters and landers both; orbiters surveyed planet, relayed pics/data gathered by landers below; more water than expected; Viking 1 found -18 thru -130 degrees"
+     ],
+     [
+      "Pathfinder",
+      "rover Sojourner investigated rocks and soil"
+     ],
+     [
+      "Global surveyor",
+      "entered orbit"
+     ],
+     [
+      "Spirit and Opportunity",
+      "rovers landed 2004, exploring"
+     ],
+     [
+      "Jupiter",
+      "largest planet: rotates 10hrs, bulges at equator; high winds, giant storms; hydrogen gass giant, w/ helium, methane, and ammonia; giant red spot; 16 known moons, larger four Galilean moons, rotate clockwise); Jupiter has strong magnetic field and radiation belts; like ALL gas giants, has RINGS"
+     ],
+     [
+      "Pioneers 10/11 (Jupiter)",
+      "first investigated; discovered that banded structure lack near poles, for circular/oval patterns"
+     ],
+     [
+      "Voyager (Jupiter)",
+      "volcanic eruptions on Io, discovered three mons (to make 16)"
+     ],
+     [
+      "Saturn",
+      "second largest, rings! Icey chunks of rock, hundreds of narrow ringlets, 1mi thick, extending 250,000 miles from planet; SEVEN distinct RINGS; final two discovered by Pioneer; rotates fast, 10hrs. 29yrs to revolve. 18 moons, Titan has own atmosphere; Pioneer and voyager revealed: outermost region has planet's atmosphere and cloud layers; pioneer discovered good magnetic field; Saturn is LESS DENSE than WATER, so would float"
+     ],
+     [
+      "Uranus",
+      "third largest, gas giant, rocky core surrounded by water, ammonia, methane; methane gives bluish greenish color; rotates 18hrs, spins sideways, 84 years to orbit sun, 42yr day then night; Voyager 2 discovered magnetic field to be tilted 60o and offset from center; 11 rings, 15 moons"
+     ],
+     [
+      "Neptune",
+      "fourth largest, outermost gas giant; Uranus' twin; 165yrs to orbit, day lasts 19hrs, rocky core w/ water, ammonia, methane; hydrogen, helium, methane atmosphere; WNDIEST planet; 8 moons, Triton circles Neptune tilted, more interior rock than Uranus and Neptune"
+     ],
+     [
+      "Pluto",
+      "yellowish gold, Mars size; rotates 6.5 days, orbit inclined to elliptic 17o, bringing it inside Neptune sometimes during 249yr orbit; 50-75% rock mixed with ice; temp varies widely; atmosphere freezes as moves away from sun; minor planets lie beyond Pluto, Kuiper Belt. New Horizons launched towards Pluto"
+     ],
+     [
+      "Eris",
+      "dwarf has moon"
+     ],
+     [
+      "Sedna",
+      "most distant body recorded"
+     ],
+     [
+      "Quaoar",
+      "edge of Kuiper belt, in field of icy bodies"
+     ]
+    ],
+    "group": "sections"
+   }
+  ]
+ }
+}

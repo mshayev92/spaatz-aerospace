@@ -1,0 +1,1768 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Spaatz Study</title>
+<link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAF0ElEQVR4nO1VW0xUVxTdZ99z77ypvCwzA00cMgkmTVFIVCaExLeJNZUPQ4waYrXpxJRWvpoU7U9FE6z+tiaNbVNN7JhCGZIWaEVoo0WGgRHQtspDCioOBQdndIbLuef0A+84+Opn+8H6u+fsve5+rL0PwCIWsYj/G2w2m9Xtdq8BACCEvNS2oKBg68vudX+Xy7UmPT3dSgh5MSciAgBAcXFxTXNzc9RgMCAiPuOgf8uynNfQ0CA8Hk8eAIAkSS/ixMOHD0dra2trnmeHOinnHGw2W6bb7T7icDis1dXV+znnycCeTs7j8fji8Tivra31AQARQjwTKOccCgoK9jPGrJWVlUfcbnempmkLOBewl5aWfuFyuaC+vj7h9Xo/czgc1lQHRAQhBOTn568rLS1dc+nSpVheXt6a3bt3r+OcJ7MjhIAQAkwmk3X9+vWfxWKxRDAYhLq6ui+eU6V50ry8vMJVq1ZtR0R1amoKBwcH8ejRoydTyy6EAEqpvHHjRh+llBmNRnNTUxM7dOiQz2KxyJxzSO1zWVnZyZycHLTZbNje3q4WFxdv37x5c2FqsHoLcNu2bQ2UUsYYo2lpaUpLS4u6adOmd0pKSlyapgGlFIQQ4PF4DrpcroxEIsHNZjMdGhrisVgso6am5uDjAIFzDna73VVWVvZOPB5XCSEKIYS2tLSwY8eONVBKUW8Zcs5h9erVO5YvX74sGo0yRERCCKiqihcvXuTHjx/3AQDRNA2WLFmSsXXr1rpoNKoiovJYN4rf71f37t1bl5+fn8EYAwAg5eXlPkmSOGMMhRBgsVgwFAoxs9m87MCBAzs45/MB2Gw2c3l5+elIJMIQUQEAXZC0s7NTdTqdxfv27dsghICdO3eeNhqNfHZ2NqkHSilEIhHo7e3lJ06cOC2EgJKSkg0rVq4onp6eVmVZpjqnxWJRGhsbWXV19Wm73W4GAMDy8u1fp6WlmWdmZkCSpKQohRBgNBoVv9/PvV7vqaKilXuKioreCofDQClV9BJqmgY2m01pa2uDwsLCt7Zs2bJn7dq1p+5P3+eEECWVz2Aw4NjYGIyMjJiPHPnkKwAA7BvoH7s5eAMMBgM8PUqICLOzCfjp59a/w+Hwna7uK0AI4Qut5sllWea//NoOt2+P3w4Eu6ZjsRhIkrSAk3MOJqMJBoduQsevv4wCAGCoN/Th4ODN8LzIgKeSEkKY3ZGDZ86c9Y6P377Q093zNRcaRUJU3e6xXlSXaxnt6Gj/sr9/oC3Ue9U7HZlCSZKYHgAhBBhjPCs7CyKR+/fOfnP2o/kpEDAXCHTvmnkQoZKE6uMfg6qqzJnrpJ1dV1qvX7veg4jQPzBQdWt0JJkZIURvASTUOD9/vv4DRITJ8GR3qLenVYCgAMBSklJz7Evpt+d8uzRNmwMAQEII3L0zcaGvvy+EEioAwDjnYDabOZURfefOVyYznVWjXZ2BqsRsXJEkSRVCAOdcdeY6lMbv/e9HH0Sj+g4I9fZV3rk7jrIscwAAVVWZ3Z6j9PX3h4LBnrbkctODCwaCFeHJeyjLMp+bm1MdTrvS8mPrp5PhyQlEBE3TgBACw8PDn//xx+9hSinOqXMsMysT/xobDV9saz+lV4QQAg8fPpoIdAU+ZdqcAgCqoijcZDai75yvAgCSwkC9lDMzD250dwfOMI0p6enp8PfUpNrc3PKxrocnQhKs60qgIjJznxqMhkdpr1jpd+frKzRNY6kbEwDg9+t/fjw8PKQiItjtOUpHR/uZsbHxG4gIyT2Qqub+q9eqRv+6xZe+mqX4G/1vJxKJuD7vKcKEiYl7HcHu4OXspVnWq6Hey9euXW9PJU0RXfzy5d/2AeHKo/hD3tT0w3tPJ7TAAQDg9Tde//Bd7/6p+YX47Nutn1lt1tc+qK4SubnO3NTz59hixc4dM+s3rKsGgBe9rk9gMpks2UuzC19EmorcXOebL7vX/bOzs1aaTCbTv/EtYhGL+E/wD94p0i3NqrMBAAAAAElFTkSuQmCC">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0A1420; --bg2:#0E1C2B; --panel:#13283C; --panel2:#0F2030;
+    --ink:#E9EFF4; --muted:#8DA2B6; --faint:#5C7184;
+    --line:rgba(255,255,255,.10); --line2:rgba(255,255,255,.06);
+    --lead:#E6A92E; --aero:#46AFE0;
+    --mastered:#3FC79A; --review:#E96A4C; --general:#8B7FE0;
+    --card:#EEF3F6; --card-ink:#16232F; --card-muted:#5a6b78;
+    --accent:var(--lead);
+    --shadow:0 24px 60px -20px rgba(0,0,0,.7);
+    --mono:'JetBrains Mono',ui-monospace,Menlo,monospace;
+    --disp:'Space Grotesk',system-ui,sans-serif;
+    --body:'Inter',system-ui,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%}
+  body{
+    background:
+      radial-gradient(1200px 700px at 50% -10%, rgba(70,175,224,.06), transparent 60%),
+      radial-gradient(900px 600px at 90% 110%, rgba(230,169,46,.04), transparent 60%),
+      linear-gradient(180deg,var(--bg),var(--bg2));
+    color:var(--ink); font-family:var(--body);
+    -webkit-font-smoothing:antialiased; min-height:100%;
+    display:flex; flex-direction:column; align-items:center;
+    padding:20px 16px 40px;
+  }
+  .wrap{width:100%; max-width:720px}
+
+  /* ---------------- header ---------------- */
+  header{display:flex; align-items:center; justify-content:space-between; gap:14px; margin-bottom:20px}
+  .brand{display:flex; align-items:center; gap:11px}
+  .brand-logo{display:block;flex:0 0 auto;object-fit:contain}
+  h1{font-family:var(--disp);font-weight:600;font-size:17px;letter-spacing:.2px;margin:0;line-height:1}
+
+  .tabs{display:flex;gap:4px;padding:4px;border:1px solid var(--line);border-radius:12px;background:rgba(255,255,255,.02);flex:0 0 auto}
+  .tab{appearance:none;border:0;cursor:pointer;background:transparent;color:var(--muted);
+    font-family:var(--disp);font-weight:600;font-size:13px;letter-spacing:.2px;padding:8px 13px;border-radius:8px;display:flex;align-items:center;gap:7px;transition:background .2s,color .2s}
+  .tab .dot{width:7px;height:7px;border-radius:50%;background:currentColor;opacity:.5}
+  .tab[data-deck="leadership"]:hover:not(.active){color:var(--lead);background:color-mix(in srgb,var(--lead) 12%,transparent)}
+  .tab[data-deck="aerospace"]:hover:not(.active){color:var(--aero);background:color-mix(in srgb,var(--aero) 12%,transparent)}
+  .tab[data-deck="leadership"]:hover:not(.active) .dot{opacity:1}
+  .tab[data-deck="aerospace"]:hover:not(.active) .dot{opacity:1}
+  .tab.active:hover{filter:brightness(1.08)}
+  .tab.active{color:var(--card-ink)}
+  .tab.active[data-deck="leadership"]{background:var(--lead)} .tab.active[data-deck="aerospace"]{background:var(--aero)}
+  .tab.active .dot{opacity:1;background:var(--card-ink)}
+
+  /* ---------------- topic select (primary nav) ---------------- */
+  .topicrow{margin-bottom:14px}
+  select.topic{
+    width:100%;appearance:none;font-family:var(--disp);font-weight:600;font-size:14.5px;
+    color:var(--ink);background-color:var(--panel2);cursor:pointer;
+    background-image:linear-gradient(150deg,var(--panel),var(--panel2));
+    border:1px solid var(--line);border-radius:12px;padding:13px 40px 13px 16px;border-left:3px solid var(--accent);
+  }
+  select.topic{
+    background-image:linear-gradient(150deg,var(--panel),var(--panel2)),
+      linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);
+    background-position:0 0, calc(100% - 20px) 50%, calc(100% - 15px) 50%;
+    background-size:100% 100%, 6px 6px, 6px 6px; background-repeat:no-repeat;
+  }
+
+  /* ---------------- search ---------------- */
+  .search-panel{
+    position:absolute;top:calc(100% + 8px);left:0;right:0;z-index:30;
+    background:linear-gradient(165deg,var(--panel),var(--panel2));border:1px solid var(--line);border-radius:13px;
+    box-shadow:var(--shadow);display:none;flex-direction:column;
+  }
+  .search-panel.open{display:flex}
+  .search-input-row{display:flex;align-items:center;gap:0;padding:4px 6px;border-bottom:1px solid var(--line2)}
+  .search-input-row svg{width:15px;height:15px;color:var(--faint);flex:0 0 auto;margin:0 8px}
+  input#search{
+    flex:1;font-family:var(--body);font-size:14px;color:var(--ink);background:transparent;
+    border:0;outline:none;padding:9px 0;
+  }
+  input#search::placeholder{color:var(--faint)}
+  .search-clear{appearance:none;border:0;background:transparent;color:var(--faint);cursor:pointer;font-size:18px;line-height:1;padding:4px 6px;flex:0 0 auto;display:none}
+  .search-clear.vis{display:block}
+  .search-results{max-height:320px;overflow-y:auto;}
+  .search-results::-webkit-scrollbar{width:4px} .search-results::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px}
+  .sr-header{font-family:var(--mono);font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--faint);padding:10px 14px 6px;border-bottom:1px solid var(--line2)}
+  .sr-item{display:flex;flex-direction:column;gap:3px;padding:10px 14px;cursor:pointer;border-bottom:1px solid var(--line2);transition:.12s;text-align:left;appearance:none;border-left:0;border-right:0;border-top:0;background:transparent;width:100%}
+  .sr-item:last-child{border-bottom:0}
+  .sr-item:hover{background:rgba(255,255,255,.05)}
+  .sr-term{font-family:var(--disp);font-weight:600;font-size:13.5px;color:var(--ink);line-height:1.2}
+  .sr-def{font-family:var(--body);font-size:12px;color:var(--muted);line-height:1.4;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+  .sr-meta{font-family:var(--mono);font-size:10px;color:var(--faint);margin-top:2px}
+  .sr-none{font-family:var(--body);font-size:13px;color:var(--muted);padding:18px 14px;text-align:center}
+  mark{background:color-mix(in srgb,var(--accent) 35%,transparent);color:var(--ink);border-radius:2px;padding:0 1px}
+  .stats{display:flex;align-items:center;gap:12px;margin-bottom:16px;font-family:var(--mono);font-size:11px;color:var(--muted)}
+  .stats .gauge{flex:1;height:6px;border-radius:99px;background:rgba(255,255,255,.06);overflow:hidden;border:1px solid var(--line2)}
+  .stats .gauge > i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--accent),color-mix(in srgb,var(--accent) 60%,#fff));transition:width .4s ease;box-shadow:0 0 8px 0 color-mix(in srgb,var(--accent) 70%,transparent)}
+  .stats .readout{white-space:nowrap;flex:0 0 auto}
+  .stats .readout b{color:var(--ink)}
+  .stats .readout .m{color:var(--mastered)} .stats .readout .r{color:var(--review)} .stats .readout .g{color:var(--general)}
+  .total-toggle{appearance:none;border:0;background:transparent;cursor:pointer;font:inherit;color:var(--muted);padding:2px 4px;margin:-2px -4px;border-radius:5px;transition:.12s}
+  .total-toggle:hover{background:rgba(255,255,255,.08);color:var(--ink)}
+  .total-toggle b{color:var(--ink)}
+
+  /* ---------------- study controls ---------------- */
+  .studybar{display:flex;align-items:center;gap:8px;margin-bottom:16px;position:relative}
+  select.filter{
+    appearance:none;font-family:var(--mono);font-size:11.5px;color:var(--ink);background-color:var(--panel2);cursor:pointer;
+    border:1px solid var(--line);border-radius:10px;padding:9px 30px 9px 12px;
+    background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);
+    background-position:calc(100% - 16px) 53%,calc(100% - 11px) 53%;background-size:5px 5px,5px 5px;background-repeat:no-repeat;
+  }
+  .seg{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:rgba(255,255,255,.02)}
+  .seg button{appearance:none;border:0;background:transparent;cursor:pointer;color:var(--muted);font-family:var(--mono);font-size:11px;letter-spacing:.2px;padding:9px 12px;transition:.15s;white-space:nowrap}
+  .seg button + button{border-left:1px solid var(--line2)}
+  .seg button.on{background:color-mix(in srgb,var(--accent) 22%,transparent);color:var(--ink)}
+  .seg button:hover{color:var(--ink)}
+  .spacer{flex:1 1 auto}
+
+  .toolsbtn{appearance:none;cursor:pointer;display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:rgba(255,255,255,.02);color:var(--muted);font-family:var(--mono);font-size:11px;padding:9px 11px;border-radius:10px;transition:.15s}
+  .toolsbtn:hover{color:var(--ink);border-color:color-mix(in srgb,var(--accent) 45%,var(--line))}
+  .toolsbtn svg{width:14px;height:14px}
+  .toolsbtn.open{color:var(--ink);border-color:color-mix(in srgb,var(--accent) 60%,var(--line));background:rgba(255,255,255,.05)}
+
+  .toolsmenu{
+    position:absolute; top:calc(100% + 8px); right:0; z-index:20; width:224px;
+    background:linear-gradient(165deg,var(--panel),var(--panel2)); border:1px solid var(--line); border-radius:13px;
+    box-shadow:var(--shadow); padding:6px; display:none; flex-direction:column; gap:2px;
+  }
+  .toolsmenu.open{display:flex}
+  .toolsmenu button{
+    appearance:none;border:0;cursor:pointer;background:transparent;color:var(--ink);text-align:left;
+    font-family:var(--body);font-size:13px;padding:10px 11px;border-radius:8px;display:flex;align-items:center;gap:10px;transition:.12s;
+  }
+  .toolsmenu button:hover{background:rgba(255,255,255,.07)}
+  .toolsmenu button svg{width:15px;height:15px;color:var(--muted);flex:0 0 auto}
+  .toolsmenu button.danger{color:#ffb4a3}
+  .toolsmenu button.danger svg{color:#ffb4a3}
+  .toolsmenu button.accent-master:hover{color:var(--mastered)}
+  .toolsmenu button.accent-master:hover svg{color:var(--mastered)}
+  .toolsmenu hr{border:0;border-top:1px solid var(--line2);margin:5px 4px}
+  .toolsmenu-label{font-family:var(--mono);font-size:10px;letter-spacing:.8px;text-transform:uppercase;color:var(--faint);padding:8px 11px 6px}
+  .toolsmenu-row{display:flex;gap:6px;padding:0 6px 8px}
+  .toolsmenu-row .seg{flex:1;display:flex;background:rgba(255,255,255,.04);border-color:var(--line2)}
+  .toolsmenu-row .seg button{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:0;padding:8px 4px;font-size:12px}
+  .toolsmenu-row .seg button.on{background:var(--accent);color:var(--card-ink);border-radius:8px;font-weight:600}
+
+  select.filter:focus-visible,.seg button:focus-visible,.tab:focus-visible,.toolsbtn:focus-visible,.mbtn:focus-visible,.navbtn:focus-visible,.card:focus-visible,select.topic:focus-visible,.toolsmenu button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+  /* native dropdown popup contrast fix (white-on-white bug) */
+  select.topic option, select.filter option{ background-color:#16232F; color:#EEF3F6; }
+
+  /* ---------------- card ---------------- */
+  .stage{transition:transform .25s cubic-bezier(.2,.7,.2,1)}
+  .stage:has(.card:hover):not(:has(.card.noflip)){transform:translateY(-3px)}
+  .card{position:relative;width:100%;min-height:420px;cursor:pointer;border:0;padding:0;background:transparent;transform-style:preserve-3d;text-align:left;display:block}
+  .card:not(.noflip):active{transform:scale(.985)}
+  .card.flipped:not(.noflip):active{transform:rotateY(180deg) scale(.985)}
+  .card.flipped{transform:rotateY(180deg)}
+  .card.noflip{cursor:default}
+  .face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;background:linear-gradient(170deg,#fff,var(--card));border-radius:18px;box-shadow:var(--shadow);display:flex;flex-direction:column;overflow:hidden;transition:box-shadow .25s}
+  .card:not(.noflip):hover .face{box-shadow:0 30px 70px -22px rgba(0,0,0,.75)}
+  .face.back{transform:rotateY(180deg)}
+  .facebody{flex:1;min-height:0;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:48px 40px 32px;overflow:auto;position:relative}
+  .kicker{font-family:var(--mono);font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--card-muted);position:absolute;top:16px;left:18px}
+  /* default (M) sizes */
+  .term{font-family:var(--disp);font-weight:600;color:var(--card-ink);line-height:1.14;font-size:clamp(28px,4.5vw,44px);letter-spacing:-.5px}
+  .def{font-family:var(--body);color:#27333d;line-height:1.6;font-size:clamp(20px,3vw,28px)}
+  .fact{font-family:var(--body);color:var(--card-ink);line-height:1.6;font-size:clamp(20px,3vw,28px);font-weight:500}
+  /* S — smaller */
+  .sz-s .term{font-size:clamp(20px,3vw,28px)}
+  .sz-s .def,.sz-s .fact{font-size:clamp(15px,2.2vw,20px)}
+  /* L — larger */
+  .sz-l .term{font-size:clamp(34px,6vw,56px)}
+  .sz-l .def,.sz-l .fact{font-size:clamp(24px,4vw,36px)}
+  .status-stripe{height:5px;width:100%;transition:background .2s}
+  .status-stripe.m{background:var(--mastered)} .status-stripe.r{background:var(--review)} .status-stripe.g{background:var(--general)} .status-stripe.none{background:transparent}
+
+  .empty{min-height:330px;border:1px dashed var(--line);border-radius:18px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;text-align:center;padding:30px;color:var(--muted)}
+  .empty[hidden]{display:none}
+  .empty .big{font-family:var(--disp);font-size:18px;color:var(--ink)}
+  .empty .mono{font-family:var(--mono);font-size:11px;color:var(--faint)}
+  .empty-icon{width:38px;height:38px;color:var(--faint);opacity:.7;margin-bottom:2px}
+
+  /* ---------------- edit button on card ---------------- */
+  .stage{perspective:1600px;margin-bottom:16px;position:relative}
+  .edit-btn{
+    position:absolute;bottom:22px;right:16px;z-index:10;
+    appearance:none;border:1px solid rgba(0,0,0,.12);background:rgba(255,255,255,.85);
+    backdrop-filter:blur(4px);border-radius:9px;cursor:pointer;padding:7px;
+    display:grid;place-items:center;color:var(--card-muted);transition:opacity .15s, background .15s;
+    opacity:0;pointer-events:none;
+  }
+  .stage:hover .edit-btn{opacity:1;pointer-events:auto}
+  .edit-btn:hover{background:#fff;color:var(--card-ink);border-color:rgba(0,0,0,.2)}
+  .edit-btn svg{width:14px;height:14px;pointer-events:none}
+  /* edited indicator */
+  .card.edited .face.front::after{
+    content:"● edited";position:absolute;bottom:14px;left:16px;
+    font-family:var(--mono);font-size:9px;letter-spacing:1px;text-transform:uppercase;
+    color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent);
+    padding:4px 8px;border-radius:99px;
+  }
+
+  /* ---------------- notes button + side panel ---------------- */
+  .notes-btn{
+    position:absolute;top:22px;right:16px;z-index:10;
+    appearance:none;border:1px solid rgba(0,0,0,.12);background:rgba(255,255,255,.85);
+    backdrop-filter:blur(4px);border-radius:9px;cursor:pointer;padding:7px;
+    display:grid;place-items:center;color:var(--card-muted);transition:opacity .15s, background .15s, color .15s;
+    opacity:0;pointer-events:none;
+  }
+  .stage:hover .notes-btn{opacity:1;pointer-events:auto}
+  .notes-btn:hover{background:#fff;color:var(--card-ink);border-color:rgba(0,0,0,.2)}
+  .notes-btn.has-note{opacity:1;pointer-events:auto;color:var(--accent);border-color:color-mix(in srgb,var(--accent) 50%,rgba(0,0,0,.12))}
+  .notes-btn svg{width:14px;height:14px;pointer-events:none}
+  .notes-dot{position:absolute;top:5px;right:5px;width:7px;height:7px;border-radius:50%;background:var(--accent);border:1.5px solid #fff;display:none}
+  .notes-btn.has-note .notes-dot{display:block}
+
+  .notes-panel{
+    position:absolute;top:0;left:100%;margin-left:14px;width:280px;height:100%;
+    background:linear-gradient(165deg,var(--panel),var(--panel2));border:1px solid var(--line);border-radius:16px;
+    box-shadow:var(--shadow);display:flex;flex-direction:column;overflow:hidden;
+    opacity:0;pointer-events:none;transform:translateX(-8px);
+    transition:opacity .18s ease,transform .18s ease;z-index:15;
+  }
+  .notes-panel.open{opacity:1;pointer-events:auto;transform:translateX(0)}
+  .notes-panel-head{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid var(--line2);flex:0 0 auto}
+  .notes-panel-title{font-family:var(--disp);font-weight:600;font-size:13.5px;color:var(--ink)}
+  .notes-panel-close{appearance:none;cursor:pointer;background:transparent;border:0;color:var(--muted);font-size:19px;line-height:1;padding:2px 4px;transition:.15s}
+  .notes-panel-close:hover{color:var(--ink)}
+  .notes-textarea{
+    flex:1;width:100%;resize:none;font-family:var(--body);font-size:13.5px;line-height:1.55;color:var(--ink);
+    background:transparent;border:0;outline:none;padding:14px 16px;
+  }
+  .notes-textarea::placeholder{color:var(--faint)}
+  .notes-panel-foot{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:10px 14px;border-top:1px solid var(--line2);flex:0 0 auto}
+  .notes-saved-hint{font-family:var(--mono);font-size:10px;color:var(--faint);letter-spacing:.3px;opacity:0;transition:opacity .3s}
+  .notes-saved-hint.vis{opacity:1}
+  .notes-clear-btn{appearance:none;cursor:pointer;font-family:var(--mono);font-size:10.5px;padding:6px 11px;border-radius:8px;border:1px solid var(--line);background:transparent;color:var(--muted);transition:.15s}
+  .notes-clear-btn:hover{color:var(--review);border-color:var(--review)}
+  @media (max-width:900px){
+    .notes-panel{left:auto;right:0;top:calc(100% + 10px);margin-left:0;width:100%;height:260px;transform:translateY(-8px)}
+    .notes-panel.open{transform:translateY(0)}
+  }
+  /* list button — sits to left of edit button */
+  .list-btn{display:none!important}
+  /* list-card display in Facts & Concepts */
+  .listcard-term{font-family:var(--disp);font-weight:700;color:var(--card-ink);font-size:1.27em;margin-bottom:10px;line-height:1.2}
+  .listcard-def{font-family:var(--body);color:#27333d;line-height:1.55;font-size:1em}
+  .sz-s .listcard-term{font-size:clamp(15px,2vw,20px)} .sz-s .listcard-def{font-size:clamp(13px,1.8vw,16px)}
+  .sz-l .listcard-term{font-size:clamp(24px,4vw,36px)} .sz-l .listcard-def{font-size:clamp(20px,3vw,28px)}
+  .kicker.list-kicker{color:var(--aero)}
+  /* edit form fields */
+  .edit-label{font-family:var(--mono);font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--faint)}
+  .edit-field{
+    width:100%;font-family:var(--body);font-size:14px;color:var(--ink);resize:vertical;
+    background:rgba(255,255,255,.04);border:1px solid var(--line);border-radius:10px;
+    padding:11px 13px;outline:none;transition:.15s;line-height:1.5;
+  }
+  .edit-field:focus{border-color:color-mix(in srgb,var(--accent) 60%,var(--line));box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 12%,transparent)}
+  .edit-save-btn{appearance:none;cursor:pointer;font-family:var(--disp);font-weight:600;font-size:13.5px;padding:10px 20px;border-radius:10px;border:0;background:var(--accent);color:var(--card-ink);transition:.15s}
+  .edit-save-btn:hover{filter:brightness(1.08)}
+  .edit-reset-btn{appearance:none;cursor:pointer;font-family:var(--mono);font-size:11px;padding:10px 14px;border-radius:10px;border:1px solid var(--line);background:transparent;color:var(--muted);transition:.15s}
+  .edit-reset-btn:hover{color:var(--review);border-color:var(--review)}
+  .modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.6);backdrop-filter:blur(4px);z-index:100;display:none;align-items:center;justify-content:center;padding:20px}
+  .modal-backdrop.open{display:flex}
+  .modal{background:linear-gradient(165deg,var(--panel),var(--panel2));border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow);width:100%;max-width:600px;max-height:80vh;display:flex;flex-direction:column;overflow:hidden}
+  .modal-header{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;border-bottom:1px solid var(--line2);flex:0 0 auto}
+  .modal-title{font-family:var(--disp);font-weight:600;font-size:16px;color:var(--ink)}
+  .modal-actions{display:flex;gap:8px;align-items:center}
+  .modal-copy{appearance:none;cursor:pointer;font-family:var(--mono);font-size:11px;color:var(--ink);background:rgba(255,255,255,.06);border:1px solid var(--line);border-radius:8px;padding:6px 11px;transition:.15s}
+  .modal-copy:hover{background:rgba(255,255,255,.1)}
+  .modal-copy.copied{color:var(--mastered);border-color:var(--mastered)}
+  .modal-close{appearance:none;cursor:pointer;background:transparent;border:0;color:var(--muted);font-size:22px;line-height:1;padding:2px 4px;transition:.15s}
+  .modal-close:hover{color:var(--ink)}
+  .modal-body{overflow-y:auto;padding:16px 20px;flex:1}
+  .modal-body::-webkit-scrollbar{width:4px} .modal-body::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px}
+  .modal-empty{text-align:center;padding:30px 0;font-family:var(--body);font-size:14px;color:var(--muted)}
+  .shortcuts-list{display:flex;flex-direction:column;gap:2px}
+  .shortcuts-row{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:9px 4px;border-bottom:1px solid var(--line2)}
+  .shortcuts-row:last-child{border-bottom:0}
+  .shortcuts-row span:last-child{font-family:var(--body);font-size:13px;color:var(--muted)}
+  .shortcuts-row kbd{margin-right:2px}
+  .hist-deck{margin-bottom:20px}
+  .hist-deck-name{font-family:var(--mono);font-size:10px;letter-spacing:1.4px;text-transform:uppercase;color:var(--faint);margin-bottom:10px}
+  .hist-group{margin-bottom:14px}
+  .hist-group-label{display:inline-flex;align-items:center;gap:7px;font-family:var(--mono);font-size:10.5px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;margin-bottom:7px}
+  .hist-group-label .pip{width:8px;height:8px;border-radius:50%}
+  .hist-group-label.m{color:var(--mastered)} .hist-group-label.m .pip{background:var(--mastered)}
+  .hist-group-label.r{color:var(--review)} .hist-group-label.r .pip{background:var(--review)}
+  .hist-group-label.g{color:var(--general)} .hist-group-label.g .pip{background:var(--general)}
+  .hist-item{font-family:var(--body);font-size:13px;color:var(--ink);padding:6px 10px;border-radius:8px;background:rgba(255,255,255,.03);margin-bottom:4px;line-height:1.4}
+  .hist-item .ht{font-weight:600} .hist-item .hd{color:var(--muted);font-size:12px;margin-top:2px}
+  .hist-section-name{font-family:var(--mono);font-size:10px;color:var(--faint);margin-top:3px}
+  .controls{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+  .navbtn{appearance:none;cursor:pointer;width:46px;height:46px;border-radius:13px;flex:0 0 auto;border:1px solid var(--line);background:rgba(255,255,255,.03);color:var(--ink);display:grid;place-items:center;transition:.15s}
+  .navbtn:hover{border-color:color-mix(in srgb,var(--accent) 50%,var(--line));background:rgba(255,255,255,.06)}
+  .navbtn:active{transform:scale(.92)}
+  .navbtn svg{width:17px;height:17px}
+  .counter{flex:1;text-align:center;font-family:var(--mono);font-size:13px;color:var(--muted)}
+  .counter b{color:var(--ink);font-weight:700} .counter .of{color:var(--faint)}
+  .counter-pos-btn{appearance:none;border:0;background:transparent;color:var(--ink);font:inherit;font-weight:700;cursor:pointer;padding:2px 4px;border-radius:5px;transition:.12s}
+  .counter-pos-btn:hover{background:rgba(255,255,255,.08);color:var(--accent)}
+  #jump-input{width:3.2em;font-family:var(--mono);font-size:13px;font-weight:700;color:var(--ink);background:var(--panel2);border:1px solid var(--accent);border-radius:5px;padding:1px 4px;text-align:center;outline:none}
+  .mastery{display:flex;gap:10px;position:relative}
+  .confetti-burst{position:absolute;inset:0;pointer-events:none;overflow:visible;z-index:20}
+  .mastery .mbtn.review,.mastery .mbtn.general{flex:1}
+  .mastery .mbtn.master{flex:2}
+  .mbtn{flex:1;appearance:none;cursor:pointer;border-radius:13px;padding:12px;font-family:var(--disp);font-weight:600;font-size:13.5px;border:1px solid var(--line);background:rgba(255,255,255,.02);color:var(--muted);transition:.15s;display:flex;align-items:center;justify-content:center;gap:8px;white-space:nowrap;position:relative;overflow:visible}
+  .mbtn:active{transform:scale(.96)}
+  .mbtn svg{width:15px;height:15px}
+  .mbtn.review:hover{border-color:var(--review);color:var(--review)}
+  .mbtn.general:hover{border-color:var(--general);color:var(--general)}
+  .mbtn.master:hover{border-color:var(--mastered);color:var(--mastered)}
+  .mbtn.review.on{background:color-mix(in srgb,var(--review) 16%,transparent);border-color:var(--review);color:#ffd9cd}
+  .mbtn.general.on{background:color-mix(in srgb,var(--general) 16%,transparent);border-color:var(--general);color:#e2ddfa}
+  .mbtn.master.on{background:color-mix(in srgb,var(--mastered) 16%,transparent);border-color:var(--mastered);color:#c9f5e6}
+
+  /* ---------------- mastered confetti burst ---------------- */
+  .confetti-burst .cf{
+    position:absolute;width:8px;height:8px;border-radius:1px;margin:-4px 0 0 -4px;
+    background:var(--mastered);opacity:0;
+    animation:cf-fly .85s cubic-bezier(.2,.7,.3,1) forwards;
+    will-change:transform,opacity;
+    box-shadow:0 0 3px rgba(0,0,0,.25);
+  }
+  .confetti-burst .cf.round{border-radius:50%}
+  @keyframes cf-fly{
+    0%{opacity:1;transform:translate(0,0) rotate(0deg) scale(var(--cs,1))}
+    100%{opacity:0;transform:translate(var(--cx),var(--cy)) rotate(var(--cr)) scale(calc(var(--cs,1) * .5))}
+  }
+
+  footer{margin-top:24px;text-align:center;font-family:var(--mono);font-size:10px;letter-spacing:.4px;color:var(--faint);line-height:1.8}
+  footer .save{display:inline-flex;align-items:center;gap:6px}
+  footer .save .led{width:6px;height:6px;border-radius:50%;background:var(--mastered);box-shadow:0 0 6px var(--mastered)}
+  kbd{font-family:var(--mono);font-size:9.5px;background:rgba(255,255,255,.06);border:1px solid var(--line);border-radius:5px;padding:1px 5px;color:var(--muted)}
+
+  /* ---------------- status chip ---------------- */
+  .status-chip{
+    position:fixed;left:14px;bottom:14px;z-index:40;display:flex;align-items:center;gap:8px;
+    background:linear-gradient(165deg,var(--panel),var(--panel2));border:1px solid var(--line);border-radius:99px;
+    padding:7px 13px 7px 11px;box-shadow:var(--shadow);font-family:var(--mono);font-size:11.5px;color:var(--muted);
+  }
+  .status-chip .batt-icon{width:20px;height:11px;flex:0 0 auto}
+  .status-chip .batt-pct{color:var(--ink);font-weight:600}
+  .status-chip .status-sep{width:1px;height:12px;background:var(--line);flex:0 0 auto}
+  .status-chip .status-time{color:var(--ink);white-space:nowrap}
+  @media (max-width:560px){ .status-chip{left:10px;bottom:10px;padding:6px 11px 6px 9px;font-size:11px} }
+
+  /* ---------------- range mastery modal ---------------- */
+  .range-grid{display:flex;gap:12px}
+  .range-field{display:flex;flex-direction:column;gap:7px;flex:1}
+  .range-field input.edit-field{font-family:var(--mono);text-align:left}
+  .range-field input.edit-field::-webkit-inner-spin-button,
+  .range-field input.edit-field::-webkit-outer-spin-button{opacity:.5}
+  .range-note{font-family:var(--body);font-size:13px;color:var(--muted);line-height:1.5}
+  .range-hint{font-family:var(--body);font-size:11px;text-transform:none;letter-spacing:0;color:var(--faint)}
+  .range-chipbox{
+    display:flex;flex-wrap:wrap;gap:6px;padding:8px;min-height:42px;align-items:center;
+    border:1px solid var(--line);border-radius:10px;background:rgba(255,255,255,.04);transition:.15s;cursor:text;
+  }
+  .range-chipbox:focus-within{border-color:color-mix(in srgb,var(--accent) 60%,var(--line));box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 12%,transparent)}
+  .range-chipbox input{
+    flex:1;min-width:140px;background:transparent;border:0;outline:none;color:var(--ink);
+    font-family:var(--mono);font-size:12.5px;padding:4px 2px;
+  }
+  .range-chipbox input::placeholder{color:var(--faint);font-family:var(--body)}
+  .range-chip{
+    display:inline-flex;align-items:center;gap:5px;font-family:var(--mono);font-size:12px;font-weight:500;
+    color:var(--ink);background:color-mix(in srgb,var(--accent) 18%,transparent);
+    border:1px solid color-mix(in srgb,var(--accent) 45%,var(--line));border-radius:8px;padding:3px 6px 3px 10px;
+  }
+  .range-chip button{
+    appearance:none;border:0;background:transparent;color:var(--muted);cursor:pointer;
+    font-size:14px;line-height:1;padding:0 2px;transition:.12s;
+  }
+  .range-chip button:hover{color:var(--review)}
+  .range-preview{font-family:var(--mono);font-size:11.5px;color:var(--mastered);min-height:14px}
+  .range-actions{display:flex;gap:10px;justify-content:flex-end;align-items:center}
+  #range-apply{background:var(--mastered);color:#0b1f18}
+  #range-apply:hover{filter:brightness(1.08)}
+
+  @media (max-width:560px){
+    header{flex-wrap:wrap}
+    .tabs{order:2;width:100%;justify-content:stretch}
+    .tabs .tab{flex:1;justify-content:center}
+  }
+  @media (prefers-reduced-motion: reduce){ .card{transition:none} .stats .gauge>i{transition:none} .confetti-burst .cf{animation:cf-fade-fly .6s ease forwards}
+    @keyframes cf-fade-fly{0%{opacity:1;transform:translate(0,0)}100%{opacity:0;transform:translate(var(--cx),var(--cy))}} }
+</style>
+</head>
+<body>
+<div class="status-chip" id="status-chip">
+  <svg class="batt-icon" id="batt-icon" viewBox="0 0 24 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="1" y="1" width="19" height="10" rx="2.5" stroke="currentColor" stroke-width="1.4"/>
+    <rect x="21.5" y="4" width="1.6" height="4" rx="0.8" fill="currentColor"/>
+    <rect id="batt-fill" x="3" y="3" width="15" height="6" rx="1" fill="currentColor"/>
+  </svg>
+  <span class="batt-pct" id="batt-pct">—</span>
+  <span class="status-sep" id="status-sep"></span>
+  <span class="status-time" id="status-time">—</span>
+</div>
+
+<div class="wrap">
+
+  <header>
+    <div class="brand">
+      <img class="brand-logo" src="data:image/png;base64,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" alt="" width="34" height="20">
+      <div><h1>Spaatz Study</h1></div>
+    </div>
+    <div class="tabs" role="tablist" aria-label="Decks" style="display:none">
+      <button class="tab active" data-deck="aerospace" role="tab"><span class="dot"></span>Aerospace</button>
+    </div>
+  </header>
+
+  <div class="topicrow">
+    <select class="topic" id="section" aria-label="Choose a section"></select>
+  </div>
+
+  <div class="stats">
+    <div class="gauge" aria-hidden="true"><i id="gauge"></i></div>
+    <div class="readout"><b id="c-master">0</b><span class="m"> mastered</span> · <b id="c-general">0</b><span class="g"> general</span> · <b id="c-review">0</b><span class="r"> review</span> · <button class="total-toggle" id="total-toggle" type="button"><b id="c-total">0</b> <span id="c-total-label">total</span></button></div>
+  </div>
+
+  <div class="studybar">
+    <select class="filter" id="filter" aria-label="Filter cards">
+      <option value="all">All cards</option>
+      <option value="unmarked">Unmarked only</option>
+      <option value="review">Need review</option>
+      <option value="general">General</option>
+      <option value="mastered">Mastered</option>
+    </select>
+    <span class="spacer"></span>
+    <button class="toolsbtn" id="searchbtn" aria-label="Search" title="Search (/)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    </button>
+    <div class="search-panel" id="search-panel">
+      <div class="search-input-row">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <input id="search" type="text" placeholder="Search all cards…" autocomplete="off" spellcheck="false" aria-label="Search all cards">
+        <button class="search-clear" id="search-clear" aria-label="Clear search">×</button>
+      </div>
+      <div class="search-results" id="search-results" role="listbox"></div>
+    </div>
+    <button class="toolsbtn" id="toolsbtn" aria-haspopup="true" aria-expanded="false">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="1.4"/><circle cx="12" cy="12" r="1.4"/><circle cx="12" cy="19" r="1.4"/></svg>
+      Tools
+    </button>
+    <div class="toolsmenu" id="toolsmenu" role="menu">
+      <div class="toolsmenu-label">Prompt side</div>
+      <div class="toolsmenu-row">
+        <div class="seg" role="group" aria-label="Prompt side">
+          <button id="dir-term" class="on">Term→Def</button>
+          <button id="dir-def">Def→Term</button>
+        </div>
+      </div>
+      <div class="toolsmenu-label">Text size</div>
+      <div class="toolsmenu-row">
+        <div class="seg" role="group" aria-label="Text size">
+          <button id="sz-s">S</button>
+          <button id="sz-m" class="on">M</button>
+          <button id="sz-l">L</button>
+        </div>
+      </div>
+      <hr>
+      <button id="shuffle" role="menuitem">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 3h5v5"/><path d="M4 20 21 3"/><path d="M21 16v5h-5"/><path d="m15 15 6 6"/><path d="M4 4l5 5"/></svg>
+        <span id="shuffle-label">Shuffle</span></button>
+      <button id="restart" role="menuitem">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 19 4 12l7-7"/><path d="M20 12H4"/></svg>
+        Restart</button>
+      <button id="show-history" role="menuitem">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3h18v4H3z"/><path d="M3 10h18v4H3z"/><path d="M3 17h18v4H3z"/></svg>
+        View history</button>
+      <button id="sync-file-btn" role="menuitem">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>
+        <span id="sync-file-label">Connect progress.json</span></button>
+      <button id="range-master" role="menuitem" class="accent-master">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+        Mark range mastered</button>
+      <hr>
+      <button id="toggle-fullscreen-item" role="menuitem">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3"/><path d="M21 8V5a2 2 0 0 0-2-2h-3"/><path d="M3 16v3a2 2 0 0 0 2 2h3"/><path d="M16 21h3a2 2 0 0 0 2-2v-3"/></svg>
+        Fullscreen</button>
+      <button id="shortcuts-item" role="menuitem">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M9.5 9a2.5 2.5 0 0 1 5 0c0 1.5-2 2-2 3.5"/><path d="M12 17h.01"/></svg>
+        Keyboard shortcuts</button>
+      <hr>
+      <button id="clear-notes-unmastered" role="menuitem" class="danger">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/></svg>
+        Clear notes on unmastered cards</button>
+      <button id="reset" role="menuitem" class="danger">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/></svg>
+        Reset marks in this topic</button>
+    </div>
+  </div>
+
+  <div class="stage">
+    <button class="card" id="card" aria-live="polite">
+      <div class="face front">
+        <div class="facebody"><div class="kicker" id="kick-f">Term</div><div id="content-f" class="term">—</div></div>
+        <div class="status-stripe none" id="stripe-f"></div>
+      </div>
+      <div class="face back">
+        <div class="facebody"><div class="kicker" id="kick-b">Definition</div><div id="content-b" class="def">—</div></div>
+        <div class="status-stripe none" id="stripe-b"></div>
+      </div>
+    </button>
+    <button class="edit-btn" id="edit-btn" aria-label="Edit card" title="Edit card (E)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+    </button>
+    <button class="notes-btn" id="notes-btn" aria-label="Card notes" title="Notes (N)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3v4a1 1 0 0 0 1 1h4"/><path d="M17 21H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h7l5 5v11a2 2 0 0 1-2 2z"/><path d="M9 13h6"/><path d="M9 17h6"/></svg>
+      <i class="notes-dot" id="notes-dot"></i>
+    </button>
+    <aside class="notes-panel" id="notes-panel">
+      <div class="notes-panel-head">
+        <span class="notes-panel-title">Notes</span>
+        <button class="notes-panel-close" id="notes-panel-close" aria-label="Close notes">×</button>
+      </div>
+      <textarea id="notes-text" class="notes-textarea" placeholder="Jot down anything about this card…"></textarea>
+      <div class="notes-panel-foot">
+        <span class="notes-saved-hint" id="notes-saved-hint"></span>
+        <button class="notes-clear-btn" id="notes-clear-btn">Clear</button>
+      </div>
+    </aside>
+    <button class="list-btn" id="list-btn" aria-label="Mark as list" title="Mark as list">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+    </button>
+    <div class="empty" id="empty" hidden>
+      <svg class="empty-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="6" width="14" height="10" rx="2"/><path d="M21 8v8"/><path d="M17 9v6"/></svg>
+      <div class="big">No cards in this view</div>
+      <div class="mono" id="empty-msg">Change the filter to see cards.</div>
+    </div>
+  </div>
+
+  <div class="controls">
+    <button class="navbtn" id="prev" aria-label="Previous card"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></button>
+    <div class="counter"><button class="counter-pos-btn" id="pos-btn" title="Jump to card…"><b id="pos">0</b></button><span class="of"> / </span><span id="poslen">0</span><span class="of" id="filternote"></span></div>
+    <button class="navbtn" id="next" aria-label="Next card"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></button>
+  </div>
+
+  <div class="mastery">
+    <button class="mbtn review" id="mark-review">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 2v6h6"/><path d="M3 13a9 9 0 1 0 3-7.7L3 8"/></svg>
+      <span>Review</span></button>
+    <button class="mbtn general" id="mark-general">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>
+      <span id="mark-general-label">General</span></button>
+    <button class="mbtn master" id="mark-master">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+      <span>Mastered</span>
+    </button>
+    <span class="confetti-burst" id="confetti-burst" aria-hidden="true"></span>
+  </div>
+
+  <footer>
+    <div class="save"><span class="led"></span><span id="savestate">Progress saved on this device</span></div>
+  </footer>
+</div>
+
+<!-- Keyboard shortcuts modal -->
+<div class="modal-backdrop" id="shortcuts-backdrop">
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="shortcuts-title" style="max-width:420px">
+    <div class="modal-header">
+      <span class="modal-title" id="shortcuts-title">Keyboard Shortcuts</span>
+      <div class="modal-actions">
+        <button class="modal-close" id="shortcuts-close" aria-label="Close">×</button>
+      </div>
+    </div>
+    <div class="modal-body">
+      <div class="shortcuts-list">
+        <div class="shortcuts-row"><kbd>Space</kbd><span>Flip card</span></div>
+        <div class="shortcuts-row"><span><kbd>←</kbd> <kbd>→</kbd></span><span>Move between cards</span></div>
+        <div class="shortcuts-row"><kbd>M</kbd><span>Mark mastered</span></div>
+        <div class="shortcuts-row"><kbd>R</kbd><span>Mark for review</span></div>
+        <div class="shortcuts-row"><kbd>G</kbd><span>Mark general</span></div>
+        <div class="shortcuts-row"><kbd>S</kbd><span>Shuffle / restore order</span></div>
+        <div class="shortcuts-row"><kbd>E</kbd><span>Edit card</span></div>
+        <div class="shortcuts-row"><kbd>N</kbd><span>Toggle notes</span></div>
+        <div class="shortcuts-row"><kbd>F</kbd><span>Toggle fullscreen</span></div>
+        <div class="shortcuts-row"><kbd>/</kbd><span>Search</span></div>
+        <div class="shortcuts-row"><kbd>Esc</kbd><span>Close menus / panels</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- History modal -->
+<div class="modal-backdrop" id="history-backdrop">
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-header">
+      <span class="modal-title" id="modal-title">Mastery History</span>
+      <div class="modal-actions">
+        <button class="modal-copy" id="modal-copy">Copy to clipboard</button>
+        <button class="modal-close" id="modal-close" aria-label="Close">×</button>
+      </div>
+    </div>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div>
+
+<!-- Edit card modal -->
+<div class="modal-backdrop" id="edit-backdrop">
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="edit-title" style="max-width:540px">
+    <div class="modal-header">
+      <span class="modal-title" id="edit-title">Edit Card</span>
+      <div class="modal-actions">
+        <button class="modal-close" id="edit-close" aria-label="Close">×</button>
+      </div>
+    </div>
+    <div class="modal-body" style="padding:20px 20px 24px;display:flex;flex-direction:column;gap:16px">
+      <div id="edit-term-row" style="display:flex;flex-direction:column;gap:7px">
+        <label class="edit-label" for="edit-term">Term</label>
+        <textarea id="edit-term" class="edit-field" rows="2" placeholder="Term"></textarea>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:7px">
+        <label class="edit-label" for="edit-def">Definition</label>
+        <textarea id="edit-def" class="edit-field" rows="4" placeholder="Definition"></textarea>
+      </div>
+      <div style="display:flex;gap:10px;justify-content:flex-end;align-items:center">
+        <button class="edit-reset-btn" id="edit-reset">Restore original</button>
+        <button class="edit-save-btn" id="edit-save">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Range mastery modal -->
+<div class="modal-backdrop" id="range-backdrop">
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="range-title" style="max-width:520px">
+    <div class="modal-header">
+      <span class="modal-title" id="range-title">Mark Range Mastered</span>
+      <div class="modal-actions">
+        <button class="modal-close" id="range-close" aria-label="Close">×</button>
+      </div>
+    </div>
+    <div class="modal-body" style="padding:20px 20px 24px;display:flex;flex-direction:column;gap:16px">
+      <div id="range-scope-note" class="range-note"></div>
+      <div id="range-unavailable" class="modal-empty" style="display:none">Pick a specific section first (not "All sections") to use this feature.</div>
+      <div id="range-form" style="display:flex;flex-direction:column;gap:16px">
+        <div class="range-grid">
+          <div class="range-field">
+            <label class="edit-label" for="range-start">Start #</label>
+            <input id="range-start" class="edit-field" type="number" min="1" placeholder="e.g. 1">
+          </div>
+          <div class="range-field">
+            <label class="edit-label" for="range-end">End # (inclusive)</label>
+            <input id="range-end" class="edit-field" type="number" min="1" placeholder="e.g. 100">
+          </div>
+        </div>
+        <div style="display:flex;flex-direction:column;gap:7px">
+          <label class="edit-label" for="range-exc-input">Exceptions (stay unmarked)</label>
+          <div id="range-exc-chips" class="range-chipbox">
+            <input id="range-exc-input" type="text" inputmode="numeric" placeholder="Type a number, press comma or Enter…">
+          </div>
+          <div class="range-hint">e.g. type 55, then press comma — it becomes a chip. Backspace on the empty field removes the last chip.</div>
+        </div>
+        <div id="range-preview" class="range-preview"></div>
+        <div class="range-actions">
+          <button class="edit-reset-btn" id="range-cancel">Cancel</button>
+          <button class="edit-save-btn" id="range-apply">Mark as Mastered</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+let DECKS = {};
+let CARD = {}, SECTION_IDS = {}, ALL_IDS = {}, SECTIONS = {}, CONTENT_TO_ID = {};
+
+const KEY = "studydeck_lto_v2";
+
+function buildLookups(){
+// First pass: build canonical IDs for all real (non-view) sections
+for(const dk of Object.keys(DECKS)){
+  SECTION_IDS[dk] = {}; ALL_IDS[dk] = []; SECTIONS[dk] = [];
+  for(const sec of DECKS[dk].sections){
+    if(sec.id==="termdefs"||sec.id==="facts") continue;
+    const ids=[];
+    sec.cards.forEach((c,i)=>{
+      const id=dk+"::"+sec.id+"::"+i;
+      const fact=c.length===1;
+      CARD[id]=fact?{t:"",d:c[0],fact:true,sectionName:sec.name}
+                   :{t:c[0],d:c[1],fact:false,sectionName:sec.name};
+      ids.push(id);
+    });
+    SECTION_IDS[dk][sec.id]=ids;
+    ALL_IDS[dk]=ALL_IDS[dk].concat(ids);
+    SECTIONS[dk].push({id:sec.id,name:sec.name,count:ids.length,group:sec.group||"sections"});
+  }
+}
+
+// Build a content fingerprint → canonical ID map so view sections can reuse the same IDs
+CONTENT_TO_ID={};
+for(const [id,c] of Object.entries(CARD)){
+  const key=c.fact?("F::"+c.d):("P::"+c.t+"::"+c.d);
+  CONTENT_TO_ID[key]=id;
+}
+
+// Second pass: build view sections (termdefs, facts) by resolving to canonical IDs
+for(const dk of Object.keys(DECKS)){
+  for(const sec of DECKS[dk].sections){
+    if(sec.id!=="termdefs"&&sec.id!=="facts") continue;
+    const ids=[];
+    sec.cards.forEach(c=>{
+      const key=c.length===1?("F::"+c[0]):("P::"+c[0]+"::"+c[1]);
+      const canonId=CONTENT_TO_ID[key];
+      if(canonId) ids.push(canonId);
+    });
+    SECTION_IDS[dk][sec.id]=ids;
+    SECTIONS[dk].unshift({id:sec.id,name:sec.name,count:ids.length,group:"views"});
+  }
+  // re-sort so views come first, then sections (preserve insertion order within each group)
+  SECTIONS[dk].sort((a,b)=>(a.group==="views"?0:1)-(b.group==="views"?0:1));
+}
+
+}
+
+
+function baseIds(deck, section){ return section==="__all__" ? ALL_IDS[deck] : (SECTION_IDS[deck][section]||[]); }
+
+/* ---- base order override: lets a scope's "original order" differ from the
+   raw data.json concatenation order (used to seed a specific starting order,
+   e.g. for __all__, while per-section natural order stays untouched) ---- */
+let BASE_ORDER = {}; // scopeKey -> array of ids
+function baseOrder(deck, section){
+  const k = deck+"::"+section;
+  if(BASE_ORDER[k]) return BASE_ORDER[k];
+  return baseIds(deck, section);
+}
+
+/* ---- rebuild cross-section views when S.lists changes ---- */
+function rebuildViews(dk){
+  // Collect all canonical pair IDs for this deck
+  const allPairIds=[], allFactIds=[];
+  for(const sec of DECKS[dk].sections){
+    if(sec.id==="termdefs"||sec.id==="facts") continue;
+    const ids=SECTION_IDS[dk][sec.id]||[];
+    ids.forEach(id=>{
+      if(CARD[id].fact) allFactIds.push(id);
+      else allPairIds.push(id);
+    });
+  }
+  const lists=S.lists||{};
+  // termdefs = pair cards NOT marked as lists
+  // facts = original fact cards + pair cards marked as lists
+  SECTION_IDS[dk].termdefs = allPairIds.filter(id=>!lists[id]);
+  SECTION_IDS[dk].facts    = allFactIds.concat(allPairIds.filter(id=>!!lists[id]));
+  // update counts in SECTIONS metadata
+  const td=SECTIONS[dk].find(s=>s.id==="termdefs");
+  const fc=SECTIONS[dk].find(s=>s.id==="facts");
+  if(td) td.count=SECTION_IDS[dk].termdefs.length;
+  if(fc) fc.count=SECTION_IDS[dk].facts.length;
+}
+
+/* ---- storage: window.storage (Claude artifact) -> localStorage (any browser, persists
+   across reloads/closing the tab) -> in-memory (last resort, e.g. storage blocked) ---- */
+const mem={};
+const hasWindowStore=(typeof window!=="undefined" && window.storage && typeof window.storage.get==="function");
+let hasLocalStore=false;
+try{
+  if(typeof window!=="undefined" && window.localStorage){
+    const t="__sd_test__"; window.localStorage.setItem(t,"1"); window.localStorage.removeItem(t);
+    hasLocalStore=true;
+  }
+}catch(e){ hasLocalStore=false; }
+
+async function loadRaw(){
+  if(hasWindowStore){
+    try{ const r=await window.storage.get(KEY,false); return r?r.value:null; }catch(e){ /* key may not exist yet, fall through */ }
+  }
+  if(hasLocalStore){
+    try{ return window.localStorage.getItem(KEY); }catch(e){}
+  }
+  return mem[KEY]||null;
+}
+async function saveRaw(v){
+  if(hasWindowStore){
+    try{ await window.storage.set(KEY,v,false); return; }catch(e){ /* fall through to next tier */ }
+  }
+  if(hasLocalStore){
+    try{ window.localStorage.setItem(KEY,v); return; }catch(e){}
+  }
+  mem[KEY]=v;
+}
+function storageLabel(){
+  if(fileHandle) return "Synced to progress.json";
+  if(hasWindowStore) return "Progress saved on this device";
+  if(hasLocalStore) return "Progress saved in this browser";
+  return "Progress saved for this session only — your browser is blocking local storage";
+}
+
+/* ---- progress.json file sync (File System Access API) ----
+   Lets the app write mastery/notes/order straight into a progress.json file on
+   disk, so it can be committed to git and pulled on other devices. Falls back
+   to a manual "download progress.json" flow in browsers without File System
+   Access support (e.g. Firefox, Safari, iOS). ---- */
+let fileHandle=null; // FileSystemFileHandle, once user connects
+const hasFSAccess = (typeof window!=="undefined" && "showOpenFilePicker" in window);
+
+function progressPayload(){
+  // Only the fields that matter for cross-device sync: mastery, notes, the
+  // seeded/base order for "All sections", and user edits/list reclassifications.
+  return {
+    v:1,
+    order: S.order["aerospace::__all__"]||null,
+    mastery: S.mastery||{},
+    notes: S.notes||{},
+    edits: S.edits||{},
+    lists: S.lists||{}
+  };
+}
+
+function applyProgressPayload(p){
+  if(!p) return;
+  const validIds = new Set(ALL_IDS["aerospace"]||[]);
+  if(Array.isArray(p.order)){
+    const ord = p.order.filter(id=>validIds.has(id));
+    if(ord.length){ BASE_ORDER["aerospace::__all__"]=ord.slice(); S.order["aerospace::__all__"]=ord.slice(); }
+  }
+  if(p.mastery) for(const [id,st] of Object.entries(p.mastery)) if(validIds.has(id)) S.mastery[id]=st;
+  if(p.notes) for(const [id,txt] of Object.entries(p.notes)) if(validIds.has(id)) S.notes[id]=txt;
+  if(p.edits) for(const [id,e] of Object.entries(p.edits)) S.edits[id]=e;
+  if(p.lists) S.lists=Object.assign(S.lists||{},p.lists);
+}
+
+async function connectProgressFile(){
+  if(!hasFSAccess){
+    alert("Your browser doesn't support connecting directly to a file. Use “Download progress.json” instead, then commit it manually.");
+    return;
+  }
+  try{
+    const [handle] = await window.showOpenFilePicker({
+      types:[{description:"Progress file", accept:{"application/json":[".json"]}}],
+      excludeAcceptAllOption:false
+    });
+    fileHandle = handle;
+    // Try to read whatever's already there and merge it in immediately.
+    try{
+      const file = await fileHandle.getFile();
+      const text = await file.text();
+      if(text.trim()){ applyProgressPayload(JSON.parse(text)); rebuildViews("aerospace"); render(); }
+    }catch(e){ /* empty or unreadable; we'll just write fresh */ }
+    await writeProgressFile();
+    updateSyncUI();
+    persist();
+  }catch(e){ /* user cancelled the picker */ }
+}
+
+async function writeProgressFile(){
+  if(!fileHandle) return;
+  try{
+    const writable = await fileHandle.createWritable();
+    await writable.write(JSON.stringify(progressPayload(), null, 1));
+    await writable.close();
+  }catch(e){ /* permission revoked or file moved; leave state as-is */ }
+}
+
+function downloadProgressFile(){
+  const blob = new Blob([JSON.stringify(progressPayload(), null, 1)], {type:"application/json"});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url; a.download = "progress.json";
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  setTimeout(()=>URL.revokeObjectURL(url), 4000);
+}
+
+function updateSyncUI(){
+  const label = $("sync-file-label");
+  if(!label) return;
+  label.textContent = fileHandle ? "Re-sync progress.json" : (hasFSAccess ? "Connect progress.json" : "Download progress.json");
+}
+
+/* ---- state ---- */
+function freshState(){
+  return { v:2, deck:"aerospace",
+    section:{aerospace:"termdefs"},
+    dir:{}, filter:{}, order:{}, current:{}, mastery:{}, sz:"m", edits:{}, lists:{}, notes:{} };
+}
+let S=freshState(); let flipped=false; let saveTimer=null; let showUnmarked=false;
+
+function scopeKey(){ return S.deck+"::"+S.section[S.deck]; }
+function getDir(){ return S.dir[scopeKey()] || "term"; }
+function getFilter(){ return S.filter[scopeKey()] || "all"; }
+function getSize(){ return S.sz||"m"; }
+
+function ensureOrder(){
+  const k=scopeKey(), ids=baseIds(S.deck,S.section[S.deck]);
+  let ord=Array.isArray(S.order[k])?S.order[k].filter(id=>CARD[id]&&ids.includes(id)):null;
+  if(!ord){ S.order[k]=baseOrder(S.deck,S.section[S.deck]).slice(); return; }
+  const seen=new Set(ord); ids.forEach(id=>{ if(!seen.has(id)) ord.push(id); });
+  S.order[k]=ord;
+}
+function isShuffled(){
+  ensureOrder();
+  const k=scopeKey(), base=baseOrder(S.deck,S.section[S.deck]), cur=S.order[k]||[];
+  if(base.length!==cur.length) return true;
+  for(let i=0;i<base.length;i++) if(base[i]!==cur[i]) return true;
+  return false;
+}
+
+function persist(){
+  document.getElementById("savestate").textContent="Saving…";
+  clearTimeout(saveTimer);
+  saveTimer=setTimeout(async()=>{
+    await saveRaw(JSON.stringify(S));
+    if(fileHandle) await writeProgressFile();
+    document.getElementById("savestate").textContent=storageLabel();
+  },180);
+}
+
+function passesFilter(id){ const f=getFilter(), st=S.mastery[id];
+  if(f==="all")return true; if(f==="mastered")return st==="mastered"; if(f==="review")return st==="review"; if(f==="general")return st==="general"; if(f==="unmarked")return !st; return true; }
+function workingList(){ ensureOrder(); return S.order[scopeKey()].filter(passesFilter); }
+function positionOf(list){ return list.indexOf(S.current[scopeKey()]); }
+
+/* ---- render ---- */
+const $=id=>document.getElementById(id);
+const ACCENT={leadership:"var(--lead)",aerospace:"var(--aero)"};
+function setAccent(){ document.documentElement.style.setProperty("--accent",ACCENT[S.deck]); }
+
+function renderSectionSelect(){
+  const sel=$("section"); sel.innerHTML="";
+  const allCount=ALL_IDS[S.deck].length;
+  const o=document.createElement("option"); o.value="__all__"; o.textContent="All sections — "+allCount+" cards"; sel.appendChild(o);
+
+  // group sections by their group field
+  const views=SECTIONS[S.deck].filter(s=>s.group==="views").sort((a,b)=>a.id==="termdefs"?-1:1);
+  const secs=SECTIONS[S.deck].filter(s=>s.group==="sections");
+
+  const grpViews=document.createElement("optgroup"); grpViews.label="── Cross-section views";
+  views.forEach(s=>{ const op=document.createElement("option"); op.value=s.id; op.textContent=s.name+" — "+s.count+" cards"; grpViews.appendChild(op); });
+  sel.appendChild(grpViews);
+
+  const grpSecs=document.createElement("optgroup"); grpSecs.label="── By section";
+  secs.forEach(s=>{ const op=document.createElement("option"); op.value=s.id; op.textContent=s.name+" — "+s.count+" cards"; grpSecs.appendChild(op); });
+  sel.appendChild(grpSecs);
+
+  sel.value=S.section[S.deck];
+}
+
+function autofitText(el){
+  if(!el) return;
+  const container=el.closest(".facebody"); if(!container) return;
+  el.style.transform=""; el.style.transformOrigin="";
+  el.style.fontSize="";
+  const kids=el.querySelectorAll(".listcard-term,.listcard-def");
+  const scaledKids=kids.length?Array.from(kids):[el];
+  const baseSizes=scaledKids.map(k=>parseFloat(getComputedStyle(k).fontSize));
+  if(!baseSizes.length || !baseSizes[0]) return;
+  // leave breathing room: target ~88% of the available box, not an edge-to-edge fit
+  const targetH=container.clientHeight*0.88, targetW=container.clientWidth*0.92;
+  const fits=()=>el.scrollHeight<=targetH && el.scrollWidth<=targetW;
+  if(fits()) return;
+  let lo=0.4, hi=1, best=0.4;
+  for(let i=0;i<14;i++){
+    const mid=(lo+hi)/2;
+    scaledKids.forEach((k,idx)=>{ k.style.fontSize=(baseSizes[idx]*mid)+"px"; });
+    if(fits()){ best=mid; lo=mid; } else { hi=mid; }
+  }
+  scaledKids.forEach((k,idx)=>{ k.style.fontSize=(baseSizes[idx]*best)+"px"; });
+}
+function autofitCard(){
+  requestAnimationFrame(()=>{
+    requestAnimationFrame(()=>{
+      autofitText($("content-f"));
+      autofitText($("content-b"));
+    });
+  });
+}
+
+function render(){
+  setAccent();
+  document.querySelectorAll(".tab").forEach(t=>t.classList.toggle("active",t.dataset.deck===S.deck));
+  renderSectionSelect();
+  const shuffled=isShuffled();
+  $("shuffle-label").textContent=shuffled?"Restore original order":"Shuffle";
+  $("shuffle").querySelector("svg").outerHTML=shuffled
+    ?'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>'
+    :'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 3h5v5"/><path d="M4 20 21 3"/><path d="M21 16v5h-5"/><path d="m15 15 6 6"/><path d="M4 4l5 5"/></svg>';
+  $("filter").value=getFilter();
+  const dir=getDir();
+  $("dir-term").classList.toggle("on",dir==="term");
+  $("dir-def").classList.toggle("on",dir==="def");
+  const sz=getSize();
+  $("sz-s").classList.toggle("on",sz==="s");
+  $("sz-m").classList.toggle("on",sz==="m");
+  $("sz-l").classList.toggle("on",sz==="l");
+  $("card").classList.toggle("sz-s",sz==="s");
+  $("card").classList.toggle("sz-m",sz==="m");
+  $("card").classList.toggle("sz-l",sz==="l");
+
+  const ids=baseIds(S.deck,S.section[S.deck]); const n=ids.length;
+  let m=0,r=0,g=0; ids.forEach(id=>{const st=S.mastery[id]; if(st==="mastered")m++; else if(st==="review")r++; else if(st==="general")g++;});
+  const unmarked=n-m-r-g;
+  $("c-total").textContent=showUnmarked?unmarked:n;
+  $("c-total-label").textContent=showUnmarked?"unmarked":"total";
+  $("c-master").textContent=m; $("c-review").textContent=r; $("c-general").textContent=g;
+  $("gauge").style.width=(n?(m/n*100):0)+"%";
+
+  const list=workingList(); const card=$("card"), empty=$("empty");
+  if(list.length===0){
+    card.style.display="none"; empty.hidden=false;
+    const msgs={mastered:"Nothing marked mastered yet.",review:"Nothing marked for review.",unmarked:"Every card here has been marked.",all:"This topic is empty."};
+    $("empty-msg").textContent=msgs[getFilter()]||"";
+    $("pos").textContent="0"; $("poslen").textContent="0"; $("filternote").textContent="";
+    $("mark-review").classList.remove("on");
+    $("mark-general").classList.remove("on");
+    $("mark-master").classList.remove("on");
+    $("notes-btn").classList.remove("has-note");
+    closeNotes();
+    return;
+  }
+  empty.hidden=true; card.style.display="block";
+
+  let p=positionOf(list); if(p<0){ p=0; S.current[scopeKey()]=list[0]; }
+  const id=list[p], c=CARD[id];
+  updateNotesIndicator(id);
+  if($("notes-panel").classList.contains("open")) $("notes-text").value=(S.notes&&S.notes[id])||"";
+
+  const isList=!!(S.lists&&S.lists[id]);
+  if(c.fact && !isList){
+    card.classList.add("noflip");
+    $("kick-f").textContent="Fact"; $("kick-f").className="kicker";
+    $("content-f").textContent=c.d; $("content-f").className="fact";
+    $("kick-b").textContent="Fact"; $("kick-b").className="kicker";
+    $("content-b").textContent=c.d; $("content-b").className="fact";
+  }else if(isList){
+    // list-reclassified card: non-flippable, term bold + def below
+    card.classList.add("noflip");
+    $("kick-f").textContent="List"; $("kick-f").className="kicker list-kicker";
+    $("content-f").innerHTML=`<div class="listcard-term">${c.t}</div><div class="listcard-def">${c.d}</div>`;
+    $("content-f").className="";
+    $("kick-b").textContent="List"; $("kick-b").className="kicker list-kicker";
+    $("content-b").innerHTML=`<div class="listcard-term">${c.t}</div><div class="listcard-def">${c.d}</div>`;
+    $("content-b").className="";
+  }else{
+    card.classList.remove("noflip");
+    const frontIsTerm=dir==="term";
+    $("kick-f").textContent=frontIsTerm?"Term":"Definition"; $("kick-f").className="kicker";
+    $("content-f").textContent=frontIsTerm?c.t:c.d; $("content-f").className=frontIsTerm?"term":"def";
+    $("kick-b").textContent=frontIsTerm?"Definition":"Term"; $("kick-b").className="kicker";
+    $("content-b").textContent=frontIsTerm?c.d:c.t; $("content-b").className=frontIsTerm?"def":"term";
+  }
+  // list button: show on pair cards in all sections; highlight if marked as list
+  const isPair=!c.fact;
+  $("list-btn").style.display=isPair?"grid":"none";
+  $("list-btn").classList.toggle("on",isList);
+  $("list-btn").title=isList?"Remove list mark (move back to Terms & Definitions)":"Mark as list (move to Facts & Concepts)";
+
+  const st=S.mastery[id]; const sc=st==="mastered"?"m":st==="review"?"r":st==="general"?"g":"none";
+  $("stripe-f").className="status-stripe "+sc; $("stripe-b").className="status-stripe "+sc;
+  $("mark-general-label").textContent=(S.deck==="aerospace")?"Know some":"General";
+  $("mark-review").classList.toggle("on",st==="review");
+  $("mark-general").classList.toggle("on",st==="general");
+  $("mark-master").classList.toggle("on",st==="mastered");
+  // edited indicator
+  const isEdited=S.edits&&S.edits[id];
+  card.classList.toggle("edited",!!isEdited);
+
+  $("pos").textContent=p+1; $("poslen").textContent=list.length;
+  $("filternote").textContent=getFilter()==="all"?"":" · "+getFilter();
+
+  card.classList.remove("flipped"); flipped=false;
+  autofitCard();
+}
+
+/* ---- actions ---- */
+function go(d){ const list=workingList(); if(!list.length)return; let p=positionOf(list); if(p<0)p=0; p=(p+d+list.length)%list.length; S.current[scopeKey()]=list[p]; render(); persist(); }
+function jumpToPosition(n){ const list=workingList(); if(!list.length)return;
+  let p=Math.round(n)-1; if(isNaN(p))return;
+  p=Math.max(0,Math.min(list.length-1,p));
+  S.current[scopeKey()]=list[p]; render(); persist();
+}
+function startJump(){
+  const btn=$("pos-btn"); if(!btn) return;
+  const list=workingList(); if(!list.length) return;
+  const cur=positionOf(list)+1;
+  const input=document.createElement("input");
+  input.type="text"; input.inputMode="numeric"; input.id="jump-input";
+  input.value=cur>0?String(cur):"1";
+  btn.replaceWith(input);
+  input.focus(); input.select();
+  let done=false;
+  const finish=(commit)=>{
+    if(done) return; done=true;
+    const val=parseInt(input.value,10);
+    if(input.parentNode) input.replaceWith(btn);
+    if(commit && !isNaN(val)) jumpToPosition(val);
+  };
+  input.addEventListener("keydown",e=>{
+    e.stopPropagation();
+    if(e.key==="Enter"){ e.preventDefault(); finish(true); }
+    else if(e.key==="Escape"){ e.preventDefault(); finish(false); }
+  });
+  input.addEventListener("blur",()=>finish(true));
+}
+function openShortcuts(){ $("shortcuts-backdrop").classList.add("open"); }
+function closeShortcuts(){ $("shortcuts-backdrop").classList.remove("open"); }
+function toggleFullscreen(){
+  if(!document.fullscreenElement){
+    document.documentElement.requestFullscreen().catch(()=>{});
+  }else{
+    document.exitFullscreen().catch(()=>{});
+  }
+}
+document.addEventListener("fullscreenchange",()=>{
+  const on=!!document.fullscreenElement;
+  const item=$("toggle-fullscreen-item"); if(!item) return;
+  item.innerHTML=on
+    ?'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3v3a2 2 0 0 1-2 2H3"/><path d="M21 8h-3a2 2 0 0 1-2-2V3"/><path d="M3 16h3a2 2 0 0 1 2 2v3"/><path d="M16 21v-3a2 2 0 0 1 2-2h3"/></svg>Exit fullscreen'
+    :'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3"/><path d="M21 8V5a2 2 0 0 0-2-2h-3"/><path d="M3 16v3a2 2 0 0 0 2 2h3"/><path d="M16 21h3a2 2 0 0 0 2-2v-3"/></svg>Fullscreen';
+});
+function flip(){ const id=S.current[scopeKey()]; if(id&&CARD[id]&&CARD[id].fact) return; flipped=!flipped; $("card").classList.toggle("flipped",flipped); }
+function mark(kind){ const list=workingList(); if(!list.length)return; let p=positionOf(list); if(p<0)p=0; const id=list[p];
+  const wasMarked=S.mastery[id]===kind;
+  if(wasMarked) delete S.mastery[id]; else S.mastery[id]=kind;
+  const nl=workingList();
+  if(kind==="mastered" && !wasMarked && nl.length){
+    fireConfetti();
+    // advance to next card; if this was the last card wrap to first
+    const nextP=Math.min(p, nl.length-1);
+    // if the card is still in the list at same position, move forward one
+    const stillHere=nl[nextP]===id;
+    S.current[scopeKey()]=stillHere ? nl[(nextP+1)%nl.length] : nl[nextP];
+  } else if(nl.indexOf(id)<0 && nl.length){
+    S.current[scopeKey()]=nl[Math.min(p,nl.length-1)];
+  }
+  render(); persist(); }
+function fireConfetti(){
+  const host=$("confetti-burst"); if(!host) return;
+  const btn=$("mark-master");
+  host.innerHTML="";
+  const hostRect=host.getBoundingClientRect(), btnRect=btn.getBoundingClientRect();
+  const originX=(btnRect.left+btnRect.width/2)-hostRect.left;
+  const originY=(btnRect.top+btnRect.height/2)-hostRect.top;
+  const colors=["#3FC79A","#ffd76b","#8B7FE0","#46AFE0","#ffffff","#ff9f6b"];
+  const n=40;
+  for(let i=0;i<n;i++){
+    const el=document.createElement("i");
+    el.className="cf"+(Math.random()<0.5?" round":"");
+    const angle=(Math.PI*2*i/n)+(Math.random()*0.5-0.25);
+    const dist=60+Math.random()*70;
+    const cx=Math.cos(angle)*dist, cy=Math.sin(angle)*dist-26; // bias upward
+    const scale=(0.7+Math.random()*0.9).toFixed(2);
+    el.style.left=originX+"px"; el.style.top=originY+"px";
+    el.style.setProperty("--cx",cx.toFixed(1)+"px");
+    el.style.setProperty("--cy",cy.toFixed(1)+"px");
+    el.style.setProperty("--cr",(Math.random()*360-180).toFixed(0)+"deg");
+    el.style.setProperty("--cs",scale);
+    el.style.background=colors[i%colors.length];
+    el.style.animationDuration=(0.75+Math.random()*0.35)+"s";
+    el.style.animationDelay=(Math.random()*0.08)+"s";
+    host.appendChild(el);
+  }
+  setTimeout(()=>{ host.innerHTML=""; },1150);
+}
+function shuffle(){ ensureOrder(); const a=S.order[scopeKey()]; for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} const l=workingList(); if(l.length)S.current[scopeKey()]=l[0]; render(); persist(); closeMenu(); }
+function restoreOrder(){ S.order[scopeKey()]=baseOrder(S.deck,S.section[S.deck]).slice(); const l=workingList(); if(l.length)S.current[scopeKey()]=l[0]; render(); persist(); closeMenu(); }
+function restart(){ const l=workingList(); if(l.length)S.current[scopeKey()]=l[0]; render(); persist(); closeMenu(); }
+function resetProgress(){ const ids=baseIds(S.deck,S.section[S.deck]); const marked=ids.filter(id=>S.mastery[id]).length;
+  const where=$("section").options[$("section").selectedIndex].text.split(" — ")[0];
+  closeMenu();
+  if(marked>0 && !confirm("Clear mastery/review marks for the "+marked+" marked cards in “"+where+"”? This cannot be undone.")) return;
+  ids.forEach(id=>{ delete S.mastery[id]; }); render(); persist(); }
+function clearNotesUnmastered(){
+  const ids=baseIds(S.deck,S.section[S.deck]);
+  const where=$("section").options[$("section").selectedIndex].text.split(" — ")[0];
+  const targets=ids.filter(id=>S.mastery[id]!=="mastered" && S.notes && S.notes[id] && S.notes[id].trim());
+  closeMenu();
+  if(!targets.length){ alert("No notes on not-yet-mastered cards in “"+where+"”."); return; }
+  if(!confirm("Clear notes on the "+targets.length+" not-yet-mastered card"+(targets.length===1?"":"s")+" in “"+where+"”? This cannot be undone.")) return;
+  targets.forEach(id=>{ delete S.notes[id]; });
+  const cur=S.current[scopeKey()];
+  if(cur!==undefined) updateNotesIndicator(cur);
+  if($("notes-panel").classList.contains("open")) $("notes-text").value=(S.notes&&S.notes[cur])||"";
+  render(); persist();
+}
+function setDeck(d){ if(d===S.deck)return; S.deck=d; render(); persist(); }
+function setSection(s){ S.section[S.deck]=s; const l=workingList(); if(l.length&&positionOf(l)<0)S.current[scopeKey()]=l[0]; render(); persist(); }
+function setFilter(f){ S.filter[scopeKey()]=f; const l=workingList(); if(l.length&&positionOf(l)<0)S.current[scopeKey()]=l[0]; render(); persist(); }
+function setDir(dir){ S.dir[scopeKey()]=dir; render(); persist(); }
+function setSize(sz){ S.sz=sz; render(); persist(); }
+function toggleList(){
+  const list=workingList(); if(!list.length) return;
+  let p=positionOf(list); if(p<0) p=0;
+  const id=list[p]; const c=CARD[id];
+  if(c.fact&&!(S.lists&&S.lists[id])) return; // can't mark native facts as lists
+  if(!S.lists) S.lists={};
+  const dk=id.split("::")[0];
+  if(S.lists[id]){
+    // un-mark: move back to termdefs, restore original position
+    delete S.lists[id];
+    rebuildViews(dk);
+    // if currently in termdefs, snap to this card's position in the new list
+    if(S.section[dk]==="termdefs"||S.section[dk]==="facts"){
+      const newList=SECTION_IDS[dk].termdefs;
+      const newP=newList.indexOf(id);
+      if(newP>=0) S.current[dk+"::termdefs"]=id;
+    }
+  }else{
+    // mark as list: remove from termdefs, add to facts
+    S.lists[id]=true;
+    rebuildViews(dk);
+    // if currently in termdefs, advance to next card
+    if(S.section[dk]==="termdefs"){
+      const newList=SECTION_IDS[dk].termdefs;
+      if(newList.length){ const np=Math.min(p,newList.length-1); S.current[dk+"::termdefs"]=newList[np]; }
+    }
+  }
+  render(); persist();
+}
+
+/* ---- tools popover ---- */
+function closeMenu(){ $("toolsmenu").classList.remove("open"); $("toolsbtn").classList.remove("open"); $("toolsbtn").setAttribute("aria-expanded","false"); }
+function toggleMenu(){ const open=$("toolsmenu").classList.toggle("open"); $("toolsbtn").classList.toggle("open",open); $("toolsbtn").setAttribute("aria-expanded",open?"true":"false"); }
+
+/* ---- search ---- */
+// Build a flat index of every card across both decks (excluding termdefs/facts views to avoid dupes)
+const SEARCH_INDEX = []; // [{id, deck, section, term, def, fact}]
+for(const dk of Object.keys(DECKS)){
+  for(const sec of DECKS[dk].sections){
+    if(sec.id==="termdefs"||sec.id==="facts") continue;
+    const ids=SECTION_IDS[dk][sec.id]||[];
+    ids.forEach(id=>{
+      const c=CARD[id];
+      SEARCH_INDEX.push({id, deck:dk, section:sec.name, term:c.t||"", def:c.d, fact:c.fact});
+    });
+  }
+}
+
+function escRe(s){ return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); }
+function highlight(text, re){
+  return text.replace(re, m=>`<mark>${m}</mark>`);
+}
+
+let searchDebounce=null;
+function doSearch(){
+  const q=$("search").value.trim();
+  const panel=$("search-results");
+  const clearBtn=$("search-clear");
+  clearBtn.classList.toggle("vis", q.length>0);
+  if(!q){ panel.innerHTML=""; return; }
+
+  const re=new RegExp(escRe(q),'gi');
+  const hits=SEARCH_INDEX.filter(r=>re.test(r.term)||re.test(r.def)).slice(0,40);
+  re.lastIndex=0;
+
+  if(!hits.length){
+    panel.innerHTML=`<div class="sr-none">No results for "<strong>${q}</strong>"</div>`;
+    return;
+  }
+
+  const deckNames={leadership:"Leadership",aerospace:"Aerospace"};
+  panel.innerHTML=`<div class="sr-header">${hits.length}${hits.length===40?"+":""} result${hits.length===1?"":"s"} across all cards</div>`
+    +hits.map(r=>{
+      const hl_term = r.fact?"":highlight(r.term,new RegExp(escRe(q),'gi'));
+      const hl_def  = highlight(r.def, new RegExp(escRe(q),'gi'));
+      return `<button class="sr-item" role="option" data-id="${r.id}" data-deck="${r.deck}">
+        ${r.fact?`<span class="sr-def">${hl_def}</span>`:`<span class="sr-term">${hl_term}</span><span class="sr-def">${hl_def}</span>`}
+        <span class="sr-meta">${deckNames[r.deck]} · ${r.section}</span>
+      </button>`;
+    }).join("");
+
+  panel.querySelectorAll(".sr-item").forEach(btn=>{
+    btn.addEventListener("click",()=>jumpToCard(btn.dataset.id, btn.dataset.deck));
+  });
+}
+
+function jumpToCard(id, deck){
+  let targetSection=null;
+  for(const sec of DECKS[deck].sections){
+    if(sec.id==="termdefs"||sec.id==="facts") continue;
+    if((SECTION_IDS[deck][sec.id]||[]).includes(id)){ targetSection=sec.id; break; }
+  }
+  if(!targetSection) return;
+  if(S.deck!==deck) S.deck=deck;
+  S.section[deck]=targetSection;
+  const sk=deck+"::"+targetSection;
+  S.current[sk]=id;
+  ensureOrder();
+  if(!(S.order[sk]||[]).includes(id)) S.order[sk]=baseIds(deck,targetSection).slice();
+  render(); persist();
+  clearSearch();
+}
+
+function clearSearch(){
+  $("search").value="";
+  $("search-clear").classList.remove("vis");
+  $("search-results").innerHTML="";
+  $("search-panel").classList.remove("open");
+  $("searchbtn").classList.remove("open");
+}
+
+function toggleSearch(e){
+  e.stopPropagation();
+  const open=$("search-panel").classList.toggle("open");
+  $("searchbtn").classList.toggle("open",open);
+  if(open){ setTimeout(()=>$("search").focus(),50); }
+  else { clearSearch(); }
+  closeMenu();
+}
+
+/* ---- edit card ---- */
+let editingId=null;
+
+function applyEdits(){
+  // Apply any saved edits on top of the built-in CARD data
+  if(!S.edits) return;
+  for(const [id, edit] of Object.entries(S.edits)){
+    if(!CARD[id]) continue;
+    if(edit.t!==undefined) CARD[id].t=edit.t;
+    if(edit.d!==undefined) CARD[id].d=edit.d;
+  }
+}
+
+function currentCardId(){
+  const list=workingList(); if(!list.length) return null;
+  let p=positionOf(list); if(p<0) p=0;
+  return list[p];
+}
+
+function openEdit(e){
+  e.stopPropagation();
+  const id=currentCardId(); if(!id) return;
+  const c=CARD[id];
+  if(c.fact){
+    $("edit-term-row").style.display="none";
+    $("edit-term").value="";
+  } else {
+    $("edit-term-row").style.display="flex";
+    $("edit-term").value=c.t;
+  }
+  $("edit-def").value=c.d;
+  editingId=id;
+  $("edit-backdrop").classList.add("open");
+  setTimeout(()=>{ (c.fact?$("edit-def"):$("edit-term")).focus(); },80);
+}
+
+function closeEdit(){ $("edit-backdrop").classList.remove("open"); editingId=null; }
+
+function saveEdit(){
+  if(!editingId) return;
+  const c=CARD[editingId];
+  const newT=c.fact?"":$("edit-term").value.trim();
+  const newD=$("edit-def").value.trim();
+  if(!newD){ $("edit-def").focus(); return; }
+  // Store delta against original
+  if(!S.edits) S.edits={};
+  S.edits[editingId]={t:newT, d:newD};
+  CARD[editingId].t=newT;
+  CARD[editingId].d=newD;
+  closeEdit();
+  render(); persist();
+}
+
+function resetEdit(){
+  if(!editingId) return;
+  // Find original values from DECKS data
+  const parts=editingId.split("::");
+  // parts: [deck, sectionId, index]
+  const dk=parts[0], secId=parts[1], idx=parseInt(parts[2]);
+  let origCard=null;
+  for(const sec of DECKS[dk].sections){
+    if(sec.id===secId){ origCard=sec.cards[idx]; break; }
+  }
+  if(!origCard) return;
+  const fact=origCard.length===1;
+  const origT=fact?"":origCard[0];
+  const origD=fact?origCard[0]:origCard[1];
+  // Remove edit override
+  if(S.edits) delete S.edits[editingId];
+  CARD[editingId].t=origT;
+  CARD[editingId].d=origD;
+  closeEdit();
+  render(); persist();
+}
+
+/* ---- card notes ---- */
+let notesSaveTimer=null;
+function openNotes(e){
+  if(e) e.stopPropagation();
+  const id=currentCardId(); if(!id) return;
+  $("notes-text").value=(S.notes&&S.notes[id])||"";
+  $("notes-panel").classList.add("open");
+  setTimeout(()=>{ $("notes-text").focus(); },80);
+}
+function closeNotes(){ $("notes-panel").classList.remove("open"); }
+function toggleNotes(e){
+  if(e) e.stopPropagation();
+  if($("notes-panel").classList.contains("open")) closeNotes(); else openNotes(e);
+}
+function saveNote(){
+  const id=currentCardId(); if(!id) return;
+  const val=$("notes-text").value;
+  if(!S.notes) S.notes={};
+  if(val.trim()){ S.notes[id]=val; } else { delete S.notes[id]; }
+  updateNotesIndicator(id);
+  const hint=$("notes-saved-hint");
+  hint.textContent="Saved"; hint.classList.add("vis");
+  clearTimeout(notesSaveTimer);
+  notesSaveTimer=setTimeout(()=>hint.classList.remove("vis"),1200);
+  persist();
+}
+function clearNote(){
+  const id=currentCardId(); if(!id) return;
+  if(S.notes) delete S.notes[id];
+  $("notes-text").value="";
+  updateNotesIndicator(id);
+  persist();
+}
+function updateNotesIndicator(id){
+  const has=!!(S.notes&&S.notes[id]&&S.notes[id].trim());
+  $("notes-btn").classList.toggle("has-note",has);
+}
+
+/* ---- history modal ---- */
+function buildHistory(){
+  const deckNames={aerospace:"Journey of Flight (Aerospace)"};
+  const deckKeys=["aerospace"];
+  let htmlOut="", textOut="MASTERY HISTORY\n===============\n";
+  let totalMastered=0, totalReview=0, totalGeneral=0;
+
+  for(const dk of deckKeys){
+    // gather all real-section cards that have a mastery mark
+    const mastered=[], review=[], general=[];
+    for(const sec of DECKS[dk].sections){
+      if(sec.id==="termdefs"||sec.id==="facts") continue;
+      const ids=SECTION_IDS[dk][sec.id]||[];
+      ids.forEach(id=>{
+        const st=S.mastery[id];
+        if(!st) return;
+        const c=CARD[id];
+        const entry={term:c.fact?"(fact)":c.t, def:c.d, fact:c.fact, section:sec.name};
+        if(st==="mastered") mastered.push(entry);
+        else if(st==="review") review.push(entry);
+        else if(st==="general") general.push(entry);
+      });
+    }
+    if(!mastered.length&&!review.length&&!general.length) continue;
+    totalMastered+=mastered.length; totalReview+=review.length; totalGeneral+=general.length;
+
+    htmlOut+=`<div class="hist-deck"><div class="hist-deck-name">${deckNames[dk]}</div>`;
+    textOut+=`\n${deckNames[dk]}\n${"-".repeat(deckNames[dk].length)}\n`;
+
+    const renderGroup=(items,cls,label,textLabel)=>{
+      if(!items.length) return;
+      htmlOut+=`<div class="hist-group"><div class="hist-group-label ${cls}"><span class="pip"></span>${label} (${items.length})</div>`;
+      textOut+=`\n${textLabel} (${items.length}):\n`;
+      items.forEach(e=>{
+        if(e.fact){
+          htmlOut+=`<div class="hist-item"><div class="ht">${e.def}</div><div class="hist-section-name">${e.section}</div></div>`;
+          textOut+=`• ${e.def}\n`;
+        } else {
+          htmlOut+=`<div class="hist-item"><div class="ht">${e.term}</div><div class="hd">${e.def}</div><div class="hist-section-name">${e.section}</div></div>`;
+          textOut+=`• ${e.term}: ${e.def}\n`;
+        }
+      });
+      htmlOut+=`</div>`;
+    };
+    renderGroup(mastered,"m","Mastered","MASTERED");
+    renderGroup(review,"r","Need Review","NEED REVIEW");
+    renderGroup(general,"g","General","GENERAL");
+    htmlOut+=`</div>`;
+  }
+
+  if(!totalMastered&&!totalReview&&!totalGeneral){
+    htmlOut=`<div class="modal-empty">No cards marked yet.<br>Mark cards as <strong>Mastered</strong>, <strong>Need review</strong>, or <strong>General</strong> while studying to see them here.</div>`;
+    textOut+="No cards marked yet.\n";
+  } else {
+    textOut+=`\nTotal: ${totalMastered} mastered, ${totalReview} need review, ${totalGeneral} general\n`;
+  }
+
+  $("modal-body").innerHTML=htmlOut;
+  $("modal-body")._textOut=textOut;
+}
+
+function openHistory(){
+  buildHistory();
+  $("history-backdrop").classList.add("open");
+  $("modal-copy").textContent="Copy to clipboard";
+  $("modal-copy").classList.remove("copied");
+  closeMenu();
+}
+function closeHistory(){ $("history-backdrop").classList.remove("open"); }
+
+/* ---- range mastery (Terms & Definitions only) ---- */
+let rangeExceptions=[]; // array of numbers (1-based positions)
+
+function openRangeModal(){
+  closeMenu();
+  const dk=S.deck, sec=S.section[dk];
+  const isValid = sec!=="__all__" && !!(SECTION_IDS[dk] && SECTION_IDS[dk][sec]);
+  $("range-unavailable").style.display = isValid?"none":"flex";
+  $("range-form").style.display = isValid?"flex":"none";
+  if(isValid){
+    const total=(SECTION_IDS[dk][sec]||[]).length;
+    const secName=(SECTIONS[dk].find(s=>s.id===sec)||{}).name||sec;
+    $("range-scope-note").textContent = `Applies to "${secName}" in ${DECKS[dk].name} — ${total} cards, numbered 1–${total} in their current order.`;
+    $("range-start").value=""; $("range-end").value="";
+    rangeExceptions=[];
+    renderRangeChips();
+    updateRangePreview();
+  }
+  $("range-backdrop").classList.add("open");
+  if(isValid) setTimeout(()=>$("range-start").focus(),80);
+}
+function closeRangeModal(){ $("range-backdrop").classList.remove("open"); }
+
+function renderRangeChips(){
+  const box=$("range-exc-chips"); const input=$("range-exc-input");
+  box.querySelectorAll(".range-chip").forEach(n=>n.remove());
+  rangeExceptions.forEach((num,i)=>{
+    const chip=document.createElement("span");
+    chip.className="range-chip";
+    chip.innerHTML=`<span>${num}</span>`;
+    const x=document.createElement("button");
+    x.textContent="×"; x.type="button";
+    x.setAttribute("aria-label",`Remove exception ${num}`);
+    x.addEventListener("click",()=>{ rangeExceptions.splice(i,1); renderRangeChips(); updateRangePreview(); });
+    chip.appendChild(x);
+    box.insertBefore(chip, input);
+  });
+}
+
+function addExceptionFromInput(){
+  const input=$("range-exc-input");
+  const raw=input.value.trim().replace(/,$/,"");
+  input.value="";
+  if(!raw) return;
+  const num=parseInt(raw,10);
+  if(!isNaN(num) && num>0 && !rangeExceptions.includes(num)){
+    rangeExceptions.push(num);
+    rangeExceptions.sort((a,b)=>a-b);
+    renderRangeChips();
+    updateRangePreview();
+  }
+}
+
+function updateRangePreview(){
+  const dk=S.deck, sec=S.section[dk];
+  const total=(SECTION_IDS[dk] && SECTION_IDS[dk][sec] || []).length;
+  const start=parseInt($("range-start").value,10);
+  const end=parseInt($("range-end").value,10);
+  const preview=$("range-preview");
+  if(!start||!end||start<1||end<1){ preview.textContent=""; return; }
+  const lo=Math.min(start,end), hi=Math.min(Math.max(start,end),total);
+  const count=Math.max(0,hi-lo+1);
+  const excInRange=rangeExceptions.filter(n=>n>=lo&&n<=hi).length;
+  preview.textContent = count
+    ? `Will mark ${Math.max(0,count-excInRange)} card${count-excInRange===1?"":"s"} as mastered (#${lo}–#${hi}${excInRange?`, excluding ${excInRange} exception${excInRange===1?"":"s"}`:""}).`
+    : "";
+}
+
+function applyRangeMastery(){
+  const dk=S.deck, sec=S.section[dk];
+  const ids=(SECTION_IDS[dk] && SECTION_IDS[dk][sec]) || [];
+  const total=ids.length;
+  const start=parseInt($("range-start").value,10);
+  const end=parseInt($("range-end").value,10);
+  if(!start||!end||start<1||end<1||start>total||end>total){
+    alert(`Enter a valid range between 1 and ${total}.`);
+    return;
+  }
+  const lo=Math.min(start,end), hi=Math.max(start,end);
+  const excSet=new Set(rangeExceptions);
+  let count=0;
+  for(let pos=lo; pos<=hi; pos++){
+    if(excSet.has(pos)) continue;
+    const id=ids[pos-1];
+    if(!id) continue;
+    S.mastery[id]="mastered";
+    count++;
+  }
+  render(); persist();
+  closeRangeModal();
+}
+
+/* ---- wire up ---- */
+$("search").addEventListener("input",()=>{ clearTimeout(searchDebounce); searchDebounce=setTimeout(doSearch,160); });
+$("search").addEventListener("focus",()=>{ if($("search").value.trim()) doSearch(); });
+$("search-clear").addEventListener("click",e=>{ e.stopPropagation(); clearSearch(); $("search").focus(); });
+$("search-results").addEventListener("click",e=>e.stopPropagation());
+$("search-panel").addEventListener("click",e=>e.stopPropagation());
+$("searchbtn").addEventListener("click",toggleSearch);
+document.addEventListener("click",e=>{
+  if(!e.target.closest(".studybar")) { $("search-panel").classList.remove("open"); $("searchbtn").classList.remove("open"); }
+  closeMenu();
+});
+document.querySelectorAll(".tab").forEach(t=>t.addEventListener("click",()=>setDeck(t.dataset.deck)));
+$("section").addEventListener("change",e=>setSection(e.target.value));
+$("card").addEventListener("click",flip);
+$("prev").addEventListener("click",e=>{e.stopPropagation();go(-1);});
+$("next").addEventListener("click",e=>{e.stopPropagation();go(1);});
+document.addEventListener("click",e=>{ const t=e.target.closest && e.target.closest("#pos-btn"); if(t){ e.stopPropagation(); startJump(); } });
+$("mark-review").addEventListener("click",()=>mark("review"));
+$("total-toggle").addEventListener("click",()=>{ showUnmarked=!showUnmarked; render(); });
+$("mark-general").addEventListener("click",()=>mark("general"));
+$("mark-master").addEventListener("click",()=>mark("mastered"));
+$("toggle-fullscreen-item").addEventListener("click",()=>{toggleFullscreen();closeMenu();});
+$("shortcuts-item").addEventListener("click",()=>{openShortcuts();closeMenu();});
+$("shortcuts-close").addEventListener("click",closeShortcuts);
+$("shortcuts-backdrop").addEventListener("click",e=>{ if(e.target===$("shortcuts-backdrop")) closeShortcuts(); });
+$("toolsbtn").addEventListener("click",e=>{e.stopPropagation();toggleMenu();});
+$("toolsmenu").addEventListener("click",e=>e.stopPropagation());
+$("edit-btn").addEventListener("click",openEdit);
+$("notes-btn").addEventListener("click",toggleNotes);
+$("notes-panel-close").addEventListener("click",e=>{ e.stopPropagation(); closeNotes(); });
+$("notes-clear-btn").addEventListener("click",e=>{ e.stopPropagation(); clearNote(); });
+$("notes-text").addEventListener("input",saveNote);
+$("notes-panel").addEventListener("click",e=>e.stopPropagation());
+$("notes-panel").addEventListener("keydown",e=>{ if(e.key!=="Escape") e.stopPropagation(); });
+$("list-btn").addEventListener("click",e=>{ e.stopPropagation(); toggleList(); });
+$("edit-close").addEventListener("click",closeEdit);
+$("edit-backdrop").addEventListener("click",e=>{ if(e.target===$("edit-backdrop")) closeEdit(); });
+$("edit-save").addEventListener("click",saveEdit);
+$("edit-reset").addEventListener("click",resetEdit);
+$("edit-def").addEventListener("keydown",e=>{ if(e.key==="Enter"&&(e.ctrlKey||e.metaKey)){ e.preventDefault(); saveEdit(); } });
+$("edit-term").addEventListener("keydown",e=>{ if(e.key==="Enter"&&(e.ctrlKey||e.metaKey)){ e.preventDefault(); saveEdit(); } });
+$("show-history").addEventListener("click",openHistory);
+$("sync-file-btn").addEventListener("click",()=>{
+  closeMenu();
+  if(fileHandle){ writeProgressFile(); return; }
+  if(hasFSAccess){ connectProgressFile(); }
+  else { downloadProgressFile(); }
+});
+$("modal-close").addEventListener("click",closeHistory);
+$("history-backdrop").addEventListener("click",e=>{ if(e.target===$("history-backdrop")) closeHistory(); });
+$("modal-copy").addEventListener("click",()=>{
+  const text=$("modal-body")._textOut||"";
+  navigator.clipboard.writeText(text).then(()=>{
+    $("modal-copy").textContent="Copied!"; $("modal-copy").classList.add("copied");
+    setTimeout(()=>{ $("modal-copy").textContent="Copy to clipboard"; $("modal-copy").classList.remove("copied"); },2000);
+  }).catch(()=>{
+    const ta=document.createElement("textarea"); ta.value=text; ta.style.cssText="position:fixed;opacity:0";
+    document.body.appendChild(ta); ta.select(); document.execCommand("copy"); document.body.removeChild(ta);
+    $("modal-copy").textContent="Copied!"; $("modal-copy").classList.add("copied");
+    setTimeout(()=>{ $("modal-copy").textContent="Copy to clipboard"; $("modal-copy").classList.remove("copied"); },2000);
+  });
+});
+$("shuffle").addEventListener("click",()=>{ if(isShuffled()) restoreOrder(); else shuffle(); });
+$("restart").addEventListener("click",restart);
+$("reset").addEventListener("click",resetProgress);
+$("clear-notes-unmastered").addEventListener("click",clearNotesUnmastered);
+$("range-master").addEventListener("click",openRangeModal);
+$("range-close").addEventListener("click",closeRangeModal);
+$("range-cancel").addEventListener("click",closeRangeModal);
+$("range-backdrop").addEventListener("click",e=>{ if(e.target===$("range-backdrop")) closeRangeModal(); });
+$("range-apply").addEventListener("click",applyRangeMastery);
+$("range-start").addEventListener("input",updateRangePreview);
+$("range-end").addEventListener("input",updateRangePreview);
+$("range-exc-input").addEventListener("keydown",e=>{
+  if(e.key===","||e.key==="Enter"){ e.preventDefault(); addExceptionFromInput(); }
+  else if(e.key==="Backspace" && !$("range-exc-input").value && rangeExceptions.length){
+    rangeExceptions.pop(); renderRangeChips(); updateRangePreview();
+  }
+});
+$("range-exc-input").addEventListener("blur",addExceptionFromInput);
+$("range-exc-chips").addEventListener("click",()=>$("range-exc-input").focus());
+$("filter").addEventListener("change",e=>setFilter(e.target.value));
+$("dir-term").addEventListener("click",()=>setDir("term"));
+$("dir-def").addEventListener("click",()=>setDir("def"));
+$("sz-s").addEventListener("click",()=>setSize("s"));
+$("sz-m").addEventListener("click",()=>setSize("m"));
+$("sz-l").addEventListener("click",()=>setSize("l"));
+document.addEventListener("keydown",e=>{
+  if(e.key==="Escape"){ e.preventDefault(); closeMenu(); clearSearch(); closeHistory(); closeEdit(); closeRangeModal(); closeNotes(); closeShortcuts(); return; }
+  if(e.target===document.getElementById("search")) return;
+  if(e.target.id==="jump-input") return;
+  if(e.target.tagName==="SELECT") return;
+  if(e.target.tagName==="TEXTAREA"||e.target.tagName==="INPUT") return;
+  if(e.target.closest && e.target.closest("#edit-backdrop")) return;
+  if(e.key==="/"){ e.preventDefault(); toggleSearch(e); return; }
+  const k=e.key.toLowerCase();
+  if(k===" "||k==="enter"){e.preventDefault();flip();}
+  else if(k==="arrowright"){e.preventDefault();go(1);}
+  else if(k==="arrowleft"){e.preventDefault();go(-1);}
+  else if(k==="m"){mark("mastered");}
+  else if(k==="r"){mark("review");}
+  else if(k==="g"){mark("general");}
+  else if(k==="s"){ if(isShuffled()) restoreOrder(); else shuffle(); }
+  else if(k==="e"){openEdit({stopPropagation:()=>{}});}
+  else if(k==="n"){toggleNotes({stopPropagation:()=>{}});}
+  else if(k==="f"){toggleFullscreen();}
+  else if(e.key==="?"){openShortcuts();}
+});
+
+/* ---- status chip: battery + time ---- */
+function updateClock(){
+  const el=$("status-time"); if(!el) return;
+  const now=new Date();
+  el.textContent=now.toLocaleTimeString([],{hour:"numeric",minute:"2-digit"});
+}
+function updateBatteryUI(batt){
+  const fill=$("batt-fill"), pct=$("batt-pct"), icon=$("batt-icon");
+  if(!batt){
+    $("status-chip").querySelectorAll(".batt-icon,.batt-pct,.status-sep").forEach(el=>el.style.display="none");
+    return;
+  }
+  const level=Math.round(batt.level*100);
+  fill.setAttribute("width",Math.max(1,15*batt.level).toFixed(1));
+  pct.textContent=level+"%";
+  icon.style.color=(!batt.charging&&level<=15)?"var(--review)":"var(--ink)";
+}
+(function initStatusChip(){
+  updateClock(); setInterval(updateClock,15000);
+  if(navigator.getBattery){
+    navigator.getBattery().then(batt=>{
+      updateBatteryUI(batt);
+      batt.addEventListener("levelchange",()=>updateBatteryUI(batt));
+      batt.addEventListener("chargingchange",()=>updateBatteryUI(batt));
+    }).catch(()=>updateBatteryUI(null));
+  }else{
+    updateBatteryUI(null);
+  }
+})();
+
+/* ---- boot ---- */
+let resizeFitTimer=null;
+window.addEventListener("resize",()=>{ clearTimeout(resizeFitTimer); resizeFitTimer=setTimeout(autofitCard,120); });
+
+(async function init(){
+  const dataRes = await fetch('data.json');
+  if(!dataRes.ok){ document.body.innerHTML = '<div style="color:#E96A4C;font-family:sans-serif;padding:40px;font-size:18px;">Failed to load data.json (' + dataRes.status + '). If opening via file://, run a local server, e.g. <code>python3 -m http.server</code> in this folder.</div>'; return; }
+  DECKS = await dataRes.json();
+  buildLookups();
+
+  const raw=await loadRaw();
+  if(raw){ try{ const p=JSON.parse(raw); if(p&&p.v===2) S=Object.assign(freshState(),p); }catch(e){} }
+  if(S.deck!=="aerospace") S.deck="aerospace";
+  for(const dk of ["aerospace"]){
+    const valid=SECTIONS[dk].map(s=>s.id).concat("__all__");
+    if(!valid.includes(S.section[dk])) S.section[dk]="termdefs";
+  }
+  for(const id of Object.keys(S.mastery)) if(!CARD[id]) delete S.mastery[id];
+  if(!S.edits) S.edits={};
+  if(!S.lists) S.lists={};
+  if(!S.notes) S.notes={};
+
+  // Load progress.json every time (not just first run) so a git pull with
+  // updated mastery/notes/order from another device actually takes effect.
+  // Local browser storage is still used for anything progress.json doesn't
+  // cover (current position, filters, text size, etc).
+  try{
+    const progRes = await fetch('progress.json', {cache:"no-store"});
+    if(progRes.ok){
+      const text = await progRes.text();
+      if(text.trim()) applyProgressPayload(JSON.parse(text));
+    }
+  }catch(e){ /* progress.json is optional; ignore failures */ }
+
+  applyEdits(); // overlay any saved edits onto the built-in card data
+  rebuildViews("aerospace"); // apply list reclassifications
+  updateSyncUI();
+  render();
+  persist();
+})();
+</script>
+</body>
+</html>
