@@ -13,8 +13,32 @@ A flashcard study app for the "Journey of Flight" (aerospace) deck.
 
 ## How syncing works
 
-There's no server. `progress.json` is just a plain file in this repo that the app
-reads on every load and can write to directly. The workflow is:
+There's no traditional server, but there are two ways `progress.json` gets kept
+in sync across devices:
+
+### Option A: GitHub sync (recommended — no manual git commands)
+
+The app can commit `progress.json` straight to this repo via the GitHub REST
+API, right from the browser, every time you mark a card, add a note, or shuffle:
+
+1. Open the menu (⋯) → **Connect GitHub sync**.
+2. Enter the repo as `owner/name` (auto-filled if you're on a `*.github.io` URL),
+   the branch (default `main`), and a GitHub **personal access token**.
+   Use a fine-grained token scoped to just this repo with **Contents: Read and
+   write** permission — nothing else. The token is stored only in this browser's
+   `localStorage`; it's never sent anywhere but `api.github.com`.
+3. From then on, every change auto-commits to `progress.json` (debounced ~2.5s
+   after you stop making changes) — no `git add`/`commit`/`push` needed.
+4. GitHub Pages redeploys automatically within roughly 30-60 seconds of the
+   commit. Open (or reload) the site on another device and it'll have picked up
+   the change.
+
+Because a token lives in browser storage, only connect this on devices you
+trust, and revoke the token from GitHub's settings if a device is lost. **Menu →
+Disconnect GitHub sync** forgets the token locally (it doesn't revoke it on
+GitHub's side).
+
+### Option B: manual file + git (no token required)
 
 1. Study on device A. The app writes your mastery marks / notes / order into
    `progress.json` on disk (see "Connecting the file" below).
@@ -102,9 +126,13 @@ blocks the `fetch()` calls that load `data.json` and `progress.json`.)
 
 `progress.json`'s `order` field is the order for "All sections" specifically.
 - **Shuffle** scrambles the current view as usual.
-- **Restore Original Order** (or pressing `S` again) reverts back to whatever
-  order is stored in `progress.json` — not data.json's raw section-by-section
-  concatenation.
+- **Restore Original Order** (or pressing `S` again) reverts back to
+  `data.json`'s natural section-by-section concatenation order — the deck's
+  true default — regardless of whatever order happens to be loaded from
+  `progress.json`. That way, if `progress.json` was last saved mid-shuffle,
+  the menu correctly shows "Restore Original Order" instead of "Shuffle",
+  since the currently-loaded order really is a shuffled one relative to the
+  deck's default.
 
 Individual named sections (Definitions, Concepts, People/Aircraft, etc.) are
 untouched and keep their own natural per-section order as always.
