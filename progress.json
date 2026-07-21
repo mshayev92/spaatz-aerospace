@@ -639,7 +639,6 @@
   "aerospace::definitions::108"
  ],
  "mastery": {
-  "aerospace::definitions::0": "mastered",
   "aerospace::definitions::121": "mastered",
   "aerospace::concepts::148": "mastered",
   "aerospace::people::103": "mastered",
@@ -794,6 +793,7 @@
   "aerospace::definitions::39": "mastered",
   "aerospace::definitions::73": "mastered",
   "aerospace::definitions::164": "general",
+  "aerospace::definitions::0": "mastered",
   "aerospace::definitions::128": "mastered",
   "aerospace::concepts::113": "mastered",
   "aerospace::misc::72": "general",
@@ -948,8 +948,7 @@
   "aerospace::definitions::22": "mastered",
   "aerospace::definitions::18": "mastered",
   "aerospace::definitions::1": "mastered",
-  "aerospace::definitions::17": "mastered",
-  "aerospace::concepts::7": "mastered"
+  "aerospace::definitions::17": "mastered"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
