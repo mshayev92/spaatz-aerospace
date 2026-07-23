@@ -1045,7 +1045,8 @@
   "aerospace::concepts::142": "review",
   "aerospace::misc::41": "mastered",
   "aerospace::people::40": "general",
-  "aerospace::concepts::61": "mastered"
+  "aerospace::concepts::61": "mastered",
+  "aerospace::definitions::148": "general"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
