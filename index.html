@@ -298,6 +298,15 @@
   .hist-item{font-family:var(--body);font-size:13px;color:var(--ink);padding:6px 10px;border-radius:8px;background:rgba(255,255,255,.03);margin-bottom:4px;line-height:1.4}
   .hist-item .ht{font-weight:600} .hist-item .hd{color:var(--muted);font-size:12px;margin-top:2px}
   .hist-section-name{font-family:var(--mono);font-size:10px;color:var(--faint);margin-top:3px}
+  .hist-item-top{display:flex;align-items:center;gap:7px}
+  .hist-item-top .ht{flex:1}
+  .hist-status-pip{width:8px;height:8px;border-radius:50%;flex:0 0 auto}
+  .hist-status-pip.m{background:var(--mastered)} .hist-status-pip.r{background:var(--review)}
+  .hist-status-pip.g{background:var(--general)} .hist-status-pip.u{background:var(--faint)}
+  .hist-status-label{font-family:var(--mono);font-size:9.5px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;flex:0 0 auto}
+  .hist-status-label.m{color:var(--mastered)} .hist-status-label.r{color:var(--review)}
+  .hist-status-label.g{color:var(--general)} .hist-status-label.u{color:var(--faint)}
+  .hist-note{font-family:var(--body);font-size:12px;color:var(--muted);margin-top:4px;padding-top:4px;border-top:1px solid var(--line2);white-space:pre-wrap}
   .controls{display:flex;align-items:center;gap:10px;margin-bottom:10px}
   .navbtn{appearance:none;cursor:pointer;width:46px;height:46px;border-radius:13px;flex:0 0 auto;border:1px solid var(--line);background:rgba(255,255,255,.03);color:var(--ink);display:grid;place-items:center;transition:.15s}
   .navbtn:hover{border-color:color-mix(in srgb,var(--accent) 50%,var(--line));background:rgba(255,255,255,.06)}
@@ -478,6 +487,9 @@
       <button id="show-history" role="menuitem">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3h18v4H3z"/><path d="M3 10h18v4H3z"/><path d="M3 17h18v4H3z"/></svg>
         View history</button>
+      <button id="show-deck-report" role="menuitem">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M9 13h6"/><path d="M9 17h6"/></svg>
+        Full deck report</button>
       <button id="sync-file-btn" role="menuitem">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>
         <span id="sync-file-label">Connect progress.json</span></button>
@@ -822,6 +834,7 @@ function progressPayload(){
   // seeded/base order for "All sections", and user edits/list reclassifications.
   return {
     v:1,
+    updatedAt: S.updatedAt||0,
     order: S.order["aerospace::__all__"]||null,
     mastery: S.mastery||{},
     notes: S.notes||{},
@@ -833,6 +846,7 @@ function progressPayload(){
 function applyProgressPayload(p){
   if(!p) return;
   const validIds = new Set(ALL_IDS["aerospace"]||[]);
+  if(typeof p.updatedAt==="number" && p.updatedAt>(S.updatedAt||0)) S.updatedAt=p.updatedAt;
   if(Array.isArray(p.order)){
     const ord = p.order.filter(id=>validIds.has(id));
     if(ord.length) S.order["aerospace::__all__"]=ord.slice();
@@ -934,10 +948,11 @@ async function ghSyncNow(){
   }catch(e){
     ghLastError=(e&&e.message)||String(e);
   }
-  ghSyncing=false; document.getElementById("savestate").textContent=storageLabel();
+  ghSyncing=false; pendingLocalSync=false;
+  document.getElementById("savestate").textContent=storageLabel();
 }
 function scheduleGhSync(){
-  if(!ghToken) return;
+  if(!ghToken){ pendingLocalSync=false; return; }
   clearTimeout(ghSyncTimer);
   ghSyncTimer=setTimeout(ghSyncNow, 2500);
 }
@@ -1013,12 +1028,13 @@ function isShuffled(){
   return false;
 }
 
-let lastLocalChangeAt = 0;
+let pendingLocalSync = false;
 function persist(){
-  lastLocalChangeAt = Date.now();
+  pendingLocalSync = true;
   document.getElementById("savestate").textContent="Saving…";
   clearTimeout(saveTimer);
   saveTimer=setTimeout(async()=>{
+    S.updatedAt = Date.now();
     await saveRaw(JSON.stringify(S));
     if(fileHandle) await writeProgressFile();
     scheduleGhSync();
@@ -1593,6 +1609,7 @@ function buildHistory(){
 }
 
 function openHistory(){
+  $("modal-title").textContent="Mastery History";
   buildHistory();
   $("history-backdrop").classList.add("open");
   $("modal-copy").textContent="Copy to clipboard";
@@ -1600,6 +1617,70 @@ function openHistory(){
   closeMenu();
 }
 function closeHistory(){ $("history-backdrop").classList.remove("open"); }
+
+/* ---- full deck report: every card in the current deck, its status, and its notes ---- */
+function escapeHtml(s){
+  return String(s).replace(/[&<>"']/g, ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[ch]));
+}
+const STATUS_INFO={
+  mastered:{cls:"m", label:"Mastered"},
+  review:{cls:"r", label:"Need review"},
+  general:{cls:"g", label:"General"}
+};
+function buildDeckReport(){
+  const dk=S.deck;
+  const deckName=(DECKS[dk]&&DECKS[dk].name)||dk;
+  let htmlOut="", textOut=`${deckName.toUpperCase()} -- FULL DECK REPORT\n${"=".repeat(deckName.length+20)}\n`;
+  let total=0, counts={mastered:0, review:0, general:0, unmarked:0}, notesCount=0;
+
+  for(const sec of DECKS[dk].sections){
+    if(sec.id==="termdefs"||sec.id==="facts") continue; // combined views of the sections below -- skip to avoid double-listing
+    const ids=SECTION_IDS[dk][sec.id]||[];
+    if(!ids.length) continue;
+
+    htmlOut+=`<div class="hist-deck"><div class="hist-deck-name">${escapeHtml(sec.name)} (${ids.length})</div>`;
+    textOut+=`\n${sec.name}\n${"-".repeat(sec.name.length)}\n`;
+
+    ids.forEach(id=>{
+      total++;
+      const c=CARD[id];
+      const st=S.mastery[id];
+      const info=STATUS_INFO[st]||{cls:"u", label:"Not reviewed"};
+      counts[st in STATUS_INFO ? st : "unmarked"]++;
+      const note=(S.notes&&S.notes[id]||"").trim();
+      if(note) notesCount++;
+
+      const title=c.fact?c.d:c.t;
+      const def=c.fact?"":c.d;
+
+      htmlOut+=`<div class="hist-item"><div class="hist-item-top"><span class="hist-status-pip ${info.cls}"></span><span class="ht">${escapeHtml(title)}</span><span class="hist-status-label ${info.cls}">${info.label}</span></div>`;
+      if(def) htmlOut+=`<div class="hd">${escapeHtml(def)}</div>`;
+      if(note) htmlOut+=`<div class="hist-note">${escapeHtml(note)}</div>`;
+      htmlOut+=`</div>`;
+
+      textOut+=`• [${info.label}] ${title}${def?": "+def:""}${note?"\n    Note: "+note:""}\n`;
+    });
+    htmlOut+=`</div>`;
+  }
+
+  if(!total){
+    htmlOut=`<div class="modal-empty">No cards in this deck.</div>`;
+    textOut+="No cards in this deck.\n";
+  } else {
+    textOut+=`\nTotal: ${total} cards -- ${counts.mastered} mastered, ${counts.review} need review, ${counts.general} general, ${counts.unmarked} not reviewed, ${notesCount} with notes\n`;
+  }
+
+  $("modal-body").innerHTML=htmlOut;
+  $("modal-body")._textOut=textOut;
+}
+function openDeckReport(){
+  $("modal-title").textContent="Full Deck Report";
+  buildDeckReport();
+  $("history-backdrop").classList.add("open");
+  $("modal-copy").textContent="Copy to clipboard";
+  $("modal-copy").classList.remove("copied");
+  closeMenu();
+}
 
 /* ---- range mastery (Terms & Definitions only) ---- */
 let rangeExceptions=[]; // array of numbers (1-based positions)
@@ -1735,6 +1816,7 @@ $("edit-reset").addEventListener("click",resetEdit);
 $("edit-def").addEventListener("keydown",e=>{ if(e.key==="Enter"&&(e.ctrlKey||e.metaKey)){ e.preventDefault(); saveEdit(); } });
 $("edit-term").addEventListener("keydown",e=>{ if(e.key==="Enter"&&(e.ctrlKey||e.metaKey)){ e.preventDefault(); saveEdit(); } });
 $("show-history").addEventListener("click",openHistory);
+$("show-deck-report").addEventListener("click",openDeckReport);
 $("sync-file-btn").addEventListener("click",()=>{
   closeMenu();
   if(fileHandle){ writeProgressFile(); return; }
@@ -1892,26 +1974,36 @@ window.addEventListener("resize",()=>{ clearTimeout(resizeFitTimer); resizeFitTi
    (b) on a periodic timer while it stays visible, so you don't have to open a
    fresh tab to pick up a change made elsewhere.
 
-   Guard: skip the pull if a local edit happened in the last few seconds and
-   hasn't finished being pushed yet (persist() debounces ~180ms, then GitHub
-   sync debounces another ~2.5s) -- otherwise a background pull could overwrite
-   an edit on this device before it's gone out. ---- */
-const BG_SYNC_MIN_GAP_MS = 4000;
+   Guard: skip the pull while a local edit is still being pushed out
+   (persist() debounces ~180ms, then GitHub sync debounces another ~2.5s,
+   plus the PUT itself) -- otherwise a background pull could overwrite an
+   edit on this device before it's gone out. This is tracked with the
+   `pendingLocalSync` flag (set true the instant an edit happens, cleared
+   only once ghSyncNow() actually finishes) rather than a fixed timeout, so
+   it can't fire early just because a few seconds happened to pass while the
+   real commit was still in flight.
+
+   Even once our own commit lands, progress.json as served by GitHub Pages
+   can lag the commit (CDN/build delay), so a poll could still fetch a
+   stale copy. Every payload carries an `updatedAt` stamp; a fetched copy is
+   only applied if it's actually newer than what we already have, so a
+   stale fetch can no longer revert a newer local edit. ---- */
 const BG_SYNC_POLL_MS = 30000;
 let bgSyncPolling=null;
 
 async function pullRemoteProgress(force){
   if(!force){
-    if(ghSyncing) return null;
-    if(Date.now()-lastLocalChangeAt < BG_SYNC_MIN_GAP_MS) return null;
+    if(ghSyncing || pendingLocalSync) return null;
   }
   try{
     const progRes = await fetch('progress.json', {cache:"no-store"});
     if(!progRes.ok) return null;
     const text = await progRes.text();
     if(!text.trim()) return false;
+    const remote = JSON.parse(text);
+    if(typeof remote.updatedAt==="number" && remote.updatedAt < (S.updatedAt||0)) return false;
     const before = JSON.stringify(progressPayload());
-    applyProgressPayload(JSON.parse(text));
+    applyProgressPayload(remote);
     const after = JSON.stringify(progressPayload());
     if(before!==after){
       rebuildViews("aerospace");
