@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785023293277,
+ "updatedAt": 1785023324640,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -653,7 +653,7 @@
   "aerospace::people::33": "mastered",
   "aerospace::definitions::117": "mastered",
   "aerospace::people::45": "mastered",
-  "aerospace::people::27": "review",
+  "aerospace::people::27": "mastered",
   "aerospace::planets::12": "review",
   "aerospace::misc::29": "review",
   "aerospace::definitions::129": "mastered",
