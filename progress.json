@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785023401684,
+ "updatedAt": 1785023470074,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -654,7 +654,7 @@
   "aerospace::definitions::117": "mastered",
   "aerospace::people::45": "mastered",
   "aerospace::people::27": "mastered",
-  "aerospace::planets::12": "review",
+  "aerospace::planets::12": "general",
   "aerospace::misc::29": "review",
   "aerospace::definitions::129": "mastered",
   "aerospace::concepts::178": "review",
@@ -1423,8 +1423,7 @@
   "aerospace::definitions::17": "hit and run using jungle",
   "aerospace::concepts::20": "X-2?",
   "aerospace::people::33": "ny to paris",
-  "aerospace::people::27": "lifted man with a copter",
-  "aerospace::planets::12": "70% water, 30% land\nrotates east\n"
+  "aerospace::people::27": "lifted man with a copter"
  },
  "edits": {},
  "lists": {}
