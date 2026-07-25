@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785023230220,
+ "updatedAt": 1785023293277,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1423,7 +1423,7 @@
   "aerospace::definitions::17": "hit and run using jungle",
   "aerospace::concepts::20": "X-2?",
   "aerospace::people::33": "ny to paris",
-  "aerospace::people::27": "lifted man with copter"
+  "aerospace::people::27": "lifted man with a copter"
  },
  "edits": {},
  "lists": {}
