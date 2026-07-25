@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785023021082,
+ "updatedAt": 1785023119926,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1422,7 +1422,7 @@
   "aerospace::definitions::18": "nv attacked sv + us in christmas in conventional attack all over\ntelevised",
   "aerospace::definitions::17": "hit and run using jungle",
   "aerospace::concepts::20": "X-2?",
-  "aerospace::definitions::48": "Change pressure, temperature, and \n\nloss of energy"
+  "aerospace::definitions::48": "Change pressure, temperature, and vapor\n\nloss of energy"
  },
  "edits": {},
  "lists": {}
