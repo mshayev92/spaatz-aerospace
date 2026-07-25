@@ -822,6 +822,7 @@ function progressPayload(){
   // seeded/base order for "All sections", and user edits/list reclassifications.
   return {
     v:1,
+    updatedAt: S.updatedAt||0,
     order: S.order["aerospace::__all__"]||null,
     mastery: S.mastery||{},
     notes: S.notes||{},
@@ -833,6 +834,7 @@ function progressPayload(){
 function applyProgressPayload(p){
   if(!p) return;
   const validIds = new Set(ALL_IDS["aerospace"]||[]);
+  if(typeof p.updatedAt==="number" && p.updatedAt>(S.updatedAt||0)) S.updatedAt=p.updatedAt;
   if(Array.isArray(p.order)){
     const ord = p.order.filter(id=>validIds.has(id));
     if(ord.length) S.order["aerospace::__all__"]=ord.slice();
@@ -934,10 +936,11 @@ async function ghSyncNow(){
   }catch(e){
     ghLastError=(e&&e.message)||String(e);
   }
-  ghSyncing=false; document.getElementById("savestate").textContent=storageLabel();
+  ghSyncing=false; pendingLocalSync=false;
+  document.getElementById("savestate").textContent=storageLabel();
 }
 function scheduleGhSync(){
-  if(!ghToken) return;
+  if(!ghToken){ pendingLocalSync=false; return; }
   clearTimeout(ghSyncTimer);
   ghSyncTimer=setTimeout(ghSyncNow, 2500);
 }
@@ -1013,12 +1016,13 @@ function isShuffled(){
   return false;
 }
 
-let lastLocalChangeAt = 0;
+let pendingLocalSync = false;
 function persist(){
-  lastLocalChangeAt = Date.now();
+  pendingLocalSync = true;
   document.getElementById("savestate").textContent="Saving…";
   clearTimeout(saveTimer);
   saveTimer=setTimeout(async()=>{
+    S.updatedAt = Date.now();
     await saveRaw(JSON.stringify(S));
     if(fileHandle) await writeProgressFile();
     scheduleGhSync();
@@ -1892,26 +1896,36 @@ window.addEventListener("resize",()=>{ clearTimeout(resizeFitTimer); resizeFitTi
    (b) on a periodic timer while it stays visible, so you don't have to open a
    fresh tab to pick up a change made elsewhere.
 
-   Guard: skip the pull if a local edit happened in the last few seconds and
-   hasn't finished being pushed yet (persist() debounces ~180ms, then GitHub
-   sync debounces another ~2.5s) -- otherwise a background pull could overwrite
-   an edit on this device before it's gone out. ---- */
-const BG_SYNC_MIN_GAP_MS = 4000;
+   Guard: skip the pull while a local edit is still being pushed out
+   (persist() debounces ~180ms, then GitHub sync debounces another ~2.5s,
+   plus the PUT itself) -- otherwise a background pull could overwrite an
+   edit on this device before it's gone out. This is tracked with the
+   `pendingLocalSync` flag (set true the instant an edit happens, cleared
+   only once ghSyncNow() actually finishes) rather than a fixed timeout, so
+   it can't fire early just because a few seconds happened to pass while the
+   real commit was still in flight.
+
+   Even once our own commit lands, progress.json as served by GitHub Pages
+   can lag the commit (CDN/build delay), so a poll could still fetch a
+   stale copy. Every payload carries an `updatedAt` stamp; a fetched copy is
+   only applied if it's actually newer than what we already have, so a
+   stale fetch can no longer revert a newer local edit. ---- */
 const BG_SYNC_POLL_MS = 30000;
 let bgSyncPolling=null;
 
 async function pullRemoteProgress(force){
   if(!force){
-    if(ghSyncing) return null;
-    if(Date.now()-lastLocalChangeAt < BG_SYNC_MIN_GAP_MS) return null;
+    if(ghSyncing || pendingLocalSync) return null;
   }
   try{
     const progRes = await fetch('progress.json', {cache:"no-store"});
     if(!progRes.ok) return null;
     const text = await progRes.text();
     if(!text.trim()) return false;
+    const remote = JSON.parse(text);
+    if(typeof remote.updatedAt==="number" && remote.updatedAt < (S.updatedAt||0)) return false;
     const before = JSON.stringify(progressPayload());
-    applyProgressPayload(JSON.parse(text));
+    applyProgressPayload(remote);
     const after = JSON.stringify(progressPayload());
     if(before!==after){
       rebuildViews("aerospace");
