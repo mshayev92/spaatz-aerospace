@@ -1950,11 +1950,22 @@ window.addEventListener("resize",()=>{ clearTimeout(resizeFitTimer); resizeFitTi
   // updated mastery/notes/order from another device actually takes effect.
   // Local browser storage is still used for anything progress.json doesn't
   // cover (current position, filters, text size, etc).
+  //
+  // Guard: only apply it if it's actually newer than what's already saved
+  // locally (same updatedAt check pullRemoteProgress uses). Without this,
+  // reloading the page right after an edit -- before the commit has been
+  // made and/or GitHub Pages has picked it up -- would fetch the still-old
+  // progress.json here and silently revert the edit on every load.
   try{
     const progRes = await fetch('progress.json', {cache:"no-store"});
     if(progRes.ok){
       const text = await progRes.text();
-      if(text.trim()) applyProgressPayload(JSON.parse(text));
+      if(text.trim()){
+        const remote=JSON.parse(text);
+        if(!(typeof remote.updatedAt==="number" && remote.updatedAt < (S.updatedAt||0))){
+          applyProgressPayload(remote);
+        }
+      }
     }
   }catch(e){ /* progress.json is optional; ignore failures */ }
 
