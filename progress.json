@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785094634137,
+ "updatedAt": 1785094644562,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1442,7 +1442,7 @@
   "aerospace::people::21": "cross country across us, 1927?\nny to ca",
   "aerospace::people::2": "made plans for an air ship",
   "aerospace::people::44": "superbomber\n",
-  "aerospace::definitions::16": "sustain bombardment campaign against "
+  "aerospace::definitions::16": "sustain bombardment campaign against NV\ntargets chosen by the president\n"
  },
  "edits": {},
  "lists": {}
