@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785092930986,
+ "updatedAt": 1785092940800,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1435,7 +1435,8 @@
   "aerospace::concepts::189": "1958\nbasis for civilian and military space activities\neisenhower?",
   "aerospace::concepts::88": "air speed indicator\nmagnetic compass\nradio\n",
   "aerospace::misc::36": "president picked all the targets",
-  "aerospace::definitions::23": "desert shield (defensive) to\ndesert storm (offensive) +\nfinal coalition air campaign\n\nshield: protect saudi arabia from iraq and take back kuwait"
+  "aerospace::definitions::23": "desert shield (defensive) to\ndesert storm (offensive) +\nfinal coalition air campaign\n\nshield: protect saudi arabia from iraq and take back kuwait",
+  "aerospace::people::59": "lifted cargo and men during the berlin airlift"
  },
  "edits": {},
  "lists": {}
