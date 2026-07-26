@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785106650459,
+ "updatedAt": 1785106654462,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1453,7 +1453,7 @@
   "aerospace::people::14": "man carrying glider",
   "aerospace::people::8": "henry giffard or \nac krebs electric motors",
   "aerospace::concepts::230": "saturn\njoint between us, esa, and other european space agencies",
-  "aerospace::concepts::139": "turbulence\nheavy percipitation/\ncalled a thunderstorm"
+  "aerospace::concepts::139": "turbulence\nheavy percipitation/lightning\ncalled a thunderstorm"
  },
  "edits": {},
  "lists": {}
