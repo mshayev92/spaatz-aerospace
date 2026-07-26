@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785098595483,
+ "updatedAt": 1785098599187,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1451,7 +1451,7 @@
   "aerospace::misc::37": "Nixon\nMilitary leaders chose targets\nMore effective than Rolling Thunder",
   "aerospace::people::100": "White",
   "aerospace::people::14": "man carrying glider",
-  "aerospace::people::8": "henry giffard or \nac krebs"
+  "aerospace::people::8": "henry giffard or \nac krebs electric motors"
  },
  "edits": {},
  "lists": {}
