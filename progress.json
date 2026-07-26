@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785093809060,
+ "updatedAt": 1785093819432,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1439,7 +1439,8 @@
   "aerospace::people::36": "attack population centers, critical points?",
   "aerospace::concepts::177": "electromagnetic energy being shot out into space\nsun is active",
   "aerospace::concepts::143": "moist air moves over warm water, which satures it via evaporation",
-  "aerospace::people::21": "cross country across us, 1927?\nny to ca"
+  "aerospace::people::21": "cross country across us, 1927?\nny to ca",
+  "aerospace::people::2": "made plans for an air ship"
  },
  "edits": {},
  "lists": {}
