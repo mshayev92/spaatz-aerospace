@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785106683822,
+ "updatedAt": 1785106743610,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1453,7 +1453,8 @@
   "aerospace::people::14": "man carrying glider",
   "aerospace::people::8": "henry giffard or \nac krebs electric motors",
   "aerospace::concepts::230": "saturn\njoint between us, esa, and other european space agencies",
-  "aerospace::concepts::139": "turbulence\nheavy percipitation/lightning\ncalled a thunderstorm"
+  "aerospace::concepts::139": "turbulence\nheavy percipitation/lightning\ncalled a thunderstorm",
+  "aerospace::people::18": "but aerodrome fell into pacific ocean"
  },
  "edits": {},
  "lists": {}
