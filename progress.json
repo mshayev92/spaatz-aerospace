@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785097724480,
+ "updatedAt": 1785097736440,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1447,7 +1447,8 @@
   "aerospace::planets::28": "dwarf with moon",
   "aerospace::concepts::64": "two backward\none forward",
   "aerospace::misc::59": "heat (primary cause of weather) and energy? or earth's rotation",
-  "aerospace::concepts::94": "receiver and slave stations\nsignal between plane and station\ntime difference\nplotted on LORAN chart for location"
+  "aerospace::concepts::94": "receiver and slave stations\nsignal between plane and station\ntime difference\nplotted on LORAN chart for location",
+  "aerospace::misc::37": "nixon\n"
  },
  "edits": {},
  "lists": {}
