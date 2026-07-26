@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785072122435,
+ "updatedAt": 1785072149405,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1427,7 +1427,7 @@
   "aerospace::misc::29": "high daytime, low nighttime bombing",
   "aerospace::people::56": "alerted navy and af of migs",
   "aerospace::people::17": "Made plans for the first man-carrying craft, never conceived\nSteam version flown",
-  "aerospace::definitions::113": "spreads out exhuaust"
+  "aerospace::definitions::113": "spreads out exhaust"
  },
  "edits": {},
  "lists": {}
