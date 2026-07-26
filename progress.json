@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785095278160,
+ "updatedAt": 1785095279581,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1444,7 +1444,7 @@
   "aerospace::people::44": "superbomber\n",
   "aerospace::definitions::16": "sustained bombardment campaign against NV\ntargets chosen by the president\n",
   "aerospace::people::87": "first craft to carry people to space",
-  "aerospace::planets::28": "dward"
+  "aerospace::planets::28": "dwarf with moon"
  },
  "edits": {},
  "lists": {}
