@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785093363942,
+ "updatedAt": 1785093369802,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1437,7 +1437,7 @@
   "aerospace::misc::36": "president picked all the targets",
   "aerospace::definitions::23": "desert shield (defensive) to\ndesert storm (offensive) +\nfinal coalition air campaign\n\nshield: protect saudi arabia from iraq and take back kuwait",
   "aerospace::people::36": "attack population centers, critical points?",
-  "aerospace::concepts::177": "electromagnetic energy being shot out into space"
+  "aerospace::concepts::177": "electromagnetic energy being shot out into space\nsun is active"
  },
  "edits": {},
  "lists": {}
