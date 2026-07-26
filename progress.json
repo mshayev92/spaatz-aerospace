@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785071673799,
+ "updatedAt": 1785071825295,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -682,7 +682,7 @@
   "aerospace::people::52": "mastered",
   "aerospace::people::56": "mastered",
   "aerospace::definitions::28": "mastered",
-  "aerospace::people::17": "review",
+  "aerospace::people::17": "mastered",
   "aerospace::misc::33": "review",
   "aerospace::definitions::85": "mastered",
   "aerospace::concepts::196": "mastered",
@@ -1426,7 +1426,8 @@
   "aerospace::people::27": "lifted man with a copter",
   "aerospace::misc::29": "high daytime, low nighttime bombing",
   "aerospace::people::56": "alerted navy and af of migs",
-  "aerospace::people::17": "Made plans for the first man-carrying craft, never conceived\nSteam version flown"
+  "aerospace::people::17": "Made plans for the first man-carrying craft, never conceived\nSteam version flown",
+  "aerospace::misc::33": "\nlike gn"
  },
  "edits": {},
  "lists": {}
