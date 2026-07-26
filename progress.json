@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785098250875,
+ "updatedAt": 1785098253096,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1450,8 +1450,7 @@
   "aerospace::concepts::94": "receiver and slave stations\nsignal between plane and station\ntime difference\nplotted on LORAN chart for location",
   "aerospace::misc::37": "Nixon\nMilitary leaders chose targets\nMore effective than Rolling Thunder",
   "aerospace::people::100": "White",
-  "aerospace::people::14": "man carrying glider",
-  "aerospace::concepts::140": "sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss"
+  "aerospace::people::14": "man carrying glider"
  },
  "edits": {},
  "lists": {}
