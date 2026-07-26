@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785070287454,
+ "updatedAt": 1785071172875,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1424,8 +1424,7 @@
   "aerospace::concepts::20": "X-2?",
   "aerospace::people::33": "ny to paris",
   "aerospace::people::27": "lifted man with a copter",
-  "aerospace::misc::29": "high daytime, low nighttime bombing",
-  "aerospace::misc::28": "Support ground forces\n\ncentralized control, decentralized execution"
+  "aerospace::misc::29": "high daytime, low nighttime bombing"
  },
  "edits": {},
  "lists": {}
