@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785107059597,
+ "updatedAt": 1785107189408,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1455,7 +1455,8 @@
   "aerospace::concepts::230": "saturn\njoint between us, esa, and other european space agencies",
   "aerospace::concepts::139": "turbulence\nheavy percipitation/lightning\ncalled a thunderstorm",
   "aerospace::people::18": "power gliders\nbut aerodrome fell into pacific ocean",
-  "aerospace::people::46": "transported supplies during the berlin airlift"
+  "aerospace::people::46": "transported supplies during the berlin airlift",
+  "aerospace::definitions::15": "gulf tonkin resolution - gave the president authority to protect troops and carry out offensive attacks"
  },
  "edits": {},
  "lists": {}
