@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785073570842,
+ "updatedAt": 1785073580930,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1248,7 +1248,7 @@
   "aerospace::people::41": "Japan",
   "aerospace::concepts::228": "Second of cheap discovery missions\nStationary lander\nSojourner Rover",
   "aerospace::misc::1": "Wright flier",
-  "aerospace::concepts::21": "Primary source of lift\nSlats/flaps\nAilerons\nWinglets\nNO",
+  "aerospace::concepts::21": "Primary source of lift\nSlats/flaps\nAilerons\nWinglets\nNO\n\n",
   "aerospace::concepts::47": "Pitch",
   "aerospace::concepts::14": "Pearl Harbor\nCAA became War Training Service",
   "aerospace::misc::3": "Igor Sikorsky\nINCOMPLETE",
