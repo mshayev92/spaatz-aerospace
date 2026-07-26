@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785078442940,
+ "updatedAt": 1785078470512,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1434,7 +1434,8 @@
   "aerospace::definitions::72": "the course the pilot takes in regard to true north",
   "aerospace::concepts::189": "1958\nbasis for civilian and military space activities\neisenhower?",
   "aerospace::concepts::88": "air speed indicator\nmagnetic compass\nradio\n",
-  "aerospace::misc::36": "president picked all the targets"
+  "aerospace::misc::36": "president picked all the targets",
+  "aerospace::definitions::23": "desert shield to\ndesert storm to\nfinal coalition air campaign"
  },
  "edits": {},
  "lists": {}
