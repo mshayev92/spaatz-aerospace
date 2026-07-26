@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785093585875,
+ "updatedAt": 1785093591363,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1438,7 +1438,7 @@
   "aerospace::definitions::23": "desert shield (defensive) to\ndesert storm (offensive) +\nfinal coalition air campaign\n\nshield: protect saudi arabia from iraq and take back kuwait",
   "aerospace::people::36": "attack population centers, critical points?",
   "aerospace::concepts::177": "electromagnetic energy being shot out into space\nsun is active",
-  "aerospace::concepts::143": "moist air moves over warm water, which satures it "
+  "aerospace::concepts::143": "moist air moves over warm water, which satures it via evaporation"
  },
  "edits": {},
  "lists": {}
