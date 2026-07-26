@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785078077701,
+ "updatedAt": 1785078131052,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -763,7 +763,7 @@
   "aerospace::concepts::173": "mastered",
   "aerospace::people::68": "review",
   "aerospace::people::66": "mastered",
-  "aerospace::definitions::72": "review",
+  "aerospace::definitions::72": "mastered",
   "aerospace::people::35": "mastered",
   "aerospace::definitions::99": "mastered",
   "aerospace::concepts::54": "mastered",
@@ -1431,7 +1431,8 @@
   "aerospace::people::48": "surplus made it popular, then Constellation became the best",
   "aerospace::misc::15": "piper",
   "aerospace::misc::35": "In NV, finally destroyed by airstrike",
-  "aerospace::definitions::72": "the course the pilot takes in regard to true north"
+  "aerospace::definitions::72": "the course the pilot takes in regard to true north",
+  "aerospace::concepts::189": "1958\nbasis for civilian "
  },
  "edits": {},
  "lists": {}
