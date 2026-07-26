@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785097985646,
+ "updatedAt": 1785098194333,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1449,7 +1449,8 @@
   "aerospace::misc::59": "heat (primary cause of weather) and energy? or earth's rotation",
   "aerospace::concepts::94": "receiver and slave stations\nsignal between plane and station\ntime difference\nplotted on LORAN chart for location",
   "aerospace::misc::37": "Nixon\nMilitary leaders chose targets\nMore effective than Rolling Thunder",
-  "aerospace::people::100": "White"
+  "aerospace::people::100": "White",
+  "aerospace::people::14": "man carrying glider"
  },
  "edits": {},
  "lists": {}
