@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785097616665,
+ "updatedAt": 1785097628656,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1446,7 +1446,8 @@
   "aerospace::people::87": "first craft to carry people to space",
   "aerospace::planets::28": "dwarf with moon",
   "aerospace::concepts::64": "two backward\none forward",
-  "aerospace::misc::59": "heat (primary cause of weather) and energy? or earth's rotation"
+  "aerospace::misc::59": "heat (primary cause of weather) and energy? or earth's rotation",
+  "aerospace::concepts::94": "receiver and slave stations\nsi"
  },
  "edits": {},
  "lists": {}
