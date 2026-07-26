@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785098599187,
+ "updatedAt": 1785098666837,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -969,7 +969,7 @@
   "aerospace::definitions::88": "general",
   "aerospace::concepts::40": "mastered",
   "aerospace::people::24": "mastered",
-  "aerospace::people::8": "review",
+  "aerospace::people::8": "general",
   "aerospace::people::97": "mastered",
   "aerospace::people::65": "mastered",
   "aerospace::people::82": "mastered",
@@ -1451,7 +1451,8 @@
   "aerospace::misc::37": "Nixon\nMilitary leaders chose targets\nMore effective than Rolling Thunder",
   "aerospace::people::100": "White",
   "aerospace::people::14": "man carrying glider",
-  "aerospace::people::8": "henry giffard or \nac krebs electric motors"
+  "aerospace::people::8": "henry giffard or \nac krebs electric motors",
+  "aerospace::concepts::230": "sa"
  },
  "edits": {},
  "lists": {}
