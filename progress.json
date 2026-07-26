@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785078344466,
+ "updatedAt": 1785078362494,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1433,7 +1433,7 @@
   "aerospace::misc::35": "In NV, finally destroyed by airstrike",
   "aerospace::definitions::72": "the course the pilot takes in regard to true north",
   "aerospace::concepts::189": "1958\nbasis for civilian and military space activities\neisenhower?",
-  "aerospace::concepts::88": "air speed indicator\ncompass\nradio\n"
+  "aerospace::concepts::88": "air speed indicator\nmagnetic compass\nradio\n"
  },
  "edits": {},
  "lists": {}
