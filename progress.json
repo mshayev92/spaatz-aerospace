@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785071825295,
+ "updatedAt": 1785071845601,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1427,7 +1427,7 @@
   "aerospace::misc::29": "high daytime, low nighttime bombing",
   "aerospace::people::56": "alerted navy and af of migs",
   "aerospace::people::17": "Made plans for the first man-carrying craft, never conceived\nSteam version flown",
-  "aerospace::misc::33": "\nlike gn"
+  "aerospace::misc::33": "Fighters dropping bombs\nLike General Kenney's firebomb"
  },
  "edits": {},
  "lists": {}
