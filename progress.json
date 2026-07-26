@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785106143912,
+ "updatedAt": 1785106329780,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1452,7 +1452,8 @@
   "aerospace::people::100": "White",
   "aerospace::people::14": "man carrying glider",
   "aerospace::people::8": "henry giffard or \nac krebs electric motors",
-  "aerospace::concepts::230": "saturn\njoint between us, esa, and other european space agencies"
+  "aerospace::concepts::230": "saturn\njoint between us, esa, and other european space agencies",
+  "aerospace::definitions::21": "Nixon campaign\n"
  },
  "edits": {},
  "lists": {}
