@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785071480969,
+ "updatedAt": 1785071617732,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1425,7 +1425,8 @@
   "aerospace::people::33": "ny to paris",
   "aerospace::people::27": "lifted man with a copter",
   "aerospace::misc::29": "high daytime, low nighttime bombing",
-  "aerospace::people::56": "alerted navy and af of migs"
+  "aerospace::people::56": "alerted navy and af of migs",
+  "aerospace::people::17": "made plans for the first man carrying craft, never conceived\nsteam version flown"
  },
  "edits": {},
  "lists": {}
