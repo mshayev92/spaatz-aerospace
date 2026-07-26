@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785078131052,
+ "updatedAt": 1785078139140,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1432,7 +1432,7 @@
   "aerospace::misc::15": "piper",
   "aerospace::misc::35": "In NV, finally destroyed by airstrike",
   "aerospace::definitions::72": "the course the pilot takes in regard to true north",
-  "aerospace::concepts::189": "1958\nbasis for civilian "
+  "aerospace::concepts::189": "1958\nbasis for civilian and military space activities\neisenhower?"
  },
  "edits": {},
  "lists": {}
