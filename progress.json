@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785191507673,
+ "updatedAt": 1785191524802,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1460,7 +1460,8 @@
   "aerospace::definitions::155": "changes in ion density\naffects communications",
   "aerospace::concepts::68": "uses pressurized fluid to move stuff\nhow you can break so quickly",
   "aerospace::people::73": "experimented with more powerful liquid and alcohol propellants in the 1920s",
-  "aerospace::people::55": "Navy\n"
+  "aerospace::people::55": "Navy\n",
+  "aerospace::concepts::19": "atomic bomb not enough\nneed for conventional weapons and more fighters\n"
  },
  "edits": {},
  "lists": {}
