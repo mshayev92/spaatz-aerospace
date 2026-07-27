@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785183778503,
+ "updatedAt": 1785183818778,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -797,7 +797,7 @@
   "aerospace::definitions::164": "general",
   "aerospace::definitions::128": "mastered",
   "aerospace::concepts::113": "mastered",
-  "aerospace::misc::72": "general",
+  "aerospace::misc::72": "mastered",
   "aerospace::concepts::126": "review",
   "aerospace::concepts::30": "mastered",
   "aerospace::definitions::98": "mastered",
@@ -1309,7 +1309,6 @@
   "aerospace::concepts::30": "fluid's resistance to flow",
   "aerospace::planets::0": "smallest\nlong days",
   "aerospace::definitions::98": "lens-like clouds\nabove mountains",
-  "aerospace::definitions::111": "where the fuel is ignited and compressed",
   "aerospace::definitions::89": "measure of average energy in a molecule",
   "aerospace::concepts::84": "higher altitude, decreased pressure\ntells altitude in ft",
   "aerospace::concepts::159": "follows a beam pointed at target",
@@ -1466,7 +1465,8 @@
   "aerospace::concepts::152": "oxidizer and fuel are burned to create hot gases that act as fast exhaust",
   "aerospace::people::85": "Space Shuttle\nFirst one: Challenger\n",
   "aerospace::people::36": "massive first strike, then populations",
-  "aerospace::misc::72": "atlas and delta\ncan be expendable or reusable (like the space shuttle)\n"
+  "aerospace::misc::72": "atlas and delta\ncan be expendable or reusable (like the space shuttle)\n",
+  "aerospace::definitions::111": "where the fuel is ignited"
  },
  "edits": {},
  "lists": {}
