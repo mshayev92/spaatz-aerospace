@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785192961985,
+ "updatedAt": 1785192963824,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1387,7 +1387,6 @@
   "aerospace::misc::0": "kei kung - god of thunder/lightning\nshun - donned bird work clothes\nkei kung shi - flying chariot\nwan hoo - tried flying to moon",
   "aerospace::misc::49": "blue",
   "aerospace::concepts::183": "outgassing\ncold welding\ncharging?",
-  "aerospace::concepts::99": "Travel w/o following airways\nUses stations",
   "aerospace::definitions::8": "V1: buzz bomb\nV2: ballistic missile",
   "aerospace::definitions::10": "38th parallel\ncentralized control, decentralized execution\natomic bomb not enough, low fighters\nsupport SK",
   "aerospace::definitions::22": "continued from first",
