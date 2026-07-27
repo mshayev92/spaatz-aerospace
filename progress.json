@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785190876018,
+ "updatedAt": 1785190915041,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -869,7 +869,7 @@
   "aerospace::definitions::84": "mastered",
   "aerospace::concepts::105": "mastered",
   "aerospace::concepts::204": "mastered",
-  "aerospace::concepts::68": "general",
+  "aerospace::concepts::68": "mastered",
   "aerospace::people::73": "general",
   "aerospace::misc::85": "review",
   "aerospace::concepts::121": "mastered",
@@ -1354,7 +1354,6 @@
   "aerospace::definitions::84": "solar radiation heats oceans, water vapor rises into atmosphere",
   "aerospace::concepts::105": "up to 10 miles\ndecreases",
   "aerospace::concepts::204": "24 satellites\n6 in view at any time (min.)\nlat, long, vertical, and time",
-  "aerospace::people::73": "Experimented with more powerful propellants\nMentored von Braun",
   "aerospace::concepts::121": "horizontal",
   "aerospace::definitions::131": "opposite thrust\ndown",
   "aerospace::concepts::226": "explored halley's comet",
