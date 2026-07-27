@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785192138110,
+ "updatedAt": 1785192145373,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1457,7 +1457,7 @@
   "aerospace::people::73": "experimented with more powerful liquid and alcohol propellants in the 1920s",
   "aerospace::people::55": "Navy\n",
   "aerospace::concepts::11": "Germany, Italy, Japan",
-  "aerospace::misc::74": "solar heliospheric observatory"
+  "aerospace::misc::74": "solar heliospheric observatory\nstudied the sun"
  },
  "edits": {},
  "lists": {}
