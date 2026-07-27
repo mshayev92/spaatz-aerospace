@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785182850328,
+ "updatedAt": 1785182866347,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1466,7 +1466,7 @@
   "aerospace::concepts::152": "oxidizer and fuel are burned to create hot gases that act as fast exhaust",
   "aerospace::people::85": "Space Shuttle\nFirst one: Challenger\n",
   "aerospace::people::36": "massive first strike, then populations",
-  "aerospace::definitions::164": "Meteroroids: small particles of mass in space"
+  "aerospace::definitions::164": "Meteoroids: small particles of mass in space\nMeteorites: enter atmosphere"
  },
  "edits": {},
  "lists": {}
