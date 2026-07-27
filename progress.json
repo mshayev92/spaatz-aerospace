@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785182562670,
+ "updatedAt": 1785182573439,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1291,7 +1291,6 @@
   "aerospace::planets::5": "speed/direction of clouds",
   "aerospace::definitions::166": "Explosion of light and energy",
   "aerospace::concepts::106": "10-30\nincreases",
-  "aerospace::people::85": "aka Space Shuttle\nreusable",
   "aerospace::concepts::170": "most massive object in solar system\nstar",
   "aerospace::planets::20": "twin mars rovers",
   "aerospace::concepts::37": "use light composite materials",
