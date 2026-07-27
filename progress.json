@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785192963824,
+ "updatedAt": 1785192975290,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1453,7 +1453,8 @@
   "aerospace::misc::74": "solar heliospheric observatory\nstudied the sun",
   "aerospace::people::91": "First US space station\nFirst trip was 28 days\nAfter Salyut",
   "aerospace::concepts::114": "different molecular composition\nabove homosphere (60+ mi)\nparticles far apart",
-  "aerospace::people::16": "Did experiments with gliders (around Lake Michigan?)\n"
+  "aerospace::people::16": "Did experiments with gliders (around Lake Michigan?)\n",
+  "aerospace::concepts::99": "uses stations along route and gps\nallows to navi"
  },
  "edits": {},
  "lists": {}
