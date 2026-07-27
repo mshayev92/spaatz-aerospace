@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785184748330,
+ "updatedAt": 1785184779804,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -826,7 +826,7 @@
   "aerospace::definitions::146": "mastered",
   "aerospace::people::2": "mastered",
   "aerospace::concepts::59": "general",
-  "aerospace::people::78": "general",
+  "aerospace::people::78": "mastered",
   "aerospace::definitions::74": "mastered",
   "aerospace::definitions::38": "mastered",
   "aerospace::concepts::120": "mastered",
@@ -1431,7 +1431,6 @@
   "aerospace::concepts::177": "electromagnetic energy being shot out into space\nsun is active",
   "aerospace::concepts::143": "moist air moves over warm water, which satures it via evaporation",
   "aerospace::people::2": "made plans for an air ship",
-  "aerospace::people::44": "superbomber\n",
   "aerospace::definitions::16": "sustained bombardment campaign against NV\ntargets chosen by the president\n",
   "aerospace::people::87": "first craft to carry people to space",
   "aerospace::planets::28": "dwarf with moon",
