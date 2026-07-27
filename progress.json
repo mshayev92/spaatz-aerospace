@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785192181233,
+ "updatedAt": 1785192187742,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1373,7 +1373,6 @@
   "aerospace::definitions::105": "gravitation on earth\ninteraction of any object near Earth",
   "aerospace::concepts::132": "20k+ ft\nCirrus\nCirrostratus\nCirrocumulus",
   "aerospace::definitions::59": "shading based on elevation",
-  "aerospace::people::69": "increased the distance of rockets",
   "aerospace::concepts::184": "whole aircraft has same charge",
   "aerospace::concepts::73": "altimeter",
   "aerospace::concepts::78": "tachometer",
