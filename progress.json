@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785191617816,
+ "updatedAt": 1785191654850,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1459,8 +1459,7 @@
   "aerospace::definitions::155": "changes in ion density\naffects communications",
   "aerospace::concepts::68": "uses pressurized fluid to move stuff\nhow you can break so quickly",
   "aerospace::people::73": "experimented with more powerful liquid and alcohol propellants in the 1920s",
-  "aerospace::people::55": "Navy\n",
-  "aerospace::definitions::176": "any spacecraft that flies by or lands on a planet"
+  "aerospace::people::55": "Navy\n"
  },
  "edits": {},
  "lists": {}
