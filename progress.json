@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785195167779,
+ "updatedAt": 1785195247559,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1465,7 +1465,8 @@
   "aerospace::concepts::232": "Winner: Mojave Airspace Ventures\nFirst NGO to take craft past 62 mi and back within two weeks with a payload = 3 adult males\n$10 mil",
   "aerospace::concepts::95": "24 satellites\n4 minimum for lat, long, elev., time\n6-8 usually in view\n\nPPS/SPS",
   "aerospace::concepts::32": "Meets relative wind first, slower thicker",
-  "aerospace::definitions::63": "ATIS - automated terminal info system"
+  "aerospace::definitions::63": "ATIS - automated terminal info system",
+  "aerospace::concepts::141": "low cloud, trapped by warmer layer"
  },
  "edits": {},
  "lists": {}
