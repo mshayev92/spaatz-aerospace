@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785193313375,
+ "updatedAt": 1785193452386,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1454,7 +1454,8 @@
   "aerospace::people::91": "First US space station\nFirst trip was 28 days\nAfter Salyut",
   "aerospace::concepts::114": "different molecular composition\nabove homosphere (60+ mi)\nparticles far apart",
   "aerospace::people::16": "Did experiments with gliders (around Lake Michigan?)\n",
-  "aerospace::concepts::99": "uses stations along route and gps\nallows to navigate w/o airways\ncompares actual to est. flight path"
+  "aerospace::concepts::99": "uses stations along route and gps\nallows to navigate w/o airways\ncompares actual to est. flight path",
+  "aerospace::concepts::41": "Shape causes drag\nAttached to fuselage?"
  },
  "edits": {},
  "lists": {}
