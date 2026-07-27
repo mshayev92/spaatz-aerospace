@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785110807381,
+ "updatedAt": 1785110862771,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1458,8 +1458,7 @@
   "aerospace::people::46": "transported supplies during the berlin airlift",
   "aerospace::definitions::15": "gulf tonkin resolution - gave the president authority to protect troops and carry out offensive attacks",
   "aerospace::people::89": "union\nspacecraft docking to space stations\nsoyuz = spacecraft",
-  "aerospace::concepts::135": "no turbulence\nsmooth\nlittle precipitation",
-  "aerospace::concepts::142": "trapped?"
+  "aerospace::concepts::135": "no turbulence\nsmooth\nlittle precipitation"
  },
  "edits": {},
  "lists": {}
