@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785154442960,
+ "updatedAt": 1785154450969,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1460,7 +1460,7 @@
   "aerospace::people::89": "union\nspacecraft docking to space stations\nsoyuz = spacecraft",
   "aerospace::concepts::135": "no turbulence\nsmooth\nlittle precipitation",
   "aerospace::misc::87": "suitable places for space colonies, named after Lagrange",
-  "aerospace::concepts::8": "Curtiss\nReed, then two weeks later:\nJohn Alcock and Arthur Brown"
+  "aerospace::concepts::8": "Curtiss crossed\nReed, then two weeks later:\nJohn Alcock and Arthur Brown"
  },
  "edits": {},
  "lists": {}
