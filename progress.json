@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785192545259,
+ "updatedAt": 1785192598741,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1379,7 +1379,6 @@
   "aerospace::people::20": "First to flew off from and land on ship deck",
   "aerospace::people::9": "internal combustion, dirigible",
   "aerospace::definitions::145": "how far a photon travels in one calendar year",
-  "aerospace::concepts::114": "60+ mi\ndifferent, much farther apart\nunder gravity",
   "aerospace::definitions::86": "measure of water vapor in air\nabsolute: how much actually\nrelative: how much left till sat.",
   "aerospace::concepts::155": "brain of the rocket\ntells control what to do\ncan have star tracking\ninertial, command, beam",
   "aerospace::definitions::35": "chuck yeager broke in x-1\n762 (ACTUALLY 767) mph\ndecreases as altitude increases",
