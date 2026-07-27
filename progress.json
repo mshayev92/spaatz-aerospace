@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785190934661,
+ "updatedAt": 1785191002019,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -870,7 +870,7 @@
   "aerospace::concepts::105": "mastered",
   "aerospace::concepts::204": "mastered",
   "aerospace::concepts::68": "mastered",
-  "aerospace::people::73": "general",
+  "aerospace::people::73": "mastered",
   "aerospace::misc::85": "review",
   "aerospace::concepts::121": "mastered",
   "aerospace::definitions::131": "mastered",
@@ -1357,7 +1357,6 @@
   "aerospace::concepts::121": "horizontal",
   "aerospace::definitions::131": "opposite thrust\ndown",
   "aerospace::concepts::226": "explored halley's comet",
-  "aerospace::people::55": "VN",
   "aerospace::concepts::33": "determines thickness\nmore camber = more lift",
   "aerospace::concepts::217": "studied the impact of solar radiation",
   "aerospace::definitions::126": "closest point to body",
