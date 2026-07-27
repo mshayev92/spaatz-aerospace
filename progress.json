@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785193614610,
+ "updatedAt": 1785193804888,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1456,7 +1456,8 @@
   "aerospace::concepts::99": "uses stations along route and gps\nallows to navigate w/o airways\ncompares actual to est. flight path",
   "aerospace::concepts::41": "Shape causes drag\nAttached to fuselage?",
   "aerospace::definitions::88": "sum energy of the moving molecules in a substance",
-  "aerospace::people::8": "henry giffard\ncharles renard and ac krebs - electric, had to be steered back to takeoff pt."
+  "aerospace::people::8": "henry giffard\ncharles renard and ac krebs - electric, had to be steered back to takeoff pt.",
+  "aerospace::definitions::151": "where ionization and earth's geomagnetic field play an important part"
  },
  "edits": {},
  "lists": {}
