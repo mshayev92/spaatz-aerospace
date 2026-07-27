@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785195632398,
+ "updatedAt": 1785195637778,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1468,7 +1468,7 @@
   "aerospace::definitions::63": "ATIS - automated terminal info system",
   "aerospace::concepts::141": "low cloud, trapped by warmer layer",
   "aerospace::definitions::87": "Small and dust particles\nW/o them precipitation and condensation can't happen\nCondensation nuclei",
-  "aerospace::concepts::186": "dizziness\nheart weaknes\n"
+  "aerospace::concepts::186": "dizziness\nheart weakness\nfaint"
  },
  "edits": {},
  "lists": {}
