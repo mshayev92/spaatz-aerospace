@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785184793588,
+ "updatedAt": 1785184820233,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1463,7 +1463,7 @@
   "aerospace::misc::72": "atlas and delta\ncan be expendable or reusable (like the space shuttle)\n",
   "aerospace::people::21": "CORRECT DATE: 1911 (NOT 1927)",
   "aerospace::people::78": "first artificial satellite (russian)\nexplorer i launched in response\nestablished freedom of use (space)\n",
-  "aerospace::people::44": "long range bomber"
+  "aerospace::people::44": "long range bomber, big bombs\n10,00"
  },
  "edits": {},
  "lists": {}
