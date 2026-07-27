@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785190739696,
+ "updatedAt": 1785190808750,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -864,7 +864,7 @@
   "aerospace::concepts::58": "mastered",
   "aerospace::concepts::149": "mastered",
   "aerospace::concepts::127": "mastered",
-  "aerospace::definitions::155": "general",
+  "aerospace::definitions::155": "mastered",
   "aerospace::definitions::9": "mastered",
   "aerospace::definitions::84": "mastered",
   "aerospace::concepts::105": "mastered",
@@ -1354,7 +1354,6 @@
   "aerospace::definitions::84": "solar radiation heats oceans, water vapor rises into atmosphere",
   "aerospace::concepts::105": "up to 10 miles\ndecreases",
   "aerospace::concepts::204": "24 satellites\n6 in view at any time (min.)\nlat, long, vertical, and time",
-  "aerospace::concepts::68": "pressurized fluid to do stuff\nhow you can brake so fast",
   "aerospace::people::73": "Experimented with more powerful propellants\nMentored von Braun",
   "aerospace::concepts::121": "horizontal",
   "aerospace::definitions::131": "opposite thrust\ndown",
