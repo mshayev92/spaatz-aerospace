@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785185282523,
+ "updatedAt": 1785190739696,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1461,7 +1461,8 @@
   "aerospace::people::78": "first artificial satellite (russian)\nexplorer i launched in response\nestablished freedom of use (space)\n",
   "aerospace::people::44": "long range bomber, big bombs\n10,000 lbs",
   "aerospace::people::23": "improve the wright flier\nadded ailerons\ndesigned first fully enclosed fuselage",
-  "aerospace::concepts::58": "destroy lift"
+  "aerospace::concepts::58": "destroy lift",
+  "aerospace::definitions::155": "changes in ion density\naffects communications"
  },
  "edits": {},
  "lists": {}
