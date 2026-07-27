@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785183897580,
+ "updatedAt": 1785183908948,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1466,7 +1466,7 @@
   "aerospace::people::85": "Space Shuttle\nFirst one: Challenger\n",
   "aerospace::people::36": "massive first strike, then populations",
   "aerospace::misc::72": "atlas and delta\ncan be expendable or reusable (like the space shuttle)\n",
-  "aerospace::people::30": "seattle, new orleans, chicago, "
+  "aerospace::people::30": "seattle, new orleans, chicago, \nbilly mitchell"
  },
  "edits": {},
  "lists": {}
