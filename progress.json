@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785195593444,
+ "updatedAt": 1785195617035,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1467,7 +1467,7 @@
   "aerospace::concepts::32": "Meets relative wind first, slower thicker",
   "aerospace::definitions::63": "ATIS - automated terminal info system",
   "aerospace::concepts::141": "low cloud, trapped by warmer layer",
-  "aerospace::definitions::87": "\nCondensation nuclei"
+  "aerospace::definitions::87": "Small and dust particles\nW/o them precipitation and condensation can't happen\nCondensation nuclei"
  },
  "edits": {},
  "lists": {}
