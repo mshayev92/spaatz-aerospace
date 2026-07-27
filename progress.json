@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785191784675,
+ "updatedAt": 1785191804956,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1460,7 +1460,7 @@
   "aerospace::people::73": "experimented with more powerful liquid and alcohol propellants in the 1920s",
   "aerospace::people::55": "Navy\n",
   "aerospace::concepts::11": "Germany, Italy, Japan",
-  "aerospace::people::72": "father of modern rocketry\nexperimented with propellants\n"
+  "aerospace::people::72": "father of modern rocketry\nexperimented with propellants\nsolid?"
  },
  "edits": {},
  "lists": {}
