@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785184572942,
+ "updatedAt": 1785184679675,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1463,8 +1463,7 @@
   "aerospace::people::85": "Space Shuttle\nFirst one: Challenger\n",
   "aerospace::people::36": "massive first strike, then populations",
   "aerospace::misc::72": "atlas and delta\ncan be expendable or reusable (like the space shuttle)\n",
-  "aerospace::people::21": "CORRECT DATE: 1911 (NOT 1927)",
-  "aerospace::concepts::59": "Connect to fuselage, producing drag\n"
+  "aerospace::people::21": "CORRECT DATE: 1911 (NOT 1927)"
  },
  "edits": {},
  "lists": {}
