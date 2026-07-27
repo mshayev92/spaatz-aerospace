@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785185143577,
+ "updatedAt": 1785185282523,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -861,7 +861,7 @@
   "aerospace::people::23": "mastered",
   "aerospace::definitions::67": "mastered",
   "aerospace::misc::50": "mastered",
-  "aerospace::concepts::58": "general",
+  "aerospace::concepts::58": "mastered",
   "aerospace::concepts::149": "mastered",
   "aerospace::concepts::127": "mastered",
   "aerospace::definitions::155": "general",
@@ -1350,7 +1350,6 @@
   "aerospace::misc::50": "US federal agency governing aviation",
   "aerospace::concepts::149": "airframe\nguidance\ncontrol\npropulsion",
   "aerospace::concepts::127": "air masses lost their punch, not replacing each other\nany type of weather (light)",
-  "aerospace::definitions::155": "variations in --- density, affects communications",
   "aerospace::definitions::9": "the allies airlifted supplies past the blockade by the USSR",
   "aerospace::definitions::84": "solar radiation heats oceans, water vapor rises into atmosphere",
   "aerospace::concepts::105": "up to 10 miles\ndecreases",
