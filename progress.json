@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785184274241,
+ "updatedAt": 1785184288725,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1465,7 +1465,7 @@
   "aerospace::people::85": "Space Shuttle\nFirst one: Challenger\n",
   "aerospace::people::36": "massive first strike, then populations",
   "aerospace::misc::72": "atlas and delta\ncan be expendable or reusable (like the space shuttle)\n",
-  "aerospace::concepts::124": "depends on pressure cell behind it\ndepends on:\n1. the surface over which it forms/flows over\n2. the season\n3. the "
+  "aerospace::concepts::124": "depends on pressure cell behind it\ndepends on:\n1. the surface over which it forms/flows over\n2. the season\n\nthou"
  },
  "edits": {},
  "lists": {}
