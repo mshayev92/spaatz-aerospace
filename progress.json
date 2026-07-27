@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785192630612,
+ "updatedAt": 1785192666354,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -923,7 +923,7 @@
   "aerospace::people::9": "mastered",
   "aerospace::definitions::145": "mastered",
   "aerospace::definitions::41": "mastered",
-  "aerospace::concepts::114": "general",
+  "aerospace::concepts::114": "mastered",
   "aerospace::definitions::144": "mastered",
   "aerospace::misc::59": "mastered",
   "aerospace::people::70": "review",
@@ -1385,7 +1385,6 @@
   "aerospace::concepts::138": "warning sign\nturbulence",
   "aerospace::definitions::13": "established to perform research in aeronautics\n1915",
   "aerospace::misc::0": "kei kung - god of thunder/lightning\nshun - donned bird work clothes\nkei kung shi - flying chariot\nwan hoo - tried flying to moon",
-  "aerospace::people::16": "did experiments near lake michigan\ngliders?",
   "aerospace::misc::49": "blue",
   "aerospace::concepts::183": "outgassing\ncold welding\ncharging?",
   "aerospace::concepts::180": "magnetosphere\nsun hits, neutrons bounce off\n--- into electrons and protons",
