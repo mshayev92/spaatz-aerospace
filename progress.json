@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785191011140,
+ "updatedAt": 1785191229508,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -875,7 +875,7 @@
   "aerospace::concepts::121": "mastered",
   "aerospace::definitions::131": "mastered",
   "aerospace::concepts::226": "mastered",
-  "aerospace::people::55": "general",
+  "aerospace::people::55": "review",
   "aerospace::concepts::33": "general",
   "aerospace::concepts::217": "mastered",
   "aerospace::definitions::126": "mastered",
@@ -1357,7 +1357,6 @@
   "aerospace::concepts::121": "horizontal",
   "aerospace::definitions::131": "opposite thrust\ndown",
   "aerospace::concepts::226": "explored halley's comet",
-  "aerospace::concepts::33": "determines thickness\nmore camber = more lift",
   "aerospace::concepts::217": "studied the impact of solar radiation",
   "aerospace::definitions::126": "closest point to body",
   "aerospace::concepts::19": "atomic bomb not enough\nnot enough fighters - need for conventional weapons",
@@ -1462,7 +1461,8 @@
   "aerospace::definitions::155": "changes in ion density\naffects communications",
   "aerospace::concepts::68": "uses pressurized fluid to move stuff\nhow you can break so quickly",
   "aerospace::people::73": "experimented with more powerful liquid and alcohol propellants in the 1920s",
-  "aerospace::people::55": "Navy\n"
+  "aerospace::people::55": "Navy\n",
+  "aerospace::concepts::33": "de"
  },
  "edits": {},
  "lists": {}
