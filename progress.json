@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785196083533,
+ "updatedAt": 1785196110763,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1469,7 +1469,8 @@
   "aerospace::concepts::141": "low cloud, trapped by warmer layer",
   "aerospace::definitions::87": "Small and dust particles\nW/o them precipitation and condensation can't happen\nCondensation nuclei",
   "aerospace::concepts::5": "Lincoln told Gen Scott to allow Thadeus SC Lowe to form Balloon Signal Service",
-  "aerospace::definitions::162": "Not big enough to be planets\nOrbit the sun\nRocky/metallic objects"
+  "aerospace::definitions::162": "Not big enough to be planets\nOrbit the sun\nRocky/metallic objects",
+  "aerospace::people::40": "high daytime, low nighttime bombing\ncritical points (rings)"
  },
  "edits": {},
  "lists": {}
