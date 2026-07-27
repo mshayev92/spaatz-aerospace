@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785192123855,
+ "updatedAt": 1785192125704,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1372,7 +1372,6 @@
   "aerospace::people::54": "winged bomb so troops can stay further away",
   "aerospace::definitions::105": "gravitation on earth\ninteraction of any object near Earth",
   "aerospace::concepts::132": "20k+ ft\nCirrus\nCirrostratus\nCirrocumulus",
-  "aerospace::misc::74": "Solar --- Heliospheric Observatory",
   "aerospace::definitions::59": "shading based on elevation",
   "aerospace::people::69": "increased the distance of rockets",
   "aerospace::concepts::184": "whole aircraft has same charge",
