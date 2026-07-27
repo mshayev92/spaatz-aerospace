@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785193575472,
+ "updatedAt": 1785193581608,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -966,7 +966,7 @@
   "aerospace::concepts::107": "mastered",
   "aerospace::concepts::41": "mastered",
   "aerospace::concepts::9": "review",
-  "aerospace::definitions::88": "general",
+  "aerospace::definitions::88": "mastered",
   "aerospace::concepts::40": "mastered",
   "aerospace::people::24": "mastered",
   "aerospace::people::8": "general",
@@ -1419,7 +1419,6 @@
   "aerospace::misc::37": "Nixon\nMilitary leaders chose targets\nMore effective than Rolling Thunder",
   "aerospace::people::100": "White",
   "aerospace::people::14": "man carrying glider",
-  "aerospace::people::8": "henry giffard or \nac krebs electric motors",
   "aerospace::concepts::230": "saturn\njoint between us, esa, and other european space agencies",
   "aerospace::concepts::139": "turbulence\nheavy percipitation/lightning\ncalled a thunderstorm",
   "aerospace::people::18": "power gliders\nbut aerodrome fell into pacific ocean",
