@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785194623192,
+ "updatedAt": 1785194646807,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1460,7 +1460,8 @@
   "aerospace::definitions::151": "where ionization and earth's geomagnetic field play an important part",
   "aerospace::concepts::169": "see view of earth\nlook closer at the universe\nabundant resources\nmake unique resources",
   "aerospace::concepts::203": "early nav versions\ntransit on polaris\ntimation use lang long",
-  "aerospace::definitions::60": "first two numbers that of compass direction (designation)\ni meant digits"
+  "aerospace::definitions::60": "first two numbers that of compass direction (designation)\ni meant digits",
+  "aerospace::people::31": "refueled in the air (longest)\n37 hours"
  },
  "edits": {},
  "lists": {}
