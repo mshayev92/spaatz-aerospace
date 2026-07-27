@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785182585990,
+ "updatedAt": 1785182588659,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1466,7 +1466,7 @@
   "aerospace::definitions::113": "Reduces the pressure of outgoing exhaust to increase velocity",
   "aerospace::misc::9": "US, Britain: 5; Germany: 10\n\nRickenbacker, Manfred, Mannock, Fonck",
   "aerospace::concepts::152": "oxidizer and fuel are burned to create hot gases that act as fast exhaust",
-  "aerospace::people::85": "Space Shuttle\nFirst one: Challenger"
+  "aerospace::people::85": "Space Shuttle\nFirst one: Challenger\n"
  },
  "edits": {},
  "lists": {}
