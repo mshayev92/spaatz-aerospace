@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785195315792,
+ "updatedAt": 1785195586491,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1466,7 +1466,8 @@
   "aerospace::concepts::95": "24 satellites\n4 minimum for lat, long, elev., time\n6-8 usually in view\n\nPPS/SPS",
   "aerospace::concepts::32": "Meets relative wind first, slower thicker",
   "aerospace::definitions::63": "ATIS - automated terminal info system",
-  "aerospace::concepts::141": "low cloud, trapped by warmer layer"
+  "aerospace::concepts::141": "low cloud, trapped by warmer layer",
+  "aerospace::definitions::87": "\nCondensation"
  },
  "edits": {},
  "lists": {}
