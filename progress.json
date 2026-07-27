@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785194505457,
+ "updatedAt": 1785194623192,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -993,7 +993,7 @@
   "aerospace::misc::77": "review",
   "aerospace::definitions::141": "mastered",
   "aerospace::definitions::42": "mastered",
-  "aerospace::definitions::60": "general",
+  "aerospace::definitions::60": "mastered",
   "aerospace::concepts::45": "mastered",
   "aerospace::concepts::115": "mastered",
   "aerospace::concepts::139": "mastered",
@@ -1460,7 +1460,7 @@
   "aerospace::definitions::151": "where ionization and earth's geomagnetic field play an important part",
   "aerospace::concepts::169": "see view of earth\nlook closer at the universe\nabundant resources\nmake unique resources",
   "aerospace::concepts::203": "early nav versions\ntransit on polaris\ntimation use lang long",
-  "aerospace::definitions::60": "first two numbers that of compass direction (designation)\n"
+  "aerospace::definitions::60": "first two numbers that of compass direction (designation)\ni meant digits"
  },
  "edits": {},
  "lists": {}
