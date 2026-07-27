@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785154329805,
+ "updatedAt": 1785154412905,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1104,7 +1104,7 @@
   "aerospace::definitions::34": "mastered",
   "aerospace::misc::75": "mastered",
   "aerospace::definitions::25": "general",
-  "aerospace::planets::11": "review",
+  "aerospace::planets::11": "general",
   "aerospace::definitions::116": "mastered",
   "aerospace::concepts::147": "mastered",
   "aerospace::concepts::214": "general",
@@ -1459,8 +1459,7 @@
   "aerospace::definitions::15": "gulf tonkin resolution - gave the president authority to protect troops and carry out offensive attacks",
   "aerospace::people::89": "union\nspacecraft docking to space stations\nsoyuz = spacecraft",
   "aerospace::concepts::135": "no turbulence\nsmooth\nlittle precipitation",
-  "aerospace::misc::87": "suitable places for space colonies, named after Lagrange",
-  "aerospace::planets::11": "Joint venture?\nEuropean country?"
+  "aerospace::misc::87": "suitable places for space colonies, named after Lagrange"
  },
  "edits": {},
  "lists": {}
