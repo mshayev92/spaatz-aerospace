@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785173885961,
+ "updatedAt": 1785173983263,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1466,7 +1466,8 @@
   "aerospace::concepts::23": "Part of Dessert Storm (offense)\nUse sustained aerial attacks to liberate Kuwait",
   "aerospace::planets::12": "70% water, 50% pacific\nSpins East\n",
   "aerospace::misc::33": "1. Rockets dropped from planes\n2. Like Gen Kenney's firebomb",
-  "aerospace::definitions::113": "Reduces the pressure of outgoing exhaust to increase velocity"
+  "aerospace::definitions::113": "Reduces the pressure of outgoing exhaust to increase velocity",
+  "aerospace::misc::9": "US, Britain: 5; "
  },
  "edits": {},
  "lists": {}
