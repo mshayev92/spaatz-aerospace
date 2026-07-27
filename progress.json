@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785193914609,
+ "updatedAt": 1785194002613,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1458,7 +1458,8 @@
   "aerospace::definitions::88": "sum energy of the moving molecules in a substance",
   "aerospace::people::8": "henry giffard\ncharles renard and ac krebs - electric, had to be steered back to takeoff pt.",
   "aerospace::definitions::151": "where ionization and earth's geomagnetic field play an important part",
-  "aerospace::concepts::169": "see view of earth\nlook closer at the universe\nabundant resources\nmake unique resources"
+  "aerospace::concepts::169": "see view of earth\nlook closer at the universe\nabundant resources\nmake unique resources",
+  "aerospace::concepts::182": "drag\n"
  },
  "edits": {},
  "lists": {}
