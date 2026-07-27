@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785192195340,
+ "updatedAt": 1785192267933,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1457,7 +1457,7 @@
   "aerospace::people::55": "Navy\n",
   "aerospace::concepts::11": "Germany, Italy, Japan",
   "aerospace::misc::74": "solar heliospheric observatory\nstudied the sun",
-  "aerospace::people::69": "increased the distance of rockets\n"
+  "aerospace::people::69": "increased the distance of rockets\nexperimented with propellants?"
  },
  "edits": {},
  "lists": {}
