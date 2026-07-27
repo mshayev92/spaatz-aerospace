@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785179066413,
+ "updatedAt": 1785179097114,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1281,7 +1281,6 @@
   "aerospace::people::35": "First deaths in industry\nHydrogen combusted",
   "aerospace::definitions::99": "rotate parallel to the slope",
   "aerospace::concepts::54": "rams air, slows it down",
-  "aerospace::concepts::152": "oxidizer and reducer to produce chemical reaction for exhaust\n\n",
   "aerospace::misc::8": "interrupting gear, automatic rilfe",
   "aerospace::concepts::193": "Anti-Ballistic Missile System ban\nfor US and USSR\nsatellites not permitted to track compliance",
   "aerospace::concepts::87": "plan against the horizon indicator",
@@ -1467,7 +1466,8 @@
   "aerospace::planets::12": "70% water, 50% pacific\nSpins East\n",
   "aerospace::misc::33": "1. Rockets dropped from planes\n2. Like Gen Kenney's firebomb",
   "aerospace::definitions::113": "Reduces the pressure of outgoing exhaust to increase velocity",
-  "aerospace::misc::9": "US, Britain: 5; Germany: 10\n\nRickenbacker, Manfred, Mannock, Fonck"
+  "aerospace::misc::9": "US, Britain: 5; Germany: 10\n\nRickenbacker, Manfred, Mannock, Fonck",
+  "aerospace::concepts::152": "oxidizer and fuel are burned to create hot gases that act as fast exh"
  },
  "edits": {},
  "lists": {}
