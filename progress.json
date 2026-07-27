@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785184459768,
+ "updatedAt": 1785184467543,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1464,7 +1464,7 @@
   "aerospace::people::85": "Space Shuttle\nFirst one: Challenger\n",
   "aerospace::people::36": "massive first strike, then populations",
   "aerospace::misc::72": "atlas and delta\ncan be expendable or reusable (like the space shuttle)\n",
-  "aerospace::people::21": "first cross country flight (1927?)\n"
+  "aerospace::people::21": "first cross country flight (1927?)\nny to ca?"
  },
  "edits": {},
  "lists": {}
