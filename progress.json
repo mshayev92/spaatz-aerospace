@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785182711275,
+ "updatedAt": 1785182726254,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -791,7 +791,7 @@
   "aerospace::definitions::65": "mastered",
   "aerospace::definitions::61": "mastered",
   "aerospace::people::59": "review",
-  "aerospace::people::36": "general",
+  "aerospace::people::36": "mastered",
   "aerospace::definitions::39": "mastered",
   "aerospace::definitions::73": "mastered",
   "aerospace::definitions::164": "general",
@@ -1301,7 +1301,6 @@
   "aerospace::definitions::61": "to get to runway",
   "aerospace::definitions::39": "speed up air, pressure decreases on top\nmore pressure on bottom, pushes object up",
   "aerospace::definitions::73": "the aircraft's speed in the air",
-  "aerospace::definitions::164": "small (particles?) objects in space",
   "aerospace::concepts::112": "important photochemical reactions",
   "aerospace::definitions::128": "the velocity you need to escape orbit (gravitational influence)",
   "aerospace::concepts::113": "10-60\nparticles have similar composition",
@@ -1466,7 +1465,7 @@
   "aerospace::misc::9": "US, Britain: 5; Germany: 10\n\nRickenbacker, Manfred, Mannock, Fonck",
   "aerospace::concepts::152": "oxidizer and fuel are burned to create hot gases that act as fast exhaust",
   "aerospace::people::85": "Space Shuttle\nFirst one: Challenger\n",
-  "aerospace::people::36": "mass"
+  "aerospace::people::36": "massive first strike, then populations"
  },
  "edits": {},
  "lists": {}
