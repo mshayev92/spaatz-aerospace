@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785185109504,
+ "updatedAt": 1785185115572,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -854,7 +854,7 @@
   "aerospace::definitions::16": "mastered",
   "aerospace::definitions::4": "mastered",
   "aerospace::definitions::119": "mastered",
-  "aerospace::definitions::156": "general",
+  "aerospace::definitions::156": "review",
   "aerospace::concepts::12": "mastered",
   "aerospace::definitions::157": "mastered",
   "aerospace::definitions::3": "mastered",
@@ -1347,7 +1347,6 @@
   "aerospace::definitions::4": "ME-109, American B-17 better tho",
   "aerospace::concepts::12": "US, Britain, Russia, (France?)",
   "aerospace::definitions::157": "air particles leave tight spaces\nwelded together",
-  "aerospace::people::23": "improve wright flier\nadded ailerons",
   "aerospace::misc::50": "US federal agency governing aviation",
   "aerospace::concepts::58": "destroy lift",
   "aerospace::concepts::149": "airframe\nguidance\ncontrol\npropulsion",
@@ -1462,7 +1461,8 @@
   "aerospace::misc::72": "atlas and delta\ncan be expendable or reusable (like the space shuttle)\n",
   "aerospace::people::21": "CORRECT DATE: 1911 (NOT 1927)",
   "aerospace::people::78": "first artificial satellite (russian)\nexplorer i launched in response\nestablished freedom of use (space)\n",
-  "aerospace::people::44": "long range bomber, big bombs\n10,000 lbs"
+  "aerospace::people::44": "long range bomber, big bombs\n10,000 lbs",
+  "aerospace::people::23": "impr"
  },
  "edits": {},
  "lists": {}
