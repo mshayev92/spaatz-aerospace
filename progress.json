@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785192897495,
+ "updatedAt": 1785192904695,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1455,7 +1455,7 @@
   "aerospace::people::91": "First US space station\nFirst trip was 28 days\nAfter Salyut",
   "aerospace::concepts::114": "different molecular composition\nabove homosphere (60+ mi)\nparticles far apart",
   "aerospace::people::16": "Did experiments with gliders (around Lake Michigan?)\n",
-  "aerospace::concepts::180": "arc shape\nelectrons and protons from the sun neutralized into n"
+  "aerospace::concepts::180": "arc shape\nelectrons and protons from the sun neutralized into neutrons, which are attracted via gravity\n"
  },
  "edits": {},
  "lists": {}
