@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785192531151,
+ "updatedAt": 1785192536831,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1455,7 +1455,7 @@
   "aerospace::people::55": "Navy\n",
   "aerospace::concepts::11": "Germany, Italy, Japan",
   "aerospace::misc::74": "solar heliospheric observatory\nstudied the sun",
-  "aerospace::people::91": "First US space station\nFirst trip was 28 days\nAfter Salyut\n"
+  "aerospace::people::91": "First US space station\nFirst trip was 28 days\nAfter Salyut"
  },
  "edits": {},
  "lists": {}
