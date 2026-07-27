@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785184821245,
+ "updatedAt": 1785184879709,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -839,7 +839,7 @@
   "aerospace::definitions::96": "mastered",
   "aerospace::people::95": "mastered",
   "aerospace::definitions::90": "mastered",
-  "aerospace::people::44": "general",
+  "aerospace::people::44": "mastered",
   "aerospace::definitions::12": "mastered",
   "aerospace::concepts::46": "mastered",
   "aerospace::definitions::136": "mastered",
@@ -1345,7 +1345,6 @@
   "aerospace::concepts::191": "freedom of use\nnon-appropriation\ncommon benefit",
   "aerospace::concepts::85": "direction and quality of turn",
   "aerospace::definitions::4": "ME-109, American B-17 better tho",
-  "aerospace::definitions::156": "can damage equipment\nair particles leave",
   "aerospace::concepts::12": "US, Britain, Russia, (France?)",
   "aerospace::definitions::157": "air particles leave tight spaces\nwelded together",
   "aerospace::people::23": "improve wright flier\nadded ailerons",
