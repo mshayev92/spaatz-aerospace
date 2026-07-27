@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785112030402,
+ "updatedAt": 1785112179878,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1460,7 +1460,7 @@
   "aerospace::people::89": "union\nspacecraft docking to space stations\nsoyuz = spacecraft",
   "aerospace::concepts::135": "no turbulence\nsmooth\nlittle precipitation",
   "aerospace::misc::87": "suitable places for space colonies, named after Lagrange",
-  "aerospace::planets::16": "Part of low-cost discovery missions?\n"
+  "aerospace::planets::16": "Part of low-cost discovery missions?\nProbe series"
  },
  "edits": {},
  "lists": {}
