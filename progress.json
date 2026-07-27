@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785192435763,
+ "updatedAt": 1785192456074,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1376,7 +1376,6 @@
   "aerospace::concepts::184": "whole aircraft has same charge",
   "aerospace::concepts::73": "altimeter",
   "aerospace::concepts::62": "single shell w/ bracing",
-  "aerospace::people::91": "first US space station\nlong-term living\nHOW LONG THEY STAYED FIRST",
   "aerospace::people::20": "First to flew off from and land on ship deck",
   "aerospace::people::9": "internal combustion, dirigible",
   "aerospace::definitions::145": "how far a photon travels in one calendar year",
