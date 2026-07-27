@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785173513375,
+ "updatedAt": 1785173581935,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1464,7 +1464,8 @@
   "aerospace::concepts::29": "as altitude increases, density decreases (particles move farther apart)",
   "aerospace::people::62": "Low altitude\n",
   "aerospace::concepts::23": "Part of Dessert Storm (offense)\nUse sustained aerial attacks to liberate Kuwait",
-  "aerospace::planets::12": "70% water, 50% pacific\nSpins East\n"
+  "aerospace::planets::12": "70% water, 50% pacific\nSpins East\n",
+  "aerospace::misc::33": "1. \n2. Like Gen Kenney's firebomb"
  },
  "edits": {},
  "lists": {}
