@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785154878586,
+ "updatedAt": 1785155000343,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1461,7 +1461,8 @@
   "aerospace::concepts::135": "no turbulence\nsmooth\nlittle precipitation",
   "aerospace::misc::87": "suitable places for space colonies, named after Lagrange",
   "aerospace::concepts::8": "Curtiss crossed\nReed, then two weeks later:\nJohn Alcock and Arthur Brown",
-  "aerospace::concepts::29": "as altitude increases, density decreases (particles move farther apart)"
+  "aerospace::concepts::29": "as altitude increases, density decreases (particles move farther apart)",
+  "aerospace::people::62": "Low altitude\n"
  },
  "edits": {},
  "lists": {}
