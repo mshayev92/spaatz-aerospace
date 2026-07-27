@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785182573439,
+ "updatedAt": 1785182585990,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1465,7 +1465,8 @@
   "aerospace::misc::33": "1. Rockets dropped from planes\n2. Like Gen Kenney's firebomb",
   "aerospace::definitions::113": "Reduces the pressure of outgoing exhaust to increase velocity",
   "aerospace::misc::9": "US, Britain: 5; Germany: 10\n\nRickenbacker, Manfred, Mannock, Fonck",
-  "aerospace::concepts::152": "oxidizer and fuel are burned to create hot gases that act as fast exhaust"
+  "aerospace::concepts::152": "oxidizer and fuel are burned to create hot gases that act as fast exhaust",
+  "aerospace::people::85": "Space Shuttle\nFirst one: Challenger"
  },
  "edits": {},
  "lists": {}
