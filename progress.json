@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785184057661,
+ "updatedAt": 1785184097969,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1465,7 +1465,7 @@
   "aerospace::people::85": "Space Shuttle\nFirst one: Challenger\n",
   "aerospace::people::36": "massive first strike, then populations",
   "aerospace::misc::72": "atlas and delta\ncan be expendable or reusable (like the space shuttle)\n",
-  "aerospace::concepts::199": "org. with many (around 150) geostationary satellites\n"
+  "aerospace::concepts::199": "org. with many (around 150) geostationary satellites"
  },
  "edits": {},
  "lists": {}
