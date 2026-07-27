@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785155228173,
+ "updatedAt": 1785155270547,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1463,7 +1463,7 @@
   "aerospace::concepts::8": "Curtiss crossed\nReed, then two weeks later:\nJohn Alcock and Arthur Brown",
   "aerospace::concepts::29": "as altitude increases, density decreases (particles move farther apart)",
   "aerospace::people::62": "Low altitude\n",
-  "aerospace::concepts::23": "Part of Dessert Storm (offense)\nUse sustained aerial requirements "
+  "aerospace::concepts::23": "Part of Dessert Storm (offense)\nUse sustained aerial attacks to liberate Kuwait"
  },
  "edits": {},
  "lists": {}
