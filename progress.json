@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785195741447,
+ "updatedAt": 1785195752926,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1468,7 +1468,7 @@
   "aerospace::definitions::63": "ATIS - automated terminal info system",
   "aerospace::concepts::141": "low cloud, trapped by warmer layer",
   "aerospace::definitions::87": "Small and dust particles\nW/o them precipitation and condensation can't happen\nCondensation nuclei",
-  "aerospace::planets::17": "combine"
+  "aerospace::planets::17": "Combined landers + probes\nSearched for life on Mars"
  },
  "edits": {},
  "lists": {}
