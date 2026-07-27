@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785194720944,
+ "updatedAt": 1785194732691,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1462,7 +1462,7 @@
   "aerospace::concepts::203": "early nav versions\ntransit on polaris\ntimation use lang long",
   "aerospace::definitions::60": "first two numbers that of compass direction (designation)\ni meant digits",
   "aerospace::people::31": "refueled in the air (longest)\n37 hours\ni was thinking between first/longest",
-  "aerospace::concepts::232": "Mojave Airspace Ventures\nFirst NFO"
+  "aerospace::concepts::232": "Mojave Airspace Ventures\nFirst NGO to take craft past 62 mi and back within two weeks with a pay"
  },
  "edits": {},
  "lists": {}
