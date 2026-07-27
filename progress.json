@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785184545004,
+ "updatedAt": 1785184554245,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -820,7 +820,7 @@
   "aerospace::planets::9": "review",
   "aerospace::definitions::95": "mastered",
   "aerospace::definitions::5": "mastered",
-  "aerospace::people::21": "general",
+  "aerospace::people::21": "mastered",
   "aerospace::misc::42": "mastered",
   "aerospace::people::4": "mastered",
   "aerospace::definitions::146": "mastered",
@@ -1321,7 +1321,6 @@
   "aerospace::misc::42": "stronger, lighter",
   "aerospace::people::4": "discovered oxygen",
   "aerospace::definitions::146": "3.26 light years",
-  "aerospace::concepts::59": "produce drag",
   "aerospace::people::78": "first artificial satellite (---) by USSR\nestablished freedom of use\nJan 31 launch of explorer 1",
   "aerospace::people::58": "launched by navy",
   "aerospace::definitions::74": "airplane speed relative to ground\nspeed on ground",
