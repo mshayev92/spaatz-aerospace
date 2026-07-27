@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785179153437,
+ "updatedAt": 1785182501426,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1288,7 +1288,7 @@
   "aerospace::people::7": "LZ-1",
   "aerospace::concepts::65": "two sets, one behind the other",
   "aerospace::definitions::161": "gravity made circular",
-  "aerospace::definitions::154": "disturbances in the poles",
+  "aerospace::definitions::154": "Disturbances in the poles\nBorealis - North\nAustralis - South",
   "aerospace::planets::5": "speed/direction of clouds",
   "aerospace::definitions::166": "Explosion of light and energy",
   "aerospace::concepts::106": "10-30\nincreases",
