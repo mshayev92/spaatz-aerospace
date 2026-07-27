@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785174158702,
+ "updatedAt": 1785174167528,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1430,7 +1430,7 @@
   "aerospace::concepts::109": "Sun particles interact with oxygen to make ozone, which protects us from radiation",
   "aerospace::people::48": "surplus made it popular, then Constellation became the best",
   "aerospace::misc::15": "piper",
-  "aerospace::misc::35": "In NV, finally destroyed by airstrike",
+  "aerospace::misc::35": "In NV, finally destroyed by airstrike\n\nlaser guided bombs",
   "aerospace::definitions::72": "the course the pilot takes in regard to true north",
   "aerospace::concepts::189": "1958\nbasis for civilian and military space activities\neisenhower?",
   "aerospace::concepts::88": "air speed indicator\nmagnetic compass\nradio\n",
