@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785202345024,
+ "updatedAt": 1785202357362,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1185,7 +1185,8 @@
   "aerospace::planets::27": "review",
   "aerospace::people::25": "general",
   "aerospace::concepts::207": "general",
-  "aerospace::people::41": "general"
+  "aerospace::people::41": "general",
+  "aerospace::misc::1": "general"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1255,7 +1256,6 @@
   "aerospace::concepts::21": "Primary source of lift\nSlats/flaps\nAilerons\nWinglets\nNO\n\n",
   "aerospace::concepts::47": "Pitch",
   "aerospace::concepts::14": "Pearl Harbor\nCAA became War Training Service",
-  "aerospace::misc::3": "Igor Sikorsky\nINCOMPLETE",
   "aerospace::definitions::137": "Polar orbit\nAlways exposed to sun for energy",
   "aerospace::people::60": "Project by the AF, Navy\nMach 6.7",
   "aerospace::definitions::104": "Attraction between all matter in the universe",
@@ -1486,7 +1486,7 @@
   "aerospace::concepts::15": "Air superiority, interdiction, support ground forces",
   "aerospace::people::32": "Nonstop cross country flight",
   "aerospace::people::15": "Father of modern aviation\nGliders",
-  "aerospace::misc::1": "Contribution by Wright Brothers\nIncrease lift?"
+  "aerospace::misc::3": "I"
  },
  "edits": {
   "aerospace::people::19": {
