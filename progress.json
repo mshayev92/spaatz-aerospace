@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785199097084,
+ "updatedAt": 1785199301270,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1474,7 +1474,7 @@
   "aerospace::concepts::43": "changes in pressure, temp. loss of energy that creates drag",
   "aerospace::definitions::149": "has negative or positive charge\nbecause of sun/stars",
   "aerospace::planets::21": "10 hours\n5th planet\ngreat spot (storm)\ngas giant\nlargest planet by far\n",
-  "aerospace::definitions::174": "3 parts:\n"
+  "aerospace::definitions::174": "3 parts:\ndivision of physical space\nattribution\nmilitary use"
  },
  "edits": {},
  "lists": {}
