@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785277619661,
+ "updatedAt": 1785277675827,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1567,8 +1567,7 @@
   "aerospace::concepts::48": "4 stroke, 5 events\ncircular motion, back and forth\nenergy through spinning fluid",
   "aerospace::people::59": "Carried men and cargo in the Tet Offensive",
   "aerospace::planets::9": "Mapped 99% of Venus",
-  "aerospace::people::58": "Launched by Navy against Iraq",
-  "aerospace::concepts::223": "Outer planet probes\n"
+  "aerospace::people::58": "Launched by Navy against Iraq"
  },
  "edits": {
   "aerospace::people::19": {
