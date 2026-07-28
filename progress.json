@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785245706732,
+ "updatedAt": 1785245715625,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1208,7 +1208,8 @@
   "aerospace::definitions::92": "review",
   "aerospace::planets::0": "general",
   "aerospace::concepts::82": "mastered",
-  "aerospace::planets::13": "mastered"
+  "aerospace::planets::13": "mastered",
+  "aerospace::concepts::212": "mastered"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1333,7 +1334,6 @@
   "aerospace::misc::42": "stronger, lighter",
   "aerospace::people::4": "discovered oxygen",
   "aerospace::definitions::146": "3.26 light years",
-  "aerospace::people::58": "launched by navy",
   "aerospace::definitions::74": "airplane speed relative to ground\nspeed on ground",
   "aerospace::definitions::38": "chord line and relative wind\n+angle of incidence",
   "aerospace::misc::62": "circular motion, force outward",
