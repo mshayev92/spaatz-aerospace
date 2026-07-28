@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785276953368,
+ "updatedAt": 1785276984266,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1566,7 +1566,7 @@
   "aerospace::misc::2": "1909\nArmy\nTrain Pilots\nDisassemble in conflict\nManeuverable, reliable\nAlso signed a French contract\n",
   "aerospace::concepts::76": "state of devices",
   "aerospace::concepts::48": "4 stroke, 5 events\ncircular motion, back and forth\nenergy through spinning fluid",
-  "aerospace::people::59": "Carried "
+  "aerospace::people::59": "Carried men and cargo in the Tet Offensive"
  },
  "edits": {
   "aerospace::people::19": {
