@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785244903487,
+ "updatedAt": 1785245087026,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1498,7 +1498,7 @@
   "aerospace::people::81": "Second project (after Mercury)\nPrep for Apollo\nTwo-men capsules\nFirst American space walk\nDocking\nTesting space conditions on humans",
   "aerospace::definitions::163": "Very elliptical orbit\nWhen approaching sun, tail\nNucleus: frozen\n\nExample: Halley",
   "aerospace::concepts::82": "Engine",
-  "aerospace::planets::13": "Earth's only natural satellite\nHas craters from impacts\nLunar dust/rocks, KREEP, etc.\n"
+  "aerospace::planets::13": "Earth's only natural satellite\nHas craters from impacts\nLunar dust/rocks, KREEP, etc.\nInches away from Earth\nCislunar space\nOnly shows one side\n"
  },
  "edits": {
   "aerospace::people::19": {
