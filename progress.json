@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785264140432,
+ "updatedAt": 1785264146908,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1547,7 +1547,7 @@
   "aerospace::concepts::188": "Studied the atmosphere\nUpdated V-2 to self-made T-1\nMade ICBMs (Cold War)\n\nI knew that they launched Sputnik and we launched Explorer 1 in response",
   "aerospace::definitions::135": "Equatorial orbit, synchronized to the Earth's orbit (24 hour revolution)",
   "aerospace::people::57": "Attacked SAMs",
-  "aerospace::concepts::10": "Germany downsized after Treaty of Versailles but secretly upgraded military\nItaly (and Germany) got experience in Spanish Civil War\nJapan had Navy + Air Forces\nFrance had the Maginot Line\nBritain had bombers\nUS AF downsized after WW1"
+  "aerospace::concepts::10": "Germany downsized after Treaty of Versailles but secretly upgraded military\nItaly (and Germany) got experience in Spanish Civil War\nJapan had Navy + Air Forces\nFrance had the Maginot Line\nBritain had bombers, rapid build up\nUS AF downsized after WW1"
  },
  "edits": {
   "aerospace::people::19": {
