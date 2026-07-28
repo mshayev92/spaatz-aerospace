@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785203019470,
+ "updatedAt": 1785203041305,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1490,8 +1490,7 @@
   "aerospace::concepts::15": "Air superiority, interdiction, support ground forces",
   "aerospace::people::32": "Nonstop cross country flight",
   "aerospace::people::15": "Father of modern aviation\nGliders",
-  "aerospace::concepts::208": "track people and enemy\nwatches for missile launches",
-  "aerospace::people::92": "Putting a laboratory into space"
+  "aerospace::concepts::208": "track people and enemy\nwatches for missile launches"
  },
  "edits": {
   "aerospace::people::19": {
