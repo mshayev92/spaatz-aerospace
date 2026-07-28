@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785269598431,
+ "updatedAt": 1785269602554,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1561,7 +1561,7 @@
   "aerospace::misc::28": "Centralized control, decentralized execution\nGain air superiority",
   "aerospace::planets::7": "plateaus, mountains, canyons",
   "aerospace::misc::43": "Arnold\nfreedom of flight, finances, geography",
-  "aerospace::planets::27": "Blue because of methane\nYl"
+  "aerospace::planets::27": "Blue because of methane\nYellowish-gold\n"
  },
  "edits": {
   "aerospace::people::19": {
