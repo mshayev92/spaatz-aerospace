@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785246140709,
+ "updatedAt": 1785246216442,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1212,7 +1212,8 @@
   "aerospace::concepts::212": "mastered",
   "aerospace::people::58": "review",
   "aerospace::misc::62": "general",
-  "aerospace::concepts::223": "review"
+  "aerospace::concepts::223": "review",
+  "aerospace::people::10": "general"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1500,8 +1501,7 @@
   "aerospace::concepts::82": "Engine",
   "aerospace::planets::13": "Earth's only natural satellite\nHas craters from impacts\nLunar dust/rocks, KREEP, etc.\nInches away from Earth\nCislunar space\nOnly shows one side\n270?",
   "aerospace::concepts::212": "Deepened understanding of universe\nLooked at different wavelengths/stars\nDiscovered hydrogen clouds around comets (as predicted)",
-  "aerospace::misc::62": "Cyclones, hurricanes\nCauses air to spin",
-  "aerospace::people::10": "4 forces of flight\nEarly heli designs\nGliders\nPowered flight?"
+  "aerospace::misc::62": "Cyclones, hurricanes\nCauses air to spin"
  },
  "edits": {
   "aerospace::people::19": {
