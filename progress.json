@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785271235715,
+ "updatedAt": 1785271344626,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1201,7 +1201,7 @@
   "aerospace::misc::2": "mastered",
   "aerospace::misc::68": "mastered",
   "aerospace::misc::45": "mastered",
-  "aerospace::concepts::170": "review",
+  "aerospace::concepts::170": "general",
   "aerospace::concepts::76": "review",
   "aerospace::concepts::48": "review",
   "aerospace::concepts::112": "general",
@@ -1564,7 +1564,7 @@
   "aerospace::people::68": "Designed gunpowder-powered rockets",
   "aerospace::concepts::88": "magnetic compass\nclock\nheading indicator\nairspeed indicator\ngps\n",
   "aerospace::misc::2": "1909\nArmy\nTrain Pilots\nDisassemble in conflict\nManeuverable, reliable\nAlso signed a French contract\n",
-  "aerospace::concepts::170": "medium sized star\n847k diameter\nsolar disturbances: solar flares, prominence, filaments (=active)\nvery strong gravity, everything in solar system orbits it\ninsolation, radiation\n"
+  "aerospace::concepts::179": "Two hrosn "
  },
  "edits": {
   "aerospace::people::19": {
