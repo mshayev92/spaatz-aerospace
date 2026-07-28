@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785269379281,
+ "updatedAt": 1785269386188,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1559,7 +1559,8 @@
   "aerospace::concepts::198": "media, TV, phone (active if amplifies, otherwise passive)",
   "aerospace::misc::11": "Separate from Army\nVital, control of airspace\nControl, attack, ...\n\nCRITICAL POINTS (INTO HEART)",
   "aerospace::misc::28": "Centralized control, decentralized execution\nGain air superiority",
-  "aerospace::planets::7": "plateaus, mountains, canyons"
+  "aerospace::planets::7": "plateaus, mountains, canyons",
+  "aerospace::misc::43": "Arnold\n"
  },
  "edits": {
   "aerospace::people::19": {
