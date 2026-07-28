@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785198980510,
+ "updatedAt": 1785199004831,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1172,7 +1172,6 @@
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
-  "aerospace::people::1": "studied pressure\ninvented barometer",
   "aerospace::definitions::174": "attribution\nfacility use\nmilitary",
   "aerospace::definitions::94": "constant changes in the atmosphere",
   "aerospace::concepts::81": "how fast the crankshaft is turning\n(engine)",
