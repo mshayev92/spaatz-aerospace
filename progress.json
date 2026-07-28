@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785280887992,
+ "updatedAt": 1785280953197,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -941,7 +941,7 @@
   "aerospace::people::100": "mastered",
   "aerospace::concepts::180": "general",
   "aerospace::concepts::99": "mastered",
-  "aerospace::definitions::21": "review",
+  "aerospace::definitions::21": "general",
   "aerospace::definitions::8": "mastered",
   "aerospace::definitions::20": "mastered",
   "aerospace::definitions::10": "mastered",
@@ -1570,8 +1570,7 @@
   "aerospace::people::99": "Alexander Leonov\n\nFIRST NAME= ALEKSEI",
   "aerospace::definitions::156": "Pressure removed, air particles escape\nCan damage equipment",
   "aerospace::people::55": "Navy, all weather capable, VN",
-  "aerospace::people::70": "spin stabilization",
-  "aerospace::definitions::21": "Nixon, cut NV from communists, external supply routes, docks, etc."
+  "aerospace::people::70": "spin stabilization"
  },
  "edits": {
   "aerospace::people::19": {
