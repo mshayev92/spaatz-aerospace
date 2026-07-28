@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785250397462,
+ "updatedAt": 1785250457934,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1525,8 +1525,7 @@
   "aerospace::misc::63": "Surface over which it forms\nSurface over which it travels\nSeason",
   "aerospace::concepts::175": "hot/bright spots\nionized gas + magnetic lines\nagainst chromosphere?",
   "aerospace::concepts::63": "Two front\nOne back",
-  "aerospace::planets::26": "8th planet\nWindiest planet\nBlue\n*Methane",
-  "aerospace::people::74": "Biggest launch vehicle (apart from Saturn V)\nSeven stages (4 middle stages)\n"
+  "aerospace::planets::26": "8th planet\nWindiest planet\nBlue\n*Methane"
  },
  "edits": {
   "aerospace::people::19": {
