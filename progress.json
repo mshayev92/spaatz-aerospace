@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785261460527,
+ "updatedAt": 1785261470703,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1540,7 +1540,7 @@
   "aerospace::people::71": "Russian scientist\nDid theoretical calculations about the escape and reentry of spacecraft w/ reaction engine from/to Earth",
   "aerospace::concepts::125": "More dense than warm, moves faster\nDepends on cold pressure cell behind\nPushes warm air mass up, potentially creating severe precipitation\n",
   "aerospace::concepts::36": "Increase wing camber\nIncrease AoA",
-  "aerospace::concepts::218": "First system to take integrated measurements of Earth\nData for research\nRenamed to EOS\nCollection of satellites\n"
+  "aerospace::concepts::218": "First system to take integrated measurements of Earth\nData for research\nRenamed to EOS\nCollection of satellites"
  },
  "edits": {
   "aerospace::people::19": {
