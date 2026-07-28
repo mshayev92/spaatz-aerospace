@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785262155030,
+ "updatedAt": 1785262197662,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1543,8 +1543,7 @@
   "aerospace::concepts::218": "First system to take integrated measurements of Earth\nData for research\nRenamed to EOS\nCollection of satellites",
   "aerospace::misc::70": "payload + fuel + dead weight\n",
   "aerospace::planets::11": "ESA",
-  "aerospace::definitions::25": "Offense portion of liberating kuwait, protecting Saudi Arabia from Iraq\nInc. Final Coalition Air Campaign",
-  "aerospace::concepts::176": "Dark spots\nChromosphere"
+  "aerospace::definitions::25": "Offense portion of liberating kuwait, protecting Saudi Arabia from Iraq\nInc. Final Coalition Air Campaign"
  },
  "edits": {
   "aerospace::people::19": {
