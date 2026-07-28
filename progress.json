@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785203094234,
+ "updatedAt": 1785203149641,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1192,7 +1192,8 @@
   "aerospace::concepts::166": "general",
   "aerospace::misc::76": "mastered",
   "aerospace::concepts::208": "mastered",
-  "aerospace::people::92": "general"
+  "aerospace::people::92": "general",
+  "aerospace::people::81": "mastered"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1282,7 +1283,6 @@
   "aerospace::definitions::147": "atoms are fused to create different ones",
   "aerospace::people::63": "stealth aircraft",
   "aerospace::definitions::31": "change form during flight\nforward for subsonic\nbackward for supersonic\n",
-  "aerospace::concepts::200": "Supported the DSN",
   "aerospace::concepts::173": "Crown\nthin white light",
   "aerospace::definitions::163": "Elliptical orbit around the same\nNucleus of water, ice, and particles\nDevelops a trail approaching sun",
   "aerospace::people::66": "jumbo jet",
