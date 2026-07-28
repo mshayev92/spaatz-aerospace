@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785264940877,
+ "updatedAt": 1785264949138,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1555,7 +1555,7 @@
   "aerospace::planets::17": "Combined Mars orbiter + lander\nDiscovered more water than expected, temp.",
   "aerospace::concepts::186": "Dehydration\nHeart Weakens\nDizziness",
   "aerospace::concepts::110": "Atoms become charged particles (+ or - charge)\n\nI do know about SID, and that since it reflects radio waves it impacts comms",
-  "aerospace::concepts::100": "On close approach, to land plane\nFunnel + "
+  "aerospace::concepts::100": "On close approach, to land plane\nFunnel + glide slope"
  },
  "edits": {
   "aerospace::people::19": {
