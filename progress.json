@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785278113326,
+ "updatedAt": 1785278124850,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1568,7 +1568,8 @@
   "aerospace::planets::9": "Mapped 99% of Venus",
   "aerospace::people::58": "Launched by Navy against Iraq",
   "aerospace::people::99": "Alexander Leonov\n\nFIRST NAME= ALEKSEI",
-  "aerospace::definitions::156": "Pressure removed, air particles escape\nCan damage equipment"
+  "aerospace::definitions::156": "Pressure removed, air particles escape\nCan damage equipment",
+  "aerospace::people::55": "Navy, all weather capable, VN"
  },
  "edits": {
   "aerospace::people::19": {
