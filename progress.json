@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785261167922,
+ "updatedAt": 1785261176812,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1539,7 +1539,7 @@
   "aerospace::concepts::51": "turbine with fan taking in a lot of air\nslowed down, combusted, released",
   "aerospace::people::71": "Russian scientist\nDid theoretical calculations about the escape and reentry of spacecraft w/ reaction engine from/to Earth",
   "aerospace::concepts::125": "More dense than warm, moves faster\nDepends on cold pressure cell behind\nPushes warm air mass up, potentially creating severe precipitation\n",
-  "aerospace::concepts::17": "\nKenney cocktail\nClear islands for allied control to launch attacks on Japan"
+  "aerospace::concepts::17": "Low \nKenney cocktail\nClear islands for allied control to launch attacks on Japan"
  },
  "edits": {
   "aerospace::people::19": {
