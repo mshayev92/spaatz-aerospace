@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785280616175,
+ "updatedAt": 1785280626782,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -957,7 +957,7 @@
   "aerospace::definitions::68": "mastered",
   "aerospace::concepts::31": "mastered",
   "aerospace::concepts::158": "mastered",
-  "aerospace::concepts::220": "review",
+  "aerospace::concepts::220": "general",
   "aerospace::people::61": "review",
   "aerospace::definitions::130": "mastered",
   "aerospace::people::34": "mastered",
@@ -1571,7 +1571,7 @@
   "aerospace::definitions::156": "Pressure removed, air particles escape\nCan damage equipment",
   "aerospace::people::55": "Navy, all weather capable, VN",
   "aerospace::people::70": "spin stabilization",
-  "aerospace::concepts::220": "mapped moon?"
+  "aerospace::people::61": "superson"
  },
  "edits": {
   "aerospace::people::19": {
