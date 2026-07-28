@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785198051861,
+ "updatedAt": 1785198069114,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1473,7 +1473,8 @@
   "aerospace::people::86": "Launched by STS 13 to do experiments",
   "aerospace::concepts::197": "observation, nav, comm, scientific",
   "aerospace::concepts::43": "changes in pressure, temp. loss of energy that creates drag",
-  "aerospace::definitions::149": "has negative or positive charge\nbecause of sun/stars"
+  "aerospace::definitions::149": "has negative or positive charge\nbecause of sun/stars",
+  "aerospace::concepts::153": "External heat source\nSolid heated for e"
  },
  "edits": {},
  "lists": {}
