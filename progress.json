@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785198191376,
+ "updatedAt": 1785198561872,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1170,7 +1170,6 @@
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
-  "aerospace::people::75": "launch vehicles",
   "aerospace::planets::21": "largest planet",
   "aerospace::people::1": "studied pressure\ninvented barometer",
   "aerospace::definitions::174": "attribution\nfacility use\nmilitary",
