@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785281058077,
+ "updatedAt": 1785281063044,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1571,7 +1571,7 @@
   "aerospace::definitions::156": "Pressure removed, air particles escape\nCan damage equipment",
   "aerospace::people::55": "Navy, all weather capable, VN",
   "aerospace::people::70": "spin stabilization",
-  "aerospace::people::53": "rocket (missle)\nsmart, tailless, wingless\n"
+  "aerospace::people::53": "rocket (missile)\nsmart, tailless, wingless\n"
  },
  "edits": {
   "aerospace::people::19": {
