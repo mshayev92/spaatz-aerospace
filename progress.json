@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785266355844,
+ "updatedAt": 1785266364535,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1558,7 +1558,7 @@
   "aerospace::people::101": "Svetlana Savtensky\n\nCorrect surname:\nSAVITSKAYA",
   "aerospace::concepts::198": "media, TV, phone (active if amplifies, otherwise passive)",
   "aerospace::misc::11": "Separate from Army\nVital, control of airspace\nControl, attack, ...\n\nCRITICAL POINTS (INTO HEART)",
-  "aerospace::people::37": "Father of RAF\n2/3 long-range, 1/3 short bombers\nVital/critical points"
+  "aerospace::people::37": "Father of RAF\n2/3 long-range, 1/3 short bombers\n\nVital/critical points"
  },
  "edits": {
   "aerospace::people::19": {
