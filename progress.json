@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785251268299,
+ "updatedAt": 1785251396694,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1535,7 +1535,8 @@
   "aerospace::planets::24": "6th planet\nHas rings a few miles from it, containing rocky parts\nGas giant\nRotation: 10 hours\n",
   "aerospace::people::67": "Long range\nStealth\nJoint strike fighter\nAdvanced tech",
   "aerospace::concepts::80": "magnetic compass\nheader indicator\nairspeed indicator\nclock\ninternal nav\n\nDid not include radio, but know it is the pilot's link to FAA",
-  "aerospace::planets::1": "Second planet\nHot atmosphere\nSpins backwards in a way the Earth does not\nCloset to Earth in distance and size\nNo moons"
+  "aerospace::planets::1": "Second planet\nHot atmosphere\nSpins backwards in a way the Earth does not\nCloset to Earth in distance and size\nNo moons",
+  "aerospace::concepts::51": "turbine with fan taking in a lot of air\n"
  },
  "edits": {
   "aerospace::people::19": {
