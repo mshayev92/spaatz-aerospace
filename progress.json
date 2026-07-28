@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785201686558,
+ "updatedAt": 1785201710623,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1250,7 +1250,6 @@
   "aerospace::concepts::216": "Explored interactions between the sun and Earth's atmosphere",
   "aerospace::people::50": "First turboprop airliner",
   "aerospace::concepts::150": "Streamlined shape\nContains all other rocket systems",
-  "aerospace::people::41": "Japan",
   "aerospace::concepts::228": "Second of cheap discovery missions\nStationary lander\nSojourner Rover",
   "aerospace::misc::1": "Wright flier",
   "aerospace::concepts::21": "Primary source of lift\nSlats/flaps\nAilerons\nWinglets\nNO\n\n",
