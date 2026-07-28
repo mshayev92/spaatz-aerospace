@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785269773887,
+ "updatedAt": 1785269853280,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1306,7 +1306,6 @@
   "aerospace::people::50": "First turboprop airliner",
   "aerospace::concepts::150": "Streamlined shape\nContains all other rocket systems",
   "aerospace::concepts::228": "Second of cheap discovery missions\nStationary lander\nSojourner Rover",
-  "aerospace::concepts::21": "Primary source of lift\nSlats/flaps\nAilerons\nWinglets\nNO\n\n",
   "aerospace::concepts::47": "Pitch",
   "aerospace::concepts::14": "Pearl Harbor\nCAA became War Training Service",
   "aerospace::definitions::137": "Polar orbit\nAlways exposed to sun for energy",
