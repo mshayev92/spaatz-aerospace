@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785262719771,
+ "updatedAt": 1785262763377,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1544,7 +1544,7 @@
   "aerospace::misc::70": "payload + fuel + dead weight\n",
   "aerospace::planets::11": "ESA",
   "aerospace::definitions::25": "Offense portion of liberating kuwait, protecting Saudi Arabia from Iraq\nInc. Final Coalition Air Campaign",
-  "aerospace::misc::14": "First one: Rheims, France\nBendix Trophy: cross country\nSchneider: seaplanes\nPulitzer Trophy: > speed\n"
+  "aerospace::misc::14": "First one: Rheims, France\nBendix Trophy: cross country\nSchneider: seaplanes\nPulitzer Trophy: > speed\nOne more starting with E"
  },
  "edits": {
   "aerospace::people::19": {
