@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785241570470,
+ "updatedAt": 1785241663223,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1195,7 +1195,8 @@
   "aerospace::people::92": "general",
   "aerospace::people::81": "mastered",
   "aerospace::concepts::200": "review",
-  "aerospace::definitions::163": "mastered"
+  "aerospace::definitions::163": "mastered",
+  "aerospace::misc::8": "general"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1492,8 +1493,7 @@
   "aerospace::people::15": "Father of modern aviation\nGliders",
   "aerospace::concepts::208": "track people and enemy\nwatches for missile launches",
   "aerospace::people::81": "Second project (after Mercury)\nPrep for Apollo\nTwo-men capsules\nFirst American space walk\nDocking\nTesting space conditions on humans",
-  "aerospace::definitions::163": "Very elliptical orbit\nWhen approaching sun, tail\nNucleus: frozen\n\nExample: Halley",
-  "aerospace::misc::8": "interrupting gear and auto gun"
+  "aerospace::definitions::163": "Very elliptical orbit\nWhen approaching sun, tail\nNucleus: frozen\n\nExample: Halley"
  },
  "edits": {
   "aerospace::people::19": {
