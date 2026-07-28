@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785251655122,
+ "updatedAt": 1785251736429,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1537,8 +1537,7 @@
   "aerospace::concepts::80": "magnetic compass\nheader indicator\nairspeed indicator\nclock\ninternal nav\n\nDid not include radio, but know it is the pilot's link to FAA",
   "aerospace::planets::1": "Second planet\nHot atmosphere\nSpins backwards in a way the Earth does not\nCloset to Earth in distance and size\nNo moons",
   "aerospace::concepts::51": "turbine with fan taking in a lot of air\nslowed down, combusted, released",
-  "aerospace::people::71": "Russian scientist\nDid theoretical calculations about the escape and reentry of spacecraft w/ reaction engine from/to Earth",
-  "aerospace::misc::11": "Separate Army from AF\nSunk German ship (Navy later developed own ship)\nCourt martialed for advocacy\n"
+  "aerospace::people::71": "Russian scientist\nDid theoretical calculations about the escape and reentry of spacecraft w/ reaction engine from/to Earth"
  },
  "edits": {
   "aerospace::people::19": {
