@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785264882561,
+ "updatedAt": 1785264891801,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1554,7 +1554,7 @@
   "aerospace::concepts::60": "Tubed/welded bracing for strength",
   "aerospace::planets::17": "Combined Mars orbiter + lander\nDiscovered more water than expected, temp.",
   "aerospace::concepts::186": "Dehydration\nHeart Weakens\nDizziness",
-  "aerospace::concepts::110": "Atoms become charged particles (+ or - charge)\n\nI do know about SID, and that sinc"
+  "aerospace::concepts::110": "Atoms become charged particles (+ or - charge)\n\nI do know about SID, and that since it reflects radio waves it impacts comms"
  },
  "edits": {
   "aerospace::people::19": {
