@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785280483959,
+ "updatedAt": 1785280488678,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1570,7 +1570,7 @@
   "aerospace::people::99": "Alexander Leonov\n\nFIRST NAME= ALEKSEI",
   "aerospace::definitions::156": "Pressure removed, air particles escape\nCan damage equipment",
   "aerospace::people::55": "Navy, all weather capable, VN",
-  "aerospace::people::70": "stabil"
+  "aerospace::people::70": "spin stabilization"
  },
  "edits": {
   "aerospace::people::19": {
