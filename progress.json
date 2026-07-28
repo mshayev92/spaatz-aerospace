@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785246218224,
+ "updatedAt": 1785246224142,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1501,7 +1501,7 @@
   "aerospace::planets::13": "Earth's only natural satellite\nHas craters from impacts\nLunar dust/rocks, KREEP, etc.\nInches away from Earth\nCislunar space\nOnly shows one side\n270?",
   "aerospace::concepts::212": "Deepened understanding of universe\nLooked at different wavelengths/stars\nDiscovered hydrogen clouds around comets (as predicted)",
   "aerospace::misc::62": "Cyclones, hurricanes\nCauses air to spin",
-  "aerospace::definitions::54": "c"
+  "aerospace::definitions::54": "coordinate system\nl"
  },
  "edits": {
   "aerospace::people::19": {
