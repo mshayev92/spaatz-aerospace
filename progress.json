@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785200922871,
+ "updatedAt": 1785200936873,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1484,7 +1484,7 @@
   "aerospace::concepts::92": "Signal between plane and receivers\nCalculate time difference to find dis.\n",
   "aerospace::concepts::15": "Air superiority, interdiction, support ground forces",
   "aerospace::people::32": "Nonstop cross country flight",
-  "aerospace::concepts::227": "Enter orbit\nCollected data from atmosphere and ground"
+  "aerospace::concepts::227": "Enter orbit\nCollected data from atmosphere and ground\nSearched for life?"
  },
  "edits": {
   "aerospace::people::19": {
