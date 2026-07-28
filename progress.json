@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785245754561,
+ "updatedAt": 1785245826509,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1499,8 +1499,7 @@
   "aerospace::definitions::163": "Very elliptical orbit\nWhen approaching sun, tail\nNucleus: frozen\n\nExample: Halley",
   "aerospace::concepts::82": "Engine",
   "aerospace::planets::13": "Earth's only natural satellite\nHas craters from impacts\nLunar dust/rocks, KREEP, etc.\nInches away from Earth\nCislunar space\nOnly shows one side\n270?",
-  "aerospace::concepts::212": "Deepened understanding of universe\nLooked at different wavelengths/stars\nDiscovered hydrogen clouds around comets (as predicted)",
-  "aerospace::people::58": "Launched by Navy during Vietnam"
+  "aerospace::concepts::212": "Deepened understanding of universe\nLooked at different wavelengths/stars\nDiscovered hydrogen clouds around comets (as predicted)"
  },
  "edits": {
   "aerospace::people::19": {
