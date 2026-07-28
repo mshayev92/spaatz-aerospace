@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785199731752,
+ "updatedAt": 1785199744825,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1474,8 +1474,7 @@
   "aerospace::concepts::197": "observation, nav, comm, scientific",
   "aerospace::concepts::43": "changes in pressure, temp. loss of energy that creates drag",
   "aerospace::definitions::149": "has negative or positive charge\nbecause of sun/stars",
-  "aerospace::planets::21": "10 hours\n5th planet\ngreat spot (storm)\ngas giant\nlargest planet by far\n",
-  "aerospace::people::19": "Atlantic crossing\n"
+  "aerospace::planets::21": "10 hours\n5th planet\ngreat spot (storm)\ngas giant\nlargest planet by far\n"
  },
  "edits": {},
  "lists": {}
