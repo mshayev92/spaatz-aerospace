@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785271166358,
+ "updatedAt": 1785271197087,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1564,7 +1564,7 @@
   "aerospace::people::68": "Designed gunpowder-powered rockets",
   "aerospace::concepts::88": "magnetic compass\nclock\nheading indicator\nairspeed indicator\ngps\n",
   "aerospace::misc::2": "1909\nArmy\nTrain Pilots\nDisassemble in conflict\nManeuverable, reliable\nAlso signed a French contract\n",
-  "aerospace::concepts::170": "medium sized star\n847k diameter\nsolar disturbances: solar flares, prominces, filaments (=active)"
+  "aerospace::concepts::170": "medium sized star\n847k diameter\nsolar disturbances: solar flares, prominence, filaments (=active)\n"
  },
  "edits": {
   "aerospace::people::19": {
