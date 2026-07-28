@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785244733501,
+ "updatedAt": 1785244801273,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1497,7 +1497,8 @@
   "aerospace::concepts::208": "track people and enemy\nwatches for missile launches",
   "aerospace::people::81": "Second project (after Mercury)\nPrep for Apollo\nTwo-men capsules\nFirst American space walk\nDocking\nTesting space conditions on humans",
   "aerospace::definitions::163": "Very elliptical orbit\nWhen approaching sun, tail\nNucleus: frozen\n\nExample: Halley",
-  "aerospace::concepts::82": "Engine"
+  "aerospace::concepts::82": "Engine",
+  "aerospace::planets::13": "Earth's only natural satellite\n"
  },
  "edits": {
   "aerospace::people::19": {
