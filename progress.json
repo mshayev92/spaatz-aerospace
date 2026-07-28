@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785200398513,
+ "updatedAt": 1785200428835,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1176,7 +1176,8 @@
   "aerospace::people::38": "mastered",
   "aerospace::misc::13": "general",
   "aerospace::concepts::92": "mastered",
-  "aerospace::concepts::15": "mastered"
+  "aerospace::concepts::15": "mastered",
+  "aerospace::misc::38": "mastered"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1211,7 +1212,6 @@
   "aerospace::definitions::173": "8 equatorial nations claimed the space over their nations for geostationary orbits",
   "aerospace::definitions::122": "not a circular orbit\nhas apogee/perigee",
   "aerospace::misc::18": "first to cross atlantic and pacific",
-  "aerospace::people::32": "first cross country flight\nKIND OF WRONG",
   "aerospace::concepts::35": "imaginary line running from leading to trailing edge",
   "aerospace::concepts::211": "explored sun",
   "aerospace::concepts::156": "automatically detects fluctuations, sends to control to fix",
