@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785247385572,
+ "updatedAt": 1785247386393,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1512,7 +1512,7 @@
   "aerospace::misc::0": "Emperor Shun: donned work clothes of a bird, bat wings\nWan Hoo: Rockets to fly to moon\nKei Kung = Chinese God of thunder/lightning\nKei Kung Shi: flying chariot\nDaedalus and Icarus: escaped prison with wings, Icarus flew too close",
   "aerospace::concepts::7": "Wright Brothers\nFirst powered, controlled, sustained powered flight\n12s",
   "aerospace::misc::63": "Surface over which it forms\nSurface over which it travels\nSeason",
-  "aerospace::concepts::133": "Low turbulence, light precipitation\nThin, some ice crystals"
+  "aerospace::concepts::133": "Low turbulence, light precipitation\nThin, some ice crystals\n"
  },
  "edits": {
   "aerospace::people::19": {
