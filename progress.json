@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785246405545,
+ "updatedAt": 1785246409078,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1376,7 +1376,6 @@
   "aerospace::concepts::217": "studied the impact of solar radiation",
   "aerospace::definitions::126": "closest point to body",
   "aerospace::definitions::70": "prohibited or restricted",
-  "aerospace::concepts::53": "turbofan + turboprop",
   "aerospace::misc::47": "magenta",
   "aerospace::concepts::18": "National Security Act\nDeterrence",
   "aerospace::people::13": "first plane to takeoff --- under its own power",
