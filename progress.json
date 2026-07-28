@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785202372836,
+ "updatedAt": 1785202386113,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1486,7 +1486,7 @@
   "aerospace::concepts::15": "Air superiority, interdiction, support ground forces",
   "aerospace::people::32": "Nonstop cross country flight",
   "aerospace::people::15": "Father of modern aviation\nGliders",
-  "aerospace::misc::3": "Improve reliability and \nSikorsky: four-engine craft\nPa"
+  "aerospace::misc::3": "Improve reliability and (speed?)\nSikorsky: four-engine craft\nPatented: "
  },
  "edits": {
   "aerospace::people::19": {
