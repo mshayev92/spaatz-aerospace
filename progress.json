@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785261224126,
+ "updatedAt": 1785261279869,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1538,8 +1538,7 @@
   "aerospace::planets::1": "Second planet\nHot atmosphere\nSpins backwards in a way the Earth does not\nCloset to Earth in distance and size\nNo moons",
   "aerospace::concepts::51": "turbine with fan taking in a lot of air\nslowed down, combusted, released",
   "aerospace::people::71": "Russian scientist\nDid theoretical calculations about the escape and reentry of spacecraft w/ reaction engine from/to Earth",
-  "aerospace::concepts::125": "More dense than warm, moves faster\nDepends on cold pressure cell behind\nPushes warm air mass up, potentially creating severe precipitation\n",
-  "aerospace::concepts::17": "Low nighttime, high daytime bombing\nKenney cocktail\nClear islands for allied control to launch attacks on Japan\n\ndebated between Low nighttime, high daytime bombing and low altitude bombing"
+  "aerospace::concepts::125": "More dense than warm, moves faster\nDepends on cold pressure cell behind\nPushes warm air mass up, potentially creating severe precipitation\n"
  },
  "edits": {
   "aerospace::people::19": {
