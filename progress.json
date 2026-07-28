@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785270567764,
+ "updatedAt": 1785270579558,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -761,7 +761,7 @@
   "aerospace::planets::3": "mastered",
   "aerospace::definitions::31": "mastered",
   "aerospace::concepts::173": "mastered",
-  "aerospace::people::68": "review",
+  "aerospace::people::68": "mastered",
   "aerospace::people::66": "mastered",
   "aerospace::definitions::72": "mastered",
   "aerospace::people::35": "mastered",
@@ -1438,7 +1438,6 @@
   "aerospace::misc::35": "In NV, finally destroyed by airstrike\n\nlaser guided bombs",
   "aerospace::definitions::72": "the course the pilot takes in regard to true north",
   "aerospace::concepts::189": "1958\nbasis for civilian and military space activities\neisenhower?",
-  "aerospace::concepts::88": "air speed indicator\nmagnetic compass\nradio\n",
   "aerospace::misc::36": "president picked all the targets",
   "aerospace::definitions::23": "desert shield (defensive) to\ndesert storm (offensive) +\nfinal coalition air campaign\n\nshield: protect saudi arabia from iraq and take back kuwait",
   "aerospace::concepts::177": "electromagnetic energy being shot out into space\nsun is active",
@@ -1562,7 +1561,7 @@
   "aerospace::misc::43": "Arnold\nfreedom of flight, finances, geography",
   "aerospace::planets::3": "Soviet, crash landed",
   "aerospace::concepts::200": "Tracking and Data Relay Satellite Service\nAssisted 25 space probes and the Space Shuttle\nAssists DSN",
-  "aerospace::people::68": "Designed gunpower-powered rockets"
+  "aerospace::people::68": "Designed gunpowder-powered rockets"
  },
  "edits": {
   "aerospace::people::19": {
