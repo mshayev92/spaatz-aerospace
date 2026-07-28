@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785201503219,
+ "updatedAt": 1785201533964,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1485,8 +1485,7 @@
   "aerospace::concepts::92": "Signal between plane and receivers\nCalculate time difference to find dis.\n",
   "aerospace::concepts::15": "Air superiority, interdiction, support ground forces",
   "aerospace::people::32": "Nonstop cross country flight",
-  "aerospace::people::15": "Father of modern aviation\nGliders",
-  "aerospace::people::25": "First monoplane\nFirst air meet (at Rheims, France)"
+  "aerospace::people::15": "Father of modern aviation\nGliders"
  },
  "edits": {
   "aerospace::people::19": {
