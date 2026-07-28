@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785199837418,
+ "updatedAt": 1785199904980,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1171,7 +1171,9 @@
   "aerospace::planets::21": "mastered",
   "aerospace::people::1": "general",
   "aerospace::definitions::174": "general",
-  "aerospace::misc::12": "mastered"
+  "aerospace::misc::12": "mastered",
+  "aerospace::concepts::209": "mastered",
+  "aerospace::people::38": "mastered"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1198,7 +1200,6 @@
   "aerospace::misc::67": "equal and opposite (rocket)",
   "aerospace::concepts::171": "produces the light\nthin\n1/3",
   "aerospace::people::52": "to replace B-47",
-  "aerospace::people::38": "60% fighters",
   "aerospace::definitions::28": "rotate to achieve optimum lift",
   "aerospace::definitions::85": "change from solid to gas without entering liquid state\nenters atmosphere",
   "aerospace::concepts::196": "commercialize government data\navailable to everyone at same price\nquality",
@@ -1475,7 +1476,8 @@
   "aerospace::concepts::43": "changes in pressure, temp. loss of energy that creates drag",
   "aerospace::definitions::149": "has negative or positive charge\nbecause of sun/stars",
   "aerospace::planets::21": "10 hours\n5th planet\ngreat spot (storm)\ngas giant\nlargest planet by far\n",
-  "aerospace::concepts::209": "find data, do research\nearth observation system - example"
+  "aerospace::concepts::209": "find data, do research\nearth observation system - example",
+  "aerospace::people::38": "Destroy enemy will, 60% fighters"
  },
  "edits": {
   "aerospace::people::19": {
