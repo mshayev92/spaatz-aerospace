@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785281261125,
+ "updatedAt": 1785281274220,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1572,7 +1572,7 @@
   "aerospace::people::55": "Navy, all weather capable, VN",
   "aerospace::people::70": "spin stabilization",
   "aerospace::concepts::142": "moist air moves horizontally, is cooled below dew pt.",
-  "aerospace::people::40": "low precision bombing"
+  "aerospace::people::40": "daytime precision bombing"
  },
  "edits": {
   "aerospace::people::19": {
