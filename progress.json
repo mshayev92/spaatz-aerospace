@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785247601668,
+ "updatedAt": 1785247682107,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1223,7 +1223,8 @@
   "aerospace::misc::0": "general",
   "aerospace::concepts::7": "mastered",
   "aerospace::misc::63": "mastered",
-  "aerospace::concepts::133": "general"
+  "aerospace::concepts::133": "general",
+  "aerospace::planets::25": "general"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1512,8 +1513,7 @@
   "aerospace::concepts::53": "combines turboprop and turbofan\nfan spins prop\n",
   "aerospace::misc::0": "Emperor Shun: donned work clothes of a bird, bat wings\nWan Hoo: Rockets to fly to moon\nKei Kung = Chinese God of thunder/lightning\nKei Kung Shi: flying chariot\nDaedalus and Icarus: escaped prison with wings, Icarus flew too close",
   "aerospace::concepts::7": "Wright Brothers\nFirst powered, controlled, sustained powered flight\n12s",
-  "aerospace::misc::63": "Surface over which it forms\nSurface over which it travels\nSeason",
-  "aerospace::planets::25": "7th planet\nGas giant\nOrbit can intersect w/ Neptune\nGreenish-bluish\nSpins on angle"
+  "aerospace::misc::63": "Surface over which it forms\nSurface over which it travels\nSeason"
  },
  "edits": {
   "aerospace::people::19": {
