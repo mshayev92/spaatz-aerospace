@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785270675586,
+ "updatedAt": 1785270683271,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1563,7 +1563,7 @@
   "aerospace::concepts::200": "Tracking and Data Relay Satellite Service\nAssisted 25 space probes and the Space Shuttle\nAssists DSN",
   "aerospace::people::68": "Designed gunpowder-powered rockets",
   "aerospace::concepts::88": "magnetic compass\nclock\nheading indicator\nairspeed indicator\ngps\n",
-  "aerospace::misc::2": "1909\n"
+  "aerospace::misc::2": "1909\nArmy\nTrain Pilots\nDisassemble in conflict\n"
  },
  "edits": {
   "aerospace::people::19": {
