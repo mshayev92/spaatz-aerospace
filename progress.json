@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785199074568,
+ "updatedAt": 1785199089707,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1168,11 +1168,11 @@
   "aerospace::definitions::81": "mastered",
   "aerospace::definitions::108": "mastered",
   "aerospace::people::75": "general",
-  "aerospace::planets::21": "mastered"
+  "aerospace::planets::21": "mastered",
+  "aerospace::people::1": "general"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
-  "aerospace::definitions::174": "attribution\nfacility use\nmilitary",
   "aerospace::definitions::94": "constant changes in the atmosphere",
   "aerospace::concepts::81": "how fast the crankshaft is turning\n(engine)",
   "aerospace::definitions::117": "measure of thrust according to how much volume occupied by fuel",
