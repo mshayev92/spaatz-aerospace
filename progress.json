@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785264683568,
+ "updatedAt": 1785264694947,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1035,7 +1035,7 @@
   "aerospace::definitions::91": "mastered",
   "aerospace::concepts::135": "mastered",
   "aerospace::definitions::115": "mastered",
-  "aerospace::concepts::60": "general",
+  "aerospace::concepts::60": "mastered",
   "aerospace::definitions::49": "mastered",
   "aerospace::concepts::172": "mastered",
   "aerospace::definitions::78": "mastered",
@@ -1551,7 +1551,8 @@
   "aerospace::people::11": "Planaphore - front to back stability",
   "aerospace::concepts::153": "External heat source\nHeats fuel, builds high pressure so exhaust escapes at high velocity",
   "aerospace::people::74": "Launch vehicle, only one more powerful was Saturn V\nStarted with Titan II ICBM",
-  "aerospace::concepts::60": "Tubed/welded bracing for strength"
+  "aerospace::concepts::60": "Tubed/welded bracing for strength",
+  "aerospace::planets::17": "Combined Mars l"
  },
  "edits": {
   "aerospace::people::19": {
