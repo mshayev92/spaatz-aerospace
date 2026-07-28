@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785282281059,
+ "updatedAt": 1785282291760,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1107,7 +1107,7 @@
   "aerospace::planets::11": "mastered",
   "aerospace::definitions::116": "mastered",
   "aerospace::concepts::147": "mastered",
-  "aerospace::concepts::214": "review",
+  "aerospace::concepts::214": "mastered",
   "aerospace::concepts::8": "mastered",
   "aerospace::people::26": "mastered",
   "aerospace::people::49": "mastered",
@@ -1575,7 +1575,8 @@
   "aerospace::people::40": "daytime precision bombing",
   "aerospace::definitions::148": "charged particles ejected continuously into interplanetary space",
   "aerospace::definitions::153": "solar disturbance\nrapid onset changes in the magnetic field in a matter of hours",
-  "aerospace::concepts::214": "explorer class\ncontinues strides made by x-ray satellites"
+  "aerospace::concepts::214": "explorer class\ncontinues strides made by x-ray satellites",
+  "aerospace::concepts::89": "military, "
  },
  "edits": {
   "aerospace::people::19": {
