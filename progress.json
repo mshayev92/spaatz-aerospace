@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785281409924,
+ "updatedAt": 1785281423201,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1573,7 +1573,7 @@
   "aerospace::people::70": "spin stabilization",
   "aerospace::concepts::142": "moist air moves horizontally, is cooled below dew pt.",
   "aerospace::people::40": "daytime precision bombing",
-  "aerospace::definitions::148": "charged particles eje"
+  "aerospace::definitions::148": "charged particles ejected continously into interplanetary space\n"
  },
  "edits": {
   "aerospace::people::19": {
