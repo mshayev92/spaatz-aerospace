@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785264010329,
+ "updatedAt": 1785264014703,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1545,7 +1545,7 @@
   "aerospace::definitions::25": "Offense portion of liberating kuwait, protecting Saudi Arabia from Iraq\nInc. Final Coalition Air Campaign",
   "aerospace::planets::14": "Basalt (holes were gas escaped)\nAnorthosite\nKREEP (not found on Earth)",
   "aerospace::concepts::188": "Studied the atmosphere\nUpdated V-2 to self-made T-1\nMade ICBMs (Cold War)\n\nI knew that they launched Sputnik and we launched Explorer 1 in response",
-  "aerospace::definitions::135": "Orbit over e"
+  "aerospace::definitions::135": "Orbit over equator, "
  },
  "edits": {
   "aerospace::people::19": {
