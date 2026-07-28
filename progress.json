@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785199744825,
+ "updatedAt": 1785199751537,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1476,6 +1476,11 @@
   "aerospace::definitions::149": "has negative or positive charge\nbecause of sun/stars",
   "aerospace::planets::21": "10 hours\n5th planet\ngreat spot (storm)\ngas giant\nlargest planet by far\n"
  },
- "edits": {},
+ "edits": {
+  "aerospace::people::19": {
+   "t": "Glenn Curtiss",
+   "d": "motorcycles to planes, fastes man on earth, founded Aerial Experiment Association (ailerons, first seaplane)"
+  }
+ },
  "lists": {}
 }
