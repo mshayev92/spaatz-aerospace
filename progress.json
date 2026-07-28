@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785241949366,
+ "updatedAt": 1785241955615,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1199,7 +1199,8 @@
   "aerospace::misc::8": "general",
   "aerospace::definitions::161": "mastered",
   "aerospace::misc::2": "general",
-  "aerospace::misc::68": "mastered"
+  "aerospace::misc::68": "mastered",
+  "aerospace::misc::45": "mastered"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1302,7 +1303,6 @@
   "aerospace::planets::5": "speed/direction of clouds",
   "aerospace::definitions::166": "Explosion of light and energy",
   "aerospace::concepts::106": "10-30\nincreases",
-  "aerospace::concepts::170": "most massive object in solar system\nstar",
   "aerospace::planets::20": "twin mars rovers",
   "aerospace::concepts::37": "use light composite materials",
   "aerospace::concepts::76": "how the aircraft is operating\nKIND OF",
