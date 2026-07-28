@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785196995384,
+ "updatedAt": 1785197236434,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1061,7 +1061,7 @@
   "aerospace::definitions::175": "mastered",
   "aerospace::definitions::118": "mastered",
   "aerospace::concepts::71": "review",
-  "aerospace::planets::23": "general",
+  "aerospace::planets::23": "review",
   "aerospace::definitions::71": "mastered",
   "aerospace::planets::16": "review",
   "aerospace::concepts::43": "general",
@@ -1472,7 +1472,7 @@
   "aerospace::definitions::162": "Not big enough to be planets\nOrbit the sun\nRocky/metallic objects",
   "aerospace::people::86": "Launched by STS 13 to do experiments",
   "aerospace::concepts::197": "observation, nav, comm, scientific",
-  "aerospace::misc::30": "Specific Japanese aircraft\nMade in the Japan year 2600 (end 0)\n"
+  "aerospace::concepts::43": "changes in pressure, temp., and energy "
  },
  "edits": {},
  "lists": {}
