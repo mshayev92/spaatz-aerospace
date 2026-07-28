@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785266957682,
+ "updatedAt": 1785269304543,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -662,7 +662,7 @@
   "aerospace::definitions::51": "mastered",
   "aerospace::definitions::114": "mastered",
   "aerospace::concepts::129": "mastered",
-  "aerospace::misc::28": "review",
+  "aerospace::misc::28": "mastered",
   "aerospace::concepts::151": "mastered",
   "aerospace::concepts::224": "mastered",
   "aerospace::definitions::57": "mastered",
@@ -1558,7 +1558,7 @@
   "aerospace::people::101": "Svetlana Savtensky\n\nCorrect surname:\nSAVITSKAYA",
   "aerospace::concepts::198": "media, TV, phone (active if amplifies, otherwise passive)",
   "aerospace::misc::11": "Separate from Army\nVital, control of airspace\nControl, attack, ...\n\nCRITICAL POINTS (INTO HEART)",
-  "aerospace::misc::28": "Centralized control, decentralized execution"
+  "aerospace::misc::28": "Centralized control, decentralized execution\nGain air superiority"
  },
  "edits": {
   "aerospace::people::19": {
