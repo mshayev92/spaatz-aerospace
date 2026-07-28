@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785241663223,
+ "updatedAt": 1785241667775,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1296,7 +1296,6 @@
   "aerospace::people::22": "first licensed female pilot\ncrossed the english channel",
   "aerospace::people::7": "LZ-1",
   "aerospace::concepts::65": "two sets, one behind the other",
-  "aerospace::definitions::161": "gravity made circular",
   "aerospace::planets::5": "speed/direction of clouds",
   "aerospace::definitions::166": "Explosion of light and energy",
   "aerospace::concepts::106": "10-30\nincreases",
