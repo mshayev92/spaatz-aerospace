@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785247733498,
+ "updatedAt": 1785247739220,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1225,7 +1225,8 @@
   "aerospace::misc::63": "mastered",
   "aerospace::concepts::133": "general",
   "aerospace::planets::25": "general",
-  "aerospace::concepts::130": "general"
+  "aerospace::concepts::130": "general",
+  "aerospace::misc::81": "mastered"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
