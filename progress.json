@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785199944244,
+ "updatedAt": 1785199987849,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1173,7 +1173,8 @@
   "aerospace::definitions::174": "general",
   "aerospace::misc::12": "mastered",
   "aerospace::concepts::209": "mastered",
-  "aerospace::people::38": "mastered"
+  "aerospace::people::38": "mastered",
+  "aerospace::misc::13": "general"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1206,7 +1207,6 @@
   "aerospace::definitions::64": "holds the passengers, luggage, stores, etc.",
   "aerospace::concepts::128": "warm front stuck between two cold fronts, pushed up",
   "aerospace::definitions::173": "8 equatorial nations claimed the space over their nations for geostationary orbits",
-  "aerospace::concepts::15": "air superiority\ninterdiction\nMISSING",
   "aerospace::definitions::122": "not a circular orbit\nhas apogee/perigee",
   "aerospace::misc::18": "first to cross atlantic and pacific",
   "aerospace::people::32": "first cross country flight\nKIND OF WRONG",
