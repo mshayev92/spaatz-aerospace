@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785271344626,
+ "updatedAt": 1785271359136,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1564,7 +1564,7 @@
   "aerospace::people::68": "Designed gunpowder-powered rockets",
   "aerospace::concepts::88": "magnetic compass\nclock\nheading indicator\nairspeed indicator\ngps\n",
   "aerospace::misc::2": "1909\nArmy\nTrain Pilots\nDisassemble in conflict\nManeuverable, reliable\nAlso signed a French contract\n",
-  "aerospace::concepts::179": "Two hrosn "
+  "aerospace::concepts::179": "Two horns\nMagnetic field holds protons/electrons"
  },
  "edits": {
   "aerospace::people::19": {
