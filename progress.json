@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785277751936,
+ "updatedAt": 1785277903894,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -850,7 +850,7 @@
   "aerospace::concepts::157": "mastered",
   "aerospace::concepts::191": "mastered",
   "aerospace::concepts::85": "mastered",
-  "aerospace::people::99": "review",
+  "aerospace::people::99": "mastered",
   "aerospace::definitions::16": "mastered",
   "aerospace::definitions::4": "mastered",
   "aerospace::definitions::119": "mastered",
@@ -1568,7 +1568,7 @@
   "aerospace::people::59": "Carried men and cargo in the Tet Offensive",
   "aerospace::planets::9": "Mapped 99% of Venus",
   "aerospace::people::58": "Launched by Navy against Iraq",
-  "aerospace::people::99": "Alexander Leonov"
+  "aerospace::people::99": "Alexander Leonov\n\nFIRST NAME= ALEKSEI"
  },
  "edits": {
   "aerospace::people::19": {
