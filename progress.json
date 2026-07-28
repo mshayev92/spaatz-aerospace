@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785266826812,
+ "updatedAt": 1785266957682,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1557,7 +1557,8 @@
   "aerospace::concepts::110": "Atoms become charged particles (+ or - charge)\n\nI do know about SID, and that since it reflects radio waves it impacts comms",
   "aerospace::people::101": "Svetlana Savtensky\n\nCorrect surname:\nSAVITSKAYA",
   "aerospace::concepts::198": "media, TV, phone (active if amplifies, otherwise passive)",
-  "aerospace::misc::11": "Separate from Army\nVital, control of airspace\nControl, attack, ...\n\nCRITICAL POINTS (INTO HEART)"
+  "aerospace::misc::11": "Separate from Army\nVital, control of airspace\nControl, attack, ...\n\nCRITICAL POINTS (INTO HEART)",
+  "aerospace::misc::28": "Centralized control, decentralized execution"
  },
  "edits": {
   "aerospace::people::19": {
