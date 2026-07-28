@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785196188445,
+ "updatedAt": 1785196995384,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1047,13 +1047,13 @@
   "aerospace::misc::41": "mastered",
   "aerospace::people::40": "review",
   "aerospace::concepts::61": "mastered",
-  "aerospace::definitions::148": "general",
+  "aerospace::definitions::148": "review",
   "aerospace::concepts::90": "mastered",
-  "aerospace::people::86": "general",
+  "aerospace::people::86": "mastered",
   "aerospace::concepts::52": "mastered",
   "aerospace::definitions::76": "mastered",
-  "aerospace::concepts::197": "general",
-  "aerospace::definitions::153": "general",
+  "aerospace::concepts::197": "mastered",
+  "aerospace::definitions::153": "review",
   "aerospace::concepts::57": "mastered",
   "aerospace::misc::87": "mastered",
   "aerospace::people::51": "review",
@@ -1469,7 +1469,10 @@
   "aerospace::concepts::141": "low cloud, trapped by warmer layer",
   "aerospace::definitions::87": "Small and dust particles\nW/o them precipitation and condensation can't happen\nCondensation nuclei",
   "aerospace::concepts::5": "Lincoln told Gen Scott to allow Thadeus SC Lowe to form Balloon Signal Service",
-  "aerospace::definitions::162": "Not big enough to be planets\nOrbit the sun\nRocky/metallic objects"
+  "aerospace::definitions::162": "Not big enough to be planets\nOrbit the sun\nRocky/metallic objects",
+  "aerospace::people::86": "Launched by STS 13 to do experiments",
+  "aerospace::concepts::197": "observation, nav, comm, scientific",
+  "aerospace::misc::30": "Specific Japanese aircraft\nMade in the Japan year 2600 (end 0)\n"
  },
  "edits": {},
  "lists": {}
