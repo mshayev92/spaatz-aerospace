@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785270625901,
+ "updatedAt": 1785270675586,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -771,7 +771,7 @@
   "aerospace::concepts::189": "mastered",
   "aerospace::concepts::193": "mastered",
   "aerospace::concepts::87": "mastered",
-  "aerospace::concepts::88": "review",
+  "aerospace::concepts::88": "mastered",
   "aerospace::people::22": "mastered",
   "aerospace::misc::36": "mastered",
   "aerospace::people::7": "mastered",
@@ -1562,7 +1562,8 @@
   "aerospace::planets::3": "Soviet, crash landed",
   "aerospace::concepts::200": "Tracking and Data Relay Satellite Service\nAssisted 25 space probes and the Space Shuttle\nAssists DSN",
   "aerospace::people::68": "Designed gunpowder-powered rockets",
-  "aerospace::concepts::88": "magnetic compass\nclock\nheading indicator\nairspeed indicator\ngps\n"
+  "aerospace::concepts::88": "magnetic compass\nclock\nheading indicator\nairspeed indicator\ngps\n",
+  "aerospace::misc::2": "1909\n"
  },
  "edits": {
   "aerospace::people::19": {
