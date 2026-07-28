@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785262925235,
+ "updatedAt": 1785262933481,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1543,7 +1543,7 @@
   "aerospace::misc::70": "payload + fuel + dead weight\n",
   "aerospace::planets::11": "ESA",
   "aerospace::definitions::25": "Offense portion of liberating kuwait, protecting Saudi Arabia from Iraq\nInc. Final Coalition Air Campaign",
-  "aerospace::concepts::20": "Speed of Sound: 767 mph\nThought to be a physical barrier before X-1/Yeager broke\n"
+  "aerospace::concepts::20": "Speed of Sound: 767 mph\nThought to be a physical barrier before X-1/Yeager broke\nShock Wave\nX-2: mach 3"
  },
  "edits": {
   "aerospace::people::19": {
