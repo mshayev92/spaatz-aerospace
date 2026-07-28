@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785199017049,
+ "updatedAt": 1785199027166,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1474,7 +1474,7 @@
   "aerospace::concepts::43": "changes in pressure, temp. loss of energy that creates drag",
   "aerospace::definitions::149": "has negative or positive charge\nbecause of sun/stars",
   "aerospace::planets::21": "10 hours\n5th planet\ngreat spot (storm)\ngas giant\nlargest planet by far\n",
-  "aerospace::people::1": "Pressure\nInvent"
+  "aerospace::people::1": "Studied atmospheric pressu\nInvented barometer"
  },
  "edits": {},
  "lists": {}
