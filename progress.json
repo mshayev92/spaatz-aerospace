@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785246639059,
+ "updatedAt": 1785246659341,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1506,7 +1506,7 @@
   "aerospace::concepts::212": "Deepened understanding of universe\nLooked at different wavelengths/stars\nDiscovered hydrogen clouds around comets (as predicted)",
   "aerospace::misc::62": "Cyclones, hurricanes\nCauses air to spin",
   "aerospace::concepts::53": "combines turboprop and turbofan\nfan spins prop\n",
-  "aerospace::misc::0": "Emperor Shun: donned work clothes of a bird, bat wings\nWan Hoo: Rockets to fly to moon\nKei Kung = Chinese God of thunder/lightning\nKei Kung Shi: flying chariot\n"
+  "aerospace::misc::0": "Emperor Shun: donned work clothes of a bird, bat wings\nWan Hoo: Rockets to fly to moon\nKei Kung = Chinese God of thunder/lightning\nKei Kung Shi: flying chariot\nDaedalus and Icarus: escaped prison with wings, Icarus flew too close"
  },
  "edits": {
   "aerospace::people::19": {
