@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785262884989,
+ "updatedAt": 1785262908314,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1542,7 +1542,8 @@
   "aerospace::concepts::218": "First system to take integrated measurements of Earth\nData for research\nRenamed to EOS\nCollection of satellites",
   "aerospace::misc::70": "payload + fuel + dead weight\n",
   "aerospace::planets::11": "ESA",
-  "aerospace::definitions::25": "Offense portion of liberating kuwait, protecting Saudi Arabia from Iraq\nInc. Final Coalition Air Campaign"
+  "aerospace::definitions::25": "Offense portion of liberating kuwait, protecting Saudi Arabia from Iraq\nInc. Final Coalition Air Campaign",
+  "aerospace::concepts::20": "Speed of Sound: 767 mph\n"
  },
  "edits": {
   "aerospace::people::19": {
