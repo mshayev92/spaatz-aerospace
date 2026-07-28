@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785201011306,
+ "updatedAt": 1785201166282,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1179,7 +1179,8 @@
   "aerospace::concepts::15": "mastered",
   "aerospace::misc::38": "mastered",
   "aerospace::people::32": "mastered",
-  "aerospace::concepts::227": "general"
+  "aerospace::concepts::227": "general",
+  "aerospace::people::15": "mastered"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1226,7 +1227,6 @@
   "aerospace::concepts::97": "GPS\nstandard precision service",
   "aerospace::people::29": "kelly and macready, 1922",
   "aerospace::definitions::139": "when a rocket's payload is a bomb",
-  "aerospace::misc::17": "air mail act of 1930\npost master general could alter or change routes\nALMOST",
   "aerospace::definitions::27": "needs to be hardened for high speed flight\nmore effective\nALMOST\n\nreduces weight and drag",
   "aerospace::concepts::219": "sent to moon to get more info",
   "aerospace::concepts::222": "explored inner planets",
@@ -1484,7 +1484,7 @@
   "aerospace::concepts::92": "Signal between plane and receivers\nCalculate time difference to find dis.\n",
   "aerospace::concepts::15": "Air superiority, interdiction, support ground forces",
   "aerospace::people::32": "Nonstop cross country flight",
-  "aerospace::people::15": "Father of modern aviation\nGliders\n"
+  "aerospace::people::15": "Father of modern aviation\nGliders"
  },
  "edits": {
   "aerospace::people::19": {
