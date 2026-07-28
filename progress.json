@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785264320440,
+ "updatedAt": 1785264343295,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1549,7 +1549,8 @@
   "aerospace::people::57": "Attacked SAMs",
   "aerospace::concepts::10": "Germany downsized after Treaty of Versailles but secretly upgraded military\nItaly (and Germany) got experience in Spanish Civil War\nJapan had Navy + Air Forces\nFrance had the Maginot Line\nBritain had bombers, rapid build up\nUS AF downsized after WW1",
   "aerospace::people::11": "Planaphore - front to back stability",
-  "aerospace::concepts::153": "External heat source\nHeats fuel, builds high pressure so exhaust escapes at high velocity"
+  "aerospace::concepts::153": "External heat source\nHeats fuel, builds high pressure so exhaust escapes at high velocity",
+  "aerospace::people::74": "Launch vehicle, only one more powerful was Saturn V\nStarted with Titan II ICBM\n"
  },
  "edits": {
   "aerospace::people::19": {
