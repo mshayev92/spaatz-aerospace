@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785244702396,
+ "updatedAt": 1785244733501,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1206,7 +1206,8 @@
   "aerospace::concepts::48": "review",
   "aerospace::concepts::112": "general",
   "aerospace::definitions::92": "review",
-  "aerospace::planets::0": "general"
+  "aerospace::planets::0": "general",
+  "aerospace::concepts::82": "mastered"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1328,7 +1329,6 @@
   "aerospace::concepts::111": "less ionization than ionosphere",
   "aerospace::misc::4": "george cayley, roger bacon, da vinci",
   "aerospace::definitions::95": "close to or is producing precipitation",
-  "aerospace::planets::13": "Earth's only natural satellite\ncraters from impacts, rilles\nmoon dust, sterilizing",
   "aerospace::concepts::212": "deepened understanding of universe\nconfirmed hydrogen clouds around comets",
   "aerospace::misc::42": "stronger, lighter",
   "aerospace::people::4": "discovered oxygen",
