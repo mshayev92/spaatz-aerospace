@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785203257756,
+ "updatedAt": 1785203371493,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1194,7 +1194,8 @@
   "aerospace::concepts::208": "mastered",
   "aerospace::people::92": "general",
   "aerospace::people::81": "mastered",
-  "aerospace::concepts::200": "review"
+  "aerospace::concepts::200": "review",
+  "aerospace::definitions::163": "mastered"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1289,7 +1290,6 @@
   "aerospace::people::35": "First deaths in industry\nHydrogen combusted",
   "aerospace::definitions::99": "rotate parallel to the slope",
   "aerospace::concepts::54": "rams air, slows it down",
-  "aerospace::misc::8": "interrupting gear, automatic rilfe",
   "aerospace::concepts::193": "Anti-Ballistic Missile System ban\nfor US and USSR\nsatellites not permitted to track compliance",
   "aerospace::concepts::87": "plan against the horizon indicator",
   "aerospace::people::22": "first licensed female pilot\ncrossed the english channel",
