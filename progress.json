@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785201876631,
+ "updatedAt": 1785201893224,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1252,7 +1252,6 @@
   "aerospace::people::50": "First turboprop airliner",
   "aerospace::concepts::150": "Streamlined shape\nContains all other rocket systems",
   "aerospace::concepts::228": "Second of cheap discovery missions\nStationary lander\nSojourner Rover",
-  "aerospace::misc::1": "Wright flier",
   "aerospace::concepts::21": "Primary source of lift\nSlats/flaps\nAilerons\nWinglets\nNO\n\n",
   "aerospace::concepts::47": "Pitch",
   "aerospace::concepts::14": "Pearl Harbor\nCAA became War Training Service",
@@ -1486,7 +1485,8 @@
   "aerospace::concepts::92": "Signal between plane and receivers\nCalculate time difference to find dis.\n",
   "aerospace::concepts::15": "Air superiority, interdiction, support ground forces",
   "aerospace::people::32": "Nonstop cross country flight",
-  "aerospace::people::15": "Father of modern aviation\nGliders"
+  "aerospace::people::15": "Father of modern aviation\nGliders",
+  "aerospace::misc::1": "Contribution by Wright Brothers\n"
  },
  "edits": {
   "aerospace::people::19": {
