@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785251003627,
+ "updatedAt": 1785251027788,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1532,7 +1532,7 @@
   "aerospace::planets::26": "8th planet\nWindiest planet\nBlue\n*Methane",
   "aerospace::planets::24": "6th planet\nHas rings a few miles from it, containing rocky parts\nGas giant\nRotation: 10 hours\n",
   "aerospace::people::67": "Long range\nStealth\nJoint strike fighter\nAdvanced tech",
-  "aerospace::concepts::80": "magnetic compass\nheader indicator\nairspeed indicator\nclock\ninternal nav\n"
+  "aerospace::concepts::80": "magnetic compass\nheader indicator\nairspeed indicator\nclock\ninternal nav\n\nDid not include radio, but know it is the pio"
  },
  "edits": {
   "aerospace::people::19": {
