@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785264632385,
+ "updatedAt": 1785264642741,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1551,7 +1551,7 @@
   "aerospace::people::11": "Planaphore - front to back stability",
   "aerospace::concepts::153": "External heat source\nHeats fuel, builds high pressure so exhaust escapes at high velocity",
   "aerospace::people::74": "Launch vehicle, only one more powerful was Saturn V\nStarted with Titan II ICBM",
-  "aerospace::concepts::60": "Tubed bracing for strength\nSemimonoqo: relies on shell for strength"
+  "aerospace::concepts::60": "Tubed/welded bracing for strength"
  },
  "edits": {
   "aerospace::people::19": {
