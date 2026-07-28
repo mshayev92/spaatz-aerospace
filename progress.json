@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785280883003,
+ "updatedAt": 1785280887992,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1571,7 +1571,7 @@
   "aerospace::definitions::156": "Pressure removed, air particles escape\nCan damage equipment",
   "aerospace::people::55": "Navy, all weather capable, VN",
   "aerospace::people::70": "spin stabilization",
-  "aerospace::definitions::21": "Nixon, cut NV from communists, external supply routes, "
+  "aerospace::definitions::21": "Nixon, cut NV from communists, external supply routes, docks, etc."
  },
  "edits": {
   "aerospace::people::19": {
