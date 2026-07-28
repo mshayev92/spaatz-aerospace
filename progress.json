@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785250837825,
+ "updatedAt": 1785250852283,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1529,7 +1529,8 @@
   "aerospace::concepts::175": "hot/bright spots\nionized gas + magnetic lines\nagainst chromosphere?",
   "aerospace::concepts::63": "Two front\nOne back",
   "aerospace::planets::26": "8th planet\nWindiest planet\nBlue\n*Methane",
-  "aerospace::planets::24": "6th planet\nHas rings a few miles from it, containing rocky parts\nGas giant\nRotation: 10 hours\n"
+  "aerospace::planets::24": "6th planet\nHas rings a few miles from it, containing rocky parts\nGas giant\nRotation: 10 hours\n",
+  "aerospace::people::67": "Long range\nStealth\nJoint strike fighter"
  },
  "edits": {
   "aerospace::people::19": {
