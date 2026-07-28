@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785202482518,
+ "updatedAt": 1785202491887,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1187,7 +1187,8 @@
   "aerospace::concepts::207": "general",
   "aerospace::people::41": "general",
   "aerospace::misc::1": "general",
-  "aerospace::misc::3": "general"
+  "aerospace::misc::3": "general",
+  "aerospace::misc::71": "mastered"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1260,7 +1261,6 @@
   "aerospace::definitions::137": "Polar orbit\nAlways exposed to sun for energy",
   "aerospace::people::60": "Project by the AF, Navy\nMach 6.7",
   "aerospace::definitions::104": "Attraction between all matter in the universe",
-  "aerospace::concepts::166": "Low energy",
   "aerospace::definitions::7": "twin engine german\nmost popular of ww2",
   "aerospace::misc::60": "When water condenses, heat is released",
   "aerospace::concepts::229": "Astronomer, discovered rings\nDropped ball from Leaning Tower\nNO\n\nentered jupiter orbit 1993",
