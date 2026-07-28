@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785200051966,
+ "updatedAt": 1785200375336,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1480,7 +1480,8 @@
   "aerospace::concepts::209": "find data, do research\nearth observation system - example",
   "aerospace::people::38": "Destroy enemy will, 60% fighters",
   "aerospace::misc::13": "Soldiers who parachute from planes",
-  "aerospace::concepts::92": "Signal between plane and receivers\nCalculate time difference to find dis.\n"
+  "aerospace::concepts::92": "Signal between plane and receivers\nCalculate time difference to find dis.\n",
+  "aerospace::concepts::15": "Air superiority, interdiction, "
  },
  "edits": {
   "aerospace::people::19": {
