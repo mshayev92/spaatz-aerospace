@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785277312436,
+ "updatedAt": 1785277420694,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1565,8 +1565,7 @@
   "aerospace::misc::2": "1909\nArmy\nTrain Pilots\nDisassemble in conflict\nManeuverable, reliable\nAlso signed a French contract\n",
   "aerospace::concepts::76": "state of devices",
   "aerospace::concepts::48": "4 stroke, 5 events\ncircular motion, back and forth\nenergy through spinning fluid",
-  "aerospace::people::59": "Carried men and cargo in the Tet Offensive",
-  "aerospace::concepts::126": "Less dense than cold, moves slower\nPushed up by cold, severe percip.\nLower pressure cell\n"
+  "aerospace::people::59": "Carried men and cargo in the Tet Offensive"
  },
  "edits": {
   "aerospace::people::19": {
