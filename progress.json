@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785201403507,
+ "updatedAt": 1785201421841,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1486,7 +1486,7 @@
   "aerospace::concepts::15": "Air superiority, interdiction, support ground forces",
   "aerospace::people::32": "Nonstop cross country flight",
   "aerospace::people::15": "Father of modern aviation\nGliders",
-  "aerospace::planets::27": "yellowish blue\nused to be planet, now dwarf\n"
+  "aerospace::planets::27": "yellowish blue\nused to be planet, now dwarf\nmade of methane"
  },
  "edits": {
   "aerospace::people::19": {
