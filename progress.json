@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785262115233,
+ "updatedAt": 1785262155030,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1544,7 +1544,7 @@
   "aerospace::misc::70": "payload + fuel + dead weight\n",
   "aerospace::planets::11": "ESA",
   "aerospace::definitions::25": "Offense portion of liberating kuwait, protecting Saudi Arabia from Iraq\nInc. Final Coalition Air Campaign",
-  "aerospace::concepts::176": "Dark spots\n"
+  "aerospace::concepts::176": "Dark spots\nChromosphere"
  },
  "edits": {
   "aerospace::people::19": {
