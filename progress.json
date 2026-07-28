@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785281274220,
+ "updatedAt": 1785281409924,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1045,7 +1045,7 @@
   "aerospace::definitions::103": "mastered",
   "aerospace::concepts::142": "mastered",
   "aerospace::misc::41": "mastered",
-  "aerospace::people::40": "review",
+  "aerospace::people::40": "mastered",
   "aerospace::concepts::61": "mastered",
   "aerospace::definitions::148": "review",
   "aerospace::concepts::90": "mastered",
@@ -1572,7 +1572,8 @@
   "aerospace::people::55": "Navy, all weather capable, VN",
   "aerospace::people::70": "spin stabilization",
   "aerospace::concepts::142": "moist air moves horizontally, is cooled below dew pt.",
-  "aerospace::people::40": "daytime precision bombing"
+  "aerospace::people::40": "daytime precision bombing",
+  "aerospace::definitions::148": "charged particles eje"
  },
  "edits": {
   "aerospace::people::19": {
