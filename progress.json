@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785201540283,
+ "updatedAt": 1785201543770,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1239,7 +1239,6 @@
   "aerospace::concepts::202": "communication to top gov officials\nmilitary",
   "aerospace::definitions::44": "churned air",
   "aerospace::concepts::44": "wings/ailerons\nengine\nfuselage\ntail\nvertical/horizontal stabilizers\n+ elevator",
-  "aerospace::concepts::207": "observation satellite\nNO",
   "aerospace::planets::29": "outermost object",
   "aerospace::people::102": "sullivan",
   "aerospace::concepts::201": "Supported all Apollo missions",
