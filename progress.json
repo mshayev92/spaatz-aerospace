@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785246577190,
+ "updatedAt": 1785246585602,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1401,7 +1401,6 @@
   "aerospace::definitions::35": "chuck yeager broke in x-1\n762 (ACTUALLY 767) mph\ndecreases as altitude increases",
   "aerospace::concepts::138": "warning sign\nturbulence",
   "aerospace::definitions::13": "established to perform research in aeronautics\n1915",
-  "aerospace::misc::0": "kei kung - god of thunder/lightning\nshun - donned bird work clothes\nkei kung shi - flying chariot\nwan hoo - tried flying to moon",
   "aerospace::misc::49": "blue",
   "aerospace::concepts::183": "outgassing\ncold welding\ncharging?",
   "aerospace::definitions::8": "V1: buzz bomb\nV2: ballistic missile",
