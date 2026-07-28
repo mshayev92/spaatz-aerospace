@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785269639528,
+ "updatedAt": 1785269752881,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1560,8 +1560,7 @@
   "aerospace::misc::11": "Separate from Army\nVital, control of airspace\nControl, attack, ...\n\nCRITICAL POINTS (INTO HEART)",
   "aerospace::misc::28": "Centralized control, decentralized execution\nGain air superiority",
   "aerospace::planets::7": "plateaus, mountains, canyons",
-  "aerospace::misc::43": "Arnold\nfreedom of flight, finances, geography",
-  "aerospace::planets::27": "Blue because of methane\nYellowish-gold\nUsed to be ninth planet, now dwarf\nNew Horizons\n"
+  "aerospace::misc::43": "Arnold\nfreedom of flight, finances, geography"
  },
  "edits": {
   "aerospace::people::19": {
