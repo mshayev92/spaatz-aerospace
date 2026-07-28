@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785264748130,
+ "updatedAt": 1785264763033,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1553,7 +1553,7 @@
   "aerospace::people::74": "Launch vehicle, only one more powerful was Saturn V\nStarted with Titan II ICBM",
   "aerospace::concepts::60": "Tubed/welded bracing for strength",
   "aerospace::planets::17": "Combined Mars orbiter + lander\nDiscovered more water than expected, temp.",
-  "aerospace::concepts::186": "D"
+  "aerospace::concepts::186": "Dehydration\nHeart Weakens\nDizziness"
  },
  "edits": {
   "aerospace::people::19": {
