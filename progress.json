@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785264718437,
+ "updatedAt": 1785264748130,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1030,7 +1030,7 @@
   "aerospace::concepts::22": "mastered",
   "aerospace::planets::19": "mastered",
   "aerospace::concepts::186": "general",
-  "aerospace::planets::17": "general",
+  "aerospace::planets::17": "mastered",
   "aerospace::concepts::55": "mastered",
   "aerospace::definitions::91": "mastered",
   "aerospace::concepts::135": "mastered",
@@ -1552,7 +1552,8 @@
   "aerospace::concepts::153": "External heat source\nHeats fuel, builds high pressure so exhaust escapes at high velocity",
   "aerospace::people::74": "Launch vehicle, only one more powerful was Saturn V\nStarted with Titan II ICBM",
   "aerospace::concepts::60": "Tubed/welded bracing for strength",
-  "aerospace::planets::17": "Combined Mars orbiter + lander\nDiscovered more water than expected, temp."
+  "aerospace::planets::17": "Combined Mars orbiter + lander\nDiscovered more water than expected, temp.",
+  "aerospace::concepts::186": "D"
  },
  "edits": {
   "aerospace::people::19": {
