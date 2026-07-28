@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785245103263,
+ "updatedAt": 1785245597128,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1207,7 +1207,8 @@
   "aerospace::concepts::112": "general",
   "aerospace::definitions::92": "review",
   "aerospace::planets::0": "general",
-  "aerospace::concepts::82": "mastered"
+  "aerospace::concepts::82": "mastered",
+  "aerospace::planets::13": "mastered"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1329,7 +1330,6 @@
   "aerospace::concepts::111": "less ionization than ionosphere",
   "aerospace::misc::4": "george cayley, roger bacon, da vinci",
   "aerospace::definitions::95": "close to or is producing precipitation",
-  "aerospace::concepts::212": "deepened understanding of universe\nconfirmed hydrogen clouds around comets",
   "aerospace::misc::42": "stronger, lighter",
   "aerospace::people::4": "discovered oxygen",
   "aerospace::definitions::146": "3.26 light years",
