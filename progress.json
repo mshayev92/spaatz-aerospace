@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785264420934,
+ "updatedAt": 1785264432897,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1551,7 +1551,7 @@
   "aerospace::people::11": "Planaphore - front to back stability",
   "aerospace::concepts::153": "External heat source\nHeats fuel, builds high pressure so exhaust escapes at high velocity",
   "aerospace::people::74": "Launch vehicle, only one more powerful was Saturn V\nStarted with Titan II ICBM",
-  "aerospace::misc::30": "Very capable Japanese Navy aircraft\nPrecision, reconnaissance\n"
+  "aerospace::misc::30": "Very capable Japanese Navy aircraft\nPrecision, reconnaissance\nMade in Japanese year 2600 (1940)"
  },
  "edits": {
   "aerospace::people::19": {
