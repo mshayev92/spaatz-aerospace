@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785199778813,
+ "updatedAt": 1785199821118,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1197,7 +1197,6 @@
   "aerospace::definitions::120": "tendency of an object to stay in motion or stay at rest",
   "aerospace::misc::67": "equal and opposite (rocket)",
   "aerospace::concepts::171": "produces the light\nthin\n1/3",
-  "aerospace::concepts::209": "do research",
   "aerospace::people::52": "to replace B-47",
   "aerospace::people::38": "60% fighters",
   "aerospace::definitions::28": "rotate to achieve optimum lift",
@@ -1475,7 +1474,8 @@
   "aerospace::concepts::197": "observation, nav, comm, scientific",
   "aerospace::concepts::43": "changes in pressure, temp. loss of energy that creates drag",
   "aerospace::definitions::149": "has negative or positive charge\nbecause of sun/stars",
-  "aerospace::planets::21": "10 hours\n5th planet\ngreat spot (storm)\ngas giant\nlargest planet by far\n"
+  "aerospace::planets::21": "10 hours\n5th planet\ngreat spot (storm)\ngas giant\nlargest planet by far\n",
+  "aerospace::concepts::209": "find data, do research\n"
  },
  "edits": {
   "aerospace::people::19": {
