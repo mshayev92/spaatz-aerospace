@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785242344725,
+ "updatedAt": 1785242353975,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1201,7 +1201,8 @@
   "aerospace::misc::2": "review",
   "aerospace::misc::68": "mastered",
   "aerospace::misc::45": "mastered",
-  "aerospace::concepts::170": "review"
+  "aerospace::concepts::170": "review",
+  "aerospace::concepts::76": "review"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1306,7 +1307,6 @@
   "aerospace::concepts::106": "10-30\nincreases",
   "aerospace::planets::20": "twin mars rovers",
   "aerospace::concepts::37": "use light composite materials",
-  "aerospace::concepts::48": "4 strokes, 5 phases",
   "aerospace::misc::69": "increase the velocity of exhaust\nor increase its mass",
   "aerospace::definitions::65": "weather info",
   "aerospace::definitions::61": "to get to runway",
