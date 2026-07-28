@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785265031596,
+ "updatedAt": 1785265834431,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1555,7 +1555,7 @@
   "aerospace::planets::17": "Combined Mars orbiter + lander\nDiscovered more water than expected, temp.",
   "aerospace::concepts::186": "Dehydration\nHeart Weakens\nDizziness",
   "aerospace::concepts::110": "Atoms become charged particles (+ or - charge)\n\nI do know about SID, and that since it reflects radio waves it impacts comms",
-  "aerospace::people::101": "Svetlana Savtensky"
+  "aerospace::people::101": "Svetlana Savtensky\n\nCorrect surname:\nSAVITSKAYA"
  },
  "edits": {
   "aerospace::people::19": {
