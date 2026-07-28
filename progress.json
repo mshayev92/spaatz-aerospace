@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785280759936,
+ "updatedAt": 1785280841131,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1570,8 +1570,7 @@
   "aerospace::people::99": "Alexander Leonov\n\nFIRST NAME= ALEKSEI",
   "aerospace::definitions::156": "Pressure removed, air particles escape\nCan damage equipment",
   "aerospace::people::55": "Navy, all weather capable, VN",
-  "aerospace::people::70": "spin stabilization",
-  "aerospace::concepts::140": "warm air rises from hot surface and is cooled by surrounding air below dew pt."
+  "aerospace::people::70": "spin stabilization"
  },
  "edits": {
   "aerospace::people::19": {
