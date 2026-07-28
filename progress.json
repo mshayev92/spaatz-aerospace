@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785250290380,
+ "updatedAt": 1785250348475,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1526,7 +1526,7 @@
   "aerospace::concepts::175": "hot/bright spots\nionized gas + magnetic lines\nagainst chromosphere?",
   "aerospace::concepts::63": "Two front\nOne back",
   "aerospace::planets::26": "8th planet\nWindiest planet\nBlue\n*Methane",
-  "aerospace::people::74": "Biggest launch vehicle (apart from Saturn V)\n"
+  "aerospace::people::74": "Biggest launch vehicle (apart from Saturn V)\nSeven stages\n"
  },
  "edits": {
   "aerospace::people::19": {
