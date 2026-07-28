@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785251441242,
+ "updatedAt": 1785251491966,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1536,7 +1536,8 @@
   "aerospace::people::67": "Long range\nStealth\nJoint strike fighter\nAdvanced tech",
   "aerospace::concepts::80": "magnetic compass\nheader indicator\nairspeed indicator\nclock\ninternal nav\n\nDid not include radio, but know it is the pilot's link to FAA",
   "aerospace::planets::1": "Second planet\nHot atmosphere\nSpins backwards in a way the Earth does not\nCloset to Earth in distance and size\nNo moons",
-  "aerospace::concepts::51": "turbine with fan taking in a lot of air\nslowed down, combusted, released"
+  "aerospace::concepts::51": "turbine with fan taking in a lot of air\nslowed down, combusted, released",
+  "aerospace::people::71": "Russian scientist\nDid theoretical calculations about the "
  },
  "edits": {
   "aerospace::people::19": {
