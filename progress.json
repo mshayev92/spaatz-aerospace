@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785245826509,
+ "updatedAt": 1785245836483,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1209,7 +1209,8 @@
   "aerospace::planets::0": "general",
   "aerospace::concepts::82": "mastered",
   "aerospace::planets::13": "mastered",
-  "aerospace::concepts::212": "mastered"
+  "aerospace::concepts::212": "mastered",
+  "aerospace::people::58": "review"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1336,7 +1337,6 @@
   "aerospace::definitions::146": "3.26 light years",
   "aerospace::definitions::74": "airplane speed relative to ground\nspeed on ground",
   "aerospace::definitions::38": "chord line and relative wind\n+angle of incidence",
-  "aerospace::misc::62": "circular motion, force outward",
   "aerospace::concepts::120": "vertical heat transfer",
   "aerospace::concepts::24": "Concorde",
   "aerospace::definitions::168": "extremely luminous body",
