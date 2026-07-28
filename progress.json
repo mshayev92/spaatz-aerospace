@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785246096322,
+ "updatedAt": 1785246110630,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1347,7 +1347,6 @@
   "aerospace::definitions::100": "changes in wind speed/direction",
   "aerospace::definitions::96": "medium clouds",
   "aerospace::definitions::90": "rate at which earth is heated by sun",
-  "aerospace::people::10": "four forces of flight\nheli",
   "aerospace::definitions::54": "coordinate grid",
   "aerospace::definitions::12": "all thrust comes from exhaust",
   "aerospace::concepts::46": "Yaw",
