@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785271537262,
+ "updatedAt": 1785271540891,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1564,7 +1564,8 @@
   "aerospace::people::68": "Designed gunpowder-powered rockets",
   "aerospace::concepts::88": "magnetic compass\nclock\nheading indicator\nairspeed indicator\ngps\n",
   "aerospace::misc::2": "1909\nArmy\nTrain Pilots\nDisassemble in conflict\nManeuverable, reliable\nAlso signed a French contract\n",
-  "aerospace::concepts::76": "state of devices"
+  "aerospace::concepts::76": "state of devices",
+  "aerospace::concepts::48": "4 stroke, 5"
  },
  "edits": {
   "aerospace::people::19": {
