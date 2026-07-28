@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785243376608,
+ "updatedAt": 1785243386978,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1203,7 +1203,8 @@
   "aerospace::misc::45": "mastered",
   "aerospace::concepts::170": "review",
   "aerospace::concepts::76": "review",
-  "aerospace::concepts::48": "review"
+  "aerospace::concepts::48": "review",
+  "aerospace::concepts::112": "general"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1315,7 +1316,6 @@
   "aerospace::definitions::73": "the aircraft's speed in the air",
   "aerospace::definitions::128": "the velocity you need to escape orbit (gravitational influence)",
   "aerospace::concepts::113": "10-60\nparticles have similar composition",
-  "aerospace::definitions::92": "vertical",
   "aerospace::concepts::126": "slower than a cold front",
   "aerospace::concepts::30": "fluid's resistance to flow",
   "aerospace::planets::0": "smallest\nlong days",
