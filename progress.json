@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785203181699,
+ "updatedAt": 1785203191272,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1193,7 +1193,8 @@
   "aerospace::misc::76": "mastered",
   "aerospace::concepts::208": "mastered",
   "aerospace::people::92": "general",
-  "aerospace::people::81": "mastered"
+  "aerospace::people::81": "mastered",
+  "aerospace::concepts::200": "review"
  },
  "notes": {
   "aerospace::definitions::121": "maintaining virtually constant altitude above earth's surface",
@@ -1284,7 +1285,6 @@
   "aerospace::people::63": "stealth aircraft",
   "aerospace::definitions::31": "change form during flight\nforward for subsonic\nbackward for supersonic\n",
   "aerospace::concepts::173": "Crown\nthin white light",
-  "aerospace::definitions::163": "Elliptical orbit around the same\nNucleus of water, ice, and particles\nDevelops a trail approaching sun",
   "aerospace::people::66": "jumbo jet",
   "aerospace::people::35": "First deaths in industry\nHydrogen combusted",
   "aerospace::definitions::99": "rotate parallel to the slope",
