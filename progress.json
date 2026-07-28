@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785263690474,
+ "updatedAt": 1785263709219,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1544,7 +1544,7 @@
   "aerospace::planets::11": "ESA",
   "aerospace::definitions::25": "Offense portion of liberating kuwait, protecting Saudi Arabia from Iraq\nInc. Final Coalition Air Campaign",
   "aerospace::planets::14": "Basalt (holes were gas escaped)\nAnorthosite\nKREEP (not found on Earth)",
-  "aerospace::concepts::188": "Studied the atmosphere\nUpdated V-2 to self-made T-1\nMade ICBMs\n"
+  "aerospace::concepts::188": "Studied the atmosphere\nUpdated V-2 to self-made T-1\nMade ICBMs (Cold War)\n"
  },
  "edits": {
   "aerospace::people::19": {
