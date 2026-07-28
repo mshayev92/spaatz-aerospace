@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785269942483,
+ "updatedAt": 1785269954674,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -758,7 +758,7 @@
   "aerospace::definitions::52": "mastered",
   "aerospace::definitions::147": "mastered",
   "aerospace::people::63": "mastered",
-  "aerospace::planets::3": "review",
+  "aerospace::planets::3": "mastered",
   "aerospace::definitions::31": "mastered",
   "aerospace::concepts::173": "mastered",
   "aerospace::people::68": "review",
@@ -1559,7 +1559,8 @@
   "aerospace::misc::11": "Separate from Army\nVital, control of airspace\nControl, attack, ...\n\nCRITICAL POINTS (INTO HEART)",
   "aerospace::misc::28": "Centralized control, decentralized execution\nGain air superiority",
   "aerospace::planets::7": "plateaus, mountains, canyons",
-  "aerospace::misc::43": "Arnold\nfreedom of flight, finances, geography"
+  "aerospace::misc::43": "Arnold\nfreedom of flight, finances, geography",
+  "aerospace::planets::3": "Soviet, crash landed"
  },
  "edits": {
   "aerospace::people::19": {
