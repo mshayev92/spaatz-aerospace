@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785197318433,
+ "updatedAt": 1785197346681,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1472,7 +1472,8 @@
   "aerospace::definitions::162": "Not big enough to be planets\nOrbit the sun\nRocky/metallic objects",
   "aerospace::people::86": "Launched by STS 13 to do experiments",
   "aerospace::concepts::197": "observation, nav, comm, scientific",
-  "aerospace::concepts::43": "changes in pressure, temp. loss of energy that creates drag"
+  "aerospace::concepts::43": "changes in pressure, temp. loss of energy that creates drag",
+  "aerospace::misc::61": "Earth regulates temp. with heat brought from the sun"
  },
  "edits": {},
  "lists": {}
