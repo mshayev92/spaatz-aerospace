@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334638544,
+ "updatedAt": 1785334642104,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1591,7 +1591,7 @@
   "aerospace::people::0": "Early experiments\nHeli and parachute designs",
   "aerospace::people::57": "Attacked SAMs",
   "aerospace::people::47": "Used in Korea",
-  "aerospace::people::24": "Flew first powered airplane in Europe\nGasoline powered dirgible - WRONG: ",
+  "aerospace::people::24": "Flew first powered airplane in Europe\nGasoline powered dirigible - WRONG: ",
   "aerospace::people::27": "Lifted man with copter",
   "aerospace::people::90": "First space station, Russian\nTwo years later: Skylan (American)",
   "aerospace::people::76": "NASA airplane to simulate zero gravity",
