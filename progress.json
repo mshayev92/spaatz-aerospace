@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785316684332,
+ "updatedAt": 1785316701050,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1578,7 +1578,8 @@
   "aerospace::concepts::214": "explorer class\ncontinues strides made by x-ray satellites",
   "aerospace::concepts::89": "military, civil, joint use. if joint, military appears above civil",
   "aerospace::definitions::48": "Compress - air moves apart\nExpansion - air moves back in",
-  "aerospace::planets::30": "Dwarf at the edge of the kuiper belt"
+  "aerospace::planets::30": "Dwarf at the edge of the kuiper belt",
+  "aerospace::planets::27": "Yellowish-gold\n"
  },
  "edits": {
   "aerospace::people::19": {
