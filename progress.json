@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337931525,
+ "updatedAt": 1785337934737,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1605,7 +1605,8 @@
   "aerospace::planets::4": "Carbon dioxide rich atmosphere\nVenus",
   "aerospace::planets::5": "Speed/direction of clouds",
   "aerospace::planets::6": "Craters",
-  "aerospace::planets::9": "Mapped 99% (Venus)"
+  "aerospace::planets::9": "Mapped 99% (Venus)",
+  "aerospace::planets::10": "C"
  },
  "edits": {
   "aerospace::people::19": {
