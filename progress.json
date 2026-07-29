@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785317016843,
+ "updatedAt": 1785317136188,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1578,8 +1578,7 @@
   "aerospace::concepts::214": "explorer class\ncontinues strides made by x-ray satellites",
   "aerospace::concepts::89": "military, civil, joint use. if joint, military appears above civil",
   "aerospace::definitions::48": "Compress - air moves apart\nExpansion - air moves back in",
-  "aerospace::planets::30": "Dwarf at the edge of the kuiper belt",
-  "aerospace::misc::5": "22 min, $5\n21 miles\nto Tampa Bay\n"
+  "aerospace::planets::30": "Dwarf at the edge of the kuiper belt"
  },
  "edits": {
   "aerospace::people::19": {
