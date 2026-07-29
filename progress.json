@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337945297,
+ "updatedAt": 1785337958360,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -728,7 +728,7 @@
   "aerospace::people::94": "mastered",
   "aerospace::concepts::160": "mastered",
   "aerospace::concepts::216": "mastered",
-  "aerospace::planets::10": "review",
+  "aerospace::planets::10": "mastered",
   "aerospace::people::50": "mastered",
   "aerospace::concepts::150": "mastered",
   "aerospace::definitions::110": "mastered",
@@ -1483,7 +1483,6 @@
   "aerospace::concepts::36": "Increase wing camber\nIncrease AoA",
   "aerospace::concepts::218": "First system to take integrated measurements of Earth\nData for research\nRenamed to EOS\nCollection of satellites",
   "aerospace::misc::70": "payload + fuel + dead weight\n",
-  "aerospace::planets::11": "ESA",
   "aerospace::definitions::25": "Offense portion of liberating kuwait, protecting Saudi Arabia from Iraq\nInc. Final Coalition Air Campaign",
   "aerospace::planets::14": "Basalt (holes were gas escaped)\nAnorthosite\nKREEP (not found on Earth)",
   "aerospace::concepts::188": "Studied the atmosphere\nUpdated V-2 to self-made T-1\nMade ICBMs (Cold War)\n\nI knew that they launched Sputnik and we launched Explorer 1 in response",
@@ -1606,7 +1605,8 @@
   "aerospace::planets::5": "Speed/direction of clouds",
   "aerospace::planets::6": "Craters",
   "aerospace::planets::9": "Mapped 99% (Venus)",
-  "aerospace::planets::10": "Combined probe + orbiter"
+  "aerospace::planets::10": "Combined probe + orbiter",
+  "aerospace::planets::11": "ESA"
  },
  "edits": {
   "aerospace::people::19": {
