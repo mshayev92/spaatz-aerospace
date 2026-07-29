@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336302143,
+ "updatedAt": 1785336309513,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,7 @@
   "aerospace::people::101": "Svetlana Savitskaya",
   "aerospace::people::49": "First pure jet airliner",
   "aerospace::people::50": "First tuboprop airliner",
-  "aerospace::people::18": "Launched plane from catapult near Patomac\n"
+  "aerospace::people::18": "Launched plane from catapult near Potomac\n"
  },
  "edits": {
   "aerospace::people::19": {
