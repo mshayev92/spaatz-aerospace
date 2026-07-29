@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335313904,
+ "updatedAt": 1785335329675,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1597,7 +1597,8 @@
   "aerospace::people::33": "Flew from NY to Paris",
   "aerospace::people::62": "Short-altitude penetration bomber",
   "aerospace::people::36": "Massive strike first, then population",
-  "aerospace::people::13": "First airplane to takeoff and land under its own power on level ground"
+  "aerospace::people::13": "First airplane to takeoff and land under its own power on level ground",
+  "aerospace::people::85": "Space Shuttle\nFirst: Columbia\n"
  },
  "edits": {
   "aerospace::people::19": {
