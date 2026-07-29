@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335742560,
+ "updatedAt": 1785335756849,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1599,7 +1599,7 @@
   "aerospace::people::41": "Attacked Japanese ships",
   "aerospace::people::71": "Russian scientist\nFirst theoretical calculations on reaction engine exiting and reentering Earth's atmosphere",
   "aerospace::people::58": "Launched by Navy against Iraq",
-  "aerospace::people::95": "Valentina Tareshkova"
+  "aerospace::people::95": "Valentina Tereshkova"
  },
  "edits": {
   "aerospace::people::19": {
