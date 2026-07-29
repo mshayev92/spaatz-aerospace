@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785333577752,
+ "updatedAt": 1785333581908,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1589,7 +1589,7 @@
   "aerospace::people::39": "fighter escort needed",
   "aerospace::people::19": "Fastest man on Earth\n(motorcycle speed cord)\nSwitch to aviation\nFounded the Aerial Experiment Ass.",
   "aerospace::people::42": "skip 500 lb bombs into the sides of Japanese ships",
-  "aerospace::people::91": "American space station, two years after saylut"
+  "aerospace::people::91": "American space station, two years after Salyut"
  },
  "edits": {
   "aerospace::people::19": {
