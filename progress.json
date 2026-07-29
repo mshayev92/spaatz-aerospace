@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785329399929,
+ "updatedAt": 1785329413464,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1591,7 +1591,7 @@
   "aerospace::planets::4": "carbon dioxide rich atmosphere",
   "aerospace::people::39": "fighter escort needed",
   "aerospace::people::19": "Fastest man on Earth\n(motorcycle speed cord)\nSwitch to aviation\nFounded the Aerial Experiment Ass.",
-  "aerospace::definitions::174": "1988?\nJoint use\n\nMilitary"
+  "aerospace::definitions::174": "1988?\nJoint use\nOwnership of research\nMilitary\n\n"
  },
  "edits": {
   "aerospace::people::19": {
