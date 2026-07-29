@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785316582442,
+ "updatedAt": 1785316615437,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -645,7 +645,7 @@
   "aerospace::concepts::148": "mastered",
   "aerospace::people::103": "mastered",
   "aerospace::concepts::194": "mastered",
-  "aerospace::definitions::48": "review",
+  "aerospace::definitions::48": "mastered",
   "aerospace::people::96": "mastered",
   "aerospace::definitions::142": "mastered",
   "aerospace::definitions::94": "mastered",
@@ -1577,7 +1577,8 @@
   "aerospace::definitions::153": "solar disturbance\nrapid onset changes in the magnetic field in a matter of hours",
   "aerospace::concepts::214": "explorer class\ncontinues strides made by x-ray satellites",
   "aerospace::concepts::89": "military, civil, joint use. if joint, military appears above civil",
-  "aerospace::definitions::48": "Compress - air moves apart\nExpansion - air moves back in"
+  "aerospace::definitions::48": "Compress - air moves apart\nExpansion - air moves back in",
+  "aerospace::planets::30": "d"
  },
  "edits": {
   "aerospace::people::19": {
