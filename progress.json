@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334509352,
+ "updatedAt": 1785334520095,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1593,7 +1593,8 @@
   "aerospace::people::7": "LZ-1",
   "aerospace::people::94": "Alan Shepard",
   "aerospace::people::0": "Early experiments\nHeli and parachute designs",
-  "aerospace::people::57": "Attacked SAMs"
+  "aerospace::people::57": "Attacked SAMs",
+  "aerospace::people::47": "Used in Korea"
  },
  "edits": {
   "aerospace::people::19": {
