@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785338243025,
+ "updatedAt": 1785344464978,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1290,7 +1290,6 @@
   "aerospace::concepts::202": "communication to top gov officials\nmilitary",
   "aerospace::definitions::44": "churned air",
   "aerospace::concepts::44": "wings/ailerons\nengine\nfuselage\ntail\nvertical/horizontal stabilizers\n+ elevator",
-  "aerospace::planets::29": "outermost object",
   "aerospace::concepts::201": "Supported all Apollo missions",
   "aerospace::concepts::67": "Fuel tank\nPlumbing\nCombustion",
   "aerospace::definitions::82": "amount of material",
@@ -1413,7 +1412,6 @@
   "aerospace::concepts::177": "electromagnetic energy being shot out into space\nsun is active",
   "aerospace::concepts::143": "moist air moves over warm water, which satures it via evaporation",
   "aerospace::definitions::16": "sustained bombardment campaign against NV\ntargets chosen by the president\n",
-  "aerospace::planets::28": "dwarf with moon",
   "aerospace::concepts::64": "two backward\none forward",
   "aerospace::misc::59": "heat (primary cause of weather) and energy? or earth's rotation",
   "aerospace::concepts::94": "receiver and slave stations\nsignal between plane and station\ntime difference\nplotted on LORAN chart for location",
@@ -1507,7 +1505,6 @@
   "aerospace::concepts::214": "explorer class\ncontinues strides made by x-ray satellites",
   "aerospace::concepts::89": "military, civil, joint use. if joint, military appears above civil",
   "aerospace::definitions::48": "Compress - air moves apart\nExpansion - air moves back in",
-  "aerospace::planets::30": "Dwarf at the edge of the kuiper belt",
   "aerospace::concepts::72": "gears, gyro, float",
   "aerospace::concepts::126": "Forms East, moves NE\nLow pressure cell behind\nLess dense, moves slower than cold\nCan be lifted by cold\nLight precipitation\nAfter percip., warm aftereffect",
   "aerospace::concepts::131": "Altostratus, Altocumulus, nimbostratus",
@@ -1608,7 +1605,10 @@
   "aerospace::planets::17": "Mars\nCombined probe + lander\nSearched for life\nFound more water than expected\nTemperature -18 thru 130 degrees\n\nORBITERS, NOT PROBES",
   "aerospace::planets::18": "Rock and soil samples (Mars)\nSojourner",
   "aerospace::planets::19": "Enter orbit around Mars\nData on ground and atmosphere\n",
-  "aerospace::planets::20": "Twins rovers (Mars)\nDiscovery mission"
+  "aerospace::planets::20": "Twins rovers (Mars)\nDiscovery mission",
+  "aerospace::planets::28": "Dwarf with moon",
+  "aerospace::planets::29": "Most distant object",
+  "aerospace::planets::30": "Dwarf at the edge of Kuiper Belt, in field of icy objects"
  },
  "edits": {
   "aerospace::people::19": {
