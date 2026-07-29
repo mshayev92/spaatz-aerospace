@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334525930,
+ "updatedAt": 1785334543075,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1594,7 +1594,8 @@
   "aerospace::people::94": "Alan Shepard",
   "aerospace::people::0": "Early experiments\nHeli and parachute designs",
   "aerospace::people::57": "Attacked SAMs",
-  "aerospace::people::47": "Used in Korea"
+  "aerospace::people::47": "Used in Korea",
+  "aerospace::people::24": "Flew first powered airplane in Europe\nGasoline powered dirgible"
  },
  "edits": {
   "aerospace::people::19": {
