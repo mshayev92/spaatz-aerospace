@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337269593,
+ "updatedAt": 1785337282597,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1602,7 +1602,8 @@
   "aerospace::people::30": "Chicago, New Orleans, Boston, Chicago\nBilly Mitchell\nSeattle to Seattle",
   "aerospace::people::67": "Advanced tech.\nStealth\nMulti-role\nJoint strike",
   "aerospace::people::34": "First president of the 99s\nFirst women passenger Atlantic\nFirst women solo flight Atlantic\nLost at sea",
-  "aerospace::people::3": "Hot air balloon"
+  "aerospace::people::3": "Hot air balloon",
+  "aerospace::people::65": "Revolutionized 1960s comm. travel"
  },
  "edits": {
   "aerospace::people::19": {
