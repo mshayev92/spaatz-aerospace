@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337715947,
+ "updatedAt": 1785337717366,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1286,7 +1286,6 @@
   "aerospace::definitions::27": "needs to be hardened for high speed flight\nmore effective\nALMOST\n\nreduces weight and drag",
   "aerospace::concepts::219": "sent to moon to get more info",
   "aerospace::concepts::222": "explored inner planets",
-  "aerospace::planets::6": "craters\n***mission to venus",
   "aerospace::definitions::127": "what velocity is needed at a certain stage",
   "aerospace::concepts::202": "communication to top gov officials\nmilitary",
   "aerospace::definitions::44": "churned air",
