@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335606102,
+ "updatedAt": 1785335617067,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,8 @@
   "aerospace::people::81": "Second\nFirst American moon walk\n2 man capsule\nPrepare for Apollo\nLong-term effects on humans",
   "aerospace::people::2": "Aerial ship",
   "aerospace::people::84": "Joint between US and USSR\nDocked, did experiments",
-  "aerospace::people::59": "Transported men and cargo Tet Offensive"
+  "aerospace::people::59": "Transported men and cargo Tet Offensive",
+  "aerospace::people::41": "Attacked Japanese ships"
  },
  "edits": {
   "aerospace::people::19": {
