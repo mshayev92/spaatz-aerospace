@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337113433,
+ "updatedAt": 1785337121966,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1601,7 +1601,7 @@
   "aerospace::people::35": "First air-scheduled disaster\nHydrogen combusted\nLakehurst, NJ",
   "aerospace::people::79": "First satellite (US)\nResponse to Sputnik 1\nDiscovered Van Allen belts",
   "aerospace::people::30": "Chicago, New Orleans, Boston, Chicago\nBilly Mitchell\nSeattle to Seattle",
-  "aerospace::people::67": "\nS"
+  "aerospace::people::67": "\nStealth\nMulti-role\nJoint strike"
  },
  "edits": {
   "aerospace::people::19": {
