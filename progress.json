@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785319994452,
+ "updatedAt": 1785320005230,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1583,7 +1583,8 @@
   "aerospace::concepts::126": "Forms East, moves NE\nLow pressure cell behind\nLess dense, moves slower than cold\nCan be lifted by cold\nLight precipitation\nAfter percip., warm aftereffect",
   "aerospace::concepts::131": "Altostratus, Altocumulus, nimbostratus",
   "aerospace::concepts::140": "At night, ground cools. The air directly touching the ground is cooled by conduction below dew pt., causing fog",
-  "aerospace::misc::77": "Safe is .3 roetgen, belt can reach 10-20, may be dangerous for satellites and manned crafts"
+  "aerospace::misc::77": "Safe is .3 roetgen, belt can reach 10-20, may be dangerous for satellites and manned crafts",
+  "aerospace::planets::4": "carbon dioxide rich ar"
  },
  "edits": {
   "aerospace::people::19": {
