@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335704683,
+ "updatedAt": 1785335733536,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -772,7 +772,7 @@
   "aerospace::concepts::193": "mastered",
   "aerospace::concepts::87": "mastered",
   "aerospace::concepts::88": "mastered",
-  "aerospace::people::22": "mastered",
+  "aerospace::people::22": "review",
   "aerospace::misc::36": "mastered",
   "aerospace::people::7": "mastered",
   "aerospace::concepts::65": "mastered",
@@ -1598,8 +1598,7 @@
   "aerospace::people::59": "Transported men and cargo Tet Offensive",
   "aerospace::people::41": "Attacked Japanese ships",
   "aerospace::people::71": "Russian scientist\nFirst theoretical calculations on reaction engine exiting and reentering Earth's atmosphere",
-  "aerospace::people::58": "Launched by Navy against Iraq",
-  "aerospace::people::22": "First African American women to get her pilot's license"
+  "aerospace::people::58": "Launched by Navy against Iraq"
  },
  "edits": {
   "aerospace::people::19": {
