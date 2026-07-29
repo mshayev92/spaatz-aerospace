@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785317335448,
+ "updatedAt": 1785317341727,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1580,7 +1580,7 @@
   "aerospace::definitions::48": "Compress - air moves apart\nExpansion - air moves back in",
   "aerospace::planets::30": "Dwarf at the edge of the kuiper belt",
   "aerospace::concepts::72": "gears, gyro, float",
-  "aerospace::concepts::126": "Forms East, moves NE\nLow pressure cell"
+  "aerospace::concepts::126": "Forms East, moves NE\nLow pressure cell\n"
  },
  "edits": {
   "aerospace::people::19": {
