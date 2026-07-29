@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335122233,
+ "updatedAt": 1785335134225,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1449,7 +1449,6 @@
   "aerospace::misc::87": "suitable places for space colonies, named after Lagrange",
   "aerospace::concepts::8": "Curtiss crossed\nReed, then two weeks later:\nJohn Alcock and Arthur Brown",
   "aerospace::concepts::29": "as altitude increases, density decreases (particles move farther apart)",
-  "aerospace::people::62": "Low altitude penetration bomber",
   "aerospace::concepts::23": "Part of Dessert Storm (offense)\nUse sustained aerial attacks to liberate Kuwait",
   "aerospace::planets::12": "70% water, 50% pacific\nSpins East\n",
   "aerospace::misc::33": "1. Rockets dropped from planes\n2. Like Gen Kenney's firebomb",
@@ -1599,7 +1598,8 @@
   "aerospace::people::38": "destroy will to resist, 60% fighters",
   "aerospace::people::12": "Created the wind tunnel",
   "aerospace::people::4": "Discovered oxygen",
-  "aerospace::people::33": "Flew from NY to Paris"
+  "aerospace::people::33": "Flew from NY to Paris",
+  "aerospace::people::62": "Short-altitude penetration bomber"
  },
  "edits": {
   "aerospace::people::19": {
