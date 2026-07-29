@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785356698997,
+ "updatedAt": 1785356722951,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1626,7 +1626,8 @@
   "aerospace::misc::8": "Interrupting gear, auto rifle\nFocker and Garros",
   "aerospace::definitions::154": "Solar disturbances that occur at the poles\nBorealis (north), Australis (south)",
   "aerospace::people::85": "Space Shuttle\nFirst: Columbia (STS-1)\nParts: orbiter, external boosters, payload\n\n*EXTERNAL TANK, SOLID BOOSTERS",
-  "aerospace::definitions::164": "Chunks of matter in space\nMicrometeorites: dust-size\nMeteor/ites: enter atmosphere"
+  "aerospace::definitions::164": "Chunks of matter in space\nMicrometeorites: dust-size\nMeteor/ites: enter atmosphere",
+  "aerospace::definitions::92": "Heated air rises up\nCauses advection (wind)"
  },
  "edits": {
   "aerospace::people::19": {
