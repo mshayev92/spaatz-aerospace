@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336947162,
+ "updatedAt": 1785336948834,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1425,7 +1425,6 @@
   "aerospace::misc::59": "heat (primary cause of weather) and energy? or earth's rotation",
   "aerospace::concepts::94": "receiver and slave stations\nsignal between plane and station\ntime difference\nplotted on LORAN chart for location",
   "aerospace::misc::37": "Nixon\nMilitary leaders chose targets\nMore effective than Rolling Thunder",
-  "aerospace::people::100": "White",
   "aerospace::concepts::230": "saturn\njoint between us, esa, and other european space agencies",
   "aerospace::concepts::139": "turbulence\nheavy percipitation/lightning\ncalled a thunderstorm",
   "aerospace::definitions::15": "gulf tonkin resolution - gave the president authority to protect troops and carry out offensive attacks",
