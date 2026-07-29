@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334714718,
+ "updatedAt": 1785334724186,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1596,7 +1596,8 @@
   "aerospace::people::9": "Internal combustion dirigibles",
   "aerospace::people::82": "Mission to the moon\nApollo 11 landed\nNeil Armstrong first, Aldrin second\n",
   "aerospace::people::103": "Neil Armstrong",
-  "aerospace::people::89": "Union\nCraft that could link with space station"
+  "aerospace::people::89": "Union\nCraft that could link with space station",
+  "aerospace::people::31": "First air refueling\n37 hours"
  },
  "edits": {
   "aerospace::people::19": {
