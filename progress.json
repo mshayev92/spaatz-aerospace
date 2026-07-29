@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334198551,
+ "updatedAt": 1785334205647,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1317,7 +1317,6 @@
   "aerospace::definitions::7": "twin engine german\nmost popular of ww2",
   "aerospace::misc::60": "When water condenses, heat is released",
   "aerospace::concepts::229": "Astronomer, discovered rings\nDropped ball from Leaning Tower\nNO\n\nentered jupiter orbit 1993",
-  "aerospace::people::6": "1785\nFirst to fly across English Channel in HAB",
   "aerospace::concepts::136": "bumpy, turbulence\nprecipitation\nsign",
   "aerospace::people::90": "first space station (Russian)",
   "aerospace::misc::10": "american volunteers in french squadron during ww2",
