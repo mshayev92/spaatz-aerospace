@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785357250200,
+ "updatedAt": 1785357263744,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -879,7 +879,7 @@
   "aerospace::concepts::33": "general",
   "aerospace::concepts::217": "mastered",
   "aerospace::definitions::126": "mastered",
-  "aerospace::concepts::19": "general",
+  "aerospace::concepts::19": "mastered",
   "aerospace::definitions::70": "mastered",
   "aerospace::people::87": "mastered",
   "aerospace::misc::47": "mastered",
@@ -1631,7 +1631,8 @@
   "aerospace::concepts::199": "UN org. powering large array of geostationary satellites for communication",
   "aerospace::concepts::59": "Parts producing drag/turbulence\nCan be put on fuselage/wing",
   "aerospace::definitions::54": "Numbers top, letters left side\nCoordinate system (grid system)\n",
-  "aerospace::concepts::19": "Atomic number not enough\nNot enough fighters\nConventional weapons needed\nCentralized control, decentralized exec."
+  "aerospace::concepts::19": "Atomic number not enough\nNot enough fighters\nConventional weapons needed\nCentralized control, decentralized exec.",
+  "aerospace::definitions::176": "Any spacecraft flying by, orbiting, or landing on another body"
  },
  "edits": {
   "aerospace::people::19": {
