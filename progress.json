@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336923473,
+ "updatedAt": 1785336947162,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1509,7 +1509,6 @@
   "aerospace::misc::43": "Arnold\nfreedom of flight, finances, geography",
   "aerospace::planets::3": "Soviet, crash landed",
   "aerospace::concepts::200": "Tracking and Data Relay Satellite Service\nAssisted 25 space probes and the Space Shuttle\nAssists DSN",
-  "aerospace::people::68": "Designed gunpowder-powered rockets",
   "aerospace::concepts::88": "magnetic compass\nclock\nheading indicator\nairspeed indicator\ngps\n",
   "aerospace::misc::2": "1909\nArmy\nTrain Pilots\nDisassemble in conflict\nManeuverable, reliable\nAlso signed a French contract\n",
   "aerospace::concepts::76": "state of devices",
@@ -1598,7 +1597,8 @@
   "aerospace::people::23": "Improved Wright Flyer\nAdded ailerons\nFirst fully enclosed fuselage",
   "aerospace::people::32": "NY to SF\n>22 hours",
   "aerospace::people::74": "Launch vehicle\nStarted from Titan II ICBM\nOnly one more powerful = Saturn V\n",
-  "aerospace::people::66": "Revolutionized comm. travel in 1960s"
+  "aerospace::people::66": "Jumbo jet",
+  "aerospace::people::68": "Gunpowder propelled rocket"
  },
  "edits": {
   "aerospace::people::19": {
