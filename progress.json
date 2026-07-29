@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785325283384,
+ "updatedAt": 1785325368355,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1586,7 +1586,7 @@
   "aerospace::misc::77": "Safe is .3 roetgen, belt can reach 10-20, may be dangerous for satellites and manned crafts",
   "aerospace::planets::4": "carbon dioxide rich atmosphere",
   "aerospace::people::39": "fighter escort needed",
-  "aerospace::concepts::210": "1: Van Allen Belts\n3: View of Earth\n6: "
+  "aerospace::concepts::210": "1: Van Allen Belts\n3: View of Earth\n6: Radiation"
  },
  "edits": {
   "aerospace::people::19": {
