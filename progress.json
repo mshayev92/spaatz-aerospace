@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334205647,
+ "updatedAt": 1785334221019,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1590,7 +1590,8 @@
   "aerospace::people::69": "Standardized gunpowder comp. for rockets\nStabilization\nIncreased range from 300",
   "aerospace::people::21": "Cross country flight NY to SF (1911)",
   "aerospace::people::92": "ESA orbiting lab",
-  "aerospace::people::40": "Daylight precision\nList of targets"
+  "aerospace::people::40": "Daylight precision\nList of targets",
+  "aerospace::people::6": "Flew the Montgolfier balloon in Paris"
  },
  "edits": {
   "aerospace::people::19": {
