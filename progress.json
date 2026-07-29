@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336272362,
+ "updatedAt": 1785336286216,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -682,7 +682,7 @@
   "aerospace::people::52": "review",
   "aerospace::people::56": "mastered",
   "aerospace::definitions::28": "mastered",
-  "aerospace::people::17": "mastered",
+  "aerospace::people::17": "general",
   "aerospace::misc::33": "mastered",
   "aerospace::definitions::85": "mastered",
   "aerospace::concepts::196": "mastered",
@@ -1431,7 +1431,6 @@
   "aerospace::people::14": "man carrying glider",
   "aerospace::concepts::230": "saturn\njoint between us, esa, and other european space agencies",
   "aerospace::concepts::139": "turbulence\nheavy percipitation/lightning\ncalled a thunderstorm",
-  "aerospace::people::18": "power gliders\nbut aerodrome fell into pacific ocean",
   "aerospace::definitions::15": "gulf tonkin resolution - gave the president authority to protect troops and carry out offensive attacks",
   "aerospace::concepts::135": "no turbulence\nsmooth\nlittle precipitation",
   "aerospace::misc::87": "suitable places for space colonies, named after Lagrange",
@@ -1598,8 +1597,7 @@
   "aerospace::people::73": "Experimented with more powerful liquid oxygen and alcohol propellants in the 1920s, after Goddard (1913)",
   "aerospace::people::101": "Svetlana Savitskaya",
   "aerospace::people::49": "First pure jet airliner",
-  "aerospace::people::50": "First tuboprop airliner",
-  "aerospace::people::17": "... Never came into fruition\nSteam-ship tested"
+  "aerospace::people::50": "First tuboprop airliner"
  },
  "edits": {
   "aerospace::people::19": {
