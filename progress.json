@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336840256,
+ "updatedAt": 1785336902096,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,7 @@
   "aerospace::people::44": "Biggest bomber 1948\nLong range\n10k lb bombs\n",
   "aerospace::people::23": "Improved Wright Flyer\nAdded ailerons\nFirst fully enclosed fuselage",
   "aerospace::people::32": "NY to SF\n>22 hours",
-  "aerospace::people::74": "Launch vehicle\nOnly one more powerful = Saturn V\n"
+  "aerospace::people::74": "Launch vehicle\nStarted from Titan II ICBM\nOnly one more powerful = Saturn V\n"
  },
  "edits": {
   "aerospace::people::19": {
