@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335580641,
+ "updatedAt": 1785335592741,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,7 @@
   "aerospace::people::80": "First\nAssess space effects on humans\n*Guess: Reaction engines",
   "aerospace::people::81": "Second\nFirst American moon walk\n2 man capsule\nPrepare for Apollo\nLong-term effects on humans",
   "aerospace::people::2": "Aerial ship",
-  "aerospace::people::84": "Joint be"
+  "aerospace::people::84": "Joint between US and USSR\nDocked, did experiments"
  },
  "edits": {
   "aerospace::people::19": {
