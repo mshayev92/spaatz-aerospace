@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334153536,
+ "updatedAt": 1785334161822,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1592,7 +1592,7 @@
   "aerospace::people::21": "Cross country flight NY to SF (1911)",
   "aerospace::people::92": "ESA orbiting lab",
   "aerospace::people::40": "Daylight precision\nList of targets",
-  "aerospace::people::46": "Transported men and cargo "
+  "aerospace::people::46": "Transported men and cargo during"
  },
  "edits": {
   "aerospace::people::19": {
