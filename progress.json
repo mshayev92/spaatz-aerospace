@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785355658222,
+ "updatedAt": 1785355666190,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1621,7 +1621,7 @@
   "aerospace::people::18": "Engine on wing tips\nPowered gliders\nLaunched airplane on Potomac from catapult\n",
   "aerospace::planets::23": "Discovered volcanic eruptions on Io\nFound 3 moons (to make 16 total)",
   "aerospace::people::1": "Studied pressure\nTorricelli invented the barometer",
-  "aerospace::people::52": "eplacement for B-47"
+  "aerospace::people::52": "High-altitude replacement for B-47\nCanceled"
  },
  "edits": {
   "aerospace::people::19": {
