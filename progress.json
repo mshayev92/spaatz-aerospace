@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785333963964,
+ "updatedAt": 1785333965044,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1593,7 +1593,7 @@
   "aerospace::people::10": "Four forces of flight\nGliders\nResearched powered flight\n",
   "aerospace::people::69": "Standardized gunpowder comp. for rockets\nStabilization\nIncreased range from 300",
   "aerospace::people::21": "Cross country flight NY to SF (1911)",
-  "aerospace::people::92": "ESA orbiting l"
+  "aerospace::people::92": "ESA orbiting lab"
  },
  "edits": {
   "aerospace::people::19": {
