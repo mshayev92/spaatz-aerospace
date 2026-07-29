@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785333537514,
+ "updatedAt": 1785333540733,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1323,7 +1323,6 @@
   "aerospace::misc::10": "american volunteers in french squadron during ww2",
   "aerospace::concepts::181": "not all channels usable for uplink/downlink\nscintillation\nsolar radio burst",
   "aerospace::concepts::93": "reads bounced off radio signals",
-  "aerospace::people::42": "flew low, launched bombs into japanese ships",
   "aerospace::concepts::192": "put the three principles in writing\n1. freedom of use\n2. non-appropriation\n3. common benefit\nestablished a military presence",
   "aerospace::misc::23": "Women's Auxiliary Ferrying Squadron\nWomen Fliers Training Detachment",
   "aerospace::definitions::55": "zero degrees\npasses through greenwich, england",
