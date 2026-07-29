@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335103663,
+ "updatedAt": 1785335119275,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1356,7 +1356,6 @@
   "aerospace::misc::4": "george cayley, roger bacon, da vinci",
   "aerospace::definitions::95": "close to or is producing precipitation",
   "aerospace::misc::42": "stronger, lighter",
-  "aerospace::people::4": "discovered oxygen",
   "aerospace::definitions::146": "3.26 light years",
   "aerospace::definitions::74": "airplane speed relative to ground\nspeed on ground",
   "aerospace::definitions::38": "chord line and relative wind\n+angle of incidence",
@@ -1421,7 +1420,6 @@
   "aerospace::definitions::22": "continued from first",
   "aerospace::definitions::18": "nv attacked sv + us in christmas in conventional attack all over\ntelevised",
   "aerospace::definitions::17": "hit and run using jungle",
-  "aerospace::people::33": "ny to paris",
   "aerospace::misc::29": "high daytime, low nighttime bombing",
   "aerospace::people::56": "alerted navy and af of migs",
   "aerospace::people::17": "Made plans for the first man-carrying craft, never conceived\nSteam version flown",
@@ -1599,7 +1597,9 @@
   "aerospace::people::39": "Need fighter escort",
   "aerospace::people::48": "Surplus made it popular\nBut then Constellation\n",
   "aerospace::people::38": "destroy will to resist, 60% fighters",
-  "aerospace::people::12": "Created the wind tunnel"
+  "aerospace::people::12": "Created the wind tunnel",
+  "aerospace::people::4": "Discovered oxygen",
+  "aerospace::people::33": "Flew from"
  },
  "edits": {
   "aerospace::people::19": {
