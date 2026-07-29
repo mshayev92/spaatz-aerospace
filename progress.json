@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334410706,
+ "updatedAt": 1785334422510,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1593,7 +1593,8 @@
   "aerospace::people::7": "LZ-1",
   "aerospace::people::94": "Alan Shepard",
   "aerospace::people::0": "Early experiments\nHeli and parachute designs",
-  "aerospace::people::57": "Attacked SAMs"
+  "aerospace::people::57": "Attacked SAMs",
+  "aerospace::people::37": "Father of RAF\n2/3B, 1/3F\n"
  },
  "edits": {
   "aerospace::people::19": {
