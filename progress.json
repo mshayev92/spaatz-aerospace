@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785317292549,
+ "updatedAt": 1785317303208,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1579,7 +1579,8 @@
   "aerospace::concepts::89": "military, civil, joint use. if joint, military appears above civil",
   "aerospace::definitions::48": "Compress - air moves apart\nExpansion - air moves back in",
   "aerospace::planets::30": "Dwarf at the edge of the kuiper belt",
-  "aerospace::concepts::72": "gears, gyro, float"
+  "aerospace::concepts::72": "gears, gyro, float",
+  "aerospace::concepts::126": "Forms East, moves NE\n"
  },
  "edits": {
   "aerospace::people::19": {
