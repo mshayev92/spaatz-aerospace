@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785333718321,
+ "updatedAt": 1785333737547,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1591,7 +1591,7 @@
   "aerospace::people::91": "American space station, two years after Salyut",
   "aerospace::people::8": "Henry Giffard\nCharles Renard and AC Krebs\n(electric motors, steered back to takeoff pt.)",
   "aerospace::people::98": "John Glenn",
-  "aerospace::people::10": "Four forces of flight\nGliders\n"
+  "aerospace::people::10": "Four forces of flight\nGliders\nResearched powered flight\n"
  },
  "edits": {
   "aerospace::people::19": {
