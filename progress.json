@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334724186,
+ "updatedAt": 1785334730557,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1439,7 +1439,6 @@
   "aerospace::concepts::143": "moist air moves over warm water, which satures it via evaporation",
   "aerospace::people::2": "made plans for an air ship",
   "aerospace::definitions::16": "sustained bombardment campaign against NV\ntargets chosen by the president\n",
-  "aerospace::people::87": "first craft to carry people to space",
   "aerospace::planets::28": "dwarf with moon",
   "aerospace::concepts::64": "two backward\none forward",
   "aerospace::misc::59": "heat (primary cause of weather) and energy? or earth's rotation",
@@ -1597,7 +1596,8 @@
   "aerospace::people::82": "Mission to the moon\nApollo 11 landed\nNeil Armstrong first, Aldrin second\n",
   "aerospace::people::103": "Neil Armstrong",
   "aerospace::people::89": "Union\nCraft that could link with space station",
-  "aerospace::people::31": "First air refueling\n37 hours"
+  "aerospace::people::31": "First air refueling\n37 hours",
+  "aerospace::people::87": "Firs"
  },
  "edits": {
   "aerospace::people::19": {
