@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337699924,
+ "updatedAt": 1785337704748,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1606,7 +1606,7 @@
   "aerospace::people::28": "First Americans, practical heli",
   "aerospace::planets::2": "First successful interplanetary mission\nVenus = discovered/conf. hot temp",
   "aerospace::planets::3": "Soviet, crash landed",
-  "aerospace::planets::4": "Carbon dioxide rich atmosp"
+  "aerospace::planets::4": "Carbon dioxide rich atmosphere\nVenus"
  },
  "edits": {
   "aerospace::people::19": {
