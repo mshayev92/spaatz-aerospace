@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337587465,
+ "updatedAt": 1785337600783,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1607,7 +1607,7 @@
   "aerospace::people::88": "3-man capsule\nFirst space walk",
   "aerospace::people::96": "Sally Ride",
   "aerospace::people::28": "First Americans, practical heli",
-  "aerospace::planets::0": "First planet, smallest\nThin atmosphere\nOrbits fast, long days\n"
+  "aerospace::planets::0": "First planet, smallest\nThin atmosphere\nOrbits fast, long days\nMariner flew by?"
  },
  "edits": {
   "aerospace::people::19": {
