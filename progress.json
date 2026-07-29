@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337379691,
+ "updatedAt": 1785337391585,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1604,7 +1604,7 @@
   "aerospace::people::34": "First president of the 99s\nFirst women passenger Atlantic\nFirst women solo flight Atlantic\nLost at sea",
   "aerospace::people::3": "Hot air balloon",
   "aerospace::people::65": "Revolutionized 1960s comm. travel",
-  "aerospace::people::25": "First mono"
+  "aerospace::people::25": "First monoplane\nFirst air meet (Rheims, France)\n"
  },
  "edits": {
   "aerospace::people::19": {
