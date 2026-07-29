@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336286216,
+ "updatedAt": 1785336302143,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1597,7 +1597,8 @@
   "aerospace::people::73": "Experimented with more powerful liquid oxygen and alcohol propellants in the 1920s, after Goddard (1913)",
   "aerospace::people::101": "Svetlana Savitskaya",
   "aerospace::people::49": "First pure jet airliner",
-  "aerospace::people::50": "First tuboprop airliner"
+  "aerospace::people::50": "First tuboprop airliner",
+  "aerospace::people::18": "Launched plane from catapult near Patomac\n"
  },
  "edits": {
   "aerospace::people::19": {
