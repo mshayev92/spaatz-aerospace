@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337391585,
+ "updatedAt": 1785337427826,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1250,7 +1250,6 @@
   "aerospace::definitions::94": "constant changes in the atmosphere",
   "aerospace::concepts::81": "how fast the crankshaft is turning\n(engine)",
   "aerospace::definitions::117": "measure of thrust according to how much volume occupied by fuel",
-  "aerospace::people::45": "first practical military helicopter\nused for search and rescue\nrecover personnel from behind enemy lines",
   "aerospace::definitions::129": "you need to attain velocity for destination at burnout (when thrust ceases to be produced)",
   "aerospace::definitions::51": "the plane appears to be riding its own shock wave",
   "aerospace::definitions::114": "the thing being propelled by the rocket (the contents)",
@@ -1604,7 +1603,7 @@
   "aerospace::people::34": "First president of the 99s\nFirst women passenger Atlantic\nFirst women solo flight Atlantic\nLost at sea",
   "aerospace::people::3": "Hot air balloon",
   "aerospace::people::65": "Revolutionized 1960s comm. travel",
-  "aerospace::people::25": "First monoplane\nFirst air meet (Rheims, France)\n"
+  "aerospace::people::45": "First practical "
  },
  "edits": {
   "aerospace::people::19": {
