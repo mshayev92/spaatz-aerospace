@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337654085,
+ "updatedAt": 1785337668601,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1606,7 +1606,7 @@
   "aerospace::people::88": "3-man capsule\nFirst space walk",
   "aerospace::people::96": "Sally Ride",
   "aerospace::people::28": "First Americans, practical heli",
-  "aerospace::planets::2": "First successful interplanetary mission\nVenus = discovered hot temp"
+  "aerospace::planets::2": "First successful interplanetary mission\nVenus = discovered/conf. hot temp"
  },
  "edits": {
   "aerospace::people::19": {
