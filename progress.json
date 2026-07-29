@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336979831,
+ "updatedAt": 1785337010279,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1527,7 +1527,6 @@
   "aerospace::concepts::140": "At night, ground cools. The air directly touching the ground is cooled by conduction below dew pt., causing fog",
   "aerospace::misc::77": "Safe is .3 roetgen, belt can reach 10-20, may be dangerous for satellites and manned crafts",
   "aerospace::planets::4": "carbon dioxide rich atmosphere",
-  "aerospace::people::19": "Fastest man on Earth\n(motorcycle speed cord)\nSwitch to aviation\nFounded the Aerial Experiment Ass.",
   "aerospace::people::42": "skip 500 lb bombs into the sides of Japanese ships",
   "aerospace::people::91": "American space station, two years after Salyut",
   "aerospace::people::8": "Henry Giffard\nCharles Renard and AC Krebs\n(electric motors, steered back to takeoff pt.)",
@@ -1599,7 +1598,8 @@
   "aerospace::people::66": "Jumbo jet",
   "aerospace::people::68": "Gunpowder propelled rocket",
   "aerospace::people::100": "Edward White",
-  "aerospace::people::5": "d'Arlandes and d'Rozier flew it\n\nDE ROZIER"
+  "aerospace::people::5": "d'Arlandes and d'Rozier flew it\n\nDE ROZIER",
+  "aerospace::people::19": "Fastest man on Earth\nFastest speed on motorcycle\nSwitched to aviation\nFounded Aerial Expeirmentation Ass.\n(ailerons, seaplanes)"
  },
  "edits": {
   "aerospace::people::19": {
