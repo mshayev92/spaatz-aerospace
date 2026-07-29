@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334385719,
+ "updatedAt": 1785334399688,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1537,7 +1537,6 @@
   "aerospace::planets::14": "Basalt (holes were gas escaped)\nAnorthosite\nKREEP (not found on Earth)",
   "aerospace::concepts::188": "Studied the atmosphere\nUpdated V-2 to self-made T-1\nMade ICBMs (Cold War)\n\nI knew that they launched Sputnik and we launched Explorer 1 in response",
   "aerospace::definitions::135": "Equatorial orbit, synchronized to the Earth's orbit (24 hour revolution)",
-  "aerospace::people::57": "Attacked SAMs",
   "aerospace::concepts::10": "Germany downsized after Treaty of Versailles but secretly upgraded military\nItaly (and Germany) got experience in Spanish Civil War\nJapan had Navy + Air Forces\nFrance had the Maginot Line\nBritain had bombers, rapid build up\nUS AF downsized after WW1",
   "aerospace::people::11": "Planaphore - front to back stability",
   "aerospace::concepts::153": "External heat source\nHeats fuel, builds high pressure so exhaust escapes at high velocity",
