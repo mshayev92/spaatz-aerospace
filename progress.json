@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336040588,
+ "updatedAt": 1785336051720,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1299,7 +1299,6 @@
   "aerospace::definitions::82": "amount of material",
   "aerospace::concepts::160": "Rocket system\nGets info from guidance, makes corrections",
   "aerospace::concepts::216": "Explored interactions between the sun and Earth's atmosphere",
-  "aerospace::people::50": "First turboprop airliner",
   "aerospace::concepts::150": "Streamlined shape\nContains all other rocket systems",
   "aerospace::concepts::228": "Second of cheap discovery missions\nStationary lander\nSojourner Rover",
   "aerospace::concepts::47": "Pitch",
@@ -1599,7 +1598,8 @@
   "aerospace::people::20": "First to fly off and land on ship deck",
   "aerospace::people::73": "Experimented with more powerful liquid oxygen and alcohol propellants in the 1920s, after Goddard (1913)",
   "aerospace::people::101": "Svetlana Savitskaya",
-  "aerospace::people::49": "First pure "
+  "aerospace::people::49": "First pure jet airliner",
+  "aerospace::people::50": "First tubo"
  },
  "edits": {
   "aerospace::people::19": {
