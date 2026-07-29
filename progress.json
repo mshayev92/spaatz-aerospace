@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785357335378,
+ "updatedAt": 1785357356180,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1632,7 +1632,8 @@
   "aerospace::concepts::59": "Parts producing drag/turbulence\nCan be put on fuselage/wing",
   "aerospace::definitions::54": "Numbers top, letters left side\nCoordinate system (grid system)\n",
   "aerospace::concepts::19": "Atomic number not enough\nNot enough fighters\nConventional weapons needed\nCentralized control, decentralized exec.",
-  "aerospace::definitions::176": "Any spacecraft flying by, orbiting, or landing on another body"
+  "aerospace::definitions::176": "Any spacecraft flying by, orbiting, or landing on another body",
+  "aerospace::misc::80": "Infared light\n"
  },
  "edits": {
   "aerospace::people::19": {
