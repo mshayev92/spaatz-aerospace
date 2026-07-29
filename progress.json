@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335901189,
+ "updatedAt": 1785335916118,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,8 @@
   "aerospace::people::71": "Russian scientist\nFirst theoretical calculations on reaction engine exiting and reentering Earth's atmosphere",
   "aerospace::people::58": "Launched by Navy against Iraq",
   "aerospace::people::95": "Valentina Tereshkova",
-  "aerospace::people::70": "Spin stabilization"
+  "aerospace::people::70": "Spin stabilization",
+  "aerospace::people::83": "Orbiting lab by ESA"
  },
  "edits": {
   "aerospace::people::19": {
