@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785357231496,
+ "updatedAt": 1785357250200,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1631,7 +1631,7 @@
   "aerospace::concepts::199": "UN org. powering large array of geostationary satellites for communication",
   "aerospace::concepts::59": "Parts producing drag/turbulence\nCan be put on fuselage/wing",
   "aerospace::definitions::54": "Numbers top, letters left side\nCoordinate system (grid system)\n",
-  "aerospace::concepts::19": "Atomic number not enough\nNot enough fighters\n"
+  "aerospace::concepts::19": "Atomic number not enough\nNot enough fighters\nConventional weapons needed\nCentralized control, decentralized exec."
  },
  "edits": {
   "aerospace::people::19": {
