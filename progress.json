@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785338092983,
+ "updatedAt": 1785338102410,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1607,7 +1607,7 @@
   "aerospace::planets::10": "Combined probe + orbiter",
   "aerospace::planets::11": "ESA",
   "aerospace::planets::17": "Mars\nCombined probe + lander\nSearched for life\nFound more water than expected\nTemperature -18 thru 130 degrees\n\nORBITERS, NOT PROBES",
-  "aerospace::planets::18": "Rock and soil samples (Mars)"
+  "aerospace::planets::18": "Rock and soil samples (Mars)\nSojourner"
  },
  "edits": {
   "aerospace::people::19": {
