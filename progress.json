@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337131317,
+ "updatedAt": 1785337140153,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1304,7 +1304,6 @@
   "aerospace::concepts::47": "Pitch",
   "aerospace::concepts::14": "Pearl Harbor\nCAA became War Training Service",
   "aerospace::definitions::137": "Polar orbit\nAlways exposed to sun for energy",
-  "aerospace::people::60": "Project by the AF, Navy\nMach 6.7",
   "aerospace::definitions::104": "Attraction between all matter in the universe",
   "aerospace::definitions::7": "twin engine german\nmost popular of ww2",
   "aerospace::misc::60": "When water condenses, heat is released",
