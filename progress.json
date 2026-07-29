@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337934737,
+ "updatedAt": 1785337945297,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1606,7 +1606,7 @@
   "aerospace::planets::5": "Speed/direction of clouds",
   "aerospace::planets::6": "Craters",
   "aerospace::planets::9": "Mapped 99% (Venus)",
-  "aerospace::planets::10": "C"
+  "aerospace::planets::10": "Combined probe + orbiter"
  },
  "edits": {
   "aerospace::people::19": {
