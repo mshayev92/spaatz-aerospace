@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785357112514,
+ "updatedAt": 1785357126517,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1629,7 +1629,8 @@
   "aerospace::definitions::92": "Heated air rises up\nCauses advection (wind)",
   "aerospace::concepts::225": "Better pictures than Pioneer; 2 passed by Uranus",
   "aerospace::concepts::199": "UN org. powering large array of geostationary satellites for communication",
-  "aerospace::concepts::59": "Parts producing drag/turbulence\nCan be put on fuselage/wing"
+  "aerospace::concepts::59": "Parts producing drag/turbulence\nCan be put on fuselage/wing",
+  "aerospace::definitions::54": "Numbers top, letters left side\nCoordinate system (grid system)\n"
  },
  "edits": {
   "aerospace::people::19": {
