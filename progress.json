@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334678021,
+ "updatedAt": 1785334686962,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1596,7 +1596,8 @@
   "aerospace::people::90": "First space station, Russian\nTwo years later: Skylan (American)",
   "aerospace::people::76": "NASA airplane to simulate zero gravity",
   "aerospace::people::9": "Internal combustion dirigibles",
-  "aerospace::people::82": "Mission to the moon\nApollo 11 landed\nNeil Armstrong first, Aldrin second\n"
+  "aerospace::people::82": "Mission to the moon\nApollo 11 landed\nNeil Armstrong first, Aldrin second\n",
+  "aerospace::people::103": "Neil Armstrong"
  },
  "edits": {
   "aerospace::people::19": {
