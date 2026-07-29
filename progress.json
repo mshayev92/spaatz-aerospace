@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335628005,
+ "updatedAt": 1785335644549,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,8 @@
   "aerospace::people::2": "Aerial ship",
   "aerospace::people::84": "Joint between US and USSR\nDocked, did experiments",
   "aerospace::people::59": "Transported men and cargo Tet Offensive",
-  "aerospace::people::41": "Attacked Japanese ships"
+  "aerospace::people::41": "Attacked Japanese ships",
+  "aerospace::people::71": "Russian scientist\nFirst theoretical calculations"
  },
  "edits": {
   "aerospace::people::19": {
