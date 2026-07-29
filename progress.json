@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335300785,
+ "updatedAt": 1785335310557,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -935,7 +935,7 @@
   "aerospace::concepts::138": "mastered",
   "aerospace::definitions::13": "mastered",
   "aerospace::misc::37": "mastered",
-  "aerospace::people::16": "mastered",
+  "aerospace::people::16": "general",
   "aerospace::misc::49": "mastered",
   "aerospace::concepts::183": "mastered",
   "aerospace::people::100": "mastered",
@@ -1598,8 +1598,7 @@
   "aerospace::people::33": "Flew from NY to Paris",
   "aerospace::people::62": "Short-altitude penetration bomber",
   "aerospace::people::36": "Massive strike first, then population",
-  "aerospace::people::13": "First airplane to takeoff and land under its own power on level ground",
-  "aerospace::people::16": "Experimented with gliders\nManned glider?"
+  "aerospace::people::13": "First airplane to takeoff and land under its own power on level ground"
  },
  "edits": {
   "aerospace::people::19": {
