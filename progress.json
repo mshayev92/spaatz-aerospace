@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335523785,
+ "updatedAt": 1785335530015,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1486,7 +1486,6 @@
   "aerospace::concepts::15": "Air superiority, interdiction, support ground forces",
   "aerospace::people::32": "Nonstop cross country flight",
   "aerospace::concepts::208": "track people and enemy\nwatches for missile launches",
-  "aerospace::people::81": "Second project (after Mercury)\nPrep for Apollo\nTwo-men capsules\nFirst American space walk\nDocking\nTesting space conditions on humans",
   "aerospace::definitions::163": "Very elliptical orbit\nWhen approaching sun, tail\nNucleus: frozen\n\nExample: Halley",
   "aerospace::concepts::82": "Engine",
   "aerospace::planets::13": "Earth's only natural satellite\nHas craters from impacts\nLunar dust/rocks, KREEP, etc.\nInches away from Earth\nCislunar space\nOnly shows one side\n270?",
