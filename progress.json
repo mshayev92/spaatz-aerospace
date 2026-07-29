@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336739800,
+ "updatedAt": 1785336824361,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1597,7 +1597,8 @@
   "aerospace::people::99": "Aleksei Leonov",
   "aerospace::people::54": "Long range bomb, troops could stay further away",
   "aerospace::people::44": "Biggest bomber 1948\nLong range\n10k lb bombs\n",
-  "aerospace::people::23": "Improved Wright Flyer\nAdded ailerons\nFirst fully enclosed fuselage"
+  "aerospace::people::23": "Improved Wright Flyer\nAdded ailerons\nFirst fully enclosed fuselage",
+  "aerospace::people::32": "NY to SF\n>22 hours"
  },
  "edits": {
   "aerospace::people::19": {
