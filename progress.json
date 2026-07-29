@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785357810712,
+ "updatedAt": 1785357848570,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1635,8 +1635,7 @@
   "aerospace::definitions::176": "Any spacecraft flying by, orbiting, or landing on another body",
   "aerospace::misc::80": "Infrared light\n",
   "aerospace::definitions::36": "Anything having dynamic reaction with air\n",
-  "aerospace::concepts::180": "Horn shaped\nElectron/protons comp.\nCan damage satellites\nInteracts with sun\nNeutron byproduct\nMagnetosphere ass.",
-  "aerospace::people::14": "Man carrying glider (Charles Manley first flew it)\n\nI know that Manley is "
+  "aerospace::concepts::180": "Horn shaped\nElectron/protons comp.\nCan damage satellites\nInteracts with sun\nNeutron byproduct\nMagnetosphere ass."
  },
  "edits": {
   "aerospace::people::19": {
