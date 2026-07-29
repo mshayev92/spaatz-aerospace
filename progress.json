@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336451947,
+ "updatedAt": 1785336468397,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1599,7 +1599,7 @@
   "aerospace::people::50": "First tuboprop airliner",
   "aerospace::people::72": "Father of modern rocketry\nFirst to use liquid propellants in 1913",
   "aerospace::people::55": "Navy fighter-bomber, all-weather capable, VN",
-  "aerospace::people::51": "Short to medium range, later "
+  "aerospace::people::51": "Short to medium range, later equipped with turboprop; 240 to 340 to 440 (56 seats)"
  },
  "edits": {
   "aerospace::people::19": {
