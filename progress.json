@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337202118,
+ "updatedAt": 1785337214854,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -738,7 +738,7 @@
   "aerospace::concepts::47": "mastered",
   "aerospace::concepts::14": "mastered",
   "aerospace::definitions::137": "mastered",
-  "aerospace::people::60": "mastered",
+  "aerospace::people::60": "general",
   "aerospace::definitions::104": "mastered",
   "aerospace::definitions::7": "mastered",
   "aerospace::misc::60": "mastered",
@@ -1600,7 +1600,8 @@
   "aerospace::people::35": "First air-scheduled disaster\nHydrogen combusted\nLakehurst, NJ",
   "aerospace::people::79": "First satellite (US)\nResponse to Sputnik 1\nDiscovered Van Allen belts",
   "aerospace::people::30": "Chicago, New Orleans, Boston, Chicago\nBilly Mitchell\nSeattle to Seattle",
-  "aerospace::people::67": "Advanced tech.\nStealth\nMulti-role\nJoint strike"
+  "aerospace::people::67": "Advanced tech.\nStealth\nMulti-role\nJoint strike",
+  "aerospace::people::34": "Women"
  },
  "edits": {
   "aerospace::people::19": {
