@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334948475,
+ "updatedAt": 1785335067926,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,8 +1598,7 @@
   "aerospace::people::97": "Maj. Yuri Gagarin",
   "aerospace::people::64": "First short range airliner",
   "aerospace::people::39": "Need fighter escort",
-  "aerospace::people::48": "Surplus made it popular\nBut then Constellation\n",
-  "aerospace::people::61": "Supersonic bomber to replace B-52\nMach 3\nHigh altitude, long range?\nCanceled"
+  "aerospace::people::48": "Surplus made it popular\nBut then Constellation\n"
  },
  "edits": {
   "aerospace::people::19": {
