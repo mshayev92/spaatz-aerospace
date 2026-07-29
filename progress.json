@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335666778,
+ "updatedAt": 1785335681315,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1532,7 +1532,6 @@
   "aerospace::concepts::76": "state of devices",
   "aerospace::concepts::48": "4 stroke, 5 events\ncircular motion, back and forth\nenergy through spinning fluid",
   "aerospace::planets::9": "Mapped 99% of Venus",
-  "aerospace::people::58": "Launched by Navy against Iraq",
   "aerospace::people::99": "Alexander Leonov\n\nFIRST NAME= ALEKSEI",
   "aerospace::definitions::156": "Pressure removed, air particles escape\nCan damage equipment",
   "aerospace::people::55": "Navy, all weather capable, VN",
@@ -1599,7 +1598,8 @@
   "aerospace::people::84": "Joint between US and USSR\nDocked, did experiments",
   "aerospace::people::59": "Transported men and cargo Tet Offensive",
   "aerospace::people::41": "Attacked Japanese ships",
-  "aerospace::people::71": "Russian scientist\nFirst theoretical calculations on reaction engine exiting and reentering Earth's atmosphere"
+  "aerospace::people::71": "Russian scientist\nFirst theoretical calculations on reaction engine exiting and reentering Earth's atmosphere",
+  "aerospace::people::58": "Lan"
  },
  "edits": {
   "aerospace::people::19": {
