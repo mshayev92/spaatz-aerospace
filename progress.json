@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334755532,
+ "updatedAt": 1785334771525,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1597,7 +1597,8 @@
   "aerospace::people::89": "Union\nCraft that could link with space station",
   "aerospace::people::31": "First air refueling\n37 hours",
   "aerospace::people::87": "First craft to take people to space",
-  "aerospace::people::93": "Maj. Yuri Gagarin"
+  "aerospace::people::93": "Maj. Yuri Gagarin",
+  "aerospace::people::29": "\n>22 hours"
  },
  "edits": {
   "aerospace::people::19": {
