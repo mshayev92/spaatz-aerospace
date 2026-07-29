@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785316552858,
+ "updatedAt": 1785316582442,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1576,7 +1576,8 @@
   "aerospace::definitions::148": "charged particles ejected continuously into interplanetary space",
   "aerospace::definitions::153": "solar disturbance\nrapid onset changes in the magnetic field in a matter of hours",
   "aerospace::concepts::214": "explorer class\ncontinues strides made by x-ray satellites",
-  "aerospace::concepts::89": "military, civil, joint use. if joint, military appears above civil"
+  "aerospace::concepts::89": "military, civil, joint use. if joint, military appears above civil",
+  "aerospace::definitions::48": "Compress - air moves apart\nExpansion - air moves back in"
  },
  "edits": {
   "aerospace::people::19": {
