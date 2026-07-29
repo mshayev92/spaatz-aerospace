@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334651004,
+ "updatedAt": 1785334657123,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1595,7 +1595,7 @@
   "aerospace::people::27": "Lifted man with copter",
   "aerospace::people::90": "First space station, Russian\nTwo years later: Skylan (American)",
   "aerospace::people::76": "NASA airplane to simulate zero gravity",
-  "aerospace::people::9": "Internal combustion dirgibles"
+  "aerospace::people::9": "Internal combustion dirigibles"
  },
  "edits": {
   "aerospace::people::19": {
