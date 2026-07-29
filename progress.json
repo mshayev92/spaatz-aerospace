@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785333668417,
+ "updatedAt": 1785333674120,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1159,7 +1159,7 @@
   "aerospace::concepts::198": "mastered",
   "aerospace::concepts::185": "mastered",
   "aerospace::definitions::125": "mastered",
-  "aerospace::people::77": "mastered",
+  "aerospace::people::77": "review",
   "aerospace::definitions::80": "mastered",
   "aerospace::concepts::51": "mastered",
   "aerospace::concepts::221": "mastered",
@@ -1589,8 +1589,7 @@
   "aerospace::people::19": "Fastest man on Earth\n(motorcycle speed cord)\nSwitch to aviation\nFounded the Aerial Experiment Ass.",
   "aerospace::people::42": "skip 500 lb bombs into the sides of Japanese ships",
   "aerospace::people::91": "American space station, two years after Salyut",
-  "aerospace::people::8": "Henry Giffard\nCharles Renard and AC Krebs\n(electric motors, steered back to takeoff pt.)",
-  "aerospace::people::77": "Took pictures\nInner and outer planets"
+  "aerospace::people::8": "Henry Giffard\nCharles Renard and AC Krebs\n(electric motors, steered back to takeoff pt.)"
  },
  "edits": {
   "aerospace::people::19": {
