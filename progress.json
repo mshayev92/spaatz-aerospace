@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785355756811,
+ "updatedAt": 1785355770477,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1619,7 +1619,8 @@
   "aerospace::planets::8": "4 cloud and haze layers",
   "aerospace::people::18": "Engine on wing tips\nPowered gliders\nLaunched airplane on Potomac from catapult\n",
   "aerospace::planets::23": "Discovered volcanic eruptions on Io\nFound 3 moons (to make 16 total)",
-  "aerospace::people::1": "Studied pressure\nTorricelli invented the barometer"
+  "aerospace::people::1": "Studied pressure\nTorricelli invented the barometer",
+  "aerospace::misc::13": "14, Women's Air Derby\nSoldiers parachuting with guns\nT"
  },
  "edits": {
   "aerospace::people::19": {
