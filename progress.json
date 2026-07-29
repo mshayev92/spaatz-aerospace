@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337704748,
+ "updatedAt": 1785337715947,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1322,7 +1322,6 @@
   "aerospace::concepts::193": "Anti-Ballistic Missile System ban\nfor US and USSR\nsatellites not permitted to track compliance",
   "aerospace::concepts::87": "plan against the horizon indicator",
   "aerospace::concepts::65": "two sets, one behind the other",
-  "aerospace::planets::5": "speed/direction of clouds",
   "aerospace::definitions::166": "Explosion of light and energy",
   "aerospace::concepts::106": "10-30\nincreases",
   "aerospace::planets::20": "twin mars rovers",
@@ -1606,7 +1605,8 @@
   "aerospace::people::28": "First Americans, practical heli",
   "aerospace::planets::2": "First successful interplanetary mission\nVenus = discovered/conf. hot temp",
   "aerospace::planets::3": "Soviet, crash landed",
-  "aerospace::planets::4": "Carbon dioxide rich atmosphere\nVenus"
+  "aerospace::planets::4": "Carbon dioxide rich atmosphere\nVenus",
+  "aerospace::planets::5": "Speed/direction of clouds"
  },
  "edits": {
   "aerospace::people::19": {
