@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336963374,
+ "updatedAt": 1785336971349,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,8 @@
   "aerospace::people::74": "Launch vehicle\nStarted from Titan II ICBM\nOnly one more powerful = Saturn V\n",
   "aerospace::people::66": "Jumbo jet",
   "aerospace::people::68": "Gunpowder propelled rocket",
-  "aerospace::people::100": "Edward White"
+  "aerospace::people::100": "Edward White",
+  "aerospace::people::5": "d'Arlandes and d'Rozier flew it"
  },
  "edits": {
   "aerospace::people::19": {
