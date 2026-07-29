@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337299937,
+ "updatedAt": 1785337308369,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1021,7 +1021,6 @@
   "aerospace::definitions::138": "mastered",
   "aerospace::concepts::205": "mastered",
   "aerospace::concepts::141": "mastered",
-  "aerospace::people::53": "review",
   "aerospace::concepts::2": "mastered",
   "aerospace::people::89": "mastered",
   "aerospace::concepts::110": "mastered",
@@ -1603,7 +1602,8 @@
   "aerospace::people::67": "Advanced tech.\nStealth\nMulti-role\nJoint strike",
   "aerospace::people::34": "First president of the 99s\nFirst women passenger Atlantic\nFirst women solo flight Atlantic\nLost at sea",
   "aerospace::people::3": "Hot air balloon",
-  "aerospace::people::65": "Revolutionized 1960s comm. travel"
+  "aerospace::people::65": "Revolutionized 1960s comm. travel",
+  "aerospace::people::53": "Rocket, pilotless, had w"
  },
  "edits": {
   "aerospace::people::19": {
