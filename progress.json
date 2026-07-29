@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335442865,
+ "updatedAt": 1785335455341,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1597,7 +1597,7 @@
   "aerospace::people::13": "First airplane to takeoff and land under its own power on level ground",
   "aerospace::people::102": "Anne Sullivan\n\nNOT ANNE",
   "aerospace::people::63": "Stealth aircraft",
-  "aerospace::people::56": "Aler"
+  "aerospace::people::56": "Alerted Navy/AF of M"
  },
  "edits": {
   "aerospace::people::19": {
