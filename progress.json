@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785355151112,
+ "updatedAt": 1785355156342,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -843,7 +843,7 @@
   "aerospace::definitions::12": "mastered",
   "aerospace::concepts::46": "mastered",
   "aerospace::definitions::136": "mastered",
-  "aerospace::planets::8": "review",
+  "aerospace::planets::8": "mastered",
   "aerospace::concepts::75": "mastered",
   "aerospace::definitions::11": "mastered",
   "aerospace::concepts::3": "mastered",
@@ -1617,7 +1617,7 @@
   "aerospace::people::22": "First licensed female pilot\nFirst woman to fly across English Channel",
   "aerospace::people::46": "Moved tons in Berlin Airlift",
   "aerospace::misc::5": "22 miles\n20 minutes\n$5 fare\nJanus\nAcross Tampa Bay\n1/1/1914\n5 months",
-  "aerospace::planets::8": "4 cloud and h"
+  "aerospace::planets::8": "4 cloud and haze layers"
  },
  "edits": {
   "aerospace::people::19": {
