@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785357095612,
+ "updatedAt": 1785357112514,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1629,8 +1629,7 @@
   "aerospace::definitions::92": "Heated air rises up\nCauses advection (wind)",
   "aerospace::concepts::225": "Better pictures than Pioneer; 2 passed by Uranus",
   "aerospace::concepts::199": "UN org. powering large array of geostationary satellites for communication",
-  "aerospace::concepts::59": "Parts producing drag/turbulence\nCan be put on fuselage/wing",
-  "aerospace::concepts::223": "Inner and outer planets\n\nI was thinking of Jupiter/Saturn, but thought it associated with Voyager"
+  "aerospace::concepts::59": "Parts producing drag/turbulence\nCan be put on fuselage/wing"
  },
  "edits": {
   "aerospace::people::19": {
