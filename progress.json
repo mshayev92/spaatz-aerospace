@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335119275,
+ "updatedAt": 1785335122233,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1599,7 +1599,7 @@
   "aerospace::people::38": "destroy will to resist, 60% fighters",
   "aerospace::people::12": "Created the wind tunnel",
   "aerospace::people::4": "Discovered oxygen",
-  "aerospace::people::33": "Flew from"
+  "aerospace::people::33": "Flew from NY to Paris"
  },
  "edits": {
   "aerospace::people::19": {
