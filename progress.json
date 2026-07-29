@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334109813,
+ "updatedAt": 1785334129249,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1180,7 +1180,7 @@
   "aerospace::misc::38": "mastered",
   "aerospace::people::32": "mastered",
   "aerospace::concepts::227": "general",
-  "aerospace::people::15": "mastered",
+  "aerospace::people::15": "general",
   "aerospace::misc::17": "general",
   "aerospace::planets::27": "review",
   "aerospace::people::25": "general",
@@ -1570,7 +1570,6 @@
   "aerospace::people::55": "Navy, all weather capable, VN",
   "aerospace::people::70": "spin stabilization",
   "aerospace::concepts::142": "moist air moves horizontally, is cooled below dew pt.",
-  "aerospace::people::40": "daytime precision bombing",
   "aerospace::definitions::148": "charged particles ejected continuously into interplanetary space",
   "aerospace::definitions::153": "solar disturbance\nrapid onset changes in the magnetic field in a matter of hours",
   "aerospace::concepts::214": "explorer class\ncontinues strides made by x-ray satellites",
