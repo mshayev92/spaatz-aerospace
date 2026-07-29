@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335703929,
+ "updatedAt": 1785335704683,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1599,7 +1599,7 @@
   "aerospace::people::41": "Attacked Japanese ships",
   "aerospace::people::71": "Russian scientist\nFirst theoretical calculations on reaction engine exiting and reentering Earth's atmosphere",
   "aerospace::people::58": "Launched by Navy against Iraq",
-  "aerospace::people::22": "First African American women to get her pilot's lice"
+  "aerospace::people::22": "First African American women to get her pilot's license"
  },
  "edits": {
   "aerospace::people::19": {
