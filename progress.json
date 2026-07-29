@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334598399,
+ "updatedAt": 1785334606847,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1410,7 +1410,6 @@
   "aerospace::concepts::73": "altimeter",
   "aerospace::concepts::62": "single shell w/ bracing",
   "aerospace::people::20": "First to flew off from and land on ship deck",
-  "aerospace::people::9": "internal combustion, dirigible",
   "aerospace::definitions::145": "how far a photon travels in one calendar year",
   "aerospace::definitions::86": "measure of water vapor in air\nabsolute: how much actually\nrelative: how much left till sat.",
   "aerospace::concepts::155": "brain of the rocket\ntells control what to do\ncan have star tracking\ninertial, command, beam",
