@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785356207621,
+ "updatedAt": 1785356246899,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1186,7 +1186,7 @@
   "aerospace::concepts::207": "mastered",
   "aerospace::people::41": "mastered",
   "aerospace::misc::1": "general",
-  "aerospace::misc::3": "general",
+  "aerospace::misc::3": "mastered",
   "aerospace::misc::71": "mastered",
   "aerospace::concepts::166": "general",
   "aerospace::misc::76": "mastered",
@@ -1621,7 +1621,8 @@
   "aerospace::planets::23": "Discovered volcanic eruptions on Io\nFound 3 moons (to make 16 total)",
   "aerospace::people::1": "Studied pressure\nTorricelli invented the barometer",
   "aerospace::concepts::227": "Entered orbit\nCollected data on ground and atmosphere\nIce at the poles?",
-  "aerospace::misc::3": "More reliable\nFirst patent: Short bros.\nSikorsky: four engines"
+  "aerospace::misc::3": "More reliable\nFirst patent: Short bros.\nSikorsky: four engines",
+  "aerospace::people::60": "Navy, AF, NACA\n4,500 mph\n250,000 ft"
  },
  "edits": {
   "aerospace::people::19": {
