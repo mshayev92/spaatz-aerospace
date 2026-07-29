@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336902096,
+ "updatedAt": 1785336913112,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1320,7 +1320,6 @@
   "aerospace::definitions::147": "atoms are fused to create different ones",
   "aerospace::definitions::31": "change form during flight\nforward for subsonic\nbackward for supersonic\n",
   "aerospace::concepts::173": "Crown\nthin white light",
-  "aerospace::people::66": "jumbo jet",
   "aerospace::people::35": "First deaths in industry\nHydrogen combusted",
   "aerospace::definitions::99": "rotate parallel to the slope",
   "aerospace::concepts::54": "rams air, slows it down",
