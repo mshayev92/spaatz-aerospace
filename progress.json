@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785356955349,
+ "updatedAt": 1785357005860,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -825,7 +825,7 @@
   "aerospace::people::4": "mastered",
   "aerospace::definitions::146": "mastered",
   "aerospace::people::2": "mastered",
-  "aerospace::concepts::59": "general",
+  "aerospace::concepts::59": "mastered",
   "aerospace::people::78": "mastered",
   "aerospace::definitions::74": "mastered",
   "aerospace::definitions::38": "mastered",
@@ -1463,7 +1463,6 @@
   "aerospace::concepts::82": "Engine",
   "aerospace::planets::13": "Earth's only natural satellite\nHas craters from impacts\nLunar dust/rocks, KREEP, etc.\nInches away from Earth\nCislunar space\nOnly shows one side\n270?",
   "aerospace::concepts::212": "Deepened understanding of universe\nLooked at different wavelengths/stars\nDiscovered hydrogen clouds around comets (as predicted)",
-  "aerospace::misc::62": "Cyclones, hurricanes\nCauses air to spin",
   "aerospace::concepts::53": "combines turboprop and turbofan\nfan spins prop\n",
   "aerospace::misc::0": "Emperor Shun: donned work clothes of a bird, bat wings\nWan Hoo: Rockets to fly to moon\nKei Kung = Chinese God of thunder/lightning\nKei Kung Shi: flying chariot\nDaedalus and Icarus: escaped prison with wings, Icarus flew too close",
   "aerospace::concepts::7": "Wright Brothers\nFirst powered, controlled, sustained powered flight\n12s",
@@ -1630,7 +1629,8 @@
   "aerospace::definitions::92": "Heated air rises up\nCauses advection (wind)",
   "aerospace::concepts::225": "Better pictures than Pioneer; 2 passed by Uranus",
   "aerospace::concepts::199": "UN org. powering large array of geostationary satellites for communication",
-  "aerospace::concepts::59": "Parts producing drag/turbulence\nCan be put on fuselage/wing"
+  "aerospace::concepts::59": "Parts producing drag/turbulence\nCan be put on fuselage/wing",
+  "aerospace::misc::62": "Acts on rotating air\nKeeps air curving outwards from rotating point\n"
  },
  "edits": {
   "aerospace::people::19": {
