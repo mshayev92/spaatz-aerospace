@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337717366,
+ "updatedAt": 1785337789149,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1497,7 +1497,6 @@
   "aerospace::concepts::198": "media, TV, phone (active if amplifies, otherwise passive)",
   "aerospace::misc::11": "Separate from Army\nVital, control of airspace\nControl, attack, ...\n\nCRITICAL POINTS (INTO HEART)",
   "aerospace::misc::28": "Centralized control, decentralized execution\nGain air superiority",
-  "aerospace::planets::7": "plateaus, mountains, canyons",
   "aerospace::misc::43": "Arnold\nfreedom of flight, finances, geography",
   "aerospace::concepts::200": "Tracking and Data Relay Satellite Service\nAssisted 25 space probes and the Space Shuttle\nAssists DSN",
   "aerospace::concepts::88": "magnetic compass\nclock\nheading indicator\nairspeed indicator\ngps\n",
@@ -1605,7 +1604,8 @@
   "aerospace::planets::2": "First successful interplanetary mission\nVenus = discovered/conf. hot temp",
   "aerospace::planets::3": "Soviet, crash landed",
   "aerospace::planets::4": "Carbon dioxide rich atmosphere\nVenus",
-  "aerospace::planets::5": "Speed/direction of clouds"
+  "aerospace::planets::5": "Speed/direction of clouds",
+  "aerospace::planets::6": "Craters"
  },
  "edits": {
   "aerospace::people::19": {
