@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785357967459,
+ "updatedAt": 1785357976570,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1638,7 +1638,8 @@
   "aerospace::concepts::180": "Horn shaped\nElectron/protons comp.\nCan damage satellites\nInteracts with sun\nNeutron byproduct\nMagnetosphere ass.",
   "aerospace::concepts::133": "Low/no turbulence\nLight precipitation\nLow cloud\nAffects visibility",
   "aerospace::concepts::220": "Moon soft landers, had to know where to land",
-  "aerospace::people::61": "Supersonic bomber, replace B-52\nMach 3\nHigh range\nCanceled\n"
+  "aerospace::people::61": "Supersonic bomber, replace B-52\nMach 3\nHigh range\nCanceled\n",
+  "aerospace::concepts::182": "Drag\n"
  },
  "edits": {
   "aerospace::people::19": {
