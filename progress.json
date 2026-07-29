@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336715729,
+ "updatedAt": 1785336732735,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1597,7 +1597,8 @@
   "aerospace::people::11": "Planaphore\nFront to back stability",
   "aerospace::people::99": "Aleksei Leonov",
   "aerospace::people::54": "Long range bomb, troops could stay further away",
-  "aerospace::people::44": "Biggest bomber 1948\nLong range\n10k lb bombs\n"
+  "aerospace::people::44": "Biggest bomber 1948\nLong range\n10k lb bombs\n",
+  "aerospace::people::23": "Improved Wright Flyer\nAdded ailerons\nFirst fully enclosed fuselage"
  },
  "edits": {
   "aerospace::people::19": {
