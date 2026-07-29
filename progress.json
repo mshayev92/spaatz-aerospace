@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334345625,
+ "updatedAt": 1785334353935,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1337,7 +1337,6 @@
   "aerospace::concepts::193": "Anti-Ballistic Missile System ban\nfor US and USSR\nsatellites not permitted to track compliance",
   "aerospace::concepts::87": "plan against the horizon indicator",
   "aerospace::people::22": "first licensed female pilot\ncrossed the english channel",
-  "aerospace::people::7": "LZ-1",
   "aerospace::concepts::65": "two sets, one behind the other",
   "aerospace::planets::5": "speed/direction of clouds",
   "aerospace::definitions::166": "Explosion of light and energy",
@@ -1591,7 +1590,8 @@
   "aerospace::people::21": "Cross country flight NY to SF (1911)",
   "aerospace::people::92": "ESA orbiting lab",
   "aerospace::people::40": "Daylight precision\nList of targets",
-  "aerospace::people::43": "Bombing against Tokyo\nMay 10-13, 1945\n\nWRONG DATE"
+  "aerospace::people::43": "Bombing against Tokyo\nMay 10-13, 1945\n\nWRONG DATE",
+  "aerospace::people::7": "LZ-1"
  },
  "edits": {
   "aerospace::people::19": {
