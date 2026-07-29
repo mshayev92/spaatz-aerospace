@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334567762,
+ "updatedAt": 1785334582415,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1595,7 +1595,7 @@
   "aerospace::people::47": "Used in Korea",
   "aerospace::people::24": "Flew first powered airplane in Europe\nGasoline powered dirgible",
   "aerospace::people::27": "Lifted man with copter",
-  "aerospace::people::90": "Fi"
+  "aerospace::people::90": "First space station, Russian\nTwo years later: Skylan (American)"
  },
  "edits": {
   "aerospace::people::19": {
