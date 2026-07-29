@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785345566803,
+ "updatedAt": 1785345595904,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1611,7 +1611,8 @@
   "aerospace::planets::30": "Dwarf at the edge of Kuiper Belt, in field of icy objects",
   "aerospace::concepts::210": "1: Van Allen belts\n3: Radiation\n6: View of Earth",
   "aerospace::planets::7": "Plateaus, canyons, mountains",
-  "aerospace::people::29": "Kelly and Macready, 1922"
+  "aerospace::people::29": "Kelly and Macready, 1922",
+  "aerospace::concepts::21": "Regular for takeoff, transitions to swet back "
  },
  "edits": {
   "aerospace::people::19": {
