@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335644549,
+ "updatedAt": 1785335666778,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1599,7 +1599,7 @@
   "aerospace::people::84": "Joint between US and USSR\nDocked, did experiments",
   "aerospace::people::59": "Transported men and cargo Tet Offensive",
   "aerospace::people::41": "Attacked Japanese ships",
-  "aerospace::people::71": "Russian scientist\nFirst theoretical calculations"
+  "aerospace::people::71": "Russian scientist\nFirst theoretical calculations on reaction engine exiting and reentering Earth's atmosphere"
  },
  "edits": {
   "aerospace::people::19": {
