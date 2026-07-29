@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335538726,
+ "updatedAt": 1785335559720,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,7 @@
   "aerospace::people::56": "Alerted Navy/AF of MiGs",
   "aerospace::people::26": "First working helicopter",
   "aerospace::people::80": "First\nAssess space effects on humans\n*Guess: Reaction engines",
-  "aerospace::people::81": "Second\n"
+  "aerospace::people::81": "Second\nFirst American moon walk\n2 man capsule\nPrepare for Apollo\nLong-term e"
  },
  "edits": {
   "aerospace::people::19": {
