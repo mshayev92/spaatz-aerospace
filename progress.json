@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785357372953,
+ "updatedAt": 1785357391357,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -890,7 +890,7 @@
   "aerospace::people::13": "mastered",
   "aerospace::definitions::123": "mastered",
   "aerospace::concepts::34": "mastered",
-  "aerospace::misc::80": "general",
+  "aerospace::misc::80": "mastered",
   "aerospace::planets::28": "mastered",
   "aerospace::concepts::146": "mastered",
   "aerospace::definitions::69": "mastered",
@@ -1633,7 +1633,8 @@
   "aerospace::definitions::54": "Numbers top, letters left side\nCoordinate system (grid system)\n",
   "aerospace::concepts::19": "Atomic number not enough\nNot enough fighters\nConventional weapons needed\nCentralized control, decentralized exec.",
   "aerospace::definitions::176": "Any spacecraft flying by, orbiting, or landing on another body",
-  "aerospace::misc::80": "Infrared light\n"
+  "aerospace::misc::80": "Infrared light\n",
+  "aerospace::definitions::36": "A"
  },
  "edits": {
   "aerospace::people::19": {
