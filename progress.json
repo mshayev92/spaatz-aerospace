@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334937341,
+ "updatedAt": 1785334948475,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1599,7 +1599,7 @@
   "aerospace::people::64": "First short range airliner",
   "aerospace::people::39": "Need fighter escort",
   "aerospace::people::48": "Surplus made it popular\nBut then Constellation\n",
-  "aerospace::people::61": "Supersonic bomber to replace B-52\nMach 3\n\nCanceled"
+  "aerospace::people::61": "Supersonic bomber to replace B-52\nMach 3\nHigh altitude, long range?\nCanceled"
  },
  "edits": {
   "aerospace::people::19": {
