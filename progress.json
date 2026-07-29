@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334686962,
+ "updatedAt": 1785334695610,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1451,7 +1451,6 @@
   "aerospace::concepts::139": "turbulence\nheavy percipitation/lightning\ncalled a thunderstorm",
   "aerospace::people::18": "power gliders\nbut aerodrome fell into pacific ocean",
   "aerospace::definitions::15": "gulf tonkin resolution - gave the president authority to protect troops and carry out offensive attacks",
-  "aerospace::people::89": "union\nspacecraft docking to space stations\nsoyuz = spacecraft",
   "aerospace::concepts::135": "no turbulence\nsmooth\nlittle precipitation",
   "aerospace::misc::87": "suitable places for space colonies, named after Lagrange",
   "aerospace::concepts::8": "Curtiss crossed\nReed, then two weeks later:\nJohn Alcock and Arthur Brown",
@@ -1597,7 +1596,8 @@
   "aerospace::people::76": "NASA airplane to simulate zero gravity",
   "aerospace::people::9": "Internal combustion dirigibles",
   "aerospace::people::82": "Mission to the moon\nApollo 11 landed\nNeil Armstrong first, Aldrin second\n",
-  "aerospace::people::103": "Neil Armstrong"
+  "aerospace::people::103": "Neil Armstrong",
+  "aerospace::people::89": "Union\n"
  },
  "edits": {
   "aerospace::people::19": {
