@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336381715,
+ "updatedAt": 1785336397585,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -999,7 +999,7 @@
   "aerospace::concepts::139": "mastered",
   "aerospace::people::5": "mastered",
   "aerospace::people::31": "mastered",
-  "aerospace::people::18": "mastered",
+  "aerospace::people::18": "review",
   "aerospace::people::88": "mastered",
   "aerospace::concepts::27": "mastered",
   "aerospace::people::46": "review",
@@ -1597,7 +1597,8 @@
   "aerospace::people::73": "Experimented with more powerful liquid oxygen and alcohol propellants in the 1920s, after Goddard (1913)",
   "aerospace::people::101": "Svetlana Savitskaya",
   "aerospace::people::49": "First pure jet airliner",
-  "aerospace::people::50": "First tuboprop airliner"
+  "aerospace::people::50": "First tuboprop airliner",
+  "aerospace::people::72": "Father"
  },
  "edits": {
   "aerospace::people::19": {
