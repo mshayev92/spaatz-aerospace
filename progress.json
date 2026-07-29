@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785356246899,
+ "updatedAt": 1785356253330,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -738,7 +738,7 @@
   "aerospace::concepts::47": "mastered",
   "aerospace::concepts::14": "mastered",
   "aerospace::definitions::137": "mastered",
-  "aerospace::people::60": "general",
+  "aerospace::people::60": "mastered",
   "aerospace::definitions::104": "mastered",
   "aerospace::definitions::7": "mastered",
   "aerospace::misc::60": "mastered",
@@ -1622,7 +1622,8 @@
   "aerospace::people::1": "Studied pressure\nTorricelli invented the barometer",
   "aerospace::concepts::227": "Entered orbit\nCollected data on ground and atmosphere\nIce at the poles?",
   "aerospace::misc::3": "More reliable\nFirst patent: Short bros.\nSikorsky: four engines",
-  "aerospace::people::60": "Navy, AF, NACA\n4,500 mph\n250,000 ft"
+  "aerospace::people::60": "Navy, AF, NACA\n4,500 mph\n250,000 ft",
+  "aerospace::concepts::166": "Lo"
  },
  "edits": {
   "aerospace::people::19": {
