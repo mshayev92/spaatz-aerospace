@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336499582,
+ "updatedAt": 1785336508295,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1599,7 +1599,7 @@
   "aerospace::people::72": "Father of modern rocketry\nFirst to use liquid propellants in 1913",
   "aerospace::people::55": "Navy fighter-bomber, all-weather capable, VN",
   "aerospace::people::51": "Short to medium range, later equipped with turboprop; 240 to 340 to 440 (56 seats)",
-  "aerospace::people::11": "Plenaphore\nFront-to-back stability"
+  "aerospace::people::11": "Planaphore\nFront-to-back stability"
  },
  "edits": {
   "aerospace::people::19": {
