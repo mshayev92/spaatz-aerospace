@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785357571491,
+ "updatedAt": 1785357731545,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1634,7 +1634,8 @@
   "aerospace::concepts::19": "Atomic number not enough\nNot enough fighters\nConventional weapons needed\nCentralized control, decentralized exec.",
   "aerospace::definitions::176": "Any spacecraft flying by, orbiting, or landing on another body",
   "aerospace::misc::80": "Infrared light\n",
-  "aerospace::definitions::36": "Anything having dynamic reaction with air\n"
+  "aerospace::definitions::36": "Anything having dynamic reaction with air\n",
+  "aerospace::concepts::180": "Horn shaped\nElectron/neutron comp.\nCan damage satellites\nInteracts with sun\nNeutron"
  },
  "edits": {
   "aerospace::people::19": {
