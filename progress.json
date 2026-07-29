@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334709619,
+ "updatedAt": 1785334714718,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1483,7 +1483,6 @@
   "aerospace::concepts::169": "see view of earth\nlook closer at the universe\nabundant resources\nmake unique resources",
   "aerospace::concepts::203": "early nav versions\ntransit on polaris\ntimation use lang long",
   "aerospace::definitions::60": "first two numbers that of compass direction (designation)\ni meant digits",
-  "aerospace::people::31": "refueled in the air (longest)\n37 hours\ni was thinking between first/longest",
   "aerospace::concepts::232": "Winner: Mojave Airspace Ventures\nFirst NGO to take craft past 62 mi and back within two weeks with a payload = 3 adult males\n$10 mil",
   "aerospace::concepts::95": "24 satellites\n4 minimum for lat, long, elev., time\n6-8 usually in view\n\nPPS/SPS",
   "aerospace::concepts::32": "Meets relative wind first, slower thicker",
