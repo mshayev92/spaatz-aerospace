@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785326400665,
+ "updatedAt": 1785326868120,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1586,7 +1586,8 @@
   "aerospace::concepts::140": "At night, ground cools. The air directly touching the ground is cooled by conduction below dew pt., causing fog",
   "aerospace::misc::77": "Safe is .3 roetgen, belt can reach 10-20, may be dangerous for satellites and manned crafts",
   "aerospace::planets::4": "carbon dioxide rich atmosphere",
-  "aerospace::people::39": "fighter escort needed"
+  "aerospace::people::39": "fighter escort needed",
+  "aerospace::people::19": "Fastest man on Earth\n(motorcycle speed cord)\nSwitch to aviation\nF"
  },
  "edits": {
   "aerospace::people::19": {
