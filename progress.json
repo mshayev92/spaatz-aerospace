@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785355544083,
+ "updatedAt": 1785355586778,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1169,7 +1169,7 @@
   "aerospace::people::75": "general",
   "aerospace::planets::21": "mastered",
   "aerospace::people::1": "mastered",
-  "aerospace::definitions::174": "general",
+  "aerospace::definitions::174": "review",
   "aerospace::misc::12": "mastered",
   "aerospace::concepts::209": "mastered",
   "aerospace::people::38": "mastered",
@@ -1620,8 +1620,7 @@
   "aerospace::planets::8": "4 cloud and haze layers",
   "aerospace::people::18": "Engine on wing tips\nPowered gliders\nLaunched airplane on Potomac from catapult\n",
   "aerospace::planets::23": "Discovered volcanic eruptions on Io\nFound 3 moons (to make 16 total)",
-  "aerospace::people::1": "Studied pressure\nTorricelli invented the barometer",
-  "aerospace::definitions::174": "Original: 1983 (later 1993?)\nEnglish, Britain, France, Russian later\n\nJoint use\nOwnership of research\nMilitary involvement\n\nUS had leading role"
+  "aerospace::people::1": "Studied pressure\nTorricelli invented the barometer"
  },
  "edits": {
   "aerospace::people::19": {
