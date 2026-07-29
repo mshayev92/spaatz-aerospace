@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335530015,
+ "updatedAt": 1785335538726,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1597,7 +1597,8 @@
   "aerospace::people::63": "Stealth aircraft",
   "aerospace::people::56": "Alerted Navy/AF of MiGs",
   "aerospace::people::26": "First working helicopter",
-  "aerospace::people::80": "First\nAssess space effects on humans\n*Guess: Reaction engines"
+  "aerospace::people::80": "First\nAssess space effects on humans\n*Guess: Reaction engines",
+  "aerospace::people::81": "Second\n"
  },
  "edits": {
   "aerospace::people::19": {
