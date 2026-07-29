@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334582415,
+ "updatedAt": 1785334598399,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1303,7 +1303,6 @@
   "aerospace::concepts::201": "Supported all Apollo missions",
   "aerospace::concepts::67": "Fuel tank\nPlumbing\nCombustion",
   "aerospace::definitions::82": "amount of material",
-  "aerospace::people::76": "NASA, simulates zero gravity",
   "aerospace::concepts::160": "Rocket system\nGets info from guidance, makes corrections",
   "aerospace::concepts::216": "Explored interactions between the sun and Earth's atmosphere",
   "aerospace::people::50": "First turboprop airliner",
@@ -1595,7 +1594,8 @@
   "aerospace::people::47": "Used in Korea",
   "aerospace::people::24": "Flew first powered airplane in Europe\nGasoline powered dirgible",
   "aerospace::people::27": "Lifted man with copter",
-  "aerospace::people::90": "First space station, Russian\nTwo years later: Skylan (American)"
+  "aerospace::people::90": "First space station, Russian\nTwo years later: Skylan (American)",
+  "aerospace::people::76": "NASA airplane to simulate zero gravity"
  },
  "edits": {
   "aerospace::people::19": {
