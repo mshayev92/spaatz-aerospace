@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785345616480,
+ "updatedAt": 1785345633473,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -743,7 +743,7 @@
   "aerospace::definitions::7": "mastered",
   "aerospace::misc::60": "mastered",
   "aerospace::concepts::229": "mastered",
-  "aerospace::people::6": "review",
+  "aerospace::people::6": "mastered",
   "aerospace::concepts::136": "mastered",
   "aerospace::people::90": "mastered",
   "aerospace::misc::10": "mastered",
@@ -1613,7 +1613,7 @@
   "aerospace::planets::7": "Plateaus, canyons, mountains",
   "aerospace::people::29": "Kelly and Macready, 1922",
   "aerospace::concepts::21": "Regular for takeoff, transitions to swept back for high speed flight",
-  "aerospace::people::6": "Flew ac"
+  "aerospace::people::6": "Flew across English Channel in HAB, 1785"
  },
  "edits": {
   "aerospace::people::19": {
