@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337105368,
+ "updatedAt": 1785337113433,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -805,7 +805,7 @@
   "aerospace::definitions::19": "mastered",
   "aerospace::definitions::89": "mastered",
   "aerospace::concepts::84": "mastered",
-  "aerospace::people::30": "general",
+  "aerospace::people::30": "mastered",
   "aerospace::definitions::32": "mastered",
   "aerospace::concepts::163": "mastered",
   "aerospace::concepts::159": "mastered",
@@ -1481,7 +1481,6 @@
   "aerospace::concepts::63": "Two front\nOne back",
   "aerospace::planets::26": "8th planet\nWindiest planet\nBlue\n*Methane",
   "aerospace::planets::24": "6th planet\nHas rings a few miles from it, containing rocky parts\nGas giant\nRotation: 10 hours\n",
-  "aerospace::people::67": "Long range\nStealth\nJoint strike fighter\nAdvanced tech",
   "aerospace::concepts::80": "magnetic compass\nheader indicator\nairspeed indicator\nclock\ninternal nav\n\nDid not include radio, but know it is the pilot's link to FAA",
   "aerospace::planets::1": "Second planet\nHot atmosphere\nSpins backwards in a way the Earth does not\nCloset to Earth in distance and size\nNo moons",
   "aerospace::concepts::51": "turbine with fan taking in a lot of air\nslowed down, combusted, released",
@@ -1601,7 +1600,8 @@
   "aerospace::people::19": "Fastest man on Earth\nFastest speed on motorcycle\nSwitched to aviation\nFounded Aerial Experimentation Ass.\n(ailerons, seaplanes)",
   "aerospace::people::35": "First air-scheduled disaster\nHydrogen combusted\nLakehurst, NJ",
   "aerospace::people::79": "First satellite (US)\nResponse to Sputnik 1\nDiscovered Van Allen belts",
-  "aerospace::people::30": "Chicago, New Orleans, Boston, Chicago\nBilly Mitchell\nSeattle to Seattle"
+  "aerospace::people::30": "Chicago, New Orleans, Boston, Chicago\nBilly Mitchell\nSeattle to Seattle",
+  "aerospace::people::67": "\nS"
  },
  "edits": {
   "aerospace::people::19": {
