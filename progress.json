@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785338195768,
+ "updatedAt": 1785338228164,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1608,7 +1608,8 @@
   "aerospace::planets::17": "Mars\nCombined probe + lander\nSearched for life\nFound more water than expected\nTemperature -18 thru 130 degrees\n\nORBITERS, NOT PROBES",
   "aerospace::planets::18": "Rock and soil samples (Mars)\nSojourner",
   "aerospace::planets::19": "Enter orbit around Mars\nData on ground and atmosphere\n",
-  "aerospace::planets::20": "Twins rovers (Mars)\nDiscovery mission"
+  "aerospace::planets::20": "Twins rovers (Mars)\nDiscovery mission",
+  "aerospace::planets::22": "Banded layers do not e"
  },
  "edits": {
   "aerospace::people::19": {
