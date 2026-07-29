@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335425469,
+ "updatedAt": 1785335438427,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1322,7 +1322,6 @@
   "aerospace::definitions::55": "zero degrees\npasses through greenwich, england",
   "aerospace::definitions::52": "Can be used for a variety of purposes",
   "aerospace::definitions::147": "atoms are fused to create different ones",
-  "aerospace::people::63": "stealth aircraft",
   "aerospace::definitions::31": "change form during flight\nforward for subsonic\nbackward for supersonic\n",
   "aerospace::concepts::173": "Crown\nthin white light",
   "aerospace::people::66": "jumbo jet",
@@ -1597,7 +1596,8 @@
   "aerospace::people::62": "Short-altitude penetration bomber",
   "aerospace::people::36": "Massive strike first, then population",
   "aerospace::people::13": "First airplane to takeoff and land under its own power on level ground",
-  "aerospace::people::102": "Anne Sullivan\n\nNOT ANNE"
+  "aerospace::people::102": "Anne Sullivan\n\nNOT ANNE",
+  "aerospace::people::63": "Stealth aircraft"
  },
  "edits": {
   "aerospace::people::19": {
