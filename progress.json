@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785357863970,
+ "updatedAt": 1785357873740,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1636,7 +1636,7 @@
   "aerospace::misc::80": "Infrared light\n",
   "aerospace::definitions::36": "Anything having dynamic reaction with air\n",
   "aerospace::concepts::180": "Horn shaped\nElectron/protons comp.\nCan damage satellites\nInteracts with sun\nNeutron byproduct\nMagnetosphere ass.",
-  "aerospace::concepts::133": "Low turbulence\nLow precipitation\nLow cloud\nAffects visibility\n"
+  "aerospace::concepts::133": "Low/no turbulence\nLight precipitation\nLow cloud\nAffects visibility"
  },
  "edits": {
   "aerospace::people::19": {
