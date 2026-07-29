@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335617067,
+ "updatedAt": 1785335628005,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1185,7 +1185,7 @@
   "aerospace::planets::27": "review",
   "aerospace::people::25": "general",
   "aerospace::concepts::207": "general",
-  "aerospace::people::41": "general",
+  "aerospace::people::41": "mastered",
   "aerospace::misc::1": "general",
   "aerospace::misc::3": "general",
   "aerospace::misc::71": "mastered",
@@ -1501,7 +1501,6 @@
   "aerospace::concepts::80": "magnetic compass\nheader indicator\nairspeed indicator\nclock\ninternal nav\n\nDid not include radio, but know it is the pilot's link to FAA",
   "aerospace::planets::1": "Second planet\nHot atmosphere\nSpins backwards in a way the Earth does not\nCloset to Earth in distance and size\nNo moons",
   "aerospace::concepts::51": "turbine with fan taking in a lot of air\nslowed down, combusted, released",
-  "aerospace::people::71": "Russian scientist\nDid theoretical calculations about the escape and reentry of spacecraft w/ reaction engine from/to Earth",
   "aerospace::concepts::125": "More dense than warm, moves faster\nDepends on cold pressure cell behind\nPushes warm air mass up, potentially creating severe precipitation\n",
   "aerospace::concepts::36": "Increase wing camber\nIncrease AoA",
   "aerospace::concepts::218": "First system to take integrated measurements of Earth\nData for research\nRenamed to EOS\nCollection of satellites",
