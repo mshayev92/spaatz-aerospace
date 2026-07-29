@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785344500526,
+ "updatedAt": 1785345367469,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1239,7 +1239,7 @@
   "aerospace::people::67": "mastered",
   "aerospace::concepts::80": "mastered",
   "aerospace::planets::1": "mastered",
-  "aerospace::concepts::210": "review",
+  "aerospace::concepts::210": "mastered",
   "aerospace::people::19": "mastered",
   "aerospace::misc::64": "mastered",
   "aerospace::misc::82": "mastered",
@@ -1608,7 +1608,8 @@
   "aerospace::planets::20": "Twins rovers (Mars)\nDiscovery mission",
   "aerospace::planets::28": "Dwarf with moon",
   "aerospace::planets::29": "Most distant object",
-  "aerospace::planets::30": "Dwarf at the edge of Kuiper Belt, in field of icy objects"
+  "aerospace::planets::30": "Dwarf at the edge of Kuiper Belt, in field of icy objects",
+  "aerospace::concepts::210": "1: Van Allen belts\n3: Radiation\n6: View of Earth"
  },
  "edits": {
   "aerospace::people::19": {
