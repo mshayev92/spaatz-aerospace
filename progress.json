@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785357391357,
+ "updatedAt": 1785357401055,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1634,7 +1634,7 @@
   "aerospace::concepts::19": "Atomic number not enough\nNot enough fighters\nConventional weapons needed\nCentralized control, decentralized exec.",
   "aerospace::definitions::176": "Any spacecraft flying by, orbiting, or landing on another body",
   "aerospace::misc::80": "Infrared light\n",
-  "aerospace::definitions::36": "A"
+  "aerospace::definitions::36": "Anything having dynamic reaction with air\n"
  },
  "edits": {
   "aerospace::people::19": {
