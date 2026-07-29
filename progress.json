@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335469578,
+ "updatedAt": 1785335472160,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,7 @@
   "aerospace::people::102": "Anne Sullivan\n\nNOT ANNE",
   "aerospace::people::63": "Stealth aircraft",
   "aerospace::people::56": "Alerted Navy/AF of MiGs",
-  "aerospace::people::26": "First working hel"
+  "aerospace::people::26": "First working helicopter"
  },
  "edits": {
   "aerospace::people::19": {
