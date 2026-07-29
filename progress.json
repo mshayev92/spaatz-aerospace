@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785338126593,
+ "updatedAt": 1785338181302,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1323,7 +1323,6 @@
   "aerospace::concepts::65": "two sets, one behind the other",
   "aerospace::definitions::166": "Explosion of light and energy",
   "aerospace::concepts::106": "10-30\nincreases",
-  "aerospace::planets::20": "twin mars rovers",
   "aerospace::concepts::37": "use light composite materials",
   "aerospace::misc::69": "increase the velocity of exhaust\nor increase its mass",
   "aerospace::definitions::65": "weather info",
@@ -1608,7 +1607,8 @@
   "aerospace::planets::11": "ESA",
   "aerospace::planets::17": "Mars\nCombined probe + lander\nSearched for life\nFound more water than expected\nTemperature -18 thru 130 degrees\n\nORBITERS, NOT PROBES",
   "aerospace::planets::18": "Rock and soil samples (Mars)\nSojourner",
-  "aerospace::planets::19": "Enter orbit around Mars\nData on ground and atmosphere\n"
+  "aerospace::planets::19": "Enter orbit around Mars\nData on ground and atmosphere\n",
+  "aerospace::planets::20": "Twins rovers (Mars)\nDiscovery misi"
  },
  "edits": {
   "aerospace::people::19": {
