@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785333965044,
+ "updatedAt": 1785333971632,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1192,7 +1192,7 @@
   "aerospace::concepts::166": "general",
   "aerospace::misc::76": "mastered",
   "aerospace::concepts::208": "mastered",
-  "aerospace::people::92": "general",
+  "aerospace::people::92": "mastered",
   "aerospace::people::81": "mastered",
   "aerospace::concepts::200": "mastered",
   "aerospace::definitions::163": "mastered",
@@ -1511,7 +1511,6 @@
   "aerospace::concepts::92": "Signal between plane and receivers\nCalculate time difference to find dis.\n",
   "aerospace::concepts::15": "Air superiority, interdiction, support ground forces",
   "aerospace::people::32": "Nonstop cross country flight",
-  "aerospace::people::15": "Father of modern aviation\nGliders",
   "aerospace::concepts::208": "track people and enemy\nwatches for missile launches",
   "aerospace::people::81": "Second project (after Mercury)\nPrep for Apollo\nTwo-men capsules\nFirst American space walk\nDocking\nTesting space conditions on humans",
   "aerospace::definitions::163": "Very elliptical orbit\nWhen approaching sun, tail\nNucleus: frozen\n\nExample: Halley",
@@ -1593,7 +1592,8 @@
   "aerospace::people::10": "Four forces of flight\nGliders\nResearched powered flight\n",
   "aerospace::people::69": "Standardized gunpowder comp. for rockets\nStabilization\nIncreased range from 300",
   "aerospace::people::21": "Cross country flight NY to SF (1911)",
-  "aerospace::people::92": "ESA orbiting lab"
+  "aerospace::people::92": "ESA orbiting lab",
+  "aerospace::people::15": "Father of modern avi"
  },
  "edits": {
   "aerospace::people::19": {
