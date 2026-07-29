@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337075222,
+ "updatedAt": 1785337080437,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1600,7 +1600,7 @@
   "aerospace::people::5": "d'Arlandes and d'Rozier flew it\n\nDE ROZIER",
   "aerospace::people::19": "Fastest man on Earth\nFastest speed on motorcycle\nSwitched to aviation\nFounded Aerial Experimentation Ass.\n(ailerons, seaplanes)",
   "aerospace::people::35": "First air-scheduled disaster\nHydrogen combusted\nLakehurst, NJ",
-  "aerospace::people::79": "First satellite (US)\nResponse to Sputnik 1\nDi"
+  "aerospace::people::79": "First satellite (US)\nResponse to Sputnik 1\nDiscovered Van Allen belts"
  },
  "edits": {
   "aerospace::people::19": {
