@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785356006840,
+ "updatedAt": 1785356021943,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1620,7 +1620,8 @@
   "aerospace::people::18": "Engine on wing tips\nPowered gliders\nLaunched airplane on Potomac from catapult\n",
   "aerospace::planets::23": "Discovered volcanic eruptions on Io\nFound 3 moons (to make 16 total)",
   "aerospace::people::1": "Studied pressure\nTorricelli invented the barometer",
-  "aerospace::concepts::227": "Entered orbit\nCollected data on ground and atmosphere\nIce at the poles?"
+  "aerospace::concepts::227": "Entered orbit\nCollected data on ground and atmosphere\nIce at the poles?",
+  "aerospace::people::25": "Invented the monoplane\nFirst air meet\nCrossed the english channel (1908)"
  },
  "edits": {
   "aerospace::people::19": {
