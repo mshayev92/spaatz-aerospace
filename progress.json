@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335880081,
+ "updatedAt": 1785335893287,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -679,7 +679,7 @@
   "aerospace::misc::67": "mastered",
   "aerospace::concepts::171": "mastered",
   "aerospace::planets::7": "mastered",
-  "aerospace::people::52": "mastered",
+  "aerospace::people::52": "review",
   "aerospace::people::56": "mastered",
   "aerospace::definitions::28": "mastered",
   "aerospace::people::17": "mastered",
@@ -1598,8 +1598,7 @@
   "aerospace::people::71": "Russian scientist\nFirst theoretical calculations on reaction engine exiting and reentering Earth's atmosphere",
   "aerospace::people::58": "Launched by Navy against Iraq",
   "aerospace::people::95": "Valentina Tereshkova",
-  "aerospace::people::70": "Spin stabilization",
-  "aerospace::people::52": "To be replaced by B-70, canceled\nSubsonic"
+  "aerospace::people::70": "Spin stabilization"
  },
  "edits": {
   "aerospace::people::19": {
