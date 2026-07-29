@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334399688,
+ "updatedAt": 1785334407583,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1592,7 +1592,8 @@
   "aerospace::people::43": "Bombing against Tokyo\nMay 10-13, 1945\n\nWRONG DATE",
   "aerospace::people::7": "LZ-1",
   "aerospace::people::94": "Alan Shepard",
-  "aerospace::people::0": "Early experiments\nHeli and parachute designs"
+  "aerospace::people::0": "Early experiments\nHeli and parachute designs",
+  "aerospace::people::57": "Attacked SAMs"
  },
  "edits": {
   "aerospace::people::19": {
