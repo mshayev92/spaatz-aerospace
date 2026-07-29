@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335146772,
+ "updatedAt": 1785335216130,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,8 @@
   "aerospace::people::12": "Created the wind tunnel",
   "aerospace::people::4": "Discovered oxygen",
   "aerospace::people::33": "Flew from NY to Paris",
-  "aerospace::people::62": "Short-altitude penetration bomber"
+  "aerospace::people::62": "Short-altitude penetration bomber",
+  "aerospace::people::36": "Massive strike first, then population"
  },
  "edits": {
   "aerospace::people::19": {
