@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336518573,
+ "updatedAt": 1785336529381,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1428,7 +1428,6 @@
   "aerospace::concepts::94": "receiver and slave stations\nsignal between plane and station\ntime difference\nplotted on LORAN chart for location",
   "aerospace::misc::37": "Nixon\nMilitary leaders chose targets\nMore effective than Rolling Thunder",
   "aerospace::people::100": "White",
-  "aerospace::people::14": "man carrying glider",
   "aerospace::concepts::230": "saturn\njoint between us, esa, and other european space agencies",
   "aerospace::concepts::139": "turbulence\nheavy percipitation/lightning\ncalled a thunderstorm",
   "aerospace::definitions::15": "gulf tonkin resolution - gave the president authority to protect troops and carry out offensive attacks",
