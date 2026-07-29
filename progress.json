@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336016872,
+ "updatedAt": 1785336029106,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1597,7 +1597,8 @@
   "aerospace::people::70": "Spin stabilization",
   "aerospace::people::86": "Launched by STS-13 to conduct experiments\n",
   "aerospace::people::20": "First to fly off and land on ship deck",
-  "aerospace::people::73": "Experimented with more powerful liquid oxygen and alcohol propellants in the 1920s, after Goddard (1913)"
+  "aerospace::people::73": "Experimented with more powerful liquid oxygen and alcohol propellants in the 1920s, after Goddard (1913)",
+  "aerospace::people::101": "Svetlana Savitskaya"
  },
  "edits": {
   "aerospace::people::19": {
