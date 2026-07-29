@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335681315,
+ "updatedAt": 1785335690618,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1599,7 +1599,7 @@
   "aerospace::people::59": "Transported men and cargo Tet Offensive",
   "aerospace::people::41": "Attacked Japanese ships",
   "aerospace::people::71": "Russian scientist\nFirst theoretical calculations on reaction engine exiting and reentering Earth's atmosphere",
-  "aerospace::people::58": "Lan"
+  "aerospace::people::58": "Launched by Navy against Iraq"
  },
  "edits": {
   "aerospace::people::19": {
