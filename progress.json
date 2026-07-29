@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335497489,
+ "updatedAt": 1785335506312,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,7 @@
   "aerospace::people::63": "Stealth aircraft",
   "aerospace::people::56": "Alerted Navy/AF of MiGs",
   "aerospace::people::26": "First working helicopter",
-  "aerospace::people::80": "First\nAssess space effects on humans\n"
+  "aerospace::people::80": "First\nAssess space effects on humans\nReaction engines"
  },
  "edits": {
   "aerospace::people::19": {
