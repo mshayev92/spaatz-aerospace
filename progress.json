@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785355327841,
+ "updatedAt": 1785355420193,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1619,8 +1619,7 @@
   "aerospace::misc::5": "22 miles\n20 minutes\n$5 fare\nJanus\nAcross Tampa Bay\n1/1/1914\n5 months",
   "aerospace::planets::8": "4 cloud and haze layers",
   "aerospace::people::18": "Engine on wing tips\nPowered gliders\nLaunched airplane on Potomac from catapult\n",
-  "aerospace::planets::23": "Discovered volcanic eruptions on Io\nFound 3 moons (to make 16 total)",
-  "aerospace::people::75": "Launch vehicles, expendable\n"
+  "aerospace::planets::23": "Discovered volcanic eruptions on Io\nFound 3 moons (to make 16 total)"
  },
  "edits": {
   "aerospace::people::19": {
