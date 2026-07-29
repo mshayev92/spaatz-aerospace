@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334730557,
+ "updatedAt": 1785334738900,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1597,7 +1597,7 @@
   "aerospace::people::103": "Neil Armstrong",
   "aerospace::people::89": "Union\nCraft that could link with space station",
   "aerospace::people::31": "First air refueling\n37 hours",
-  "aerospace::people::87": "Firs"
+  "aerospace::people::87": "First craft to take people to space"
  },
  "edits": {
   "aerospace::people::19": {
