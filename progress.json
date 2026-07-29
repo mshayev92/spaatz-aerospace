@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785356402597,
+ "updatedAt": 1785356406038,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1625,7 +1625,7 @@
   "aerospace::people::60": "Navy, AF, NACA\n4,500 mph\n250,000 ft",
   "aerospace::misc::8": "Interrupting gear, auto rifle\nFocker and Garros",
   "aerospace::definitions::154": "Solar disturbances that occur at the poles\nBorealis (north), Australis (south)",
-  "aerospace::people::85": "Space Shuttle\nFirst: Columbia\nParts: orbiter, external boosters, "
+  "aerospace::people::85": "Space Shuttle\nFirst: Columbia (STS-1)\nParts: orbiter, external boosters, "
  },
  "edits": {
   "aerospace::people::19": {
