@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785345603166,
+ "updatedAt": 1785345616480,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -734,7 +734,7 @@
   "aerospace::definitions::110": "mastered",
   "aerospace::concepts::228": "mastered",
   "aerospace::misc::15": "mastered",
-  "aerospace::concepts::21": "review",
+  "aerospace::concepts::21": "mastered",
   "aerospace::concepts::47": "mastered",
   "aerospace::concepts::14": "mastered",
   "aerospace::definitions::137": "mastered",
@@ -1612,7 +1612,8 @@
   "aerospace::concepts::210": "1: Van Allen belts\n3: Radiation\n6: View of Earth",
   "aerospace::planets::7": "Plateaus, canyons, mountains",
   "aerospace::people::29": "Kelly and Macready, 1922",
-  "aerospace::concepts::21": "Regular for takeoff, transitions to swept back for high speed flight"
+  "aerospace::concepts::21": "Regular for takeoff, transitions to swept back for high speed flight",
+  "aerospace::people::6": "Flew ac"
  },
  "edits": {
   "aerospace::people::19": {
