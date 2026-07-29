@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335081231,
+ "updatedAt": 1785335103663,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,8 @@
   "aerospace::people::64": "First short range airliner",
   "aerospace::people::39": "Need fighter escort",
   "aerospace::people::48": "Surplus made it popular\nBut then Constellation\n",
-  "aerospace::people::38": "destroy will to resist, 60% fighters"
+  "aerospace::people::38": "destroy will to resist, 60% fighters",
+  "aerospace::people::12": "Created the wind tunnel"
  },
  "edits": {
   "aerospace::people::19": {
