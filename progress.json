@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334857280,
+ "updatedAt": 1785334862075,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1262,7 +1262,6 @@
   "aerospace::people::80": "first\ncan humans survive in space",
   "aerospace::definitions::160": "long narrow on moon",
   "aerospace::concepts::39": "reduce friction\nparallel to relative wind",
-  "aerospace::people::64": "first short haul jet",
   "aerospace::concepts::0": "fast\nelevation",
   "aerospace::definitions::165": "unstable star",
   "aerospace::definitions::120": "tendency of an object to stay in motion or stay at rest",
