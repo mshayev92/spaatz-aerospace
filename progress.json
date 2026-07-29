@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785338057053,
+ "updatedAt": 1785338073481,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1606,7 +1606,7 @@
   "aerospace::planets::9": "Mapped 99% (Venus)",
   "aerospace::planets::10": "Combined probe + orbiter",
   "aerospace::planets::11": "ESA",
-  "aerospace::planets::17": "Mars\nCombined probe + lander\nSearched for life\nFound more water than expected\nTemperature -18 thru 130 degrees"
+  "aerospace::planets::17": "Mars\nCombined probe + lander\nSearched for life\nFound more water than expected\nTemperature -18 thru 130 degrees\n\nORBITERS, NOT PROBES"
  },
  "edits": {
   "aerospace::people::19": {
