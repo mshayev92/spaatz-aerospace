@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334543075,
+ "updatedAt": 1785334556512,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1427,7 +1427,6 @@
   "aerospace::definitions::18": "nv attacked sv + us in christmas in conventional attack all over\ntelevised",
   "aerospace::definitions::17": "hit and run using jungle",
   "aerospace::people::33": "ny to paris",
-  "aerospace::people::27": "lifted man with a copter",
   "aerospace::misc::29": "high daytime, low nighttime bombing",
   "aerospace::people::56": "alerted navy and af of migs",
   "aerospace::people::17": "Made plans for the first man-carrying craft, never conceived\nSteam version flown",
@@ -1595,7 +1594,8 @@
   "aerospace::people::0": "Early experiments\nHeli and parachute designs",
   "aerospace::people::57": "Attacked SAMs",
   "aerospace::people::47": "Used in Korea",
-  "aerospace::people::24": "Flew first powered airplane in Europe\nGasoline powered dirgible"
+  "aerospace::people::24": "Flew first powered airplane in Europe\nGasoline powered dirgible",
+  "aerospace::people::27": "Lifted man with copte"
  },
  "edits": {
   "aerospace::people::19": {
