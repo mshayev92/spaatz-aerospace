@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336651856,
+ "updatedAt": 1785336659591,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1391,7 +1391,6 @@
   "aerospace::definitions::69": "3d highways in sky",
   "aerospace::misc::86": "collaboration for permanent space station",
   "aerospace::concepts::174": "cooled plasma\nappear darker than surroundings",
-  "aerospace::people::54": "winged bomb so troops can stay further away",
   "aerospace::definitions::105": "gravitation on earth\ninteraction of any object near Earth",
   "aerospace::concepts::132": "20k+ ft\nCirrus\nCirrostratus\nCirrocumulus",
   "aerospace::definitions::59": "shading based on elevation",
