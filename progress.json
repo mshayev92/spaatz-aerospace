@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335977923,
+ "updatedAt": 1785335979210,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1451,7 +1451,6 @@
   "aerospace::concepts::58": "destroy lift",
   "aerospace::definitions::155": "changes in ion density\naffects communications",
   "aerospace::concepts::68": "uses pressurized fluid to move stuff\nhow you can break so quickly",
-  "aerospace::people::73": "experimented with more powerful liquid and alcohol propellants in the 1920s",
   "aerospace::concepts::11": "Germany, Italy, Japan",
   "aerospace::misc::74": "solar heliospheric observatory\nstudied the sun",
   "aerospace::concepts::114": "different molecular composition\nabove homosphere (60+ mi)\nparticles far apart",
