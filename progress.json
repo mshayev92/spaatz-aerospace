@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334899916,
+ "updatedAt": 1785334914959,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1426,7 +1426,6 @@
   "aerospace::people::56": "alerted navy and af of migs",
   "aerospace::people::17": "Made plans for the first man-carrying craft, never conceived\nSteam version flown",
   "aerospace::concepts::109": "Sun particles interact with oxygen to make ozone, which protects us from radiation",
-  "aerospace::people::48": "surplus made it popular, then Constellation became the best",
   "aerospace::misc::15": "piper",
   "aerospace::misc::35": "In NV, finally destroyed by airstrike\n\nlaser guided bombs",
   "aerospace::definitions::72": "the course the pilot takes in regard to true north",
@@ -1598,7 +1597,8 @@
   "aerospace::people::78": "First satellite\nFreedom of use\nExplorer 1",
   "aerospace::people::97": "Maj. Yuri Gagarin",
   "aerospace::people::64": "First short range airliner",
-  "aerospace::people::39": "Need fighter escort"
+  "aerospace::people::39": "Need fighter escort",
+  "aerospace::people::48": "Surplus made it popular\nBut then Constellation\n"
  },
  "edits": {
   "aerospace::people::19": {
