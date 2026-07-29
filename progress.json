@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785333466898,
+ "updatedAt": 1785333517277,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1259,7 +1259,6 @@
   "aerospace::concepts::224": "1/2\ncombined probe and lander\nexplore mars",
   "aerospace::definitions::57": "part of great circle\nnorth south",
   "aerospace::definitions::140": "contains everything\nextends infinitely in all directions",
-  "aerospace::people::0": "parachute and helicopter",
   "aerospace::people::80": "first\ncan humans survive in space",
   "aerospace::definitions::160": "long narrow on moon",
   "aerospace::concepts::39": "reduce friction\nparallel to relative wind",
