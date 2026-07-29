@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337631062,
+ "updatedAt": 1785337654085,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1605,7 +1605,8 @@
   "aerospace::people::45": "First practical military helicopter\nUsed for search and rescue and to rescue downed pilots behind enemy lines\nVN?",
   "aerospace::people::88": "3-man capsule\nFirst space walk",
   "aerospace::people::96": "Sally Ride",
-  "aerospace::people::28": "First Americans, practical heli"
+  "aerospace::people::28": "First Americans, practical heli",
+  "aerospace::planets::2": "First successful interplanetary mission\nVenus = discovered hot temp"
  },
  "edits": {
   "aerospace::people::19": {
