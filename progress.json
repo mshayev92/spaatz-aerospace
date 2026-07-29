@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335310557,
+ "updatedAt": 1785335313904,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1454,7 +1454,6 @@
   "aerospace::definitions::113": "Reduces the pressure of outgoing exhaust to increase velocity",
   "aerospace::misc::9": "US, Britain: 5; Germany: 10\n\nRickenbacker, Manfred, Mannock, Fonck",
   "aerospace::concepts::152": "oxidizer and fuel are burned to create hot gases that act as fast exhaust",
-  "aerospace::people::85": "Space Shuttle\nFirst one: Challenger\n",
   "aerospace::misc::72": "atlas and delta\ncan be expendable or reusable (like the space shuttle)\n",
   "aerospace::people::44": "long range bomber, big bombs\n10,000 lbs",
   "aerospace::people::23": "improve the wright flier\nadded ailerons\ndesigned first fully enclosed fuselage",
