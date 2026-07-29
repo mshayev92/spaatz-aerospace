@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785357065963,
+ "updatedAt": 1785357072491,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1630,7 +1630,7 @@
   "aerospace::concepts::225": "Better pictures than Pioneer; 2 passed by Uranus",
   "aerospace::concepts::199": "UN org. powering large array of geostationary satellites for communication",
   "aerospace::concepts::59": "Parts producing drag/turbulence\nCan be put on fuselage/wing",
-  "aerospace::concepts::223": "Inner and out planets"
+  "aerospace::concepts::223": "Inner and outer planets"
  },
  "edits": {
   "aerospace::people::19": {
