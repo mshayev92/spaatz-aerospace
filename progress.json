@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335216130,
+ "updatedAt": 1785335223669,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1393,7 +1393,6 @@
   "aerospace::definitions::70": "prohibited or restricted",
   "aerospace::misc::47": "magenta",
   "aerospace::concepts::18": "National Security Act\nDeterrence",
-  "aerospace::people::13": "first plane to takeoff --- under its own power",
   "aerospace::definitions::123": "west to east?\norbiting over equator",
   "aerospace::concepts::34": "wind meets again",
   "aerospace::definitions::69": "3d highways in sky",
