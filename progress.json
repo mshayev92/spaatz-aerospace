@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785356353628,
+ "updatedAt": 1785356379485,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -776,7 +776,7 @@
   "aerospace::misc::36": "mastered",
   "aerospace::people::7": "mastered",
   "aerospace::concepts::65": "mastered",
-  "aerospace::definitions::154": "general",
+  "aerospace::definitions::154": "mastered",
   "aerospace::planets::5": "mastered",
   "aerospace::definitions::166": "mastered",
   "aerospace::concepts::106": "mastered",
@@ -1624,7 +1624,8 @@
   "aerospace::misc::3": "More reliable\nFirst patent: Short bros.\nSikorsky: four engines",
   "aerospace::people::60": "Navy, AF, NACA\n4,500 mph\n250,000 ft",
   "aerospace::misc::8": "Interrupting gear, auto rifle\nFocker and Garros",
-  "aerospace::definitions::154": "Solar disturbances that occur at the poles\nBorealis (north), Australis (south)"
+  "aerospace::definitions::154": "Solar disturbances that occur at the poles\nBorealis (north), Australis (south)",
+  "aerospace::people::85": "Spac "
  },
  "edits": {
   "aerospace::people::19": {
