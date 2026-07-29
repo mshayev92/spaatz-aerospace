@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337835897,
+ "updatedAt": 1785337863068,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -678,7 +678,7 @@
   "aerospace::definitions::120": "mastered",
   "aerospace::misc::67": "mastered",
   "aerospace::concepts::171": "mastered",
-  "aerospace::planets::7": "mastered",
+  "aerospace::planets::7": "review",
   "aerospace::people::52": "review",
   "aerospace::people::56": "mastered",
   "aerospace::definitions::28": "mastered",
@@ -1605,8 +1605,7 @@
   "aerospace::planets::3": "Soviet, crash landed",
   "aerospace::planets::4": "Carbon dioxide rich atmosphere\nVenus",
   "aerospace::planets::5": "Speed/direction of clouds",
-  "aerospace::planets::6": "Craters",
-  "aerospace::planets::7": "Pioneer = took photos\n"
+  "aerospace::planets::6": "Craters"
  },
  "edits": {
   "aerospace::people::19": {
