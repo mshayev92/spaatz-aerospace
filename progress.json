@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785329413464,
+ "updatedAt": 1785333459508,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1590,8 +1590,7 @@
   "aerospace::misc::77": "Safe is .3 roetgen, belt can reach 10-20, may be dangerous for satellites and manned crafts",
   "aerospace::planets::4": "carbon dioxide rich atmosphere",
   "aerospace::people::39": "fighter escort needed",
-  "aerospace::people::19": "Fastest man on Earth\n(motorcycle speed cord)\nSwitch to aviation\nFounded the Aerial Experiment Ass.",
-  "aerospace::definitions::174": "1988?\nJoint use\nOwnership of research\nMilitary\n\n"
+  "aerospace::people::19": "Fastest man on Earth\n(motorcycle speed cord)\nSwitch to aviation\nFounded the Aerial Experiment Ass."
  },
  "edits": {
   "aerospace::people::19": {
