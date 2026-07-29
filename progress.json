@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785355748992,
+ "updatedAt": 1785355756811,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1456,7 +1456,6 @@
   "aerospace::definitions::149": "has negative or positive charge\nbecause of sun/stars",
   "aerospace::planets::21": "10 hours\n5th planet\ngreat spot (storm)\ngas giant\nlargest planet by far\n",
   "aerospace::concepts::209": "find data, do research\nearth observation system - example",
-  "aerospace::misc::13": "Soldiers who parachute from planes",
   "aerospace::concepts::92": "Signal between plane and receivers\nCalculate time difference to find dis.\n",
   "aerospace::concepts::15": "Air superiority, interdiction, support ground forces",
   "aerospace::concepts::208": "track people and enemy\nwatches for missile launches",
