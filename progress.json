@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334751285,
+ "updatedAt": 1785334755532,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1287,7 +1287,6 @@
   "aerospace::concepts::101": "wider funnel and indicators",
   "aerospace::definitions::24": "activated in operation dessert shield\nairplanes used for transporting cargo",
   "aerospace::concepts::97": "GPS\nstandard precision service",
-  "aerospace::people::29": "kelly and macready, 1922",
   "aerospace::definitions::139": "when a rocket's payload is a bomb",
   "aerospace::definitions::27": "needs to be hardened for high speed flight\nmore effective\nALMOST\n\nreduces weight and drag",
   "aerospace::concepts::219": "sent to moon to get more info",
