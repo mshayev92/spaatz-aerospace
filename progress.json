@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785355878838,
+ "updatedAt": 1785355884689,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1178,7 +1178,7 @@
   "aerospace::concepts::15": "mastered",
   "aerospace::misc::38": "mastered",
   "aerospace::people::32": "mastered",
-  "aerospace::concepts::227": "general",
+  "aerospace::concepts::227": "mastered",
   "aerospace::people::15": "general",
   "aerospace::misc::17": "general",
   "aerospace::planets::27": "review",
@@ -1620,7 +1620,8 @@
   "aerospace::people::18": "Engine on wing tips\nPowered gliders\nLaunched airplane on Potomac from catapult\n",
   "aerospace::planets::23": "Discovered volcanic eruptions on Io\nFound 3 moons (to make 16 total)",
   "aerospace::people::1": "Studied pressure\nTorricelli invented the barometer",
-  "aerospace::concepts::227": "Entered orbit\nCollected data on ground and atmosphere\nIce at the poles?"
+  "aerospace::concepts::227": "Entered orbit\nCollected data on ground and atmosphere\nIce at the poles?",
+  "aerospace::people::15": "Father of "
  },
  "edits": {
   "aerospace::people::19": {
