@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785345829750,
+ "updatedAt": 1785345847561,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1614,8 +1614,7 @@
   "aerospace::people::29": "Kelly and Macready, 1922",
   "aerospace::concepts::21": "Regular for takeoff, transitions to swept back for high speed flight",
   "aerospace::people::6": "Flew across English Channel in HAB, 1785",
-  "aerospace::people::22": "First licensed female pilot\nFirst woman to fly across English Channel",
-  "aerospace::concepts::223": "To outer planets\n10 Jupiter, 11 Saturn"
+  "aerospace::people::22": "First licensed female pilot\nFirst woman to fly across English Channel"
  },
  "edits": {
   "aerospace::people::19": {
