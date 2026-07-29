@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335921861,
+ "updatedAt": 1785335940348,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1471,7 +1471,6 @@
   "aerospace::definitions::87": "Small and dust particles\nW/o them precipitation and condensation can't happen\nCondensation nuclei",
   "aerospace::concepts::5": "Lincoln told Gen Scott to allow Thadeus SC Lowe to form Balloon Signal Service",
   "aerospace::definitions::162": "Not big enough to be planets\nOrbit the sun\nRocky/metallic objects",
-  "aerospace::people::86": "Launched by STS 13 to do experiments",
   "aerospace::concepts::197": "observation, nav, comm, scientific",
   "aerospace::concepts::43": "changes in pressure, temp. loss of energy that creates drag",
   "aerospace::definitions::149": "has negative or positive charge\nbecause of sun/stars",
@@ -1598,7 +1597,8 @@
   "aerospace::people::71": "Russian scientist\nFirst theoretical calculations on reaction engine exiting and reentering Earth's atmosphere",
   "aerospace::people::58": "Launched by Navy against Iraq",
   "aerospace::people::95": "Valentina Tereshkova",
-  "aerospace::people::70": "Spin stabilization"
+  "aerospace::people::70": "Spin stabilization",
+  "aerospace::people::86": "Launched by STS-13 to conduct experiments\n"
  },
  "edits": {
   "aerospace::people::19": {
