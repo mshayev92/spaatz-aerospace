@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785333788721,
+ "updatedAt": 1785333804049,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1592,7 +1592,7 @@
   "aerospace::people::8": "Henry Giffard\nCharles Renard and AC Krebs\n(electric motors, steered back to takeoff pt.)",
   "aerospace::people::98": "John Glenn",
   "aerospace::people::10": "Four forces of flight\nGliders\nResearched powered flight\n",
-  "aerospace::people::69": "Standardized gunpowder comp. for rockets\nStabilizing"
+  "aerospace::people::69": "Standardized gunpowder comp. for rockets\nStabilization\nIncreased range from 300 to 1000"
  },
  "edits": {
   "aerospace::people::19": {
