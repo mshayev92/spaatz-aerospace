@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785356459993,
+ "updatedAt": 1785356473374,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -783,7 +783,7 @@
   "aerospace::definitions::23": "mastered",
   "aerospace::concepts::72": "mastered",
   "aerospace::definitions::2": "mastered",
-  "aerospace::people::85": "general",
+  "aerospace::people::85": "mastered",
   "aerospace::planets::20": "mastered",
   "aerospace::concepts::37": "mastered",
   "aerospace::concepts::179": "review",
@@ -1625,7 +1625,7 @@
   "aerospace::people::60": "Navy, AF, NACA\n4,500 mph\n250,000 ft",
   "aerospace::misc::8": "Interrupting gear, auto rifle\nFocker and Garros",
   "aerospace::definitions::154": "Solar disturbances that occur at the poles\nBorealis (north), Australis (south)",
-  "aerospace::people::85": "Space Shuttle\nFirst: Columbia (STS-1)\nParts: orbiter, external boosters, payload\n\n***EXTERNAL TANK"
+  "aerospace::people::85": "Space Shuttle\nFirst: Columbia (STS-1)\nParts: orbiter, external boosters, payload\n\n*EXTERNAL TANK, SOLID BOOSTERS"
  },
  "edits": {
   "aerospace::people::19": {
