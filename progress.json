@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785317978443,
+ "updatedAt": 1785317978951,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1581,7 +1581,7 @@
   "aerospace::planets::30": "Dwarf at the edge of the kuiper belt",
   "aerospace::concepts::72": "gears, gyro, float",
   "aerospace::concepts::126": "Forms East, moves NE\nLow pressure cell behind\nLess dense, moves slower than cold\nCan be lifted by cold\nLight precipitation\nAfter percip., warm aftereffect",
-  "aerospace::concepts::131": "Altostratus, Altocumulus, nimbostratu"
+  "aerospace::concepts::131": "Altostratus, Altocumulus, nimbostratus"
  },
  "edits": {
   "aerospace::people::19": {
