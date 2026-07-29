@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337427826,
+ "updatedAt": 1785337435446,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1603,7 +1603,7 @@
   "aerospace::people::34": "First president of the 99s\nFirst women passenger Atlantic\nFirst women solo flight Atlantic\nLost at sea",
   "aerospace::people::3": "Hot air balloon",
   "aerospace::people::65": "Revolutionized 1960s comm. travel",
-  "aerospace::people::45": "First practical "
+  "aerospace::people::45": "First practical military helicopter\nUsed for search and rescue and to rescue downed pilots beihnd "
  },
  "edits": {
   "aerospace::people::19": {
