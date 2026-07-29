@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785334606847,
+ "updatedAt": 1785334631734,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1594,7 +1594,8 @@
   "aerospace::people::24": "Flew first powered airplane in Europe\nGasoline powered dirgible",
   "aerospace::people::27": "Lifted man with copter",
   "aerospace::people::90": "First space station, Russian\nTwo years later: Skylan (American)",
-  "aerospace::people::76": "NASA airplane to simulate zero gravity"
+  "aerospace::people::76": "NASA airplane to simulate zero gravity",
+  "aerospace::people::9": "Internal combustion dirgibles"
  },
  "edits": {
   "aerospace::people::19": {
