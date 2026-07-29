@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785356679754,
+ "updatedAt": 1785356698997,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1626,8 +1626,7 @@
   "aerospace::misc::8": "Interrupting gear, auto rifle\nFocker and Garros",
   "aerospace::definitions::154": "Solar disturbances that occur at the poles\nBorealis (north), Australis (south)",
   "aerospace::people::85": "Space Shuttle\nFirst: Columbia (STS-1)\nParts: orbiter, external boosters, payload\n\n*EXTERNAL TANK, SOLID BOOSTERS",
-  "aerospace::definitions::164": "Chunks of matter in space\nMicrometeorites: dust-size\nMeteor/ites: enter atmosphere",
-  "aerospace::concepts::112": "Most important physio-chemical reactions happen here\nBlends with exosphere (other regions)?"
+  "aerospace::definitions::164": "Chunks of matter in space\nMicrometeorites: dust-size\nMeteor/ites: enter atmosphere"
  },
  "edits": {
   "aerospace::people::19": {
