@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785320068564,
+ "updatedAt": 1785325274867,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1585,7 +1585,8 @@
   "aerospace::concepts::140": "At night, ground cools. The air directly touching the ground is cooled by conduction below dew pt., causing fog",
   "aerospace::misc::77": "Safe is .3 roetgen, belt can reach 10-20, may be dangerous for satellites and manned crafts",
   "aerospace::planets::4": "carbon dioxide rich atmosphere",
-  "aerospace::people::39": "fighter escort needed"
+  "aerospace::people::39": "fighter escort needed",
+  "aerospace::concepts::210": "1: Van Allen Bel"
  },
  "edits": {
   "aerospace::people::19": {
