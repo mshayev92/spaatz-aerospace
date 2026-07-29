@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337600783,
+ "updatedAt": 1785337628151,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1606,8 +1606,7 @@
   "aerospace::people::45": "First practical military helicopter\nUsed for search and rescue and to rescue downed pilots behind enemy lines\nVN?",
   "aerospace::people::88": "3-man capsule\nFirst space walk",
   "aerospace::people::96": "Sally Ride",
-  "aerospace::people::28": "First Americans, practical heli",
-  "aerospace::planets::0": "First planet, smallest\nThin atmosphere\nOrbits fast, long days\nMariner flew by?"
+  "aerospace::people::28": "First Americans, practical heli"
  },
  "edits": {
   "aerospace::people::19": {
