@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785318071382,
+ "updatedAt": 1785318084236,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1582,7 +1582,8 @@
   "aerospace::concepts::72": "gears, gyro, float",
   "aerospace::concepts::126": "Forms East, moves NE\nLow pressure cell behind\nLess dense, moves slower than cold\nCan be lifted by cold\nLight precipitation\nAfter percip., warm aftereffect",
   "aerospace::concepts::131": "Altostratus, Altocumulus, nimbostratus",
-  "aerospace::concepts::140": "At night, ground cools. The air directly touching the ground is cooled by conduction below dew pt., causing fog"
+  "aerospace::concepts::140": "At night, ground cools. The air directly touching the ground is cooled by conduction below dew pt., causing fog",
+  "aerospace::misc::77": "Safe is .3 roetgen, bel"
  },
  "edits": {
   "aerospace::people::19": {
