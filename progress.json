@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336397585,
+ "updatedAt": 1785336408237,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1598,7 +1598,7 @@
   "aerospace::people::101": "Svetlana Savitskaya",
   "aerospace::people::49": "First pure jet airliner",
   "aerospace::people::50": "First tuboprop airliner",
-  "aerospace::people::72": "Father"
+  "aerospace::people::72": "Father of modern rocketry\nFirst to use liquid propellants in 1913"
  },
  "edits": {
   "aerospace::people::19": {
