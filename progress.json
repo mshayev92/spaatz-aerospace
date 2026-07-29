@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785337916038,
+ "updatedAt": 1785337931525,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1503,7 +1503,6 @@
   "aerospace::misc::2": "1909\nArmy\nTrain Pilots\nDisassemble in conflict\nManeuverable, reliable\nAlso signed a French contract\n",
   "aerospace::concepts::76": "state of devices",
   "aerospace::concepts::48": "4 stroke, 5 events\ncircular motion, back and forth\nenergy through spinning fluid",
-  "aerospace::planets::9": "Mapped 99% of Venus",
   "aerospace::definitions::156": "Pressure removed, air particles escape\nCan damage equipment",
   "aerospace::concepts::142": "moist air moves horizontally, is cooled below dew pt.",
   "aerospace::definitions::148": "charged particles ejected continuously into interplanetary space",
@@ -1605,7 +1604,8 @@
   "aerospace::planets::3": "Soviet, crash landed",
   "aerospace::planets::4": "Carbon dioxide rich atmosphere\nVenus",
   "aerospace::planets::5": "Speed/direction of clouds",
-  "aerospace::planets::6": "Craters"
+  "aerospace::planets::6": "Craters",
+  "aerospace::planets::9": "Mapped 99% (Venus)"
  },
  "edits": {
   "aerospace::people::19": {
