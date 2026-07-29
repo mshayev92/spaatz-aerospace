@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785336659591,
+ "updatedAt": 1785336675517,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1597,7 +1597,8 @@
   "aerospace::people::55": "Navy fighter-bomber, all-weather capable, VN",
   "aerospace::people::51": "Short to medium range, later equipped with turboprop; 240 to 340 to 440 (56 seats)",
   "aerospace::people::11": "Planaphore\nFront to back stability",
-  "aerospace::people::99": "Aleksei Leonov"
+  "aerospace::people::99": "Aleksei Leonov",
+  "aerospace::people::54": "Long range bomb, troops could stay further away"
  },
  "edits": {
   "aerospace::people::19": {
