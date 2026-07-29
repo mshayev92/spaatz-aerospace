@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785335570907,
+ "updatedAt": 1785335580641,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1281,7 +1281,6 @@
   "aerospace::concepts::74": "starting to be used more and more",
   "aerospace::concepts::91": "360 degrees\ncannot select like vor (less info)\ninstrument on dashboard",
   "aerospace::concepts::103": "78% nitrogen\n21% oxygen\n1%",
-  "aerospace::people::84": "docking\nbetween us and russia",
   "aerospace::concepts::101": "wider funnel and indicators",
   "aerospace::definitions::24": "activated in operation dessert shield\nairplanes used for transporting cargo",
   "aerospace::concepts::97": "GPS\nstandard precision service",
@@ -1598,7 +1597,8 @@
   "aerospace::people::26": "First working helicopter",
   "aerospace::people::80": "First\nAssess space effects on humans\n*Guess: Reaction engines",
   "aerospace::people::81": "Second\nFirst American moon walk\n2 man capsule\nPrepare for Apollo\nLong-term effects on humans",
-  "aerospace::people::2": "Aerial s"
+  "aerospace::people::2": "Aerial ship",
+  "aerospace::people::84": "Joint be"
  },
  "edits": {
   "aerospace::people::19": {
