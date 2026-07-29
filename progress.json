@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785356526413,
+ "updatedAt": 1785356537720,
  "order": [
   "aerospace::definitions::121",
   "aerospace::concepts::148",
@@ -1626,7 +1626,7 @@
   "aerospace::misc::8": "Interrupting gear, auto rifle\nFocker and Garros",
   "aerospace::definitions::154": "Solar disturbances that occur at the poles\nBorealis (north), Australis (south)",
   "aerospace::people::85": "Space Shuttle\nFirst: Columbia (STS-1)\nParts: orbiter, external boosters, payload\n\n*EXTERNAL TANK, SOLID BOOSTERS",
-  "aerospace::concepts::170": "Medium-sized star\n890k mi diameter\nGravitational field 100x stronger than Earth, irregular\nSolar winds and other disturbances mean the sun is active\n11 year sunspot cycle\n22/24 year orbit?\nAttract everything in Solar System"
+  "aerospace::concepts::170": "Medium-sized star\n890k mi diameter\nGravitational field 100x stronger than Earth, irregular\nSolar winds and other disturbances mean the sun is active\n11 year sunspot cycle\n22/24 year orbit?\nAttract everything in Solar System\n\nI was thinking 864k"
  },
  "edits": {
   "aerospace::people::19": {
