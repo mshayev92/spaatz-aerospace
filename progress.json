@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785421810770,
+ "updatedAt": 1785421830135,
  "order": [
   "aerospace::concepts::64",
   "aerospace::people::83",
@@ -640,9 +640,7 @@
   "aerospace::people::1"
  ],
  "mastery": {},
- "notes": {
-  "aerospace::concepts::64": "Two wheels behind, one wheel forward\n"
- },
+ "notes": {},
  "edits": {
   "aerospace::people::19": {
    "t": "Glenn Curtiss",
