@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785520846189,
+ "updatedAt": 1785520868539,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -976,11 +976,12 @@
   "aerospace::review::28"
  ],
  "mastery": {
-  "aerospace::ch3::0": "mastered"
+  "aerospace::ch3::0": "mastered",
+  "aerospace::ch3::2": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
-  "aerospace::ch3::2": "C"
+  "aerospace::ch3::2": "Chicago, Seattle, Boston, New Orleans\nSeattle to Seattle\nBilly Mitchell"
  },
  "edits": {}
 }
