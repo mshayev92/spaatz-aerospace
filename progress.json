@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785520893434,
+ "updatedAt": 1785520901841,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -977,12 +977,14 @@
  ],
  "mastery": {
   "aerospace::ch3::0": "mastered",
-  "aerospace::ch3::2": "mastered"
+  "aerospace::ch3::2": "mastered",
+  "aerospace::ch3::3": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
   "aerospace::ch3::2": "Chicago, Seattle, Boston, New Orleans\nSeattle to Seattle\nBilly Mitchell",
-  "aerospace::ch3::3": "First air refueling\n37 hours"
+  "aerospace::ch3::3": "First air refueling\n37 hours",
+  "aerospace::ch3::4": "New York to Paris"
  },
  "edits": {}
 }
