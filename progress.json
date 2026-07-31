@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785521268145,
+ "updatedAt": 1785521292897,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -983,7 +983,8 @@
   "aerospace::ch3::5": "mastered",
   "aerospace::ch3::6": "mastered",
   "aerospace::ch3::7": "mastered",
-  "aerospace::ch3::8": "mastered"
+  "aerospace::ch3::8": "mastered",
+  "aerospace::ch3::10": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -994,7 +995,8 @@
   "aerospace::ch3::6": "First disaster in scheduled service\nLakehurst, NJ\nHydrogen combusted (likely)",
   "aerospace::ch3::7": "17 men, guns to action in 4 min\nWomen's Air Derby",
   "aerospace::ch3::8": "Bendix Trophy: Transcontinental\nThompson: Pylon\nPulitzer: Speed\nSchneider: Seaplanes",
-  "aerospace::ch3::10": "AKA Air Mail Act of 1930\nPayment acc. to available cargo space\nPG could change or extend routes\nAircraft: DC-4 staple (no accidents)"
+  "aerospace::ch3::10": "AKA Air Mail Act of 1930\nPayment acc. to available cargo space\nPG could change or extend routes\nAircraft: DC-4 staple (no accidents)\n\nWRONG: AIRCRAFT TYPE",
+  "aerospace::ch3::11": "F"
  },
  "edits": {}
 }
