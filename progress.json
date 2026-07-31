@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785421830135,
+ "updatedAt": 1785502717575,
  "order": [
   "aerospace::concepts::64",
   "aerospace::people::83",
@@ -646,5 +646,6 @@
    "t": "Glenn Curtiss",
    "d": "motorcycles to planes, fastes man on earth, founded Aerial Experiment Association (ailerons, first seaplane)"
   }
- }
+ },
+ "lists": {}
 }
