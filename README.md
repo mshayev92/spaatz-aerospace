@@ -1,15 +1,54 @@
 # Aerospace Study Deck
 
-A flashcard study app for the "Journey of Flight" (aerospace) deck.
+A flashcard study app for the "Journey of Flight" (aerospace) deck. It's a
+single static page — no build step, no server, no dependencies — that also
+installs as an offline-capable PWA.
 
 ## Structure
 
 - `index.html` — the app (UI + logic). Loads card data from `data.json` and
   `progress.json` at runtime.
-- `data.json` — all flashcard content (terms, definitions, concepts, people/aircraft, etc).
+- `data.json` — all flashcard content (definitions, concepts, people/aircraft, etc).
   Edit this file (or use the app's built-in edit features) to update the deck content.
 - `progress.json` — your mastery marks, notes, "All sections" order, and card edits.
   This is the file that keeps you in sync across devices — see below.
+- `manifest.json` / `sw.js` / `icons/` — PWA install metadata and the offline cache.
+
+### How `data.json` is organised
+
+The deck has five sections — Definitions, Concepts, People / Aircraft,
+Miscellaneous, Planets — and each card is a JSON array:
+
+```jsonc
+["Helium", "safer than hydrogen"]   // two entries: a term/definition pair, flippable
+["Fixed gear cheaper, retractable reduces drag"]   // one entry: a single-sided fact
+```
+
+The two entries at the top of the section picker — **Terms & Definitions** and
+**Facts & Concepts** — are *cross-section views*, not stored sections. The app
+derives them at load time by slicing the whole deck into pair cards and fact
+cards. Adding a card to any section automatically puts it in the right view;
+there's nothing to keep in sync by hand.
+
+## Studying
+
+| Key | Action |
+| --- | --- |
+| `Space` | Flip the card |
+| `←` `→` | Previous / next card |
+| `M` / `R` / `G` | Mark mastered / needs review / know some |
+| `S` | Shuffle, or restore the original order |
+| `E` | Edit the current card |
+| `N` | Toggle notes |
+| `J` | Jump to a card number |
+| `F` | Fullscreen |
+| `/` | Search every card |
+| `?` | Show this list in the app |
+| `Esc` | Close any menu, panel or dialog |
+
+Search covers the whole deck (terms and definitions), ranks exact and
+term matches first, and jumps straight to the card's own section when you pick
+a result. Cards you've edited are searchable by their edited text.
 
 ## How syncing works
 
@@ -143,3 +182,14 @@ Things that stay purely local to each browser (not synced): current card
 position, active filter, text size, direction (term→def vs def→term), and
 fullscreen state. These are minor per-session preferences, not progress, so
 there was no reason to make them part of the sync file.
+
+## Offline / caching
+
+`sw.js` precaches the app shell so it opens without a network connection.
+`index.html` and `data.json` are fetched **network-first** (falling back to the
+cache when offline), so a redeploy shows up on the very next load rather than
+the one after it. `progress.json` is never cached — the app always needs a live
+read of it to know the true sync state.
+
+Bump `CACHE_NAME` in `sw.js` whenever you change the app shell, so old caches
+get cleared on activation.
