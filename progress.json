@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785521230432,
+ "updatedAt": 1785521243448,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -993,7 +993,8 @@
   "aerospace::ch3::5": "First woman passenger across Atlantic\nFirst woman aviation to solo across Atlantic\nFirst president of the 99s\nLost at sea",
   "aerospace::ch3::6": "First disaster in scheduled service\nLakehurst, NJ\nHydrogen combusted (likely)",
   "aerospace::ch3::7": "17 men, guns to action in 4 min\nWomen's Air Derby",
-  "aerospace::ch3::8": "Bendix Trophy: Transcontinental\nThompson: Pylon\nPulitzer: Speed\nSchneider: Seaplanes"
+  "aerospace::ch3::8": "Bendix Trophy: Transcontinental\nThompson: Pylon\nPulitzer: Speed\nSchneider: Seaplanes",
+  "aerospace::ch3::10": "AKA Air Mail Act of 1930\n"
  },
  "edits": {}
 }
