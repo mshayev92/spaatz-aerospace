@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785521365495,
+ "updatedAt": 1785521373059,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -999,7 +999,8 @@
   "aerospace::ch3::7": "17 men, guns to action in 4 min\nWomen's Air Derby",
   "aerospace::ch3::8": "Bendix Trophy: Transcontinental\nThompson: Pylon\nPulitzer: Speed\nSchneider: Seaplanes",
   "aerospace::ch3::10": "AKA Air Mail Act of 1930\nPayment acc. to available cargo space\nPG could change or extend routes\nAircraft: DC-4 staple (no accidents)\n\nWRONG: AIRCRAFT TYPE",
-  "aerospace::ch3::11": "First airline crossing of Pacific and Atlantic oceans"
+  "aerospace::ch3::11": "First airline crossing of Pacific and Atlantic oceans",
+  "aerospace::ch3::14": "Declined\nAir service decreased"
  },
  "edits": {}
 }
