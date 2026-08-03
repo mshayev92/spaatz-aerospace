@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797744710,
+ "updatedAt": 1785797752071,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1201,7 +1201,7 @@
   "aerospace::ch1::16": "Launched craft from catapault\nAerodrome fell into Potomac",
   "aerospace::ch1::17": "Flew first powered aircraft in Europe",
   "aerospace::ch1::18": "First successful helicopter",
-  "aerospace::ch1::19": "Bacon, Caylet, da Vinci"
+  "aerospace::ch1::19": "Bacon, Cayley, da Vinci"
  },
  "edits": {}
 }
