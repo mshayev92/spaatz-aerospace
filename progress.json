@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785799206653,
+ "updatedAt": 1785799218898,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1303,7 +1303,7 @@
   "aerospace::ch3::47": "Civil Aeronautics Authorirty (CAA)",
   "aerospace::ch3::48": "3",
   "aerospace::ch3::50": "First airline crossing of Pacific/Atlantic oceans\nSikorsky R42\n\nALMOST",
-  "aerospace::ch3::51": "amel"
+  "aerospace::ch3::51": "Amelia Earhart"
  },
  "edits": {}
 }
