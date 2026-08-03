@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789497303,
+ "updatedAt": 1785789509929,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1157,7 +1157,7 @@
   "aerospace::ch10::22": "Parallel: A, B, C, D\n\nWRONG",
   "aerospace::ch10::24": "Automated Terminal Info System\nControl tower voice with info",
   "aerospace::ch10::25": "Wildlife\nVehicles/people\nOther aircraft",
-  "aerospace::ch10::26": "Noise caused by aircraft, disturbing nearby residences"
+  "aerospace::ch10::26": "Noise caused by aircraft disturbs nearby residences"
  },
  "edits": {}
 }
