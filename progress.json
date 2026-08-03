@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789082785,
+ "updatedAt": 1785789107768,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1079,7 +1079,8 @@
   "aerospace::ch10::3": "mastered",
   "aerospace::ch10::4": "mastered",
   "aerospace::ch10::5": "mastered",
-  "aerospace::ch10::6": "mastered"
+  "aerospace::ch10::6": "mastered",
+  "aerospace::ch10::7": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1128,7 +1129,8 @@
   "aerospace::ch10::4": "Passengers, cargo, shops, etc.",
   "aerospace::ch10::5": "Weather",
   "aerospace::ch10::6": "No control towers",
-  "aerospace::ch10::7": "Civilian and military\nIf sharing, military over civilian"
+  "aerospace::ch10::7": "Civilian and military\nIf sharing, military over civilian",
+  "aerospace::ch10::8": "Wildlife (primarily birds)\nEnroachment\nNoise abatement"
  },
  "edits": {}
 }
