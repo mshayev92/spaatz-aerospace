@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789263640,
+ "updatedAt": 1785789269719,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1145,7 +1145,8 @@
   "aerospace::ch10::8": "Wildlife (primarily birds)\nEnroachment\nNoise abatement",
   "aerospace::ch10::17": "Controlled: Traffic control\nUncontrolled: None",
   "aerospace::ch10::18": "Civilian: green, white\nMilitary: green, white, white",
-  "aerospace::ch10::19": "Runway: blue\nEnd of runway: red\n\nWRONG\n"
+  "aerospace::ch10::19": "Runway: blue\nEnd of runway: red\n\nWRONG\n",
+  "aerospace::ch10::20": "Ask the control tower"
  },
  "edits": {}
 }
