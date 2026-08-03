@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797613641,
+ "updatedAt": 1785797623262,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1193,7 +1193,7 @@
   "aerospace::ch1::12": "Internal combustion crafts",
   "aerospace::ch1::13": "Planaphore\nFront to back stability",
   "aerospace::ch1::14": "First craft to takeoff under own power",
-  "aerospace::ch1::15": "Gliders\n"
+  "aerospace::ch1::15": "Gliders\nAviation research"
  },
  "edits": {}
 }
