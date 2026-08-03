@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785798183127,
+ "updatedAt": 1785798187902,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1238,7 +1238,8 @@
   "aerospace::ch1::34": "Manned powered craft design\nSteam design flown\n\nWHAT DATES",
   "aerospace::ch1::35": "Catapault\nFailed, fell into Potomac",
   "aerospace::ch1::36": "Wright Flyer\n\nNOT ASKING FOR NAME; STATS",
-  "aerospace::ch1::38": "Helium is safer than hydrogen because the latter can combust"
+  "aerospace::ch1::38": "Helium is safer than hydrogen because the latter can combust",
+  "aerospace::ch1::39": "de Lana: "
  },
  "edits": {}
 }
