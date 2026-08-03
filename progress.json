@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785799011688,
+ "updatedAt": 1785799015589,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1292,7 +1292,7 @@
   "aerospace::ch3::41": "Barnstormers\n\nONE MORE, SIMILAR",
   "aerospace::ch3::43": "First air refueling\n37 hours",
   "aerospace::ch3::44": "Pylon\n\nWHAT DATE?",
-  "aerospace::ch3::45": "Transcontinental speed race\n"
+  "aerospace::ch3::45": "Transcontinental speed race\n1926?"
  },
  "edits": {}
 }
