@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785799193914,
+ "updatedAt": 1785799206653,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1174,7 +1174,8 @@
   "aerospace::ch3::46": "mastered",
   "aerospace::ch3::47": "mastered",
   "aerospace::ch3::48": "mastered",
-  "aerospace::ch3::49": "review"
+  "aerospace::ch3::49": "review",
+  "aerospace::ch3::50": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1301,7 +1302,8 @@
   "aerospace::ch3::46": "Seaplanes",
   "aerospace::ch3::47": "Civil Aeronautics Authorirty (CAA)",
   "aerospace::ch3::48": "3",
-  "aerospace::ch3::50": "First airline crossing of Pacific/Atlantic oceans\nSikorsky something"
+  "aerospace::ch3::50": "First airline crossing of Pacific/Atlantic oceans\nSikorsky R42\n\nALMOST",
+  "aerospace::ch3::51": "amel"
  },
  "edits": {}
 }
