@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785780603764,
+ "updatedAt": 1785780617193,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1090,7 +1090,7 @@
   "aerospace::ch2::18": "First woman to get a license\nFirst woman to solo the English Channel",
   "aerospace::ch2::22": "Louis Breguet\n\nSAY DATE",
   "aerospace::ch2::23": "They have rotors that spin to produce lift",
-  "aerospace::ch2::24": "Diminished, weak\n\nGIVE SPECIFIC STATS"
+  "aerospace::ch2::24": "Diminished, weak\n\nGIVE SPECIFIC STATS +\nTHAT OF GERMANY/ALLIES"
  },
  "edits": {}
 }
