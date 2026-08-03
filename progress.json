@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785798894675,
+ "updatedAt": 1785798899037,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1283,7 +1283,7 @@
   "aerospace::ch3::37": "Asking for declaration of war?\n\nNO",
   "aerospace::ch3::38": "Use civilan training schools",
   "aerospace::ch3::39": "Cmdr Reed\n\nYES, BUT HOW",
-  "aerospace::ch3::40": "Ex-military aviation flying surplus ai"
+  "aerospace::ch3::40": "Ex-military aviation flying surplus aircraft"
  },
  "edits": {}
 }
