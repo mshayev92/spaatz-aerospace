@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797632858,
+ "updatedAt": 1785797653332,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1195,7 +1195,7 @@
   "aerospace::ch1::13": "Planaphore\nFront to back stability",
   "aerospace::ch1::14": "First craft to takeoff under own power",
   "aerospace::ch1::15": "Gliders\nAviation research",
-  "aerospace::ch1::16": "Launched gliders"
+  "aerospace::ch1::16": "Launched craft from catapault\nAerodrome fell into Potomac"
  },
  "edits": {}
 }
