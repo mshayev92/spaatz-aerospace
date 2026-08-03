@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785780812276,
+ "updatedAt": 1785780823609,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1101,7 +1101,7 @@
   "aerospace::ch2::27": "Observation",
   "aerospace::ch2::29": "US, Britain, France: 5\nGermany: 10",
   "aerospace::ch2::30": "Rickenbacker (American)\nMannock (British)\nManfred (German)\nFonck (French)",
-  "aerospace::ch2::31": "Interrupting gear for fighters\nAmerican?"
+  "aerospace::ch2::31": "Interrupting gear for fighters\nAmerican?\n\nFIX NATIONALITY"
  },
  "edits": {}
 }
