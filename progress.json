@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785799999729,
+ "updatedAt": 1785800015245,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1318,7 +1318,8 @@
   "aerospace::ch3::56": "Air corps dismantled after war\n\nHOW MANY?",
   "aerospace::ch3::57": "National Advisory Committee for Aeronautics\nResearch on aeronautics",
   "aerospace::ch3::58": "Alcock and Brown\n\nCONFUSED WITH SOMETHING ELSE",
-  "aerospace::ch3::59": "Formed by Woodrow Wilson in 1915\nResearch on aeronautics"
+  "aerospace::ch3::59": "Formed by Woodrow Wilson in 1915\nResearch on aeronautics",
+  "aerospace::ch3::60": "S-40: \nS-42: Pan American Clipper"
  },
  "edits": {}
 }
