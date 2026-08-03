@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785798908419,
+ "updatedAt": 1785798924663,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1165,7 +1165,8 @@
   "aerospace::ch3::37": "review",
   "aerospace::ch3::38": "mastered",
   "aerospace::ch3::39": "general",
-  "aerospace::ch3::40": "mastered"
+  "aerospace::ch3::40": "mastered",
+  "aerospace::ch3::41": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1285,7 +1286,7 @@
   "aerospace::ch3::38": "Use civilan training schools",
   "aerospace::ch3::39": "Cmdr Reed\n\nYES, BUT HOW",
   "aerospace::ch3::40": "Ex-military aviation flying surplus aircraft",
-  "aerospace::ch3::41": "Barnstormers\n"
+  "aerospace::ch3::41": "Barnstormers\n\nONE MORE, SIMILAR"
  },
  "edits": {}
 }
