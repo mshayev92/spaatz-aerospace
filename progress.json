@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785799919035,
+ "updatedAt": 1785799924259,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1313,7 +1313,7 @@
   "aerospace::ch3::52": "Produced: Surplus pilots\n\nSOMEWHAT",
   "aerospace::ch3::53": "Court marshall",
   "aerospace::ch3::56": "Air corps dismantled after war\n\nHOW MANY?",
-  "aerospace::ch3::57": "National Advisory Committee for A\nResearch on aeronautics"
+  "aerospace::ch3::57": "National Advisory Committee for Aeronautics\nResearch on aeronautics"
  },
  "edits": {}
 }
