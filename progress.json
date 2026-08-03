@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785798429816,
+ "updatedAt": 1785798461054,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1247,7 +1247,7 @@
   "aerospace::ch1::40": "Giffard: first practical dirgible\nZeppelin: first rigid dirgible",
   "aerospace::ch1::41": "Emperor Shun - Bird work clothes\nWan Hoo - Moon\nKei Kung - God\nKei Kung Shi - Chariot",
   "aerospace::ch3::1": "37 hours\n\nWHAT DATE",
-  "aerospace::ch3::20": "Air Commerce Act (1926): first federal attempt to standardize regs.\nAir Mail Act (1925): Kelly Act, 80% of profits\nAir Mail Act (1930): McNary-Natres Act, "
+  "aerospace::ch3::20": "Air Commerce Act (1926): first federal attempt to standardize regs.\nAir Mail Act (1925): Kelly Act, 80% of profits\n\nAir Mail Act (1930): McNary-Natres Act, paid acc. to available cargo space, PG combine/extend routes (DC-3)\nAir Mail Act (1934): Rectify 1930 act"
  },
  "edits": {}
 }
