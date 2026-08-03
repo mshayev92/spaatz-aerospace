@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785780377811,
+ "updatedAt": 1785780396622,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1079,7 +1079,8 @@
   "aerospace::ch2::10": "First to lose life in a powered aircraft",
   "aerospace::ch2::13": "3 times",
   "aerospace::ch2::14": "134 mph on a motorcycle\nFastest man on Earth\n\nFIX SPEED STAT",
-  "aerospace::ch2::15": "Alexander Graham Bell"
+  "aerospace::ch2::15": "Alexander Graham Bell",
+  "aerospace::ch2::18": "First woman to get license\nFirst woman to solo English Channel"
  },
  "edits": {}
 }
