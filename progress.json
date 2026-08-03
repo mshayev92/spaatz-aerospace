@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785780955620,
+ "updatedAt": 1785780971692,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1106,7 +1106,8 @@
   "aerospace::ch2::29": "US, Britain, France: 5\nGermany: 10",
   "aerospace::ch2::30": "Rickenbacker (American)\nMannock (British)\nManfred (German)\nFonck (French)",
   "aerospace::ch2::31": "Interrupting gear for fighters\nAmerican?\n\nFIX NATIONALITY",
-  "aerospace::ch2::32": "Jimmy Doolittle, against Japan\n\nWRONG"
+  "aerospace::ch2::32": "Jimmy Doolittle, against Japan\n\nWRONG",
+  "aerospace::ch2::35": "Sank a German ship to demonstrate airpower\n"
  },
  "edits": {}
 }
