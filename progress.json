@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789163874,
+ "updatedAt": 1785789186416,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1139,7 +1139,8 @@
   "aerospace::ch10::5": "Weather",
   "aerospace::ch10::6": "No control towers",
   "aerospace::ch10::7": "Civilian and military\nIf sharing, military over civilian",
-  "aerospace::ch10::8": "Wildlife (primarily birds)\nEnroachment\nNoise abatement"
+  "aerospace::ch10::8": "Wildlife (primarily birds)\nEnroachment\nNoise abatement",
+  "aerospace::ch10::17": "Controlled: Traffic control\nUncontrolled: None"
  },
  "edits": {}
 }
