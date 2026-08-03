@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785798876046,
+ "updatedAt": 1785798889130,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1163,7 +1163,8 @@
   "aerospace::ch3::35": "review",
   "aerospace::ch3::36": "review",
   "aerospace::ch3::37": "review",
-  "aerospace::ch3::38": "mastered"
+  "aerospace::ch3::38": "mastered",
+  "aerospace::ch3::39": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1281,7 +1282,7 @@
   "aerospace::ch3::36": "B-27\n\nNO",
   "aerospace::ch3::37": "Asking for declaration of war?\n\nNO",
   "aerospace::ch3::38": "Use civilan training schools",
-  "aerospace::ch3::39": "Cmdr Reed\n"
+  "aerospace::ch3::39": "Cmdr Reed\n\nYES, BUT HOW"
  },
  "edits": {}
 }
