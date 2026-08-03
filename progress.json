@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797311151,
+ "updatedAt": 1785797324572,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1102,7 +1102,8 @@
   "aerospace::ch10::26": "general",
   "aerospace::ch10::28": "mastered",
   "aerospace::ch10::29": "general",
-  "aerospace::ch1::0": "general"
+  "aerospace::ch1::0": "general",
+  "aerospace::ch1::1": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1165,7 +1166,8 @@
   "aerospace::ch10::28": "Encroachment\nWildlife\nNoise abatement\n",
   "aerospace::ch10::29": "Fences/barriers\n\nALMOST",
   "aerospace::ch1::0": "Lightweight heavier than air aircraft that can be steered and propelled\n\nKIND OF",
-  "aerospace::ch1::1": "Fast, elevation"
+  "aerospace::ch1::1": "Fast, elevation",
+  "aerospace::ch1::2": "Chinese "
  },
  "edits": {}
 }
