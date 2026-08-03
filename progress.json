@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785780773342,
+ "updatedAt": 1785780778839,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1099,7 +1099,7 @@
   "aerospace::ch2::25": "0",
   "aerospace::ch2::27": "Observation",
   "aerospace::ch2::29": "US, Britain, France: 5\nGermany: 10",
-  "aerospace::ch2::30": "Rickenbacker (Americab)\nMannock (British)\nManfred (German)\nFonck (French)"
+  "aerospace::ch2::30": "Rickenbacker (American)\nMannock (British)\nManfred (German)\nFonck (French)"
  },
  "edits": {}
 }
