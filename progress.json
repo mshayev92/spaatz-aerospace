@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789203879,
+ "updatedAt": 1785789213487,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1142,7 +1142,7 @@
   "aerospace::ch10::7": "Civilian and military\nIf sharing, military over civilian",
   "aerospace::ch10::8": "Wildlife (primarily birds)\nEnroachment\nNoise abatement",
   "aerospace::ch10::17": "Controlled: Traffic control\nUncontrolled: None",
-  "aerospace::ch10::18": "Civilian: green, white\nMilitary: green, white white"
+  "aerospace::ch10::18": "Civilian: green white\nMilitary: green white white"
  },
  "edits": {}
 }
