@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789349162,
+ "updatedAt": 1785789359832,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1149,7 +1149,8 @@
   "aerospace::ch10::18": "Civilian: green, white\nMilitary: green, white, white",
   "aerospace::ch10::19": "Runway: blue\nEnd of runway: red\n\nWRONG\n",
   "aerospace::ch10::20": "Ask the control tower\n\nWRONG",
-  "aerospace::ch10::21": "Taxiways: wider than runways\nDenoted by a letter\nRunway: parallel - A, B, C, D\n\nWRONG"
+  "aerospace::ch10::21": "Taxiways: wider than runways\nDenoted by a letter\nRunway: parallel - A, B, C, D\n\nWRONG",
+  "aerospace::ch10::22": "Parallel: A, B, C, D\n"
  },
  "edits": {}
 }
