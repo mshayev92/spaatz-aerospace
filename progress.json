@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789386528,
+ "updatedAt": 1785789396793,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1095,7 +1095,8 @@
   "aerospace::ch10::19": "review",
   "aerospace::ch10::20": "review",
   "aerospace::ch10::21": "review",
-  "aerospace::ch10::22": "review"
+  "aerospace::ch10::22": "review",
+  "aerospace::ch10::23": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1151,8 +1152,7 @@
   "aerospace::ch10::19": "Runway: blue\nEnd of runway: red\n\nWRONG\n",
   "aerospace::ch10::20": "Ask the control tower\n\nWRONG",
   "aerospace::ch10::21": "Taxiways: wider than runways\nDenoted by a letter\nRunway: parallel - A, B, C, D\n\nWRONG",
-  "aerospace::ch10::22": "Parallel: A, B, C, D\n\nWRONG",
-  "aerospace::ch10::23": "A, B, C, D"
+  "aerospace::ch10::22": "Parallel: A, B, C, D\n\nWRONG"
  },
  "edits": {}
 }
