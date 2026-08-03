@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785798142088,
+ "updatedAt": 1785798149220,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1234,7 +1234,7 @@
   "aerospace::ch1::32": "Manned glider with seagull-like wings\nManley first flew it",
   "aerospace::ch1::34": "Manned powered craft design\nSteam design flown\n\nWHAT DATES",
   "aerospace::ch1::35": "Catapault\nFailed, fell into Potomac",
-  "aerospace::ch1::36": "Wright Flyer\n\n"
+  "aerospace::ch1::36": "Wright Flyer\n\nNOT ASKING FOR NAME; STATS"
  },
  "edits": {}
 }
