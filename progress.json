@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789269719,
+ "updatedAt": 1785789287601,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1092,7 +1092,8 @@
   "aerospace::ch10::16": "mastered",
   "aerospace::ch10::17": "mastered",
   "aerospace::ch10::18": "mastered",
-  "aerospace::ch10::19": "review"
+  "aerospace::ch10::19": "review",
+  "aerospace::ch10::20": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1146,7 +1147,7 @@
   "aerospace::ch10::17": "Controlled: Traffic control\nUncontrolled: None",
   "aerospace::ch10::18": "Civilian: green, white\nMilitary: green, white, white",
   "aerospace::ch10::19": "Runway: blue\nEnd of runway: red\n\nWRONG\n",
-  "aerospace::ch10::20": "Ask the control tower"
+  "aerospace::ch10::20": "Ask the control tower\n\nWRONG"
  },
  "edits": {}
 }
