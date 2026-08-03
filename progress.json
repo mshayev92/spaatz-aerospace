@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785779711618,
+ "updatedAt": 1785779722400,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1053,7 +1053,7 @@
   "aerospace::ch3::15": "Barnstormers\n\nWHAT IS THE OTHER ONE?",
   "aerospace::ch3::18": "Smith and Richter",
   "aerospace::ch2::0": "Fastest man on Earth (motorcycles)\nSwitch to airplanes\nFounded Aerial Experimentation Ass.\n(ailerons, first seaplane)\n",
-  "aerospace::ch2::1": "First monoplane\nFirst air me"
+  "aerospace::ch2::1": "First monoplane\nFirst air meet\nFirst English Channel Crossing\n(1909)"
  },
  "edits": {}
 }
