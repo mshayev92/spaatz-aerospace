@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785798953108,
+ "updatedAt": 1785798961374,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1287,7 +1287,8 @@
   "aerospace::ch3::38": "Use civilan training schools",
   "aerospace::ch3::39": "Cmdr Reed\n\nYES, BUT HOW",
   "aerospace::ch3::40": "Ex-military aviation flying surplus aircraft",
-  "aerospace::ch3::41": "Barnstormers\n\nONE MORE, SIMILAR"
+  "aerospace::ch3::41": "Barnstormers\n\nONE MORE, SIMILAR",
+  "aerospace::ch3::43": "First air refu"
  },
  "edits": {}
 }
