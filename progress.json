@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789440472,
+ "updatedAt": 1785789443180,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1153,7 +1153,7 @@
   "aerospace::ch10::20": "Ask the control tower\n\nWRONG",
   "aerospace::ch10::21": "Taxiways: wider than runways\nDenoted by a letter\nRunway: parallel - A, B, C, D\n\nWRONG",
   "aerospace::ch10::22": "Parallel: A, B, C, D\n\nWRONG",
-  "aerospace::ch10::24": "Automated Terminal Instruction System\nControl tow"
+  "aerospace::ch10::24": "Automated Terminal Instruction System\nControl tower voice with info"
  },
  "edits": {}
 }
