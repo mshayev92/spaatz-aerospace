@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785779808335,
+ "updatedAt": 1785779816661,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1037,7 +1037,8 @@
   "aerospace::ch3::18": "mastered",
   "aerospace::ch3::19": "mastered",
   "aerospace::ch2::0": "mastered",
-  "aerospace::ch2::1": "mastered"
+  "aerospace::ch2::1": "mastered",
+  "aerospace::ch2::3": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1055,7 +1056,8 @@
   "aerospace::ch3::18": "Smith and Richter",
   "aerospace::ch2::0": "Fastest man on Earth (motorcycles)\nSwitch to airplanes\nFounded Aerial Experimentation Ass.\n(ailerons, first seaplane)\n",
   "aerospace::ch2::1": "First monoplane\nFirst air meet\nFirst English Channel Crossing\n(1909)",
-  "aerospace::ch2::3": "Improved reliability and performance\nFirst patented by Short Bros\nIgor Sikorsky: four engines"
+  "aerospace::ch2::3": "Improved reliability and performance\nFirst patented by Short Bros\nIgor Sikorsky: four engines",
+  "aerospace::ch2::4": "E"
  },
  "edits": {}
 }
