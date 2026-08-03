@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785781187441,
+ "updatedAt": 1785781193569,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1112,7 +1112,7 @@
   "aerospace::ch2::32": "Jimmy Doolittle, against Japan\n\nWRONG",
   "aerospace::ch2::35": "Sank a German ship to demonstrate airpower\nDestroy the enemy's will to resist\nCongress/military unimpressed\n\nNOT WHAT IT ASKED",
   "aerospace::ch2::36": "Fly Boat XIV\n\nWHAT MODEL",
-  "aerospace::ch2::37": "First to fly a plane off a ship deck\n\nGIVE SECOND FEAT"
+  "aerospace::ch2::37": "First to fly a plane off a ship deck\n\nGIVE SECOND FEAT/LOCATIONS"
  },
  "edits": {}
 }
