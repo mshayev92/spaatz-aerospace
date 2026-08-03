@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797372462,
+ "updatedAt": 1785797382596,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1170,7 +1170,8 @@
   "aerospace::ch1::0": "Lightweight heavier than air aircraft that can be steered and propelled\n\nKIND OF",
   "aerospace::ch1::1": "Fast, elevation",
   "aerospace::ch1::2": "Chinese\n\nWHAT USE?",
-  "aerospace::ch1::3": "Lincoln told Gen. Scott to let Lowe form Balloon Signal Service"
+  "aerospace::ch1::3": "Lincoln told Gen. Scott to let Lowe form Balloon Signal Service",
+  "aerospace::ch1::4": "Getting lift\nSustaining it\nControlling craft"
  },
  "edits": {}
 }
