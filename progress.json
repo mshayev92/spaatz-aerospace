@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785799246504,
+ "updatedAt": 1785799812445,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1305,7 +1305,7 @@
   "aerospace::ch3::48": "3",
   "aerospace::ch3::50": "First airline crossing of Pacific/Atlantic oceans\nSikorsky R42\n\nALMOST",
   "aerospace::ch3::51": "Amelia Earhart",
-  "aerospace::ch3::52": "\nProduced: Surplus pilots"
+  "aerospace::ch3::52": "Produced: Surplus pilots\n\n"
  },
  "edits": {}
 }
