@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785798615054,
+ "updatedAt": 1785798619378,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1262,7 +1262,7 @@
   "aerospace::ch3::24": "Air Mail Act (1925)",
   "aerospace::ch3::25": "Paid acc. to available cargo space",
   "aerospace::ch3::27": "Badly",
-  "aerospace::ch3::28": "NY to Paris\n20 hours?\n\n"
+  "aerospace::ch3::28": "NY to Paris\n20 hours?\n\nFIX AIRCRAFT, DU"
  },
  "edits": {}
 }
