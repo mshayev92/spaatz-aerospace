@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797382596,
+ "updatedAt": 1785797390980,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1105,7 +1105,8 @@
   "aerospace::ch1::0": "general",
   "aerospace::ch1::1": "mastered",
   "aerospace::ch1::2": "general",
-  "aerospace::ch1::3": "mastered"
+  "aerospace::ch1::3": "mastered",
+  "aerospace::ch1::4": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1171,7 +1172,8 @@
   "aerospace::ch1::1": "Fast, elevation",
   "aerospace::ch1::2": "Chinese\n\nWHAT USE?",
   "aerospace::ch1::3": "Lincoln told Gen. Scott to let Lowe form Balloon Signal Service",
-  "aerospace::ch1::4": "Getting lift\nSustaining it\nControlling craft"
+  "aerospace::ch1::4": "Getting lift\nSustaining it\nControlling craft",
+  "aerospace::ch1::5": "First ex"
  },
  "edits": {}
 }
