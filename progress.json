@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785798335597,
+ "updatedAt": 1785798375363,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1143,7 +1143,8 @@
   "aerospace::ch1::38": "mastered",
   "aerospace::ch1::39": "mastered",
   "aerospace::ch1::40": "mastered",
-  "aerospace::ch1::41": "mastered"
+  "aerospace::ch1::41": "mastered",
+  "aerospace::ch3::1": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1245,7 +1246,7 @@
   "aerospace::ch1::39": "de Lana: Aerial ship\nde Gusmao: Hot air balloon",
   "aerospace::ch1::40": "Giffard: first practical dirgible\nZeppelin: first rigid dirgible",
   "aerospace::ch1::41": "Emperor Shun - Bird work clothes\nWan Hoo - Moon\nKei Kung - God\nKei Kung Shi - Chariot",
-  "aerospace::ch3::1": "37 hours\n"
+  "aerospace::ch3::1": "37 hours\n\nWHAT DATE"
  },
  "edits": {}
 }
