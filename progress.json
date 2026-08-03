@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797771695,
+ "updatedAt": 1785797790194,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1121,7 +1121,10 @@
   "aerospace::ch1::16": "mastered",
   "aerospace::ch1::17": "mastered",
   "aerospace::ch1::18": "mastered",
-  "aerospace::ch1::19": "mastered"
+  "aerospace::ch1::19": "mastered",
+  "aerospace::ch1::20": "mastered",
+  "aerospace::ch1::21": "mastered",
+  "aerospace::ch1::22": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1203,7 +1206,10 @@
   "aerospace::ch1::17": "Flew first powered aircraft in Europe",
   "aerospace::ch1::18": "First successful helicopter",
   "aerospace::ch1::19": "Bacon, Cayley, da Vinci",
-  "aerospace::ch1::20": "Daedalus and Icarus"
+  "aerospace::ch1::20": "Daedalus and Icarus",
+  "aerospace::ch1::21": "Chinese",
+  "aerospace::ch1::22": "Chinese",
+  "aerospace::ch1::23": "George Cayley"
  },
  "edits": {}
 }
