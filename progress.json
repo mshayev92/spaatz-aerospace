@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785798619378,
+ "updatedAt": 1785798625572,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1152,7 +1152,8 @@
   "aerospace::ch3::24": "mastered",
   "aerospace::ch3::25": "mastered",
   "aerospace::ch3::26": "review",
-  "aerospace::ch3::27": "mastered"
+  "aerospace::ch3::27": "mastered",
+  "aerospace::ch3::28": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1262,7 +1263,7 @@
   "aerospace::ch3::24": "Air Mail Act (1925)",
   "aerospace::ch3::25": "Paid acc. to available cargo space",
   "aerospace::ch3::27": "Badly",
-  "aerospace::ch3::28": "NY to Paris\n20 hours?\n\nFIX AIRCRAFT, DU"
+  "aerospace::ch3::28": "NY to Paris\n20 hours?\n\nFIX AIRCRAFT, DURATION"
  },
  "edits": {}
 }
