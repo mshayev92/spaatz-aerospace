@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785779969381,
+ "updatedAt": 1785779974644,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1061,7 +1061,7 @@
   "aerospace::ch2::3": "Improved reliability and performance\nFirst patented by Short Bros\nIgor Sikorsky: four engines",
   "aerospace::ch2::4": "(Tony?) Jannus\n20 minutes\n22 miles\n$5 fare\n1/1/1914\nAcross Tampa Bay\n5 months",
   "aerospace::ch2::5": "Used to shoot\nInterrupting gear and auto rifle\nGarros and Fannock\n\nCONFIRM PPL AND ASSOCIATIONS",
-  "aerospace::ch2::6": "US, Britain, France: 5; Germany: 10\nRickenbacker, Mannock, Manfred, and Fannock"
+  "aerospace::ch2::6": "US, Britain, France: 5; Germany: 10\nRickenbacker, Mannock, Manfred, and Fonck"
  },
  "edits": {}
 }
