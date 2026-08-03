@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797607306,
+ "updatedAt": 1785797612891,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1115,7 +1115,8 @@
   "aerospace::ch1::10": "review",
   "aerospace::ch1::11": "mastered",
   "aerospace::ch1::12": "mastered",
-  "aerospace::ch1::13": "mastered"
+  "aerospace::ch1::13": "mastered",
+  "aerospace::ch1::14": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1191,7 +1192,8 @@
   "aerospace::ch1::11": "Giffard: first practical airship\nRenard/Krebs: electric motors, steered back to takeoff pt.",
   "aerospace::ch1::12": "Internal combustion crafts",
   "aerospace::ch1::13": "Planaphore\nFront to back stability",
-  "aerospace::ch1::14": "First craft to takeoff under own power"
+  "aerospace::ch1::14": "First craft to takeoff under own power",
+  "aerospace::ch1::15": "Glid"
  },
  "edits": {}
 }
