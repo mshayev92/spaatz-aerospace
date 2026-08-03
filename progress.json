@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797878323,
+ "updatedAt": 1785797890772,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1127,7 +1127,8 @@
   "aerospace::ch1::22": "mastered",
   "aerospace::ch1::23": "review",
   "aerospace::ch1::24": "mastered",
-  "aerospace::ch1::25": "general"
+  "aerospace::ch1::25": "general",
+  "aerospace::ch1::26": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1215,7 +1216,8 @@
   "aerospace::ch1::23": "George Cayley\n\nWRONG, THINKING OF SOMETHING ELSE\n\n",
   "aerospace::ch1::24": "Pressure decreases with altitude",
   "aerospace::ch1::25": "1784\nd'Rozier, d'Arlandes\n\nDATE WRONG, GIVE STATS",
-  "aerospace::ch1::26": "1793\nNJ\nWashington watched"
+  "aerospace::ch1::26": "1793\nNJ\nWashington watched\n\nWRONG LOCATION",
+  "aerospace::ch1::27": "G"
  },
  "edits": {}
 }
