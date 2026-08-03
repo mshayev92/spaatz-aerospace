@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797532517,
+ "updatedAt": 1785797549014,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1184,7 +1184,8 @@
   "aerospace::ch1::7": "Hot air balloon\n\nWHAT DATE?",
   "aerospace::ch1::8": "Discovered oxygen",
   "aerospace::ch1::9": "Flew balloon across English Channel (1785)",
-  "aerospace::ch1::10": "LZ-1 (Zeppelin) WHAT DATE?\n\nOTHERS"
+  "aerospace::ch1::10": "LZ-1 (Zeppelin) WHAT DATE?\n\nOTHERS",
+  "aerospace::ch1::11": "Giffard: first practical airship\n"
  },
  "edits": {}
 }
