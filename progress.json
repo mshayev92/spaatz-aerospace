@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785799087182,
+ "updatedAt": 1785799105999,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1300,7 +1300,8 @@
   "aerospace::ch3::45": "Transcontinental speed race\n1926?\n\nFIX DATE",
   "aerospace::ch3::46": "Seaplanes",
   "aerospace::ch3::47": "Civil Aeronautics Authorirty (CAA)",
-  "aerospace::ch3::48": "3"
+  "aerospace::ch3::48": "3",
+  "aerospace::ch3::50": "First airline crossing of Pacific/Atlantic oceans\n"
  },
  "edits": {}
 }
