@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789509929,
+ "updatedAt": 1785789551048,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1098,7 +1098,8 @@
   "aerospace::ch10::22": "review",
   "aerospace::ch10::23": "review",
   "aerospace::ch10::24": "mastered",
-  "aerospace::ch10::25": "mastered"
+  "aerospace::ch10::25": "mastered",
+  "aerospace::ch10::26": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1157,7 +1158,7 @@
   "aerospace::ch10::22": "Parallel: A, B, C, D\n\nWRONG",
   "aerospace::ch10::24": "Automated Terminal Info System\nControl tower voice with info",
   "aerospace::ch10::25": "Wildlife\nVehicles/people\nOther aircraft",
-  "aerospace::ch10::26": "Noise caused by aircraft disturbs nearby residences"
+  "aerospace::ch10::26": "Noise caused by aircraft disturbs nearby residences\n\nNOT ONLY RELATED TO NOISE"
  },
  "edits": {}
 }
