@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785799812445,
+ "updatedAt": 1785799827589,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1176,7 +1176,8 @@
   "aerospace::ch3::48": "mastered",
   "aerospace::ch3::49": "review",
   "aerospace::ch3::50": "general",
-  "aerospace::ch3::51": "mastered"
+  "aerospace::ch3::51": "mastered",
+  "aerospace::ch3::52": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1305,7 +1306,8 @@
   "aerospace::ch3::48": "3",
   "aerospace::ch3::50": "First airline crossing of Pacific/Atlantic oceans\nSikorsky R42\n\nALMOST",
   "aerospace::ch3::51": "Amelia Earhart",
-  "aerospace::ch3::52": "Produced: Surplus pilots\n\n"
+  "aerospace::ch3::52": "Produced: Surplus pilots\n\nSOMEWHAT",
+  "aerospace::ch3::53": "Court marshall"
  },
  "edits": {}
 }
