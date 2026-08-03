@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785798009549,
+ "updatedAt": 1785798021695,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1132,7 +1132,8 @@
   "aerospace::ch1::27": "general",
   "aerospace::ch1::28": "mastered",
   "aerospace::ch1::29": "review",
-  "aerospace::ch1::30": "review"
+  "aerospace::ch1::30": "review",
+  "aerospace::ch1::31": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1225,7 +1226,7 @@
   "aerospace::ch1::28": "Observation\nBalloon Signal Service",
   "aerospace::ch1::29": "Wind tunnel\n\nCONFUSED",
   "aerospace::ch1::30": "4 forces of flight\n\nNO",
-  "aerospace::ch1::31": "Stability"
+  "aerospace::ch1::31": "Stability\n\nBUT WHAT DID HE CREATE"
  },
  "edits": {}
 }
