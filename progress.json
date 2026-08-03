@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785780006831,
+ "updatedAt": 1785780012341,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1065,7 +1065,7 @@
   "aerospace::ch2::5": "Used to shoot\nInterrupting gear and auto rifle\nGarros and Fannock\n\nCONFIRM PPL AND ASSOCIATIONS",
   "aerospace::ch2::6": "US, Britain, France: 5; Germany: 10\nRickenbacker, Mannock, Manfred, and Fonck",
   "aerospace::ch2::7": "Robert Peltiere",
-  "aerospace::ch2::8": "Alberto-Santos Dumont"
+  "aerospace::ch2::8": "Alberto Santos-Dumont"
  },
  "edits": {}
 }
