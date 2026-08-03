@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789009516,
+ "updatedAt": 1785789019627,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1073,7 +1073,9 @@
   "aerospace::ch2::36": "review",
   "aerospace::ch2::37": "general",
   "aerospace::ch2::38": "review",
-  "aerospace::ch10::0": "mastered"
+  "aerospace::ch10::0": "mastered",
+  "aerospace::ch10::1": "mastered",
+  "aerospace::ch10::2": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1116,7 +1118,8 @@
   "aerospace::ch2::36": "Fly Boat XIV\n\nWHAT MODEL",
   "aerospace::ch2::37": "First to fly a plane off a ship deck\n\nGIVE SECOND FEAT/LOCATIONS",
   "aerospace::ch10::0": "Most important\nFirst two numbers of the compass heading\nWhite lines at edges\nBlue lights",
-  "aerospace::ch10::1": "Get to the runway"
+  "aerospace::ch10::1": "Get to the runway",
+  "aerospace::ch10::2": "Parking spaces"
  },
  "edits": {}
 }
