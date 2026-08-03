@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789064902,
+ "updatedAt": 1785789082785,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1127,7 +1127,8 @@
   "aerospace::ch10::3": "Controls runway\nATIS",
   "aerospace::ch10::4": "Passengers, cargo, shops, etc.",
   "aerospace::ch10::5": "Weather",
-  "aerospace::ch10::6": "No control towers"
+  "aerospace::ch10::6": "No control towers",
+  "aerospace::ch10::7": "Civilian and military\nIf sharing, military over civilian"
  },
  "edits": {}
 }
