@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785780745282,
+ "updatedAt": 1785780773342,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1098,7 +1098,8 @@
   "aerospace::ch2::24": "Diminished, weak\n\nGIVE SPECIFIC STATS +\nTHAT OF GERMANY/ALLIES",
   "aerospace::ch2::25": "0",
   "aerospace::ch2::27": "Observation",
-  "aerospace::ch2::29": "US, Britain, France: 5\nGermany: 10"
+  "aerospace::ch2::29": "US, Britain, France: 5\nGermany: 10",
+  "aerospace::ch2::30": "Rickenbacker (Americab)\nMannock (British)\nManfred (German)\nFonck (French)"
  },
  "edits": {}
 }
