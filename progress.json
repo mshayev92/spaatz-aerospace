@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785798516338,
+ "updatedAt": 1785798528975,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1147,7 +1147,8 @@
   "aerospace::ch3::1": "general",
   "aerospace::ch3::20": "mastered",
   "aerospace::ch3::21": "mastered",
-  "aerospace::ch3::22": "mastered"
+  "aerospace::ch3::22": "mastered",
+  "aerospace::ch3::23": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1252,7 +1253,9 @@
   "aerospace::ch3::1": "37 hours\n\nWHAT DATE",
   "aerospace::ch3::20": "Air Commerce Act (1926): first federal attempt to standardize regs.\nAir Mail Act (1925): Kelly Act, 80% of profits\nAir Mail Act (1930): McNary-Natres Act, paid acc. to available cargo space, PG combine/extend routes (DC-3)\nAir Mail Act (1934): Rectify 1930 act\nAir Mail Act (1938): Unify everyone under one authority",
   "aerospace::ch3::21": "Air Commerce Act (1926)",
-  "aerospace::ch3::22": "Air Mail Act (1934)"
+  "aerospace::ch3::22": "Air Mail Act (1934)",
+  "aerospace::ch3::23": "Air Mail Act (1938)",
+  "aerospace::ch3::24": "Air M"
  },
  "edits": {}
 }
