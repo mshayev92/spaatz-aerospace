@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797440925,
+ "updatedAt": 1785797450260,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1108,7 +1108,8 @@
   "aerospace::ch1::3": "mastered",
   "aerospace::ch1::4": "mastered",
   "aerospace::ch1::5": "mastered",
-  "aerospace::ch1::6": "general"
+  "aerospace::ch1::6": "general",
+  "aerospace::ch1::7": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1177,7 +1178,8 @@
   "aerospace::ch1::4": "Getting lift\nSustaining it\nControlling craft",
   "aerospace::ch1::5": "First experiments in aviation\nEarly heli and parachute designs\nOrnithopter",
   "aerospace::ch1::6": "Aerial ship\n\nWHAT DATE",
-  "aerospace::ch1::7": "Hot air balloon\n\nWHAT DATE?"
+  "aerospace::ch1::7": "Hot air balloon\n\nWHAT DATE?",
+  "aerospace::ch1::8": "Discovered oxygen"
  },
  "edits": {}
 }
