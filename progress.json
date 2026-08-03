@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797324572,
+ "updatedAt": 1785797329069,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1167,7 +1167,7 @@
   "aerospace::ch10::29": "Fences/barriers\n\nALMOST",
   "aerospace::ch1::0": "Lightweight heavier than air aircraft that can be steered and propelled\n\nKIND OF",
   "aerospace::ch1::1": "Fast, elevation",
-  "aerospace::ch1::2": "Chinese "
+  "aerospace::ch1::2": "Chinese"
  },
  "edits": {}
 }
