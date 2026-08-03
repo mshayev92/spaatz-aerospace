@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785789038124,
+ "updatedAt": 1785789046423,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1121,7 +1121,8 @@
   "aerospace::ch10::0": "Most important\nFirst two numbers of the compass heading\nWhite lines at edges\nBlue lights",
   "aerospace::ch10::1": "Get to the runway",
   "aerospace::ch10::2": "Parking spaces",
-  "aerospace::ch10::3": "Controls runway\nATIS"
+  "aerospace::ch10::3": "Controls runway\nATIS",
+  "aerospace::ch10::4": "Passengers, cargo, shops, etc."
  },
  "edits": {}
 }
