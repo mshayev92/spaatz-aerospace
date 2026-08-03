@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785797833615,
+ "updatedAt": 1785797840674,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1213,7 +1213,7 @@
   "aerospace::ch1::22": "Chinese",
   "aerospace::ch1::23": "George Cayley\n\nWRONG, THINKING OF SOMETHING ELSE\n\n",
   "aerospace::ch1::24": "Pressure decreases with altitude",
-  "aerospace::ch1::25": "1784\n"
+  "aerospace::ch1::25": "1784\nd'Rozier, d'Arlandes\n"
  },
  "edits": {}
 }
