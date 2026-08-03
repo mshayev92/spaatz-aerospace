@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785779824690,
+ "updatedAt": 1785779831304,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1057,7 +1057,7 @@
   "aerospace::ch2::0": "Fastest man on Earth (motorcycles)\nSwitch to airplanes\nFounded Aerial Experimentation Ass.\n(ailerons, first seaplane)\n",
   "aerospace::ch2::1": "First monoplane\nFirst air meet\nFirst English Channel Crossing\n(1909)",
   "aerospace::ch2::3": "Improved reliability and performance\nFirst patented by Short Bros\nIgor Sikorsky: four engines",
-  "aerospace::ch2::4": "Jannus"
+  "aerospace::ch2::4": "(Tony?) Jannus\n"
  },
  "edits": {}
 }
