@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785865435984,
+ "updatedAt": 1785865449795,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1368,7 +1368,8 @@
   "aerospace::ch4::0": "Lightning war\nPlanes supporting ground forces\nME-169?\n\nFIX AIRCRAFT MODEL",
   "aerospace::ch4::1": "Suicide bombers",
   "aerospace::ch4::3": "US, Britain, Russia, (France?)",
-  "aerospace::ch4::4": "Pearl Harbor"
+  "aerospace::ch4::4": "Pearl Harbor",
+  "aerospace::ch4::5": "Air superiority\nInterdiction\n"
  },
  "edits": {}
 }
