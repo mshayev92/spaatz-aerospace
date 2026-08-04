@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785804815941,
+ "updatedAt": 1785804834508,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1331,7 +1331,8 @@
   "aerospace::ch23::0": "The path an object takes around a body",
   "aerospace::ch23::1": "Constant altitude",
   "aerospace::ch23::2": "Not circular",
-  "aerospace::ch23::3": "Over of the equator"
+  "aerospace::ch23::3": "Over of the equator",
+  "aerospace::ch23::4": "Velocity and inertia so great, objects comes into influence of different object"
  },
  "edits": {}
 }
