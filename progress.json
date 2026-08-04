@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785804863782,
+ "updatedAt": 1785804870247,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1338,7 +1338,7 @@
   "aerospace::ch23::4": "Velocity and inertia so great, objects comes into influence of different object",
   "aerospace::ch23::5": "Highest point from body during orbit",
   "aerospace::ch23::6": "Lowest point",
-  "aerospace::ch23::7": "The velocity needed to be attained to "
+  "aerospace::ch23::7": "The velocity needed to be attained to reach the destination"
  },
  "edits": {}
 }
