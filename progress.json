@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785865492582,
+ "updatedAt": 1785865515291,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1213,7 +1213,8 @@
   "aerospace::ch4::3": "mastered",
   "aerospace::ch4::4": "mastered",
   "aerospace::ch4::5": "review",
-  "aerospace::ch4::6": "mastered"
+  "aerospace::ch4::6": "mastered",
+  "aerospace::ch4::7": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1372,7 +1373,9 @@
   "aerospace::ch4::3": "US, Britain, Russia, (France?)",
   "aerospace::ch4::4": "Pearl Harbor",
   "aerospace::ch4::5": "Air superiority\nInterdiction\n---\n\nONE MORE",
-  "aerospace::ch4::6": "Low altitude bombing\nPara-frag bombs\nKenney cocktail\nClear islands for allied control"
+  "aerospace::ch4::6": "Low altitude bombing\nPara-frag bombs\nKenney cocktail\nClear islands for allied control",
+  "aerospace::ch4::7": "Massive first strike, then populations",
+  "aerospace::ch4::8": "Fa"
  },
  "edits": {}
 }
