@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785870067589,
+ "updatedAt": 1785870079494,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1399,7 +1399,8 @@
   "aerospace::ch4::16": "Women pilots",
   "aerospace::ch4::18": "Civilian",
   "aerospace::ch4::19": "They became the CAA War Training Service\n\nINCREASE OR DECREASE IN OUTPUT",
-  "aerospace::ch4::20": "Hungary"
+  "aerospace::ch4::20": "Hungary",
+  "aerospace::ch4::22": "Germany/Britian"
  },
  "edits": {}
 }
