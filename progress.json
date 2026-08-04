@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785804794585,
+ "updatedAt": 1785804800886,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1188,7 +1188,8 @@
   "aerospace::ch3::60": "review",
   "aerospace::ch3::61": "review",
   "aerospace::ch3::62": "review",
-  "aerospace::ch23::0": "mastered"
+  "aerospace::ch23::0": "mastered",
+  "aerospace::ch23::1": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1326,7 +1327,8 @@
   "aerospace::ch3::60": "S-40: Pacific?\nS-42: Pan American Clipper\n\nFIRST WRONG",
   "aerospace::ch3::62": "Trout and ---\n\nWHO WAS SECOND?",
   "aerospace::ch23::0": "The path an object takes around a body",
-  "aerospace::ch23::1": "Constant a"
+  "aerospace::ch23::1": "Constant altitude",
+  "aerospace::ch23::2": "Not circular "
  },
  "edits": {}
 }
