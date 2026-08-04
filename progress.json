@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785865681478,
+ "updatedAt": 1785869125269,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1380,7 +1380,8 @@
   "aerospace::ch4::7": "Massive first strike, then populations",
   "aerospace::ch4::8": "Father of the RAF\n2/3 bombers, 1/3 fighters\nTarget vital centers",
   "aerospace::ch4::9": "Destroy will to resist, 60% fighters",
-  "aerospace::ch4::10": "Fighter escort needed"
+  "aerospace::ch4::10": "Fighter escort needed",
+  "aerospace::ch4::11": "low daytime bombing"
  },
  "edits": {}
 }
