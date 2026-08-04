@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785865419607,
+ "updatedAt": 1785865427840,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1209,7 +1209,8 @@
   "aerospace::ch3::66": "review",
   "aerospace::ch4::0": "general",
   "aerospace::ch4::1": "mastered",
-  "aerospace::ch4::2": "review"
+  "aerospace::ch4::2": "review",
+  "aerospace::ch4::3": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1365,7 +1366,8 @@
   "aerospace::ch3::64": "Cmdr Reed\nBellinger and Towers\n2 failed\n\nYES AND NO",
   "aerospace::ch4::0": "Lightning war\nPlanes supporting ground forces\nME-169?\n\nFIX AIRCRAFT MODEL",
   "aerospace::ch4::1": "Suicide bombers",
-  "aerospace::ch4::3": "US, Britain, Russia, (France?)"
+  "aerospace::ch4::3": "US, Britain, Russia, (France?)",
+  "aerospace::ch4::4": "Pearl Harbor"
  },
  "edits": {}
 }
