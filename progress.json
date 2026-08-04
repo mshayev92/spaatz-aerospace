@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785804964173,
+ "updatedAt": 1785804969594,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1200,7 +1200,8 @@
   "aerospace::ch23::9": "mastered",
   "aerospace::ch23::10": "mastered",
   "aerospace::ch23::11": "mastered",
-  "aerospace::ch23::12": "mastered"
+  "aerospace::ch23::12": "mastered",
+  "aerospace::ch23::13": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1350,7 +1351,7 @@
   "aerospace::ch23::10": "Adding up all the velocity requirements at all stages",
   "aerospace::ch23::11": "Opposite direction",
   "aerospace::ch23::12": "Study of the arc of nonorbiting object",
-  "aerospace::ch23::13": "Same plane transfer"
+  "aerospace::ch23::13": "Same plane transfer\nLaunched at 28.5 degrees"
  },
  "edits": {}
 }
