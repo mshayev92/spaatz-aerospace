@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785865533644,
+ "updatedAt": 1785865539961,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1376,7 +1376,8 @@
   "aerospace::ch4::5": "Air superiority\nInterdiction\n---\n\nONE MORE",
   "aerospace::ch4::6": "Low altitude bombing\nPara-frag bombs\nKenney cocktail\nClear islands for allied control",
   "aerospace::ch4::7": "Massive first strike, then populations",
-  "aerospace::ch4::8": "Father of the RAF\n2/3 bombers, 1/3 fighters\nTarget vital centers"
+  "aerospace::ch4::8": "Father of the RAF\n2/3 bombers, 1/3 fighters\nTarget vital centers",
+  "aerospace::ch4::9": "Destroy"
  },
  "edits": {}
 }
