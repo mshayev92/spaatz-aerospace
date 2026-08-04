@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785865395789,
+ "updatedAt": 1785865401349,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1365,7 +1365,7 @@
   "aerospace::ch3::64": "Cmdr Reed\nBellinger and Towers\n2 failed\n\nYES AND NO",
   "aerospace::ch4::0": "Lightning war\nPlanes supporting ground forces\nME-169?\n\nFIX AIRCRAFT MODEL",
   "aerospace::ch4::1": "Suicide bombers",
-  "aerospace::ch4::3": "US, Britian, Russia, Fr"
+  "aerospace::ch4::3": "US, Britian, Russia, (France?)"
  },
  "edits": {}
 }
