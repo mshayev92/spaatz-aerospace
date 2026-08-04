@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785870024415,
+ "updatedAt": 1785870043090,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1225,7 +1225,8 @@
   "aerospace::ch4::15": "review",
   "aerospace::ch4::16": "mastered",
   "aerospace::ch4::17": "review",
-  "aerospace::ch4::18": "mastered"
+  "aerospace::ch4::18": "mastered",
+  "aerospace::ch4::19": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1395,7 +1396,7 @@
   "aerospace::ch4::15": "Not under control of Army\nAttack?\n\nELABORATE",
   "aerospace::ch4::16": "Women pilots",
   "aerospace::ch4::18": "Civilian",
-  "aerospace::ch4::19": "They became the CAA War Training Service"
+  "aerospace::ch4::19": "They became the CAA War Training Service\n\nINCREASE OR DECREASE IN OUTPUT"
  },
  "edits": {}
 }
