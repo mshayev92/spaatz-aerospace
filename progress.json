@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785870012559,
+ "updatedAt": 1785870024415,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1394,7 +1394,8 @@
   "aerospace::ch4::13": "Skipped 500 lb bombs into Japanese ships",
   "aerospace::ch4::15": "Not under control of Army\nAttack?\n\nELABORATE",
   "aerospace::ch4::16": "Women pilots",
-  "aerospace::ch4::18": "Civilian"
+  "aerospace::ch4::18": "Civilian",
+  "aerospace::ch4::19": "They became the CAA War Training Service"
  },
  "edits": {}
 }
