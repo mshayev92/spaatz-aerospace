@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785804953705,
+ "updatedAt": 1785804959380,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1350,7 +1350,7 @@
   "aerospace::ch23::10": "Adding up all the velocity requirements at all stages",
   "aerospace::ch23::11": "Opposite direction",
   "aerospace::ch23::12": "Study of the arc of nonorbiting object",
-  "aerospace::ch23::13": "Same plane transfer\nLaunched at 28.5 degrees\nAt "
+  "aerospace::ch23::13": "Same plane transfer\nLaunched at 28.5 degrees\n"
  },
  "edits": {}
 }
