@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785804881815,
+ "updatedAt": 1785804888726,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1340,7 +1340,7 @@
   "aerospace::ch23::5": "Highest point from body during orbit",
   "aerospace::ch23::6": "Lowest point",
   "aerospace::ch23::7": "The velocity needed to be attained to reach the destination",
-  "aerospace::ch23::8": "Th"
+  "aerospace::ch23::8": "The velocity needed to escape the influence of an object"
  },
  "edits": {}
 }
