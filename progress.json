@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785865482481,
+ "updatedAt": 1785865485618,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1371,7 +1371,7 @@
   "aerospace::ch4::3": "US, Britain, Russia, (France?)",
   "aerospace::ch4::4": "Pearl Harbor",
   "aerospace::ch4::5": "Air superiority\nInterdiction\n---\n\nONE MORE",
-  "aerospace::ch4::6": "Low altitude bombing\nPara-frag bombs\nKenney cocktail\nClear islands for allied con"
+  "aerospace::ch4::6": "Low altitude bombing\nPara-frag bombs\nKenney cocktail\nClear islands for allied control"
  },
  "edits": {}
 }
