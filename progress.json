@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785869460283,
+ "updatedAt": 1785869473012,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1389,7 +1389,8 @@
   "aerospace::ch4::11": "low daytime bombing\n\nWRONG",
   "aerospace::ch4::12": "Bombed japanese ships",
   "aerospace::ch4::13": "Skipped 500 lb bombs into Japanese ships",
-  "aerospace::ch4::15": "Not under control of Army\nAttack?\n\nELABORATE"
+  "aerospace::ch4::15": "Not under control of Army\nAttack?\n\nELABORATE",
+  "aerospace::ch4::16": "Women pilots"
  },
  "edits": {}
 }
