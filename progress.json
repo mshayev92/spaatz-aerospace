@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785870128702,
+ "updatedAt": 1785870161063,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1223,16 +1223,7 @@
   "aerospace::ch4::13": "mastered",
   "aerospace::ch4::14": "review",
   "aerospace::ch4::15": "review",
-  "aerospace::ch4::16": "mastered",
-  "aerospace::ch4::17": "review",
-  "aerospace::ch4::18": "mastered",
-  "aerospace::ch4::19": "general",
-  "aerospace::ch4::20": "mastered",
-  "aerospace::ch4::21": "review",
-  "aerospace::ch4::22": "general",
-  "aerospace::ch4::23": "mastered",
-  "aerospace::ch4::24": "review",
-  "aerospace::ch4::25": "review"
+  "aerospace::ch4::16": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1400,12 +1391,7 @@
   "aerospace::ch4::12": "Bombed japanese ships",
   "aerospace::ch4::13": "Skipped 500 lb bombs into Japanese ships",
   "aerospace::ch4::15": "Not under control of Army\nAttack?\n\nELABORATE",
-  "aerospace::ch4::16": "Women pilots",
-  "aerospace::ch4::18": "Civilian",
-  "aerospace::ch4::19": "They became the CAA War Training Service\n\nINCREASE OR DECREASE IN OUTPUT",
-  "aerospace::ch4::20": "Hungary",
-  "aerospace::ch4::22": "Germany/Britain\n\nWHICH ONE",
-  "aerospace::ch4::23": "No"
+  "aerospace::ch4::16": "Women pilots"
  },
  "edits": {}
 }
