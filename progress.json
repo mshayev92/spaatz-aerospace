@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785804917532,
+ "updatedAt": 1785804934363,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1197,7 +1197,9 @@
   "aerospace::ch23::6": "mastered",
   "aerospace::ch23::7": "mastered",
   "aerospace::ch23::8": "mastered",
-  "aerospace::ch23::9": "mastered"
+  "aerospace::ch23::9": "mastered",
+  "aerospace::ch23::10": "mastered",
+  "aerospace::ch23::11": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1344,7 +1346,9 @@
   "aerospace::ch23::7": "The velocity needed to be attained to reach the destination",
   "aerospace::ch23::8": "The velocity needed to escape the influence of an object",
   "aerospace::ch23::9": "Velocity that needs to be attained when thrust stops to continue to destination",
-  "aerospace::ch23::10": "Adding up all the velocity requirements at all stages"
+  "aerospace::ch23::10": "Adding up all the velocity requirements at all stages",
+  "aerospace::ch23::11": "Opposite direction",
+  "aerospace::ch23::12": "Study of the arc of non orbiting object"
  },
  "edits": {}
 }
