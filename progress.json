@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785804834508,
+ "updatedAt": 1785804848434,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1191,7 +1191,9 @@
   "aerospace::ch23::0": "mastered",
   "aerospace::ch23::1": "mastered",
   "aerospace::ch23::2": "mastered",
-  "aerospace::ch23::3": "mastered"
+  "aerospace::ch23::3": "mastered",
+  "aerospace::ch23::4": "mastered",
+  "aerospace::ch23::5": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1332,7 +1334,8 @@
   "aerospace::ch23::1": "Constant altitude",
   "aerospace::ch23::2": "Not circular",
   "aerospace::ch23::3": "Over of the equator",
-  "aerospace::ch23::4": "Velocity and inertia so great, objects comes into influence of different object"
+  "aerospace::ch23::4": "Velocity and inertia so great, objects comes into influence of different object",
+  "aerospace::ch23::5": "Highest point from body during orbit"
  },
  "edits": {}
 }
