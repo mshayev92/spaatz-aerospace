@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785804984506,
+ "updatedAt": 1785804995786,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1354,7 +1354,7 @@
   "aerospace::ch23::12": "Study of the arc of nonorbiting object",
   "aerospace::ch23::13": "Same plane transfer\nLaunched at 28.5 degrees",
   "aerospace::ch23::14": "Hovering over the same point (equator)",
-  "aerospace::ch23::15": "G"
+  "aerospace::ch23::15": "Geosynchronous: \nGeostrationary: "
  },
  "edits": {}
 }
