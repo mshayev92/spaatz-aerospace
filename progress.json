@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785959305398,
+ "updatedAt": 1785959315764,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1417,7 +1417,7 @@
   "aerospace::ch4::29": "Bombed within 30 miles\n\nWRONG NUMBER",
   "aerospace::ch4::30": "Stopped Japanese\n\nWHAT KIND OF BATTLE?",
   "aerospace::ch4::31": "No, blanket fire\n(did say incendiary)",
-  "aerospace::ch4::32": "May 10-13, 1945\n"
+  "aerospace::ch4::32": "May 10-13, 1945\n\nWRONG"
  },
  "edits": {}
 }
