@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785959530285,
+ "updatedAt": 1785959536900,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1427,7 +1427,7 @@
   "aerospace::ch4::34": "Japanese better\nCombined Navy and Air Forces\n\nASKING FOR STATS",
   "aerospace::ch4::35": "Air superiority\n\nNO",
   "aerospace::ch4::36": "10 mil\n\nWRONG",
-  "aerospace::ch4::37": "Blietzkrieg - lightning war\nAir s"
+  "aerospace::ch4::37": "Blietzkrieg - lightning war\nAir forces supported ground troops"
  },
  "edits": {}
 }
