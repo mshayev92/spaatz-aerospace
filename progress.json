@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785959761122,
+ "updatedAt": 1785959764214,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1252,7 +1252,8 @@
   "aerospace::ch4::42": "mastered",
   "aerospace::ch5::0": "mastered",
   "aerospace::ch5::1": "mastered",
-  "aerospace::ch5::2": "mastered"
+  "aerospace::ch5::2": "mastered",
+  "aerospace::ch5::3": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1444,7 +1445,8 @@
   "aerospace::ch5::0": "US v. USSR",
   "aerospace::ch5::1": "Most famous WW2 fighter jet\nDouble engine",
   "aerospace::ch5::2": "V-1: buzz bomb\nV-2: ballistic missle",
-  "aerospace::ch5::3": "USC-130\nAllies lifted (three tons?) of cargo over Soviet blockade"
+  "aerospace::ch5::3": "USC-130\nAllies lifted (three tons?) of cargo over Soviet blockade",
+  "aerospace::ch5::4": "Comm"
  },
  "edits": {}
 }
