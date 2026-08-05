@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785966017489,
+ "updatedAt": 1785966021205,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1331,7 +1331,8 @@
   "aerospace::ch6::0": "mastered",
   "aerospace::ch6::1": "mastered",
   "aerospace::ch6::2": "mastered",
-  "aerospace::ch6::3": "general"
+  "aerospace::ch6::3": "general",
+  "aerospace::ch6::4": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1591,7 +1592,8 @@
   "aerospace::ch6::1": "TU-144",
   "aerospace::ch6::2": "Model 2707 (canceled)",
   "aerospace::ch6::3": "AF, Navy, NACA project\n250,000 ft\nSpeed: ?\n\nGIVE SPEED",
-  "aerospace::ch6::4": "Supersonic replacement for B-52\nCanceled"
+  "aerospace::ch6::4": "Supersonic replacement for B-52\nCanceled",
+  "aerospace::ch6::5": "Low"
  },
  "edits": {}
 }
