@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785964594560,
+ "updatedAt": 1785964606317,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1295,7 +1295,8 @@
   "aerospace::ch5::42": "general",
   "aerospace::ch5::43": "mastered",
   "aerospace::ch5::44": "general",
-  "aerospace::ch5::45": "mastered"
+  "aerospace::ch5::45": "mastered",
+  "aerospace::ch5::46": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1528,7 +1529,8 @@
   "aerospace::ch5::43": "Deterrence",
   "aerospace::ch5::44": "Soviet blockade\nPeak cargo: ---\n\nGIVE VALUE",
   "aerospace::ch5::45": "North Korea with soviet backing",
-  "aerospace::ch5::46": "Atomic bomb not enough\nConventional weapons needed\nNot enough fighters\n\nWHAT DOCTRINE?"
+  "aerospace::ch5::46": "Atomic bomb not enough\nConventional weapons needed\nNot enough fighters\n\nWHAT DOCTRINE?",
+  "aerospace::ch5::47": "Better trained"
  },
  "edits": {}
 }
