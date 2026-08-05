@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785959654055,
+ "updatedAt": 1785959662683,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1247,7 +1247,8 @@
   "aerospace::ch4::37": "general",
   "aerospace::ch4::38": "review",
   "aerospace::ch4::39": "review",
-  "aerospace::ch4::40": "review"
+  "aerospace::ch4::40": "review",
+  "aerospace::ch4::41": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
