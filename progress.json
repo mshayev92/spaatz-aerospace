@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963953179,
+ "updatedAt": 1785963964795,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1524,7 +1524,7 @@
   "aerospace::ch5::41": "First practical military heli\nSearch and rescue, rescue downed pilots behind enemy lines\n\nNOT WHAT ASKED FOR",
   "aerospace::ch5::42": "Reduced forces\n\nBUT WHY?",
   "aerospace::ch5::43": "Deterrence",
-  "aerospace::ch5::44": "Soviet blockade\n"
+  "aerospace::ch5::44": "Soviet blockade\nPeak cargo: "
  },
  "edits": {}
 }
