@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963513564,
+ "updatedAt": 1785963527735,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1279,7 +1279,8 @@
   "aerospace::ch5::26": "mastered",
   "aerospace::ch5::27": "mastered",
   "aerospace::ch5::28": "mastered",
-  "aerospace::ch5::29": "mastered"
+  "aerospace::ch5::29": "mastered",
+  "aerospace::ch5::30": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1496,7 +1497,8 @@
   "aerospace::ch5::26": "Smart\nTailless\nRocket/missle\n",
   "aerospace::ch5::27": "Winged bomb, allowed troops to stay away from target",
   "aerospace::ch5::28": "Navy, all weather, VN",
-  "aerospace::ch5::29": "Alerted AF and Navy of MiGs"
+  "aerospace::ch5::29": "Alerted AF and Navy of MiGs",
+  "aerospace::ch5::30": "Attacked SAMs"
  },
  "edits": {}
 }
