@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785962936692,
+ "updatedAt": 1785962958647,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1452,7 +1452,8 @@
   "aerospace::ch5::3": "USC-130\nAllies lifted (three tons?) of cargo over Soviet blockade",
   "aerospace::ch5::4": "Communist seperatists\n\nWAS VN INDEPENDENT?",
   "aerospace::ch5::6": "President chose targets\nCared about reaction of opposition\n\nNOT WHAT CARD ASKED FOR",
-  "aerospace::ch5::7": "Jungle hit and run"
+  "aerospace::ch5::7": "Jungle hit and run",
+  "aerospace::ch5::8": "Conventional attack on US and South VN during Christmas"
  },
  "edits": {}
 }
