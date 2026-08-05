@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785959378297,
+ "updatedAt": 1785959401695,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1239,7 +1239,8 @@
   "aerospace::ch4::29": "review",
   "aerospace::ch4::30": "general",
   "aerospace::ch4::31": "mastered",
-  "aerospace::ch4::32": "review"
+  "aerospace::ch4::32": "review",
+  "aerospace::ch4::33": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1419,7 +1420,7 @@
   "aerospace::ch4::30": "Stopped Japanese\n\nWHAT KIND OF BATTLE?",
   "aerospace::ch4::31": "No, blanket fire\n(did say incendiary)",
   "aerospace::ch4::32": "May 10-13, 1945\n\nWRONG",
-  "aerospace::ch4::33": "Hiroshima: August 9/10, 1945\nNagasaki: August 13, 1945"
+  "aerospace::ch4::33": "Hiroshima: August 9/10, 1945\nNagasaki: August 13, 1945\n\nCLOSE, BUT WRONG DATES"
  },
  "edits": {}
 }
