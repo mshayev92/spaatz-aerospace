@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963506334,
+ "updatedAt": 1785963510645,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1495,7 +1495,7 @@
   "aerospace::ch5::26": "Smart\nTailless\nRocket/missle\n",
   "aerospace::ch5::27": "Winged bomb, allowed troops to stay away from target",
   "aerospace::ch5::28": "Navy, all weather, VN",
-  "aerospace::ch5::29": "Aler"
+  "aerospace::ch5::29": "Alerted AF and Navy of MiGs"
  },
  "edits": {}
 }
