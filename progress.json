@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785965646678,
+ "updatedAt": 1785965650263,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1572,7 +1572,8 @@
   "aerospace::ch5::66": "Civil Reserve Air Fleet",
   "aerospace::ch5::68": "Anti-Aircraft Artillery\nSoviet built",
   "aerospace::ch5::69": "Surface to Air Missile",
-  "aerospace::ch5::70": "Launched by Navy against Iraq"
+  "aerospace::ch5::70": "Launched by Navy against Iraq",
+  "aerospace::ch5::72": "660"
  },
  "edits": {}
 }
