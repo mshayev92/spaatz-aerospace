@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785964586250,
+ "updatedAt": 1785964594560,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1528,7 +1528,7 @@
   "aerospace::ch5::43": "Deterrence",
   "aerospace::ch5::44": "Soviet blockade\nPeak cargo: ---\n\nGIVE VALUE",
   "aerospace::ch5::45": "North Korea with soviet backing",
-  "aerospace::ch5::46": "Atomic bomb not enough\nConventional weapons needed\nNot enough fighters"
+  "aerospace::ch5::46": "Atomic bomb not enough\nConventional weapons needed\nNot enough fighters\n\nWHAT DOCTRINE?"
  },
  "edits": {}
 }
