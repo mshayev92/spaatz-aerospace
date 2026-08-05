@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963619232,
+ "updatedAt": 1785963623511,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1505,7 +1505,7 @@
   "aerospace::ch5::31": "Transported men and supplies in Tet Offensive\n\nPREVIOUSLY GOT WRONG",
   "aerospace::ch5::32": "Bombs dropped by fighters\n\nWHAT ELSE?",
   "aerospace::ch5::33": "President chose targets\nTightly controlled",
-  "aerospace::ch5::34": "Military commanders ch"
+  "aerospace::ch5::34": "Military commanders chose targets"
  },
  "edits": {}
 }
