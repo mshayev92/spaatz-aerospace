@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785965017683,
+ "updatedAt": 1785965024410,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1533,7 +1533,7 @@
   "aerospace::ch5::45": "North Korea with soviet backing",
   "aerospace::ch5::46": "Atomic bomb not enough\nConventional weapons needed\nNot enough fighters\n\nWHAT DOCTRINE?",
   "aerospace::ch5::47": "Better trained",
-  "aerospace::ch5::49": "Scott Crossfield\nX-3\n\nRIGHT PERSON"
+  "aerospace::ch5::49": "Scott Crossfield\nX-3\n\nRIGHT PERSON, FIX OTHERS"
  },
  "edits": {}
 }
