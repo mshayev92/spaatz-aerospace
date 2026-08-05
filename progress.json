@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785962963268,
+ "updatedAt": 1785962983135,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1455,7 +1455,7 @@
   "aerospace::ch5::6": "President chose targets\nCared about reaction of opposition\n\nNOT WHAT CARD ASKED FOR",
   "aerospace::ch5::7": "Jungle hit and run",
   "aerospace::ch5::8": "Conventional attack on US and South VN during Christmas",
-  "aerospace::ch5::9": "N"
+  "aerospace::ch5::9": "Nixon\nSurrender or bombing continues\nCut off"
  },
  "edits": {}
 }
