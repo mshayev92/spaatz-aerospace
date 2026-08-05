@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963545236,
+ "updatedAt": 1785963566572,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1280,7 +1280,8 @@
   "aerospace::ch5::27": "mastered",
   "aerospace::ch5::28": "mastered",
   "aerospace::ch5::29": "mastered",
-  "aerospace::ch5::30": "mastered"
+  "aerospace::ch5::30": "mastered",
+  "aerospace::ch5::31": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1499,7 +1500,7 @@
   "aerospace::ch5::28": "Navy, all weather, VN",
   "aerospace::ch5::29": "Alerted AF and Navy of MiGs",
   "aerospace::ch5::30": "Attacked SAMs",
-  "aerospace::ch5::31": "Transported men and supplies in Tet Offensive"
+  "aerospace::ch5::31": "Transported men and supplies in Tet Offensive\n\nPREVIOUSLY GOT WRONG"
  },
  "edits": {}
 }
