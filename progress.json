@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963815459,
+ "updatedAt": 1785963825863,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1514,7 +1514,7 @@
   "aerospace::ch5::35": "Football War\nEscaping forces pummeled",
   "aerospace::ch5::37": "No, Germany did",
   "aerospace::ch5::38": "Production: ---\nNot used much\n\nELABORATE",
-  "aerospace::ch5::39": "Buzz bomb\n"
+  "aerospace::ch5::39": "Buzz bomb\nMade a sound"
  },
  "edits": {}
 }
