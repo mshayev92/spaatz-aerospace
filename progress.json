@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963499048,
+ "updatedAt": 1785963506334,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1277,7 +1277,8 @@
   "aerospace::ch5::24": "general",
   "aerospace::ch5::25": "general",
   "aerospace::ch5::26": "mastered",
-  "aerospace::ch5::27": "mastered"
+  "aerospace::ch5::27": "mastered",
+  "aerospace::ch5::28": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1493,7 +1494,8 @@
   "aerospace::ch5::25": "Supersonic replacement for B-47\n\nPARTLY RIGHT",
   "aerospace::ch5::26": "Smart\nTailless\nRocket/missle\n",
   "aerospace::ch5::27": "Winged bomb, allowed troops to stay away from target",
-  "aerospace::ch5::28": "Navy, all weather, VN"
+  "aerospace::ch5::28": "Navy, all weather, VN",
+  "aerospace::ch5::29": "Aler"
  },
  "edits": {}
 }
