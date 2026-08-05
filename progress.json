@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963539612,
+ "updatedAt": 1785963545236,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1499,7 +1499,7 @@
   "aerospace::ch5::28": "Navy, all weather, VN",
   "aerospace::ch5::29": "Alerted AF and Navy of MiGs",
   "aerospace::ch5::30": "Attacked SAMs",
-  "aerospace::ch5::31": "Transported supplies in Tet Offensive"
+  "aerospace::ch5::31": "Transported men and supplies in Tet Offensive"
  },
  "edits": {}
 }
