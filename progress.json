@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785966061696,
+ "updatedAt": 1785966076058,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1598,7 +1598,8 @@
   "aerospace::ch6::4": "Supersonic replacement for B-52\nCanceled",
   "aerospace::ch6::5": "Low altitude penetration bomber",
   "aerospace::ch6::6": "Stealth",
-  "aerospace::ch6::7": "First short haul jet"
+  "aerospace::ch6::7": "First short haul jet",
+  "aerospace::ch6::8": "Revolutionized 1960s comm. travel"
  },
  "edits": {}
 }
