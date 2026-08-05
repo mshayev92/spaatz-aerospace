@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785959536900,
+ "updatedAt": 1785959558584,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1243,7 +1243,8 @@
   "aerospace::ch4::33": "general",
   "aerospace::ch4::34": "review",
   "aerospace::ch4::35": "review",
-  "aerospace::ch4::36": "review"
+  "aerospace::ch4::36": "review",
+  "aerospace::ch4::37": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1427,7 +1428,7 @@
   "aerospace::ch4::34": "Japanese better\nCombined Navy and Air Forces\n\nASKING FOR STATS",
   "aerospace::ch4::35": "Air superiority\n\nNO",
   "aerospace::ch4::36": "10 mil\n\nWRONG",
-  "aerospace::ch4::37": "Blietzkrieg - lightning war\nAir forces supported ground troops"
+  "aerospace::ch4::37": "Blietzkrieg - lightning war\nAir forces supported ground troops\n\nHOW DID AIR CONTRIBUTE?"
  },
  "edits": {}
 }
