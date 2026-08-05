@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785965679658,
+ "updatedAt": 1785965718102,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1322,7 +1322,8 @@
   "aerospace::ch5::69": "mastered",
   "aerospace::ch5::70": "mastered",
   "aerospace::ch5::71": "review",
-  "aerospace::ch5::72": "mastered"
+  "aerospace::ch5::72": "mastered",
+  "aerospace::ch5::73": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1575,7 +1576,7 @@
   "aerospace::ch5::69": "Surface to Air Missile",
   "aerospace::ch5::70": "Launched by Navy against Iraq",
   "aerospace::ch5::72": "660",
-  "aerospace::ch5::73": "Decimated"
+  "aerospace::ch5::73": "Decimated\n\nWRONG"
  },
  "edits": {}
 }
