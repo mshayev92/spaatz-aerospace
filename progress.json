@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785959713112,
+ "updatedAt": 1785959724006,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1250,7 +1250,8 @@
   "aerospace::ch4::40": "review",
   "aerospace::ch4::41": "mastered",
   "aerospace::ch4::42": "mastered",
-  "aerospace::ch5::0": "mastered"
+  "aerospace::ch5::0": "mastered",
+  "aerospace::ch5::1": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1440,7 +1441,8 @@
   "aerospace::ch4::41": "Spanish Civil War\n(plus Ethiopia?)",
   "aerospace::ch4::42": "Gave practice",
   "aerospace::ch5::0": "US v. USSR",
-  "aerospace::ch5::1": "Most famous WW2 fighter jet\nDouble engine"
+  "aerospace::ch5::1": "Most famous WW2 fighter jet\nDouble engine",
+  "aerospace::ch5::2": "V-1: buzz bom"
  },
  "edits": {}
 }
