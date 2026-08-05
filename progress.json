@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963328592,
+ "updatedAt": 1785963339049,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1480,7 +1480,8 @@
   "aerospace::ch5::18": "Part of Dessert Storm\n(aerial portion)",
   "aerospace::ch5::19": "Largest bomber in 1948\n",
   "aerospace::ch5::20": "Transport in Tet Offensive\n\nWRONG",
-  "aerospace::ch5::21": "Korea\nDropped bombs"
+  "aerospace::ch5::21": "Korea\nDropped bombs",
+  "aerospace::ch5::22": "Surplus made it popular, but then Constellation became hte bes"
  },
  "edits": {}
 }
