@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785966592090,
+ "updatedAt": 1785966602081,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1614,7 +1614,8 @@
   "aerospace::ch6::11": "250k ft altitude\n4,500 mph\n\nAltitude record\n\nELABORATE",
   "aerospace::ch6::13": "Inconel X",
   "aerospace::ch6::14": "William Knight\n...\n\nDID NOT READ QUESTION CORRECTLY",
-  "aerospace::ch6::15": "X-15: rocket jet\nXB-70: canceled supersonic bomber"
+  "aerospace::ch6::15": "X-15: rocket jet\nXB-70: canceled supersonic bomber",
+  "aerospace::ch6::17": "Lightweight alloys"
  },
  "edits": {}
 }
