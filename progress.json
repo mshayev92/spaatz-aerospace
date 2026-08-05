@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785962997264,
+ "updatedAt": 1785963011413,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1458,7 +1458,8 @@
   "aerospace::ch5::7": "Jungle hit and run",
   "aerospace::ch5::8": "Conventional attack on US and South VN during Christmas",
   "aerospace::ch5::9": "Nixon\nSurrender or bombing continues\nCut off",
-  "aerospace::ch5::10": "Continued from first op"
+  "aerospace::ch5::10": "Continued from first op",
+  "aerospace::ch5::11": "Defense mission\nBuildup to protect Saudi Arabia from Iraq"
  },
  "edits": {}
 }
