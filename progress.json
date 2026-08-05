@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785966105091,
+ "updatedAt": 1785966118599,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1337,7 +1337,8 @@
   "aerospace::ch6::6": "mastered",
   "aerospace::ch6::7": "mastered",
   "aerospace::ch6::8": "mastered",
-  "aerospace::ch6::9": "mastered"
+  "aerospace::ch6::9": "mastered",
+  "aerospace::ch6::10": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1603,7 +1604,7 @@
   "aerospace::ch6::7": "First short haul jet",
   "aerospace::ch6::8": "Revolutionized 1960s comm. air travel",
   "aerospace::ch6::9": "Jumbo jet",
-  "aerospace::ch6::10": "Stealth\nMulti-role\nJoint strike fighter"
+  "aerospace::ch6::10": "Stealth\nMulti-role\nJoint strike fighter\n\nSOMETHING MISSING"
  },
  "edits": {}
 }
