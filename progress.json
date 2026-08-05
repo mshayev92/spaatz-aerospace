@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963787802,
+ "updatedAt": 1785963805448,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1287,7 +1287,8 @@
   "aerospace::ch5::34": "mastered",
   "aerospace::ch5::35": "mastered",
   "aerospace::ch5::36": "review",
-  "aerospace::ch5::37": "mastered"
+  "aerospace::ch5::37": "mastered",
+  "aerospace::ch5::38": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1512,7 +1513,7 @@
   "aerospace::ch5::34": "Military commanders chose targets",
   "aerospace::ch5::35": "Football War\nEscaping forces pummeled",
   "aerospace::ch5::37": "No, Germany did",
-  "aerospace::ch5::38": "Production: \nNot used much"
+  "aerospace::ch5::38": "Production: ---\nNot used much\n\nELABORATE"
  },
  "edits": {}
 }
