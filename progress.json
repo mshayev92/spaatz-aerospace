@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963354366,
+ "updatedAt": 1785963365960,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1272,7 +1272,8 @@
   "aerospace::ch5::19": "mastered",
   "aerospace::ch5::20": "review",
   "aerospace::ch5::21": "mastered",
-  "aerospace::ch5::22": "mastered"
+  "aerospace::ch5::22": "mastered",
+  "aerospace::ch5::23": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1483,7 +1484,8 @@
   "aerospace::ch5::20": "Transport in Tet Offensive\n\nWRONG",
   "aerospace::ch5::21": "Korea\nDropped bombs",
   "aerospace::ch5::22": "Surplus made it popular, but then Constellation became best",
-  "aerospace::ch5::23": "First turboprop airliner"
+  "aerospace::ch5::23": "First turboprop airliner",
+  "aerospace::ch5::24": "Short-haul jet"
  },
  "edits": {}
 }
