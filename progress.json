@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963444154,
+ "updatedAt": 1785963455388,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1489,7 +1489,7 @@
   "aerospace::ch5::23": "First turboprop airliner",
   "aerospace::ch5::24": "Short-haul jet\n\nYES AND NO",
   "aerospace::ch5::25": "Supersonic replacement for B-47\n\nPARTLY RIGHT",
-  "aerospace::ch5::26": "Smart\nTailless\n"
+  "aerospace::ch5::26": "Smart\nTailless\nRocket/missle\n"
  },
  "edits": {}
 }
