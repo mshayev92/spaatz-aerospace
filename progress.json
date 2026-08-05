@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785965718102,
+ "updatedAt": 1785965724952,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1576,7 +1576,8 @@
   "aerospace::ch5::69": "Surface to Air Missile",
   "aerospace::ch5::70": "Launched by Navy against Iraq",
   "aerospace::ch5::72": "660",
-  "aerospace::ch5::73": "Decimated\n\nWRONG"
+  "aerospace::ch5::73": "Decimated\n\nWRONG",
+  "aerospace::ch5::74": "Televised\n"
  },
  "edits": {}
 }
