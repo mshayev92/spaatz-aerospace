@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963224971,
+ "updatedAt": 1785963238750,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1267,7 +1267,8 @@
   "aerospace::ch5::14": "mastered",
   "aerospace::ch5::15": "mastered",
   "aerospace::ch5::16": "general",
-  "aerospace::ch5::17": "mastered"
+  "aerospace::ch5::17": "mastered",
+  "aerospace::ch5::18": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1473,7 +1474,8 @@
   "aerospace::ch5::15": "National Security Act\nNuclear deterence",
   "aerospace::ch5::16": "Though to be a physical barrier\nYeager broke in X-1\nX-2 to study heating at Mach 3\n\nWHY X-1 BUILT?\nDATES",
   "aerospace::ch5::17": "Protect homeland from nukes\n(fleet of bombers)\nLooking Glass",
-  "aerospace::ch5::18": "Part of Dessert Storm\n(aerial portion)"
+  "aerospace::ch5::18": "Part of Dessert Storm\n(aerial portion)",
+  "aerospace::ch5::19": "Largest bomber in 1948\n"
  },
  "edits": {}
 }
