@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785965947912,
+ "updatedAt": 1785965955071,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1328,7 +1328,9 @@
   "aerospace::ch5::75": "review",
   "aerospace::ch5::76": "review",
   "aerospace::ch5::77": "mastered",
-  "aerospace::ch6::0": "mastered"
+  "aerospace::ch6::0": "mastered",
+  "aerospace::ch6::1": "mastered",
+  "aerospace::ch6::2": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1585,7 +1587,8 @@
   "aerospace::ch5::74": "Televised\nCitizens made aware that progress not being made as promised by successive administrations",
   "aerospace::ch5::77": "Destroying enemy C&C\nTargeting supply lines and defenses\nEnabled ground troops to advance",
   "aerospace::ch6::0": "Concorde",
-  "aerospace::ch6::1": "TU"
+  "aerospace::ch6::1": "TU-144",
+  "aerospace::ch6::2": "Model 2707 (canceled)"
  },
  "edits": {}
 }
