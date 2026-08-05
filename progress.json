@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785965920450,
+ "updatedAt": 1785965925904,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1581,7 +1581,7 @@
   "aerospace::ch5::72": "660",
   "aerospace::ch5::73": "Decimated\n\nWRONG",
   "aerospace::ch5::74": "Televised\nCitizens made aware that progress not being made as promised by successive administrations",
-  "aerospace::ch5::77": "Destroying enemy C&C\nTargeting supply lines and defences\nEnabled ground troops to advance"
+  "aerospace::ch5::77": "Destroying enemy C&C\nTargeting supply lines and defenses\nEnabled ground troops to advance"
  },
  "edits": {}
 }
