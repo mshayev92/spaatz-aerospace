@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785966653829,
+ "updatedAt": 1785966662361,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1345,7 +1345,8 @@
   "aerospace::ch6::14": "review",
   "aerospace::ch6::15": "mastered",
   "aerospace::ch6::16": "review",
-  "aerospace::ch6::17": "review"
+  "aerospace::ch6::17": "review",
+  "aerospace::ch6::18": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1617,7 +1618,7 @@
   "aerospace::ch6::14": "William Knight\n...\n\nDID NOT READ QUESTION CORRECTLY",
   "aerospace::ch6::15": "X-15: rocket jet\nXB-70: canceled supersonic bomber",
   "aerospace::ch6::17": "Lightweight alloys\n\nYES AND NO",
-  "aerospace::ch6::18": "American Airlines ---"
+  "aerospace::ch6::18": "American Airlines ---\n\nWRONG"
  },
  "edits": {}
 }
