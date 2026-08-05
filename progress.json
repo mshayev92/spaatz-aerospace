@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963772438,
+ "updatedAt": 1785963782903,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1511,7 +1511,8 @@
   "aerospace::ch5::33": "President chose targets\nTightly controlled",
   "aerospace::ch5::34": "Military commanders chose targets",
   "aerospace::ch5::35": "Football War\nEscaping forces pummeled",
-  "aerospace::ch5::37": "No, Germany did"
+  "aerospace::ch5::37": "No, Germany did",
+  "aerospace::ch5::38": "P\nNot used much"
  },
  "edits": {}
 }
