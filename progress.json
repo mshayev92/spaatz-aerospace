@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963036122,
+ "updatedAt": 1785963056026,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1261,7 +1261,8 @@
   "aerospace::ch5::8": "mastered",
   "aerospace::ch5::9": "mastered",
   "aerospace::ch5::10": "mastered",
-  "aerospace::ch5::11": "mastered"
+  "aerospace::ch5::11": "mastered",
+  "aerospace::ch5::12": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1461,7 +1462,8 @@
   "aerospace::ch5::9": "Nixon\nSurrender or bombing continues\nCut off",
   "aerospace::ch5::10": "Continued from first op",
   "aerospace::ch5::11": "Defense mission\nBuildup to protect Saudi Arabia from Iraq",
-  "aerospace::ch5::12": "Activated first time for Dessert Storm\nCiv. plane transports"
+  "aerospace::ch5::12": "Activated first time for Dessert Storm\nCiv. plane transports",
+  "aerospace::ch5::13": "Offensive portion\nLiberate Kuwait\nInc. Final Coalition Air Campaign"
  },
  "edits": {}
 }
