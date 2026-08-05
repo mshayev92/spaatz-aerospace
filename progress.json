@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785959083687,
+ "updatedAt": 1785959136614,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1408,7 +1408,8 @@
   "aerospace::ch4::20": "Hungary",
   "aerospace::ch4::22": "Germany/Britain\n\nWHICH ONE",
   "aerospace::ch4::23": "No",
-  "aerospace::ch4::27": "Chenault: need fighter escort\nTrenchard: 2/3B, 1/3F; vital centers\nMitchell: Destroy will, 60% fighters\nDouhet: massive first strike, then pop.\n"
+  "aerospace::ch4::27": "Chenault: need fighter escort\nTrenchard: 2/3B, 1/3F; vital centers\nMitchell: Destroy will, 60% fighters\nDouhet: massive first strike, then pop.\n",
+  "aerospace::ch4::28": "Daylight precision bombing\n\nWHAT AIRCRAFT MODEL FI GAP"
  },
  "edits": {}
 }
