@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963639469,
+ "updatedAt": 1785963647678,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1284,7 +1284,8 @@
   "aerospace::ch5::31": "general",
   "aerospace::ch5::32": "general",
   "aerospace::ch5::33": "mastered",
-  "aerospace::ch5::34": "mastered"
+  "aerospace::ch5::34": "mastered",
+  "aerospace::ch5::35": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1507,7 +1508,7 @@
   "aerospace::ch5::32": "Bombs dropped by fighters\n\nWHAT ELSE?",
   "aerospace::ch5::33": "President chose targets\nTightly controlled",
   "aerospace::ch5::34": "Military commanders chose targets",
-  "aerospace::ch5::35": "Football War\nEscaping forces pumelled"
+  "aerospace::ch5::35": "Football War\nEscaping forces pummeled"
  },
  "edits": {}
 }
