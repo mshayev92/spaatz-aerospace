@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785965593927,
+ "updatedAt": 1785965602386,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1568,7 +1568,7 @@
   "aerospace::ch5::64": "Dessert Shield\nDessert Storm\nFinal Coalition Air Campaign\n\nNOT WHAT ASKED FOR\nWHY DISPUTE?",
   "aerospace::ch5::66": "Civil Reserve Air Fleet",
   "aerospace::ch5::68": "Anti-Aircraft Artillery\nSoviet built",
-  "aerospace::ch5::69": "S"
+  "aerospace::ch5::69": "Surface to Air Missile"
  },
  "edits": {}
 }
