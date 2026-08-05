@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785958888368,
+ "updatedAt": 1785958967150,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1406,7 +1406,8 @@
   "aerospace::ch4::19": "They became the CAA War Training Service\n\nINCREASE OR DECREASE IN OUTPUT",
   "aerospace::ch4::20": "Hungary",
   "aerospace::ch4::22": "Germany/Britain\n\nWHICH ONE",
-  "aerospace::ch4::23": "No"
+  "aerospace::ch4::23": "No",
+  "aerospace::ch4::27": "Chenault: need gih"
  },
  "edits": {}
 }
