@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785959770244,
+ "updatedAt": 1785959785100,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1446,7 +1446,7 @@
   "aerospace::ch5::1": "Most famous WW2 fighter jet\nDouble engine",
   "aerospace::ch5::2": "V-1: buzz bomb\nV-2: ballistic missle",
   "aerospace::ch5::3": "USC-130\nAllies lifted (three tons?) of cargo over Soviet blockade",
-  "aerospace::ch5::4": "Communist seperatists"
+  "aerospace::ch5::4": "Communist seperatists\n\nWAS VN INDEPENDENT?"
  },
  "edits": {}
 }
