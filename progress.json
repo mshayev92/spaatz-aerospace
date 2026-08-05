@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963183276,
+ "updatedAt": 1785963191911,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1265,7 +1265,8 @@
   "aerospace::ch5::12": "mastered",
   "aerospace::ch5::13": "mastered",
   "aerospace::ch5::14": "mastered",
-  "aerospace::ch5::15": "mastered"
+  "aerospace::ch5::15": "mastered",
+  "aerospace::ch5::16": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1469,7 +1470,8 @@
   "aerospace::ch5::13": "Offensive portion\nLiberate Kuwait\nInc. Final Coalition Air Campaign",
   "aerospace::ch5::14": "NATO op against Serbian ethnic cleansing\nDeter Milosevic",
   "aerospace::ch5::15": "National Security Act\nNuclear deterence",
-  "aerospace::ch5::16": "Though to be a physical barrier\nYeager broke in X-1\nX-2 to study heating at Mach 3\n\nWHY X-1 BUILT?\n"
+  "aerospace::ch5::16": "Though to be a physical barrier\nYeager broke in X-1\nX-2 to study heating at Mach 3\n\nWHY X-1 BUILT?\nDATES",
+  "aerospace::ch5::17": "Nuc"
  },
  "edits": {}
 }
