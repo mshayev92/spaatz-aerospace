@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963011413,
+ "updatedAt": 1785963017026,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1260,7 +1260,8 @@
   "aerospace::ch5::7": "mastered",
   "aerospace::ch5::8": "mastered",
   "aerospace::ch5::9": "mastered",
-  "aerospace::ch5::10": "mastered"
+  "aerospace::ch5::10": "mastered",
+  "aerospace::ch5::11": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1459,7 +1460,8 @@
   "aerospace::ch5::8": "Conventional attack on US and South VN during Christmas",
   "aerospace::ch5::9": "Nixon\nSurrender or bombing continues\nCut off",
   "aerospace::ch5::10": "Continued from first op",
-  "aerospace::ch5::11": "Defense mission\nBuildup to protect Saudi Arabia from Iraq"
+  "aerospace::ch5::11": "Defense mission\nBuildup to protect Saudi Arabia from Iraq",
+  "aerospace::ch5::12": "Firs t"
  },
  "edits": {}
 }
