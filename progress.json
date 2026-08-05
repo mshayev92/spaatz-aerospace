@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963898144,
+ "updatedAt": 1785963905503,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1291,7 +1291,7 @@
   "aerospace::ch5::38": "review",
   "aerospace::ch5::39": "review",
   "aerospace::ch5::40": "mastered",
-  "aerospace::ch5::41": "general"
+  "aerospace::ch5::41": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1519,7 +1519,7 @@
   "aerospace::ch5::38": "Production: ---\nNot used much\n\nELABORATE",
   "aerospace::ch5::39": "Buzz bomb\nMade a sound\n\nGIVE STATS",
   "aerospace::ch5::40": "V-1 buzz bomb\nV-2 ballistic missile",
-  "aerospace::ch5::41": "First practical military heli\nSearch and rescue, rescue downed pilots behind enemy lines"
+  "aerospace::ch5::41": "First practical military heli\nSearch and rescue, rescue downed pilots behind enemy lines\n\nNOT WHAT ASKED FOR"
  },
  "edits": {}
 }
