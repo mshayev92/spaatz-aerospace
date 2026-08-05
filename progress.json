@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785959001360,
+ "updatedAt": 1785959007040,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1407,7 +1407,7 @@
   "aerospace::ch4::20": "Hungary",
   "aerospace::ch4::22": "Germany/Britain\n\nWHICH ONE",
   "aerospace::ch4::23": "No",
-  "aerospace::ch4::27": "Chenault: need fighter escort\nTrenchard: 2/3B, 1/3F; vital centers\nMitchell: Destroy will, 60% fighters\nDouhet: "
+  "aerospace::ch4::27": "Chenault: need fighter escort\nTrenchard: 2/3B, 1/3F; vital centers\nMitchell: Destroy will, 60% fighters\nDouhet: \n"
  },
  "edits": {}
 }
