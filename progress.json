@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785965241712,
+ "updatedAt": 1785965244473,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1550,7 +1550,8 @@
   "aerospace::ch5::54": "B-52 made to replace B-47\nNeeded larger, longer range bomber\n\nELABORATE",
   "aerospace::ch5::55": "First turboprop: Vickers Viscount\nFirst pure jet: Comet",
   "aerospace::ch5::56": "Constellation better\n\nBUT WHY?",
-  "aerospace::ch5::57": "Cessna, Piper, Beech"
+  "aerospace::ch5::57": "Cessna, Piper, Beech",
+  "aerospace::ch5::59": "F"
  },
  "edits": {}
 }
