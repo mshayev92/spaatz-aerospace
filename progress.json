@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963403827,
+ "updatedAt": 1785963408272,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1487,7 +1487,7 @@
   "aerospace::ch5::22": "Surplus made it popular, but then Constellation became best",
   "aerospace::ch5::23": "First turboprop airliner",
   "aerospace::ch5::24": "Short-haul jet\n\nYES AND NO",
-  "aerospace::ch5::25": "Supersonic replacement for B-47"
+  "aerospace::ch5::25": "Supersonic replacement for B-47\n\n"
  },
  "edits": {}
 }
