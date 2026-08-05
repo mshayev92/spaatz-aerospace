@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785966028111,
+ "updatedAt": 1785966033593,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1593,7 +1593,7 @@
   "aerospace::ch6::2": "Model 2707 (canceled)",
   "aerospace::ch6::3": "AF, Navy, NACA project\n250,000 ft\nSpeed: ?\n\nGIVE SPEED",
   "aerospace::ch6::4": "Supersonic replacement for B-52\nCanceled",
-  "aerospace::ch6::5": "Low altitude pen"
+  "aerospace::ch6::5": "Low altitude penetration bomber"
  },
  "edits": {}
 }
