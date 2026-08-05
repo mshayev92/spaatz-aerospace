@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963243731,
+ "updatedAt": 1785963253896,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1476,7 +1476,8 @@
   "aerospace::ch5::16": "Though to be a physical barrier\nYeager broke in X-1\nX-2 to study heating at Mach 3\n\nWHY X-1 BUILT?\nDATES",
   "aerospace::ch5::17": "Protect homeland from nukes\n(fleet of bombers)\nLooking Glass",
   "aerospace::ch5::18": "Part of Dessert Storm\n(aerial portion)",
-  "aerospace::ch5::19": "Largest bomber in 1948\n"
+  "aerospace::ch5::19": "Largest bomber in 1948\n",
+  "aerospace::ch5::20": "Transport in Tet Offensive"
  },
  "edits": {}
 }
