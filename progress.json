@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785965248600,
+ "updatedAt": 1785965261697,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1308,7 +1308,9 @@
   "aerospace::ch5::55": "mastered",
   "aerospace::ch5::56": "general",
   "aerospace::ch5::57": "mastered",
-  "aerospace::ch5::58": "review"
+  "aerospace::ch5::58": "review",
+  "aerospace::ch5::59": "mastered",
+  "aerospace::ch5::60": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1551,7 +1553,8 @@
   "aerospace::ch5::55": "First turboprop: Vickers Viscount\nFirst pure jet: Comet",
   "aerospace::ch5::56": "Constellation better\n\nBUT WHY?",
   "aerospace::ch5::57": "Cessna, Piper, Beech",
-  "aerospace::ch5::59": "French colony"
+  "aerospace::ch5::59": "French colony",
+  "aerospace::ch5::60": "Vietnam"
  },
  "edits": {}
 }
