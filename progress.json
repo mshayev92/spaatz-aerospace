@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785963033051,
+ "updatedAt": 1785963036122,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1461,7 +1461,7 @@
   "aerospace::ch5::9": "Nixon\nSurrender or bombing continues\nCut off",
   "aerospace::ch5::10": "Continued from first op",
   "aerospace::ch5::11": "Defense mission\nBuildup to protect Saudi Arabia from Iraq",
-  "aerospace::ch5::12": "Activated first time for Dessert Storm\nCiv. planes transports"
+  "aerospace::ch5::12": "Activated first time for Dessert Storm\nCiv. plane transports"
  },
  "edits": {}
 }
