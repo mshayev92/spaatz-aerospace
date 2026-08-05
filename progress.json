@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785959698503,
+ "updatedAt": 1785959713112,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1440,7 +1440,7 @@
   "aerospace::ch4::41": "Spanish Civil War\n(plus Ethiopia?)",
   "aerospace::ch4::42": "Gave practice",
   "aerospace::ch5::0": "US v. USSR",
-  "aerospace::ch5::1": "M"
+  "aerospace::ch5::1": "Most famous WW2 fighter jet\nDouble engine"
  },
  "edits": {}
 }
