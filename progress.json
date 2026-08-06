@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786045569910,
+ "updatedAt": 1786045584113,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1843,7 +1843,8 @@
   "aerospace::ch8::47": "Airspeed indicator",
   "aerospace::ch8::49": "Like osprey\nVTOL\n",
   "aerospace::ch8::51": "Tail",
-  "aerospace::ch8::52": "Ailerons\nElevator\nRudder"
+  "aerospace::ch8::52": "Ailerons\nElevator\nRudder",
+  "aerospace::ch8::54": "Prevent wheels from locking"
  },
  "edits": {}
 }
