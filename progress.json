@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786046189114,
+ "updatedAt": 1786046207145,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1471,7 +1471,8 @@
   "aerospace::ch8::59": "general",
   "aerospace::ch8::60": "review",
   "aerospace::ch8::61": "mastered",
-  "aerospace::ch8::62": "mastered"
+  "aerospace::ch8::62": "mastered",
+  "aerospace::ch8::63": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1862,7 +1863,8 @@
   "aerospace::ch8::60": "The ability of a gyro to return to a rest state\n\nWRONG",
   "aerospace::ch8::61": "Performance: how aircraft responds to commands\nControl: tells state of devices",
   "aerospace::ch8::62": "Tachometer\nOil temp/flow\n",
-  "aerospace::ch8::63": "Airspeed indicator\nAttitude indicator\n...\n\nNEED MORE (TOTAL: 5)"
+  "aerospace::ch8::63": "Airspeed indicator\nAttitude indicator\n...\n\nNEED MORE (TOTAL: 5)",
+  "aerospace::ch8::64": "Magnetic compass\nHeading indicator\n"
  },
  "edits": {}
 }
