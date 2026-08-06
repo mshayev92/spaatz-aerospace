@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785976131945,
+ "updatedAt": 1785976144764,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1677,7 +1677,8 @@
   "aerospace::ch7::5": "Air moving over a surface\n(was also thinking airfoil)",
   "aerospace::ch7::6": "Lift, Weight, Thrust, Drag",
   "aerospace::ch7::7": "Magnitude + direction",
-  "aerospace::ch7::8": "Streamlines separate from airfoil"
+  "aerospace::ch7::8": "Streamlines separate from airfoil",
+  "aerospace::ch7::9": "Where useful load has the most profound effect (pivots)"
  },
  "edits": {}
 }
