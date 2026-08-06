@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785976263168,
+ "updatedAt": 1785976346197,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1689,7 +1689,8 @@
   "aerospace::ch7::11": "Loss of energy\nChange in temperature, velocity, vapor\n\nKEEP MESSING THIS UP",
   "aerospace::ch7::12": "Meets relative wind first\nThicker, slower",
   "aerospace::ch7::13": "Comes together again",
-  "aerospace::ch7::14": "Imaginary line from leading to trailing edges"
+  "aerospace::ch7::14": "Imaginary line from leading to trailing edges",
+  "aerospace::ch7::15": "\nIncrease angle of attack"
  },
  "edits": {}
 }
