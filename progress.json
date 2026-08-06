@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785978413062,
+ "updatedAt": 1785978421161,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1786,7 +1786,8 @@
   "aerospace::ch8::19": "State of devices",
   "aerospace::ch8::20": "How thrust-producing device is performing (rpm, oil level and temp)",
   "aerospace::ch8::21": "How fast the crankshaft is turning (rpm)",
-  "aerospace::ch8::23": "Plane's speed relative to the air"
+  "aerospace::ch8::23": "Plane's speed relative to the air",
+  "aerospace::ch8::24": "Altitude (uses pressure)"
  },
  "edits": {}
 }
