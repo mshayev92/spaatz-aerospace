@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786046267995,
+ "updatedAt": 1786046280664,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1472,7 +1472,8 @@
   "aerospace::ch8::60": "review",
   "aerospace::ch8::61": "mastered",
   "aerospace::ch8::62": "mastered",
-  "aerospace::ch8::63": "review"
+  "aerospace::ch8::63": "review",
+  "aerospace::ch8::64": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1864,7 +1865,7 @@
   "aerospace::ch8::61": "Performance: how aircraft responds to commands\nControl: tells state of devices",
   "aerospace::ch8::62": "Tachometer\nOil temp/flow\n",
   "aerospace::ch8::63": "Airspeed indicator\nAttitude indicator\n...\n\nNEED MORE (TOTAL: 5)",
-  "aerospace::ch8::64": "Magnetic compass\nHeading indicator\nGyroscope (NO)\n\nNEED MORE (TOTAL: "
+  "aerospace::ch8::64": "Magnetic compass\nHeading indicator\nGyroscope (NO)\n\nNEED MORE (TOTAL: 7)"
  },
  "edits": {}
 }
