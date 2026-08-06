@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785977787873,
+ "updatedAt": 1785977797211,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1414,7 +1414,8 @@
   "aerospace::ch8::2": "mastered",
   "aerospace::ch8::3": "mastered",
   "aerospace::ch8::4": "mastered",
-  "aerospace::ch8::5": "mastered"
+  "aerospace::ch8::5": "mastered",
+  "aerospace::ch8::6": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1752,7 +1753,7 @@
   "aerospace::ch8::3": "Yaw",
   "aerospace::ch8::4": "Pitch",
   "aerospace::ch8::5": "4 stroke, 5 event\nCircular motion",
-  "aerospace::ch8::6": "Power plant\n"
+  "aerospace::ch8::6": "Power plant\n\nBUT HOW"
  },
  "edits": {}
 }
