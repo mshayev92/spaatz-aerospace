@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785980547889,
+ "updatedAt": 1785980554175,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1800,7 +1800,8 @@
   "aerospace::ch8::27": "Pitch, elevator, lateral\nRoll, ailerons, longitudinal\nYaw, rudder, vertical",
   "aerospace::ch8::28": "GOT WRONG ON THE ACTUAL EXAM",
   "aerospace::ch8::29": "Simplest form of jet engine\nAir gets in, compressed/accelerated, released\n\nCHECK",
-  "aerospace::ch8::30": "Takes in a lot of air, has to accelerate less\n\nCOMPARED TO TURBOJET?"
+  "aerospace::ch8::30": "Takes in a lot of air, has to accelerate less\n\nCOMPARED TO TURBOJET?",
+  "aerospace::ch8::31": "AKA Unducted rotor"
  },
  "edits": {}
 }
