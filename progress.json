@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786046442873,
+ "updatedAt": 1786046467836,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1476,7 +1476,8 @@
   "aerospace::ch8::64": "review",
   "aerospace::ch8::65": "review",
   "aerospace::ch8::66": "review",
-  "aerospace::ch8::67": "mastered"
+  "aerospace::ch8::67": "mastered",
+  "aerospace::ch8::68": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1872,7 +1873,7 @@
   "aerospace::ch8::65": "Wind speed/direction\n\nWRONG",
   "aerospace::ch8::66": "Measures incline\n\nWRONG",
   "aerospace::ch8::67": "Tells the time",
-  "aerospace::ch8::68": "Rotor: rotate\nStrator: ?"
+  "aerospace::ch8::68": "Rotor: rotate\nStrator: ?\n\nWRONG, THEY WORK TOGETHER"
  },
  "edits": {}
 }
