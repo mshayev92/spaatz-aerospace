@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786046744964,
+ "updatedAt": 1786046870444,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1889,7 +1889,8 @@
   "aerospace::ch8::73": "Retractable: less drag; more weight and cost\nFixed: more drag; less weight and expense",
   "aerospace::ch8::74": "Create lift or drag\n\nBUT WHAT ARE THE PURPOSES?",
   "aerospace::ch8::75": "On the fuselage and wings",
-  "aerospace::ch8::76": "Pointing thrust in any direction other than the longitudinal axis"
+  "aerospace::ch8::76": "Pointing thrust in any direction other than the longitudinal axis",
+  "aerospace::ch8::77": "It spins to generate lift"
  },
  "edits": {}
 }
