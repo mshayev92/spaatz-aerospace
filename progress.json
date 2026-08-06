@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785978315386,
+ "updatedAt": 1785978338938,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1426,7 +1426,9 @@
   "aerospace::ch8::14": "mastered",
   "aerospace::ch8::15": "mastered",
   "aerospace::ch8::16": "mastered",
-  "aerospace::ch8::17": "mastered"
+  "aerospace::ch8::17": "mastered",
+  "aerospace::ch8::18": "mastered",
+  "aerospace::ch8::19": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1775,7 +1777,9 @@
   "aerospace::ch8::14": "Pressurized fluid to move stuff\nFlaps, braking, etc.",
   "aerospace::ch8::15": "Gear, gyro, float",
   "aerospace::ch8::16": "Altimeter, ...",
-  "aerospace::ch8::17": "Being used more and more\nPowered by generator"
+  "aerospace::ch8::17": "Being used more and more\nPowered by generator",
+  "aerospace::ch8::18": "How the aircraft responds to commands",
+  "aerospace::ch8::19": "State of devices"
  },
  "edits": {}
 }
