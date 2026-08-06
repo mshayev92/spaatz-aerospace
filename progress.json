@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785977052312,
+ "updatedAt": 1785977064504,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1719,7 +1719,8 @@
   "aerospace::ch7::26": "Wave\nInduced\n...\n\nMISSING TWO",
   "aerospace::ch7::27": "Decreases",
   "aerospace::ch7::28": "Gross: total\nUseful: that can be used for cargo",
-  "aerospace::ch7::29": "Churned air"
+  "aerospace::ch7::29": "Churned air",
+  "aerospace::ch7::30": "Lighter, more powerful engine"
  },
  "edits": {}
 }
