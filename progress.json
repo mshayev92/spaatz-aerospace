@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786045694646,
+ "updatedAt": 1786045704656,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1467,7 +1467,8 @@
   "aerospace::ch8::55": "mastered",
   "aerospace::ch8::56": "review",
   "aerospace::ch8::57": "mastered",
-  "aerospace::ch8::58": "review"
+  "aerospace::ch8::58": "review",
+  "aerospace::ch8::59": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1854,7 +1855,7 @@
   "aerospace::ch8::56": "Releases pressure\n\nWRONG",
   "aerospace::ch8::57": "Prevents particles from entering, just fuel",
   "aerospace::ch8::58": "Drains out the fuel\n\nWRONG",
-  "aerospace::ch8::59": "Pick what tank to get fuel from and how much"
+  "aerospace::ch8::59": "Pick what tank to get fuel from and how much\n\nALMOST"
  },
  "edits": {}
 }
