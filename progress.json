@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786046287801,
+ "updatedAt": 1786046347148,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1866,7 +1866,7 @@
   "aerospace::ch8::62": "Tachometer\nOil temp/flow\n",
   "aerospace::ch8::63": "Airspeed indicator\nAttitude indicator\n...\n\nNEED MORE (TOTAL: 5)",
   "aerospace::ch8::64": "Magnetic compass\nHeading indicator\nGyroscope (NO)\n\nNEED MORE (TOTAL: 7)",
-  "aerospace::ch8::65": "Wind speed/direction"
+  "aerospace::ch8::65": "Wind speed/direction\n\nWRONG"
  },
  "edits": {}
 }
