@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785979199348,
+ "updatedAt": 1785979206275,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1795,7 +1795,8 @@
   "aerospace::ch8::24": "Altitude (uses pressure)",
   "aerospace::ch8::25": "Ball show direction\nFluid quality\n\nWRONG",
   "aerospace::ch8::26": "Rate of ascent/descent",
-  "aerospace::ch8::27": "Pitch, elevator, lateral\nRoll, ailerons, longitudinal\nYaw, rudder, vertical"
+  "aerospace::ch8::27": "Pitch, elevator, lateral\nRoll, ailerons, longitudinal\nYaw, rudder, vertical",
+  "aerospace::ch8::28": "GOT WRONG ON THE ACTUAL EXAM"
  },
  "edits": {}
 }
