@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785975614497,
+ "updatedAt": 1785975627214,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1655,7 +1655,7 @@
   "aerospace::ch6::37": "Unmanned Aerial Vehicle",
   "aerospace::ch6::38": "Versatile, of any section",
   "aerospace::ch6::39": "Craft rides own shock wave\n",
-  "aerospace::ch6::40": "Mach 6.7\n"
+  "aerospace::ch6::40": "Mach 6.7\nCharles Knight"
  },
  "edits": {}
 }
