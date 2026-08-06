@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785975032003,
+ "updatedAt": 1785975044084,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1629,7 +1629,8 @@
   "aerospace::ch6::22": "DC-9",
   "aerospace::ch6::23": "747\n...\n\nCONTINUE",
   "aerospace::ch6::24": "...\nService eventually stopped because of reliability?\n\nNO",
-  "aerospace::ch6::25": "Russian, British/French, American"
+  "aerospace::ch6::25": "Russian, British/French, American",
+  "aerospace::ch6::26": "Fighter-bomber"
  },
  "edits": {}
 }
