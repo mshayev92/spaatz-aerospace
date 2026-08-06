@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785981174482,
+ "updatedAt": 1785981185340,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1807,7 +1807,7 @@
   "aerospace::ch8::31": "AKA unducted rotor\n(GOT WRONG ON ACTUAL TEST)\n\nBUT WHAT IS IT?\n",
   "aerospace::ch8::32": "Ramjet: rams air in\nScramjet: like ram, but does not slow air",
   "aerospace::ch8::33": "Better at lower altitudes?\n\nNOT WHAT ASKED FOR",
-  "aerospace::ch8::34": "Flaps: from trailing edge\nSlats: from leading edge\nSpoilers: destroy lift\nDrag devices: "
+  "aerospace::ch8::34": "Flaps: from trailing edge\nSlats: from leading edge\nSpoilers: destroy lift, laminar flow\nDrag devices: "
  },
  "edits": {}
 }
