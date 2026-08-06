@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785975012093,
+ "updatedAt": 1785975025082,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1627,7 +1627,8 @@
   "aerospace::ch6::18": "American Airlines ---\n\nWRONG",
   "aerospace::ch6::22": "DC-9",
   "aerospace::ch6::23": "747\n...\n\nCONTINUE",
-  "aerospace::ch6::24": "...\nService eventually stopped because of reliability?\n\nNO"
+  "aerospace::ch6::24": "...\nService eventually stopped because of reliability?\n\nNO",
+  "aerospace::ch6::25": "Russian, British/French, American"
  },
  "edits": {}
 }
