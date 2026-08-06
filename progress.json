@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785975922594,
+ "updatedAt": 1785975933433,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1671,7 +1671,8 @@
   "aerospace::ch7::2": "Opposes aircraft, meets leading edge first",
   "aerospace::ch7::3": "Angle between chord line and relative wind",
   "aerospace::ch7::4": "Faster air flow, lower pressure",
-  "aerospace::ch7::5": "Air moving over a surface\n(was also thinking airfoil)"
+  "aerospace::ch7::5": "Air moving over a surface\n(was also thinking airfoil)",
+  "aerospace::ch7::6": "Lift, Weight, Thrust, Drag"
  },
  "edits": {}
 }
