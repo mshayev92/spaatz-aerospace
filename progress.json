@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785976894516,
+ "updatedAt": 1785976907164,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1712,7 +1712,7 @@
   "aerospace::ch7::23": "Leading/trailing edges\nUpper/lower cambers\nChord (imaginary line)",
   "aerospace::ch7::24": "Yes",
   "aerospace::ch7::25": "Yes\n\nCLARIFY QUESTION",
-  "aerospace::ch7::26": "Wave\nInduced\n"
+  "aerospace::ch7::26": "Wave\nInduced\n..."
  },
  "edits": {}
 }
