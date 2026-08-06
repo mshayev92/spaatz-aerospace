@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785981555142,
+ "updatedAt": 1785981569227,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1454,7 +1454,8 @@
   "aerospace::ch8::42": "mastered",
   "aerospace::ch8::43": "mastered",
   "aerospace::ch8::44": "review",
-  "aerospace::ch8::45": "mastered"
+  "aerospace::ch8::45": "mastered",
+  "aerospace::ch8::46": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1830,7 +1831,8 @@
   "aerospace::ch8::42": "Altimeter",
   "aerospace::ch8::43": "Gyroscope\nControls attitude indicator",
   "aerospace::ch8::44": "Magnetic?\n\nNO",
-  "aerospace::ch8::45": "Magnetic compass"
+  "aerospace::ch8::45": "Magnetic compass",
+  "aerospace::ch8::46": "Attitude indicator"
  },
  "edits": {}
 }
