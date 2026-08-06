@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785977068515,
+ "updatedAt": 1785977116521,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1721,7 +1721,8 @@
   "aerospace::ch7::27": "Decreases",
   "aerospace::ch7::28": "Gross: total\nUseful: that can be used for cargo",
   "aerospace::ch7::29": "Churned air",
-  "aerospace::ch7::30": "Lighter, more powerful engine"
+  "aerospace::ch7::30": "Lighter, more powerful engine",
+  "aerospace::ch7::31": "Air rubs against surfaces ("
  },
  "edits": {}
 }
