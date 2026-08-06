@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785975178880,
+ "updatedAt": 1785975189009,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1636,7 +1636,7 @@
   "aerospace::ch6::26": "Fighter-bomber\n\nWRONG",
   "aerospace::ch6::27": "B-2 and F-107A\n\nONE WRONG",
   "aerospace::ch6::28": "Observation/reco.",
-  "aerospace::ch6::30": "Turn to civilian schools for pilots"
+  "aerospace::ch6::30": "Turn to civilian schools for pilots\n\nNOT WHAT QUESTION ASKED FOR"
  },
  "edits": {}
 }
