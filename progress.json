@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785975917689,
+ "updatedAt": 1785975922594,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1373,7 +1373,8 @@
   "aerospace::ch7::1": "mastered",
   "aerospace::ch7::2": "mastered",
   "aerospace::ch7::3": "mastered",
-  "aerospace::ch7::4": "mastered"
+  "aerospace::ch7::4": "mastered",
+  "aerospace::ch7::5": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1670,7 +1671,7 @@
   "aerospace::ch7::2": "Opposes aircraft, meets leading edge first",
   "aerospace::ch7::3": "Angle between chord line and relative wind",
   "aerospace::ch7::4": "Faster air flow, lower pressure",
-  "aerospace::ch7::5": "Air moving over a surface\n(was also thinking airfoil"
+  "aerospace::ch7::5": "Air moving over a surface\n(was also thinking airfoil)"
  },
  "edits": {}
 }
