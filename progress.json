@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786046551477,
+ "updatedAt": 1786046556536,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1874,7 +1874,7 @@
   "aerospace::ch8::66": "Measures incline\n\nWRONG",
   "aerospace::ch8::67": "Tells the time",
   "aerospace::ch8::68": "Rotor: rotate\nStrator: ?\n\nWRONG, THEY WORK TOGETHER",
-  "aerospace::ch8::69": "Fuel is ignited "
+  "aerospace::ch8::69": "Fuel is ignited"
  },
  "edits": {}
 }
