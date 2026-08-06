@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786046678386,
+ "updatedAt": 1786046689844,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1483,7 +1483,7 @@
   "aerospace::ch8::71": "mastered",
   "aerospace::ch8::72": "mastered",
   "aerospace::ch8::73": "mastered",
-  "aerospace::ch8::74": "mastered"
+  "aerospace::ch8::74": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1885,7 +1885,7 @@
   "aerospace::ch8::71": "Rides own shock wave",
   "aerospace::ch8::72": "Mach 5 and above",
   "aerospace::ch8::73": "Retractable: less drag; more weight and cost\nFixed: more drag; less weight and expense",
-  "aerospace::ch8::74": "Create lift or drag"
+  "aerospace::ch8::74": "Create lift or drag\n\nBUT WHAT ARE THE PURPOSES?"
  },
  "edits": {}
 }
