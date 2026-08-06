@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785975252413,
+ "updatedAt": 1785975266695,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1638,7 +1638,8 @@
   "aerospace::ch6::27": "B-2 and F-107A\n\nONE WRONG",
   "aerospace::ch6::28": "Observation/reco.",
   "aerospace::ch6::30": "Turn to civilian schools for pilots\n\nNOT WHAT ASKED FOR",
-  "aerospace::ch6::31": "Strong, light\n\nBUT WHICH SPECIFICALLY?"
+  "aerospace::ch6::31": "Strong, light\n\nBUT WHICH SPECIFICALLY?",
+  "aerospace::ch6::32": "Reduces weight and drag components\nMust be hardened for high-spe"
  },
  "edits": {}
 }
