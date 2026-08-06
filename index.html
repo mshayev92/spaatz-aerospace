@@ -1096,6 +1096,7 @@ function baseIdSet(deck, section){ return (SECTION_ID_SET[deck]||{})[section==="
    -> in-memory (last resort, e.g. storage blocked in private mode) ---- */
 const mem={};
 let hasLocalStore=false;
+let deckUnreconciled=false;  // deck moved but progress.json unread -- see storageLabel()
 try{
   if(typeof window!=="undefined" && window.localStorage){
     const t="__sd_test__"; window.localStorage.setItem(t,"1"); window.localStorage.removeItem(t);
@@ -1116,6 +1117,10 @@ function saveRaw(v){
   mem[KEY]=v;
 }
 function storageLabel(){
+  // Set when the deck changed shape but progress.json couldn't be read, so this
+  // device's index-keyed marks were never reconciled. Reported first because it
+  // outranks any sync state: nothing is being pushed while it holds.
+  if(deckUnreconciled) return "Deck changed — reconnect to sync your marks";
   if(ghToken){
     if(!isOnline) return "Offline — changes saved on this device";
     if(offlineEdits) return "Offline changes ready to sync";
@@ -1581,7 +1586,25 @@ const DEFAULT_SECTION = "termdefs";
 function freshState(){
   return { v:2,
     section:{[DECK]:DEFAULT_SECTION},
-    dir:{}, filter:{}, order:{}, current:{}, mastery:{}, sz:"m", edits:{}, notes:{} };
+    dir:{}, filter:{}, order:{}, current:{}, mastery:{}, sz:"m", edits:{}, notes:{},
+    deckSig:null };
+}
+
+/* Mastery, notes and order are keyed by card INDEX ("aerospace::ch3::8"), so
+   they only mean anything against the deck they were written against. If cards
+   are added or removed in data.json, every index after that point now names a
+   different card -- and because the payload merge below only ever sets keys,
+   a device still holding the old state would quietly push those stale keys back
+   up and land marks on the wrong cards.
+
+   So we fingerprint the deck shape alongside the state. A mismatch on boot
+   means the deck moved under this device, and its index-keyed data is no longer
+   trustworthy: progress.json is taken as truth outright instead of merged into.
+   (Fingerprinting shape rather than content is deliberate -- rewording a card
+   doesn't shift any index, so it must not invalidate anything.) */
+function deckSignature(){
+  const secs=(DECKS[DECK]&&DECKS[DECK].sections)||[];
+  return secs.map(s=>s.id+":"+s.cards.length).join(",");
 }
 let S=freshState(); let flipped=false; let saveTimer=null;
 
@@ -2535,6 +2558,9 @@ function bootError(msg){
 
   const raw=loadRaw();
   if(raw){ try{ const p=JSON.parse(raw); if(p&&p.v===2) S=Object.assign(freshState(),p); }catch(e){} }
+  // Did the deck change shape since this device last wrote its state? If so the
+  // saved indices point at different cards now (see deckSignature above).
+  const deckMoved = !!(S.deckSig && S.deckSig !== deckSignature());
   const validSections=SECTIONS[DECK].map(s=>s.id).concat("__all__");
   if(!validSections.includes(curSection())) S.section[DECK]=DEFAULT_SECTION;
   // Drop marks/notes pointing at cards that no longer exist in data.json.
@@ -2560,17 +2586,34 @@ function bootError(msg){
       if(text.trim()){
         const remote=JSON.parse(text);
         adoptSyncSnapshot(remote); // last known truth on GitHub, used to detect what's still unsynced
-        if(!(typeof remote.updatedAt==="number" && remote.updatedAt < (S.updatedAt||0))){
+        if(deckMoved){
+          // The deck changed under this device, so its own mastery/notes/order
+          // can't be trusted to name the right cards. Drop them and take
+          // progress.json wholesale rather than merging the two -- merging is
+          // what would resurrect the stale keys.
+          S.mastery={}; S.notes={}; S.edits={}; delete S.order[ALL_SCOPE];
+          applyProgressPayload(remote);
+          S.deckSig=deckSignature();   // reconciled: don't redo this next boot
+        }else if(!(typeof remote.updatedAt==="number" && remote.updatedAt < (S.updatedAt||0))){
           applyProgressPayload(remote);
         }
       }
     }
   }catch(e){ /* progress.json is optional -- offline boot, or first run before it exists */ }
+  // Only claim the new signature once we've actually reconciled against
+  // progress.json. If the fetch failed (offline), leave the old one in place so
+  // the reconciliation still happens on a later boot instead of being skipped.
+  if(!deckMoved) S.deckSig=deckSignature();
+  deckUnreconciled = deckMoved && S.deckSig !== deckSignature();
 
   applyEdits(); // overlay any saved edits onto the built-in card data
   updateSyncUI();
   render();
-  persist();
+  // Don't push on a boot where the deck moved but progress.json couldn't be
+  // read: this device's marks still point at the old cards, and persisting
+  // would commit that mistake to everyone else. Study normally; the next boot
+  // that reaches progress.json reconciles and resumes syncing.
+  if(!deckUnreconciled) persist();
 
   updateOnlineUI();
   refreshSyncBanner();

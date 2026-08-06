@@ -118,6 +118,27 @@ already pushed is ignored rather than adopted as the sync baseline — otherwise
 background poll would keep inventing "unsynced changes" on a device that is
 online and perfectly in sync.
 
+#### When the deck itself changes
+
+Mastery marks and notes are stored against a card's **position** in `data.json`
+(`aerospace::ch3::8`), not against its text. So if cards are added to or removed
+from the deck, every position after that point now names a different card, and
+any device still holding the old layout would put your marks on the wrong ones.
+
+The app guards against this by recording the deck's shape alongside your
+progress. When it starts up and finds the shape has changed, it treats
+`progress.json` as the truth and rebuilds this device's copy from it, rather
+than merging the two — merging is what would resurrect the stale positions.
+
+If the deck changed but `progress.json` can't be reached (you're offline), the
+footer reads *Deck changed — reconnect to sync your marks* and the app
+deliberately **stops pushing** until it can reconcile, so a device that's out of
+date can't overwrite good progress. Keep studying; the next start-up that
+reaches `progress.json` sorts it out and resumes syncing.
+
+If you edit `data.json` by hand, remember to update `progress.json` in the same
+change — matching cards up by text, not by position.
+
 ### Option B: manual file + git (no token required)
 
 1. Study on device A. The app writes your mastery marks / notes / order into
