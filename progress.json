@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785976603492,
+ "updatedAt": 1785976616037,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1699,7 +1699,8 @@
   "aerospace::ch7::16": "Lighter materials",
   "aerospace::ch7::17": "Fly parallel to relative wind",
   "aerospace::ch7::18": "Change in temperature, velocity, ...\nLoss of energy\n\nMISSING ONE FOR CHANGE",
-  "aerospace::ch7::19": "14.7 psi (29.92)"
+  "aerospace::ch7::19": "14.7 psi (29.92)",
+  "aerospace::ch7::20": "3.5 degrees F every 1k inc. in altitude"
  },
  "edits": {}
 }
