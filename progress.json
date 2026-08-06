@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785981492995,
+ "updatedAt": 1785981512234,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1451,7 +1451,8 @@
   "aerospace::ch8::39": "mastered",
   "aerospace::ch8::40": "mastered",
   "aerospace::ch8::41": "review",
-  "aerospace::ch8::42": "mastered"
+  "aerospace::ch8::42": "mastered",
+  "aerospace::ch8::43": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1824,7 +1825,8 @@
   "aerospace::ch8::39": "Generates electricity for instruments, etc. ",
   "aerospace::ch8::40": "Operation\nActual use",
   "aerospace::ch8::41": "Airspeed indicator\nString towards back\nCork for fuel (floated)\n\nALMOST",
-  "aerospace::ch8::42": "Altimeter"
+  "aerospace::ch8::42": "Altimeter",
+  "aerospace::ch8::43": "Gyroscope\nControls attitude indicator"
  },
  "edits": {}
 }
