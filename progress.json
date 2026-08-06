@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786046120079,
+ "updatedAt": 1786046129551,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1861,7 +1861,8 @@
   "aerospace::ch8::59": "Pick what tank to get fuel from and how much\n\nALMOST",
   "aerospace::ch8::60": "The ability of a gyro to return to a rest state\n\nWRONG",
   "aerospace::ch8::61": "Performance: how aircraft responds to commands\nControl: tells state of devices",
-  "aerospace::ch8::62": "Tachometer\nOil temp/flow\n"
+  "aerospace::ch8::62": "Tachometer\nOil temp/flow\n",
+  "aerospace::ch8::63": "Airspeed indicator\nAttitude indicator\n"
  },
  "edits": {}
 }
