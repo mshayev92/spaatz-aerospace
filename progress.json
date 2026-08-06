@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785975432738,
+ "updatedAt": 1785975523105,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1645,7 +1645,7 @@
   "aerospace::ch6::32": "Reduces weight and drag components\nMust be hardened for high speeds",
   "aerospace::ch6::33": "Rotates for optimal lift",
   "aerospace::ch6::34": "Edges of wing, counter vortices",
-  "aerospace::ch6::35": "Change form"
+  "aerospace::ch6::35": "Change form\nForward for fast, backward for slow"
  },
  "edits": {}
 }
