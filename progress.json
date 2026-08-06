@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785981345869,
+ "updatedAt": 1785981358707,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1814,7 +1814,8 @@
   "aerospace::ch8::34": "Flaps: from trailing edge\nSlats: from leading edge\nSpoilers: destroy lift, laminar flow\nDrag devices: create drag\n\nWHAT IS SPECIAL ABOUT DRAG DEVICES?",
   "aerospace::ch8::35": "Monoquoe\nSemimonoquoe\nTruss",
   "aerospace::ch8::36": "Conventional\nTricycle\nTandem\n",
-  "aerospace::ch8::37": "Adds weight, expensive"
+  "aerospace::ch8::37": "Adds weight, expensive",
+  "aerospace::ch8::38": "Has to do with pressure\n\n"
  },
  "edits": {}
 }
