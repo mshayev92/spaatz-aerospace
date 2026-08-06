@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785981384538,
+ "updatedAt": 1785981392975,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1816,7 +1816,8 @@
   "aerospace::ch8::35": "Monoquoe\nSemimonoquoe\nTruss",
   "aerospace::ch8::36": "Conventional\nTricycle\nTandem\n",
   "aerospace::ch8::37": "Adds weight, expensive",
-  "aerospace::ch8::38": "Has to do with pressure\n\nBUT WHICH?"
+  "aerospace::ch8::38": "Has to do with pressure\n\nBUT WHICH?",
+  "aerospace::ch8::39": "Generates eletricity "
  },
  "edits": {}
 }
