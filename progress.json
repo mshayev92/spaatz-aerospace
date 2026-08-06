@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785978297028,
+ "updatedAt": 1785978311646,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1773,7 +1773,8 @@
   "aerospace::ch8::13": "One behind the other\nRequires outrigger wheels",
   "aerospace::ch8::14": "Pressurized fluid to move stuff\nFlaps, braking, etc.",
   "aerospace::ch8::15": "Gear, gyro, float",
-  "aerospace::ch8::16": "Altimeter, ..."
+  "aerospace::ch8::16": "Altimeter, ...",
+  "aerospace::ch8::17": "Being used more and more\nPowered by generator"
  },
  "edits": {}
 }
