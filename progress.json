@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785976234961,
+ "updatedAt": 1785976245691,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1381,7 +1381,8 @@
   "aerospace::ch7::9": "mastered",
   "aerospace::ch7::10": "mastered",
   "aerospace::ch7::11": "review",
-  "aerospace::ch7::12": "mastered"
+  "aerospace::ch7::12": "mastered",
+  "aerospace::ch7::13": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1685,7 +1686,8 @@
   "aerospace::ch7::9": "Where useful load has the most profound effect (pivots)",
   "aerospace::ch7::10": "Can be pointed in any direction",
   "aerospace::ch7::11": "Loss of energy\nChange in temperature, velocity, vapor\n\nKEEP MESSING THIS UP",
-  "aerospace::ch7::12": "Meets relative wind first\nThicker, slower"
+  "aerospace::ch7::12": "Meets relative wind first\nThicker, slower",
+  "aerospace::ch7::13": "Comes together again"
  },
  "edits": {}
 }
