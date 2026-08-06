@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785978148734,
+ "updatedAt": 1785978155619,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1768,7 +1768,7 @@
   "aerospace::ch8::11": "Two forward one back",
   "aerospace::ch8::12": "One forward, two back\n",
   "aerospace::ch8::13": "One behind the other\nRequires outrigger wheels",
-  "aerospace::ch8::14": "Pressurized fluid to move stuff\nFlaps, braking, "
+  "aerospace::ch8::14": "Pressurized fluid to move stuff\nFlaps, braking, etc."
  },
  "edits": {}
 }
