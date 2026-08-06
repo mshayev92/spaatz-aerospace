@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785977420213,
+ "updatedAt": 1785977434046,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1735,7 +1735,8 @@
   "aerospace::ch7::34": "Streamlines separate from surface\n\nINC. REASON WHY",
   "aerospace::ch7::35": "Density decreases\n\nWRONG",
   "aerospace::ch7::36": "Less molecules to have a dynamic reaction with",
-  "aerospace::ch7::37": "Vortices affects the component of lift"
+  "aerospace::ch7::37": "Vortices affects the component of lift",
+  "aerospace::ch7::38": "Lowers energy"
  },
  "edits": {}
 }
