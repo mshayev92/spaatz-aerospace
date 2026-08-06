@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785978025894,
+ "updatedAt": 1785978036858,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1758,7 +1758,7 @@
   "aerospace::ch8::6": "Power plant\n\nBUT HOW",
   "aerospace::ch8::7": "Takes in more air, has to be accelerated less\n",
   "aerospace::ch8::8": "Welded tubing to create well-braced framework",
-  "aerospace::ch8::9": "S"
+  "aerospace::ch8::9": "Single shell, relies entirely on strength of shell"
  },
  "edits": {}
 }
