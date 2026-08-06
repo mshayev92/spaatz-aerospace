@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785976368194,
+ "updatedAt": 1785976383117,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1383,7 +1383,8 @@
   "aerospace::ch7::11": "review",
   "aerospace::ch7::12": "mastered",
   "aerospace::ch7::13": "mastered",
-  "aerospace::ch7::14": "mastered"
+  "aerospace::ch7::14": "mastered",
+  "aerospace::ch7::15": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1690,7 +1691,7 @@
   "aerospace::ch7::12": "Meets relative wind first\nThicker, slower",
   "aerospace::ch7::13": "Comes together again",
   "aerospace::ch7::14": "Imaginary line from leading to trailing edges",
-  "aerospace::ch7::15": "Lighter materials\nIncrease angle of attack"
+  "aerospace::ch7::15": "Lighter materials\nIncrease angle of attack\n\nONE WRONG"
  },
  "edits": {}
 }
