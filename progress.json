@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785977743092,
+ "updatedAt": 1785977787873,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1751,7 +1751,8 @@
   "aerospace::ch8::2": "Wings (ailerons, flaps/slats, etc.)\nTail (inc. stabilizers)\nFuselage\nCockpit\n",
   "aerospace::ch8::3": "Yaw",
   "aerospace::ch8::4": "Pitch",
-  "aerospace::ch8::5": "4 stroke, 5 event\nCircular motion"
+  "aerospace::ch8::5": "4 stroke, 5 event\nCircular motion",
+  "aerospace::ch8::6": "Power plant\n"
  },
  "edits": {}
 }
