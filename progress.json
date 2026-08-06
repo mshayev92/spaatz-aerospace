@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785978022297,
+ "updatedAt": 1785978025894,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1416,7 +1416,8 @@
   "aerospace::ch8::4": "mastered",
   "aerospace::ch8::5": "mastered",
   "aerospace::ch8::6": "general",
-  "aerospace::ch8::7": "mastered"
+  "aerospace::ch8::7": "mastered",
+  "aerospace::ch8::8": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1756,7 +1757,8 @@
   "aerospace::ch8::5": "4 stroke, 5 event\nCircular motion",
   "aerospace::ch8::6": "Power plant\n\nBUT HOW",
   "aerospace::ch8::7": "Takes in more air, has to be accelerated less\n",
-  "aerospace::ch8::8": "Welded tubing to create well-braced framework"
+  "aerospace::ch8::8": "Welded tubing to create well-braced framework",
+  "aerospace::ch8::9": "S"
  },
  "edits": {}
 }
