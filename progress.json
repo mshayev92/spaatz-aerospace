@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785975544138,
+ "updatedAt": 1785975553752,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1361,7 +1361,9 @@
   "aerospace::ch6::32": "mastered",
   "aerospace::ch6::33": "mastered",
   "aerospace::ch6::34": "mastered",
-  "aerospace::ch6::35": "mastered"
+  "aerospace::ch6::35": "mastered",
+  "aerospace::ch6::36": "mastered",
+  "aerospace::ch6::37": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1647,7 +1649,8 @@
   "aerospace::ch6::33": "Rotates for optimal lift",
   "aerospace::ch6::34": "Edges of wing, counter vortices",
   "aerospace::ch6::35": "Change form\nForward for fast, backward for slow",
-  "aerospace::ch6::36": "Forward of wings, for trim/control\nWings may be smaller"
+  "aerospace::ch6::36": "Forward of wings, for trim/control\nWings may be smaller",
+  "aerospace::ch6::37": "Unmanned Aerial Vehicle"
  },
  "edits": {}
 }
