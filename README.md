@@ -66,8 +66,13 @@ a result. Cards you've edited are searchable by their edited text.
   it docks beside the card instead.
 - **Mastery buttons** — pinned to the bottom of the screen on phones so they
   stay under your thumb.
-
-The app follows your system light/dark preference; there's no separate setting.
+- **Theme** — the tools menu (⋯) has a **System / Light / Dark** switch at the
+  top. *System* follows your device's light/dark setting and keeps following it
+  if that changes while the app is open; *Light* and *Dark* pin the app to one
+  scheme regardless. That's what lets the installed PWA be light while the phone
+  itself stays in dark mode. The choice is saved per device — it lives in this
+  browser's `localStorage`, not in `progress.json`, so it doesn't follow you to
+  your other devices.
 
 ## How syncing works
 

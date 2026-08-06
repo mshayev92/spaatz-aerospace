@@ -1,4 +1,4 @@
-const CACHE_NAME = "spaatz-study-v3";
+const CACHE_NAME = "spaatz-study-v4";
 
 // Precached so the app opens offline. index.html and data.json are in here as
 // the offline fallback, but at runtime they're fetched network-first (below) so

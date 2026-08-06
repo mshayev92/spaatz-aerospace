@@ -7,12 +7,34 @@
 <meta name="description" content="Flashcard study app for Journey of Flight (Aerospace) material.">
 <link rel="icon" type="image/png" sizes="32x32" href="icons/icon-32.png">
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#070C13" media="(prefers-color-scheme: dark)">
-<meta name="theme-color" content="#E4E9F1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" id="theme-color-meta" content="#070C13">
 <link rel="apple-touch-icon" href="icons/icon-180.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Spaatz Study">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<script>
+/* Resolve the colour theme before the first paint, so switching schemes never
+   flashes the wrong one. "system" follows the OS; "light" and "dark" are
+   explicit and override it -- which is what makes the installed PWA settable
+   independently of the phone's own dark mode.
+
+   Deliberately device-local (its own localStorage key, not part of the synced
+   progress state): the theme is a property of the screen you're reading on, so
+   it shouldn't ride along to your other devices. */
+(function(){
+  window.__sdApplyTheme = function(pref){
+    var systemDark = !window.matchMedia || window.matchMedia("(prefers-color-scheme:dark)").matches;
+    var resolved = (pref === "light" || pref === "dark") ? pref : (systemDark ? "dark" : "light");
+    document.documentElement.setAttribute("data-theme", resolved);
+    var meta = document.getElementById("theme-color-meta");
+    if(meta) meta.setAttribute("content", resolved === "dark" ? "#070C13" : "#E4E9F1");
+    return resolved;
+  };
+  var pref = "system";
+  try{ pref = localStorage.getItem("sd_theme") || "system"; }catch(e){}
+  window.__sdApplyTheme(pref);
+})();
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <!-- Two families only; the micro-labels use the platform's own monospace, so
@@ -24,6 +46,12 @@
      Everything is driven by the tokens below, which are redefined once for
      the light colour scheme. Nothing else in the sheet hard-codes a colour,
      so both schemes stay in step by construction.
+
+     Dark is the default; the light block below applies when <html> carries
+     data-theme="light". The inline script in <head> resolves the reader's
+     choice (system / light / dark) and stamps that attribute before the first
+     paint, so the media query lives in JS rather than here -- one place to
+     decide, and an explicit choice can override the OS.
      ===================================================================== */
   :root{
     color-scheme:dark; /* native controls (select popups, number spinners) follow the theme */
@@ -75,39 +103,37 @@
     --safe-b:env(safe-area-inset-bottom,0px);
   }
 
-  @media (prefers-color-scheme:light){
-    :root{
-      color-scheme:light;
-      --bg:#E4E9F1;
-      --glow-1:rgba(11,127,196,.10);
-      --glow-2:rgba(122,90,248,.07);
-      --surface:#FFFFFF;
-      --surface-2:#F4F7FB;
-      --surface-3:#E8EEF5;
-      --edge:rgba(13,22,34,.10);
-      --edge-2:rgba(13,22,34,.2);
+  :root[data-theme="light"]{
+    color-scheme:light;
+    --bg:#E4E9F1;
+    --glow-1:rgba(11,127,196,.10);
+    --glow-2:rgba(122,90,248,.07);
+    --surface:#FFFFFF;
+    --surface-2:#F4F7FB;
+    --surface-3:#E8EEF5;
+    --edge:rgba(13,22,34,.10);
+    --edge-2:rgba(13,22,34,.2);
 
-      --fg:#0D1622;
-      --fg-2:#4C5F72;
-      --fg-3:#75879A;
+    --fg:#0D1622;
+    --fg-2:#4C5F72;
+    --fg-3:#75879A;
 
-      --accent:#0A76BE;
-      --accent-ink:#FFFFFF;
-      --accent-soft:rgba(10,118,190,.10);
+    --accent:#0A76BE;
+    --accent-ink:#FFFFFF;
+    --accent-soft:rgba(10,118,190,.10);
 
-      --m:#0C8F66;  --m-soft:rgba(12,143,102,.11);  --m-ink:#FFFFFF;
-      --g:#6D4CE0;  --g-soft:rgba(109,76,224,.11);
-      --r:#D93A55;  --r-soft:rgba(217,58,85,.11);
-      --u:#8496A8;  --u-soft:rgba(117,135,154,.12);
+    --m:#0C8F66;  --m-soft:rgba(12,143,102,.11);  --m-ink:#FFFFFF;
+    --g:#6D4CE0;  --g-soft:rgba(109,76,224,.11);
+    --r:#D93A55;  --r-soft:rgba(217,58,85,.11);
+    --u:#8496A8;  --u-soft:rgba(117,135,154,.12);
 
-      --face:#FFFFFF;
-      --face-2:#F7FAFC;
-      --face-edge:rgba(13,22,34,.1);
+    --face:#FFFFFF;
+    --face-2:#F7FAFC;
+    --face-edge:rgba(13,22,34,.1);
 
-      --sh-1:0 1px 2px rgba(13,22,34,.07);
-      --sh-2:0 10px 26px -14px rgba(13,22,34,.24);
-      --sh-3:0 22px 48px -22px rgba(13,22,34,.4);
-    }
+    --sh-1:0 1px 2px rgba(13,22,34,.07);
+    --sh-2:0 10px 26px -14px rgba(13,22,34,.24);
+    --sh-3:0 22px 48px -22px rgba(13,22,34,.4);
   }
 
   /* ---------- reset / base ---------- */
@@ -739,6 +765,14 @@
       </div>
 
       <div class="toolsmenu scroller" id="toolsmenu" role="menu">
+        <div class="toolsmenu-label">Theme</div>
+        <div class="toolsmenu-row">
+          <div class="seg" role="group" aria-label="Theme">
+            <button id="theme-system">System</button>
+            <button id="theme-light">Light</button>
+            <button id="theme-dark">Dark</button>
+          </div>
+        </div>
         <div class="toolsmenu-label">Prompt side</div>
         <div class="toolsmenu-row">
           <div class="seg" role="group" aria-label="Prompt side">
@@ -2476,6 +2510,43 @@ $("range-exc-input").addEventListener("keydown",e=>{
 });
 $("range-exc-input").addEventListener("blur",addExceptionFromInput);
 $("range-exc-chips").addEventListener("click",()=>$("range-exc-input").focus());
+/* ---- colour theme ----
+   Kept out of S on purpose: S is what gets written to progress.json and pushed
+   to GitHub, and the theme belongs to this device rather than to the deck. The
+   <head> script owns applying it; this half owns the preference and the UI. */
+const THEME_KEY="sd_theme";
+const THEMES=["system","light","dark"];
+
+function themePref(){
+  let p=null;
+  try{ p=localStorage.getItem(THEME_KEY); }catch(e){}
+  return THEMES.includes(p) ? p : "system";
+}
+function applyTheme(){
+  const pref=themePref();
+  if(window.__sdApplyTheme) window.__sdApplyTheme(pref);
+  for(const t of THEMES) $("theme-"+t).classList.toggle("on", t===pref);
+}
+function setTheme(pref){
+  try{
+    if(pref==="system") localStorage.removeItem(THEME_KEY);
+    else localStorage.setItem(THEME_KEY,pref);
+  }catch(e){}   // storage blocked: the choice still applies for this session
+  applyTheme();
+}
+
+// On "System", follow the OS if it flips while the app is open (e.g. a phone
+// on a sunset schedule). An explicit choice ignores it.
+if(window.matchMedia){
+  const mq=window.matchMedia("(prefers-color-scheme:dark)");
+  const onSchemeChange=()=>{ if(themePref()==="system") applyTheme(); };
+  if(mq.addEventListener) mq.addEventListener("change",onSchemeChange);
+  else if(mq.addListener) mq.addListener(onSchemeChange);   // older WebKit
+}
+
+for(const t of THEMES) $("theme-"+t).addEventListener("click",()=>setTheme(t));
+applyTheme();
+
 $("dir-term").addEventListener("click",()=>setDir("term"));
 $("dir-def").addEventListener("click",()=>setDir("def"));
 $("sz-s").addEventListener("click",()=>setSize("s"));
