@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785979058023,
+ "updatedAt": 1785979066079,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1791,7 +1791,7 @@
   "aerospace::ch8::23": "Plane's speed relative to the air",
   "aerospace::ch8::24": "Altitude (uses pressure)",
   "aerospace::ch8::25": "Ball show direction\nFluid quality\n\nWRONG",
-  "aerospace::ch8::26": "R"
+  "aerospace::ch8::26": "Rate of ascent/descent"
  },
  "edits": {}
 }
