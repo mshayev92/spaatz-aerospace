@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785974952668,
+ "updatedAt": 1785974970391,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1625,7 +1625,8 @@
   "aerospace::ch6::17": "Lightweight alloys\n\nYES AND NO",
   "aerospace::ch6::18": "American Airlines ---\n\nWRONG",
   "aerospace::ch6::22": "DC-9",
-  "aerospace::ch6::23": "747\n...\n\nCONTINUE"
+  "aerospace::ch6::23": "747\n...\n\nCONTINUE",
+  "aerospace::ch6::24": "Service eventually stopped because of relia"
  },
  "edits": {}
 }
