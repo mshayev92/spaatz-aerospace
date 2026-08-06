@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786045687088,
+ "updatedAt": 1786045694646,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1854,7 +1854,7 @@
   "aerospace::ch8::56": "Releases pressure\n\nWRONG",
   "aerospace::ch8::57": "Prevents particles from entering, just fuel",
   "aerospace::ch8::58": "Drains out the fuel\n\nWRONG",
-  "aerospace::ch8::59": "P"
+  "aerospace::ch8::59": "Pick what tank to get fuel from and how much"
  },
  "edits": {}
 }
