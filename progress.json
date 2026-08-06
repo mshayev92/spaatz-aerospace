@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785978134912,
+ "updatedAt": 1785978138597,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1421,7 +1421,8 @@
   "aerospace::ch8::9": "mastered",
   "aerospace::ch8::10": "mastered",
   "aerospace::ch8::11": "mastered",
-  "aerospace::ch8::12": "mastered"
+  "aerospace::ch8::12": "mastered",
+  "aerospace::ch8::13": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1766,7 +1767,8 @@
   "aerospace::ch8::10": "Bracing with shell",
   "aerospace::ch8::11": "Two forward one back",
   "aerospace::ch8::12": "One forward, two back\n",
-  "aerospace::ch8::13": "One behind the other\nRequires outrigger wheels"
+  "aerospace::ch8::13": "One behind the other\nRequires outrigger wheels",
+  "aerospace::ch8::14": "Pr"
  },
  "edits": {}
 }
