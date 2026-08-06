@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785979033965,
+ "updatedAt": 1785979058023,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1433,7 +1433,8 @@
   "aerospace::ch8::21": "mastered",
   "aerospace::ch8::22": "mastered",
   "aerospace::ch8::23": "mastered",
-  "aerospace::ch8::24": "mastered"
+  "aerospace::ch8::24": "mastered",
+  "aerospace::ch8::25": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1789,7 +1790,8 @@
   "aerospace::ch8::21": "How fast the crankshaft is turning (rpm)",
   "aerospace::ch8::23": "Plane's speed relative to the air",
   "aerospace::ch8::24": "Altitude (uses pressure)",
-  "aerospace::ch8::25": "Ball show direction\nFluid quality\n\nWRONG"
+  "aerospace::ch8::25": "Ball show direction\nFluid quality\n\nWRONG",
+  "aerospace::ch8::26": "R"
  },
  "edits": {}
 }
