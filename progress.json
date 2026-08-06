@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785976782885,
+ "updatedAt": 1785976794349,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1706,7 +1706,7 @@
   "aerospace::ch7::20": "3.5 degrees F every 1k inc. in altitude",
   "aerospace::ch7::21": "Aeronautics: art of science of moving through atmosphere\nAerodynamics: study of energy of moving gasses",
   "aerospace::ch7::22": "Induced lift: Low pressure top, high pressure bottom\nDynamic: ?\n\nKIND OF",
-  "aerospace::ch7::23": "Le"
+  "aerospace::ch7::23": "Leading/trailing edges\nUpper/lower cambers"
  },
  "edits": {}
 }
