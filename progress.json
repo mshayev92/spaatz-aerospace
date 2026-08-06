@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785981718484,
+ "updatedAt": 1785981723942,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1459,7 +1459,8 @@
   "aerospace::ch8::47": "mastered",
   "aerospace::ch8::48": "review",
   "aerospace::ch8::49": "mastered",
-  "aerospace::ch8::50": "mastered"
+  "aerospace::ch8::50": "mastered",
+  "aerospace::ch8::51": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1838,7 +1839,8 @@
   "aerospace::ch8::45": "Magnetic compass",
   "aerospace::ch8::46": "Attitude indicator",
   "aerospace::ch8::47": "Airspeed indicator",
-  "aerospace::ch8::49": "Like osprey\nVTOL\n"
+  "aerospace::ch8::49": "Like osprey\nVTOL\n",
+  "aerospace::ch8::51": "Tail"
  },
  "edits": {}
 }
