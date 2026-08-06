@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785979277579,
+ "updatedAt": 1785979294161,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1437,7 +1437,8 @@
   "aerospace::ch8::25": "review",
   "aerospace::ch8::26": "mastered",
   "aerospace::ch8::27": "mastered",
-  "aerospace::ch8::28": "review"
+  "aerospace::ch8::28": "review",
+  "aerospace::ch8::29": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1797,7 +1798,7 @@
   "aerospace::ch8::26": "Rate of ascent/descent",
   "aerospace::ch8::27": "Pitch, elevator, lateral\nRoll, ailerons, longitudinal\nYaw, rudder, vertical",
   "aerospace::ch8::28": "GOT WRONG ON THE ACTUAL EXAM",
-  "aerospace::ch8::29": "Simplest form of jet engine\nAir gets in, compressed/accelerated, released"
+  "aerospace::ch8::29": "Simplest form of jet engine\nAir gets in, compressed/accelerated, released\n\nCHECK"
  },
  "edits": {}
 }
