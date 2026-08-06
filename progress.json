@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785981268560,
+ "updatedAt": 1785981327666,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1810,7 +1810,8 @@
   "aerospace::ch8::32": "Ramjet: rams air in\nScramjet: like ram, but does not slow air",
   "aerospace::ch8::33": "Better at lower altitudes?\n\nNOT WHAT ASKED FOR",
   "aerospace::ch8::34": "Flaps: from trailing edge\nSlats: from leading edge\nSpoilers: destroy lift, laminar flow\nDrag devices: create drag\n\nWHAT IS SPECIAL ABOUT DRAG DEVICES?",
-  "aerospace::ch8::35": "Monoquoe\nSemimonoquoe\nTruss"
+  "aerospace::ch8::35": "Monoquoe\nSemimonoquoe\nTruss",
+  "aerospace::ch8::36": "Conventional\nTricycle\nTandem\n"
  },
  "edits": {}
 }
