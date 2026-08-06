@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785975806426,
+ "updatedAt": 1785975809427,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1662,7 +1662,7 @@
   "aerospace::ch6::40": "Mach 6.7\nKnight",
   "aerospace::ch6::42": "William Knight\nJoe Walker\nScott Crossfield\n\n8 aircraft\n\nWRONG/NOT WHAT ASKED FOR",
   "aerospace::ch7::0": "Speed of sound",
-  "aerospace::ch7::1": "Object that has dynamic reaction with air "
+  "aerospace::ch7::1": "Object that has dynamic reaction with air"
  },
  "edits": {}
 }
