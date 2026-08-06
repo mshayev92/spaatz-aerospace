@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786046914924,
+ "updatedAt": 1786046953660,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1894,7 +1894,8 @@
   "aerospace::ch8::75": "On the fuselage and wings",
   "aerospace::ch8::76": "Pointing thrust in any direction other than the longitudinal axis",
   "aerospace::ch8::77": "It spins to generate lift",
-  "aerospace::ch8::78": "Strong shell"
+  "aerospace::ch8::78": "Strong shell",
+  "aerospace::ch8::80": "Takes in more air, meaning that air has to be accelerated less to produce the same thrust"
  },
  "edits": {}
 }
