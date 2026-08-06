@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785976383117,
+ "updatedAt": 1785976392280,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1691,7 +1691,8 @@
   "aerospace::ch7::12": "Meets relative wind first\nThicker, slower",
   "aerospace::ch7::13": "Comes together again",
   "aerospace::ch7::14": "Imaginary line from leading to trailing edges",
-  "aerospace::ch7::15": "Lighter materials\nIncrease angle of attack\n\nONE WRONG"
+  "aerospace::ch7::15": "Lighter materials\nIncrease angle of attack\n\nONE WRONG",
+  "aerospace::ch7::16": "Lighter materials\n"
  },
  "edits": {}
 }
