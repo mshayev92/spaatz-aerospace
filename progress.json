@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786047122274,
+ "updatedAt": 1786047142415,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1899,7 +1899,7 @@
   "aerospace::ch8::78": "Strong shell",
   "aerospace::ch8::80": "Takes in more air, meaning that air has to be accelerated less to produce the same thrust",
   "aerospace::ch8::81": "Simple, little components",
-  "aerospace::ch8::82": "Flap continues flow, spoiler stops it"
+  "aerospace::ch8::82": "Flap continues flow, spoiler stops it\n\nNOT QUITE"
  },
  "edits": {}
 }
