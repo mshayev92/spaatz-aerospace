@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785975733787,
+ "updatedAt": 1785975749452,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1658,7 +1658,7 @@
   "aerospace::ch6::38": "Versatile, of any section",
   "aerospace::ch6::39": "Craft rides own shock wave\n",
   "aerospace::ch6::40": "Mach 6.7\nKnight",
-  "aerospace::ch6::42": "William Knight\nJoe Walker\nScott Crossfield\n"
+  "aerospace::ch6::42": "William Knight\nJoe Walker\nScott Crossfield\n\n8 aircraft\n"
  },
  "edits": {}
 }
