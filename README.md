@@ -50,6 +50,25 @@ Search covers the whole deck (terms and definitions), ranks exact and
 term matches first, and jumps straight to the card's own section when you pick
 a result. Cards you've edited are searchable by their edited text.
 
+### The interface
+
+- **Top bar** — section picker on the row below it, plus search (`/`) and the
+  tools menu. The battery and clock live here too, so they stay visible when
+  you're studying fullscreen.
+- **Progress block** — the mastered percentage, one meter split by status, and
+  the count chips. The chips *are* the filter: tap "Review" to study only the
+  cards you've flagged. There's no separate filter dropdown to keep in step
+  with the numbers.
+- **Card** — tap or press `Space` to flip. Its top edge is coloured by status.
+  The edit and notes buttons sit in the card's top-right corner and are visible
+  without hovering, so they work on a phone.
+- **Notes** — a bottom sheet on phones and laptops; on a wide screen (≥1560px)
+  it docks beside the card instead.
+- **Mastery buttons** — pinned to the bottom of the screen on phones so they
+  stay under your thumb.
+
+The app follows your system light/dark preference; there's no separate setting.
+
 ## How syncing works
 
 There's no traditional server, but there are two ways `progress.json` gets kept
@@ -76,6 +95,28 @@ Because a token lives in browser storage, only connect this on devices you
 trust, and revoke the token from GitHub's settings if a device is lost. **Menu →
 Disconnect GitHub sync** forgets the token locally (it doesn't revoke it on
 GitHub's side).
+
+#### When the "changes waiting to sync" banner appears
+
+While you're online, changes just sync — the footer reads *Syncing to GitHub…*
+for a couple of seconds and then *Synced to GitHub*, and no banner appears. The
+banner is reserved for the two cases where the automatic sync genuinely can't
+finish on its own:
+
+- **Edits made while offline.** They can't be pushed blindly, because another
+  device may have changed `progress.json` in the meantime, so on reconnect the
+  banner offers a review: it lists exactly what this device changed, then merges
+  it into whatever is on GitHub now rather than overwriting it.
+- **A sync that failed** (bad token, revoked permission, GitHub down). The
+  banner says the changes couldn't reach GitHub and lets you retry.
+
+Two things this deliberately does *not* do: announce the ~2.5s debounce window
+that every ordinary online edit passes through, and treat the copy of
+`progress.json` served by GitHub Pages as the current truth. Pages can lag a
+commit by 30-60 seconds, so a fetched copy that's older than what the app has
+already pushed is ignored rather than adopted as the sync baseline — otherwise a
+background poll would keep inventing "unsynced changes" on a device that is
+online and perfectly in sync.
 
 ### Option B: manual file + git (no token required)
 
