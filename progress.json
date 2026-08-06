@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1785974914929,
+ "updatedAt": 1785974922389,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1623,7 +1623,8 @@
   "aerospace::ch6::15": "X-15: rocket jet\nXB-70: canceled supersonic bomber",
   "aerospace::ch6::17": "Lightweight alloys\n\nYES AND NO",
   "aerospace::ch6::18": "American Airlines ---\n\nWRONG",
-  "aerospace::ch6::22": "DC-9"
+  "aerospace::ch6::22": "DC-9",
+  "aerospace::ch6::23": "747\n"
  },
  "edits": {}
 }
