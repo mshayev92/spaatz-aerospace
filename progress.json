@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786066148324,
+ "updatedAt": 1786066156592,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1641,7 +1641,6 @@
   "aerospace::ch6::22": "Fighter-bomber\n\nWRONG",
   "aerospace::ch6::23": "B-2 and F-107A\n\nONE WRONG",
   "aerospace::ch6::24": "Observation/reco.",
-  "aerospace::ch6::25": "Russian, British/French, American",
   "aerospace::ch6::26": "Turn to civilian schools for pilots\n\nNOT WHAT ASKED FOR",
   "aerospace::ch6::27": "Reduces weight and drag components\nMust be hardened for high speeds",
   "aerospace::ch6::28": "Rotates for optimal lift",
