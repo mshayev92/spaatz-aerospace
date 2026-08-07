@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786066300129,
+ "updatedAt": 1786066316047,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1782,7 +1782,7 @@
   "aerospace::ch5::67": "Surface to Air Missile",
   "aerospace::ch5::71": "Televised\nCitizens made aware that progress not being made as promised by successive administrations",
   "aerospace::ch6::21": "TU-144\nModel 2707 (canceled)\nRussian, British/French, American",
-  "aerospace::ch6::19": "Jumbo jet\n747\n...\n\nCONTINUE",
+  "aerospace::ch6::19": "747\n...\n\nCONTINUE",
   "aerospace::ch6::20": "...\nService eventually stopped because of reliability?\n\nNO",
   "aerospace::ch6::29": "Edges of wing, counter vortices",
   "aerospace::ch8::48": "Tail",
