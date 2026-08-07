@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786127539181,
+ "updatedAt": 1786127552817,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1805,7 +1805,7 @@
   "aerospace::ch5::75": "500k aircraft by 1950\nPrediction failed, but demand rose",
   "aerospace::ch8::80": "Pascal's law. Force on confined liquid",
   "aerospace::ch8::81": "Resists change in rotation",
-  "aerospace::ch8::84": "Efficiency/quietness?\n\nKIND OF"
+  "aerospace::ch8::84": "Efficiency/quietness?\n\nKIND OF\nWHAT IS THE ONLY PROPFAN AIRCRAFT LEFT?"
  },
  "edits": {}
 }
