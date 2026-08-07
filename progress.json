@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786065963055,
+ "updatedAt": 1786065965965,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1515,7 +1515,6 @@
   "aerospace::ch3::52": "National Advisory Committee for Aeronautics\nResearch on aeronautics\nFormed by Woodrow Wilson in 1915\nResearch on aeronautics",
   "aerospace::ch3::53": "Alcock and Brown\n\nCONFUSED WITH SOMETHING ELSE",
   "aerospace::ch3::57": "Cmdr Reed\nBellinger and Towers\n2 failed\n\nYES AND NO",
-  "aerospace::ch3::59": "Formed by Woodrow Wilson in 1915\nResearch on aeronautics",
   "aerospace::ch23::0": "The path an object takes around a body",
   "aerospace::ch23::1": "Constant altitude",
   "aerospace::ch23::2": "Not circular",
