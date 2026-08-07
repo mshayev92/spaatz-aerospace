@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786066260627,
+ "updatedAt": 1786066265867,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1601,7 +1601,7 @@
   "aerospace::ch5::38": "V-1 buzz bomb\nV-2 ballistic missile",
   "aerospace::ch5::39": "First practical military heli\nSearch and rescue, rescue downed pilots behind enemy lines\n\nNOT WHAT ASKED FOR",
   "aerospace::ch5::40": "Reduced forces\n\nBUT WHY?",
-  "aerospace::ch5::41": "National Security Act\nNuclear deterence\nDeterrence",
+  "aerospace::ch5::41": "National Security Act\nNuclear deterence",
   "aerospace::ch5::42": "Soviet blockade\nPeak cargo: ---\n\nGIVE VALUE",
   "aerospace::ch5::43": "North Korea with soviet backing",
   "aerospace::ch5::44": "Atomic bomb not enough\nConventional weapons needed\nNot enough fighters\n\nWHAT DOCTRINE?",
