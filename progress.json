@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786066272610,
+ "updatedAt": 1786066290311,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1775,7 +1775,7 @@
   "aerospace::ch3::55": "Trout and ---\n\nWHO WAS SECOND?",
   "aerospace::ch23::31": "Same plane transfer\nLaunched at 28.5 degrees",
   "aerospace::ch4::39": "Weak\n\nELABORATE",
-  "aerospace::ch5::53": "First turboprop airliner\nFirst turboprop: Vickers Viscount\nFirst pure jet: Comet",
+  "aerospace::ch5::53": "First turboprop: Vickers Viscount\nFirst pure jet: Comet",
   "aerospace::ch5::36": "Production: ---\nNot used much\n\nELABORATE",
   "aerospace::ch5::48": "X-1: break the sound barrier\nX-2: study heating at Mach 3\n\nWHAT HAPPENED TO X-2?",
   "aerospace::ch5::58": "Vietnam",
