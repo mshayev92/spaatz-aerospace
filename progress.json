@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786065769383,
+ "updatedAt": 1786065774618,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1433,7 +1433,6 @@
   "aerospace::ch2::29": "Rickenbacker (American)\nMannock (British)\nManfred (German)\nFonck (French)",
   "aerospace::ch2::30": "Interrupting gear for fighters\nAmerican?\n\nFIX NATIONALITY",
   "aerospace::ch2::31": "Jimmy Doolittle, against Japan\n\nWRONG",
-  "aerospace::ch2::32": "Jimmy Doolittle, against Japan\n\nWRONG",
   "aerospace::ch2::35": "Fly Boat XIV\n\nWHAT MODEL",
   "aerospace::ch2::36": "First to fly a plane off a ship deck\n\nGIVE SECOND FEAT/LOCATIONS",
   "aerospace::ch2::37": "First to fly a plane off a ship deck\n\nGIVE SECOND FEAT/LOCATIONS",
