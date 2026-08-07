@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786067538399,
+ "updatedAt": 1786067553553,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1755,7 +1755,7 @@
   "aerospace::ch8::76": "Takes in more air, meaning that air has to be accelerated less to produce the same thrust",
   "aerospace::ch8::77": "Simple, little components",
   "aerospace::ch8::78": "Flap continues flow, spoiler stops it\n\nNOT QUITE",
-  "aerospace::ch3::9": "AKA Air Mail Act of 1930\nPayment acc. to available cargo space\nPG could change or extend routes\nAircraft: DC-4 staple (no accidents)\n\nWRONG: AIRCRAFT TYPE",
+  "aerospace::ch3::9": "\n\nWRONG: AIRCRAFT TYPE",
   "aerospace::ch3::13": "Declined\nAir service decreased\n\nWHAT PERCENT DID IT DROP BY?",
   "aerospace::ch3::16": "Smith and Richter",
   "aerospace::ch2::12": "3 times",
