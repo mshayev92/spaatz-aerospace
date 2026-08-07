@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786065880293,
+ "updatedAt": 1786065884639,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1498,7 +1498,6 @@
   "aerospace::ch3::23": "Paid acc. to available cargo space",
   "aerospace::ch3::25": "Badly",
   "aerospace::ch3::27": "First woman passenger across Atlantic\nFirst woman to solo across Atlantic\nFirst president of the 99s",
-  "aerospace::ch3::28": "NY to Paris\n20 hours?\n\nFIX AIRCRAFT, DURATION",
   "aerospace::ch3::29": "First blind takeoff and landing",
   "aerospace::ch3::31": "First blind takeoff and landing",
   "aerospace::ch3::34": "B-27\n\nNO",
