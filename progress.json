@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786066092812,
+ "updatedAt": 1786066096082,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1613,7 +1613,6 @@
   "aerospace::ch5::52": "B-52 made to replace B-47\nNeeded larger, longer range bomber\n\nELABORATE",
   "aerospace::ch5::54": "Constellation better\n\nBUT WHY?",
   "aerospace::ch5::55": "Cessna, Piper, Beech",
-  "aerospace::ch5::56": "Constellation better\n\nBUT WHY?",
   "aerospace::ch5::57": "French colony",
   "aerospace::ch5::59": "Rolling thunder: President chose targets\nLinebacker: Commanders did instead, more effective",
   "aerospace::ch5::60": "Laser-guided bombs",
