@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786066166705,
+ "updatedAt": 1786066171874,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1732,7 +1732,6 @@
   "aerospace::ch8::43": "Magnetic compass",
   "aerospace::ch8::44": "Attitude indicator",
   "aerospace::ch8::45": "Airspeed indicator",
-  "aerospace::ch8::46": "Attitude indicator",
   "aerospace::ch8::47": "Like osprey\nVTOL\n",
   "aerospace::ch8::49": "Like osprey\nVTOL\n",
   "aerospace::ch8::51": "Pumps fuel to the engine",
