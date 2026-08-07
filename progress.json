@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786128397880,
+ "updatedAt": 1786128403079,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1829,7 +1829,7 @@
   "aerospace::ch9::8": "Plane's speed relative to air",
   "aerospace::ch9::9": "Plane's speed relative to ground",
   "aerospace::ch9::10": "Tool for pilots to determine wind shear\n\nNOT EXACTLY",
-  "aerospace::ch9::11": "Nav. aid, pilot's link to the FAA"
+  "aerospace::ch9::11": "Navigational aid, pilot's link to the FAA"
  },
  "edits": {}
 }
