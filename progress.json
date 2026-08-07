@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786127500082,
+ "updatedAt": 1786127521839,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1804,7 +1804,8 @@
   "aerospace::ch3::13": "Faster speed\n",
   "aerospace::ch5::75": "500k aircraft by 1950\nPrediction failed, but demand rose",
   "aerospace::ch8::80": "Pascal's law. Force on confined liquid",
-  "aerospace::ch8::81": "Resists change in rotation"
+  "aerospace::ch8::81": "Resists change in rotation",
+  "aerospace::ch8::84": "Efficiency/quietness?"
  },
  "edits": {}
 }
