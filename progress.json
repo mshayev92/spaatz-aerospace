@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786065976140,
+ "updatedAt": 1786065984479,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1562,7 +1562,6 @@
   "aerospace::ch4::35": "10 mil\n\nWRONG",
   "aerospace::ch4::36": "Blietzkrieg - lightning war\nAir forces supported ground troops\n\nHOW DID AIR CONTRIBUTE?",
   "aerospace::ch4::37": "Send airplanes\nThen ground forces\n\nYES AND NO",
-  "aerospace::ch4::38": "Send airplanes\nThen ground forces\n\nYES AND NO",
   "aerospace::ch4::40": "Spanish Civil War\n(plus Ethiopia?)",
   "aerospace::ch4::41": "Gave practice",
   "aerospace::ch5::0": "US v. USSR",
