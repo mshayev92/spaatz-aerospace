@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786067505658,
+ "updatedAt": 1786067508386,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1787,7 +1787,7 @@
   "aerospace::ch8::53": "Prevents particles from entering, just fuel",
   "aerospace::ch8::79": "More well-braced\n\nMORE REASONS",
   "aerospace::ch3::11": "Chicago, Seattle, Boston, New Orleans\nSeattle to Seattle\nBilly Mitchell\n\nWHAT YEAR?",
-  "aerospace::ch3::12": "17 men, guns to action in 4 min\nWomen's Air Derby"
+  "aerospace::ch3::12": "17 men, guns to action in 4 min\nWomen's Air Derby\n\nWHAT DATE?"
  },
  "edits": {}
 }
