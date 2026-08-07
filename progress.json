@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786066006403,
+ "updatedAt": 1786066023186,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1597,7 +1597,6 @@
   "aerospace::ch5::31": "President chose targets\nTightly controlled",
   "aerospace::ch5::32": "Military commanders chose targets",
   "aerospace::ch5::33": "Football War\nEscaping forces pummeled",
-  "aerospace::ch5::34": "Military commanders chose targets",
   "aerospace::ch5::35": "No, Germany did",
   "aerospace::ch5::37": "Buzz bomb\nMade a sound\n\nGIVE STATS",
   "aerospace::ch5::38": "V-1 buzz bomb\nV-2 ballistic missile",
