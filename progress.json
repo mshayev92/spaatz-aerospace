@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786066382062,
+ "updatedAt": 1786066387651,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1749,7 +1749,7 @@
   "aerospace::ch8::66": "Vertical/Short Takeoff and Landing\nMove rotors from vertical to horizontal",
   "aerospace::ch8::67": "Rides own shock wave",
   "aerospace::ch8::68": "Mach 5 and above",
-  "aerospace::ch8::69": "Adds weight, expensive\nRetractable: less drag; more weight and cost\nFixed: more drag; less weight and expense",
+  "aerospace::ch8::69": "Retractable: less drag; more weight and cost\nFixed: more drag; less weight and expense",
   "aerospace::ch8::70": "Create lift or drag\n\nBUT WHAT ARE THE PURPOSES?",
   "aerospace::ch8::71": "On the fuselage and wings",
   "aerospace::ch8::72": "Can be pointed in any direction\nPointing thrust in any direction other than the longitudinal axis",
