@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786131014125,
+ "updatedAt": 1786131024100,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1837,7 +1837,7 @@
   "aerospace::ch9::12": "Lift and drag vectors pointing in same direction\nVortices cause lift vector to be aslant",
   "aerospace::ch9::13": "360 radials\nChoose which one to follow\n",
   "aerospace::ch9::14": "Like VOR, but you cannot choose a radial\nOn dashboard",
-  "aerospace::ch9::15": "VOR: VORTAC\n"
+  "aerospace::ch9::15": "VOR: VORTAC\nSends signal to plane, conve"
  },
  "edits": {}
 }
