@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786065912032,
+ "updatedAt": 1786065915293,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1503,7 +1503,6 @@
   "aerospace::ch3::35": "Asking for declaration of war?\n\nNO",
   "aerospace::ch3::36": "Use civilan training schools",
   "aerospace::ch3::37": "Ex-military aviation flying surplus aircraft",
-  "aerospace::ch3::38": "Use civilan training schools",
   "aerospace::ch3::39": "Pylon\n\nWHAT DATE?",
   "aerospace::ch3::40": "Transcontinental speed race\n1926?\n\nFIX DATE",
   "aerospace::ch3::41": "Seaplanes",
