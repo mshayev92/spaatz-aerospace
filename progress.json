@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786066111835,
+ "updatedAt": 1786066115604,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1622,7 +1622,6 @@
   "aerospace::ch5::68": "Launched by Navy against Iraq",
   "aerospace::ch5::69": "660",
   "aerospace::ch5::70": "Decimated\n\nWRONG",
-  "aerospace::ch5::72": "660",
   "aerospace::ch5::73": "Decimated\n\nWRONG",
   "aerospace::ch5::74": "Destroying enemy C&C\nTargeting supply lines and defenses\nEnabled ground troops to advance",
   "aerospace::ch6::0": "Concorde",
