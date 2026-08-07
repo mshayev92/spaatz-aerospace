@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786131340451,
+ "updatedAt": 1786131363832,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1846,7 +1846,7 @@
   "aerospace::ch9::16": "Time difference for signal used to plot plane's location on a LORAN chart",
   "aerospace::ch9::17": "4",
   "aerospace::ch9::19": "Computer generated inclines, slopes, etc.\n\nWRONG, THINKING OF LANDING SYSTEMS",
-  "aerospace::ch9::20": "Self-contained, self-employed\n"
+  "aerospace::ch9::20": "Self-contained, self-employed\nSends signals for craft to adjust\n"
  },
  "edits": {}
 }
