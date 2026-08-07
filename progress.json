@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786131533281,
+ "updatedAt": 1786131536392,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1852,7 +1852,7 @@
   "aerospace::ch9::20": "Self-contained, self-employed\nSends signals for craft to adjust\nAccelerometer, computer, ---",
   "aerospace::ch9::21": "Allows plane to fly w/o following airways\nUse stations to see plane",
   "aerospace::ch9::22": "On approach, to land plane via small distance\n\nYES, BUT GIVE DETAILS\n\n",
-  "aerospace::ch9::23": "Wider funnel, centerline and glide s"
+  "aerospace::ch9::23": "Wider funnel, centerline and glide slope"
  },
  "edits": {}
 }
