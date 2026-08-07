@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786128368148,
+ "updatedAt": 1786128384651,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1827,7 +1827,7 @@
   "aerospace::ch9::7": "Plane course against True North",
   "aerospace::ch9::8": "Plane's speed relative to air",
   "aerospace::ch9::9": "Plane's speed relative to ground",
-  "aerospace::ch9::10": "Tool for pilots to determine wind shear"
+  "aerospace::ch9::10": "Tool for pilots to determine wind shear\n\nNOT EXACTLY"
  },
  "edits": {}
 }
