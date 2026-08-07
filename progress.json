@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786127082529,
+ "updatedAt": 1786127095284,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1789,7 +1789,8 @@
   "aerospace::ch3::10": "Smith and Richter",
   "aerospace::ch3::9": "1922\nCross country, nonstop\n\nFIX DATE\n",
   "aerospace::ch1::41": "ALSO, GIVE FIRST COMM. DIRIGIBLE",
-  "aerospace::ch2::2": "2 passengers, train pilots\n36 mph\nDisassemble in field\n25 mi range?\n\nWRONG RANGE\nYEAR?"
+  "aerospace::ch2::2": "2 passengers, train pilots\n36 mph\nDisassemble in field\n25 mi range?\n\nWRONG RANGE\nYEAR?",
+  "aerospace::ch3::8": "Army and Congress largely unimpressed"
  },
  "edits": {}
 }
