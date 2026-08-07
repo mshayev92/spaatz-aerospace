@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786067553553,
+ "updatedAt": 1786067566075,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1787,7 +1787,8 @@
   "aerospace::ch8::53": "Prevents particles from entering, just fuel",
   "aerospace::ch8::79": "More well-braced\n\nMORE REASONS",
   "aerospace::ch3::11": "Chicago, Seattle, Boston, New Orleans\nSeattle to Seattle\nBilly Mitchell\n\nWHAT YEAR?",
-  "aerospace::ch3::12": "17 men, guns to action in 4 min\nWomen's Air Derby\n\nWHAT DATE?"
+  "aerospace::ch3::12": "17 men, guns to action in 4 min\nWomen's Air Derby\n\nWHAT DATE?",
+  "aerospace::ch3::4": "AKA Air Mail Act of 1930\nPayment acc. to available cargo space\nPG could change or extend routes\nAircraft: DC-4 staple (no accidents)"
  },
  "edits": {}
 }
