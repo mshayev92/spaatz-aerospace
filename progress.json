@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786127814191,
+ "updatedAt": 1786128294000,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1820,7 +1820,8 @@
   "aerospace::ch9::3": "North south line as part of great circle",
   "aerospace::ch9::4": "Subdivisions\nSubject to FAA",
   "aerospace::ch9::5": "3D highways in the sky",
-  "aerospace::ch9::6": "Prohibited or restricted"
+  "aerospace::ch9::6": "Prohibited or restricted",
+  "aerospace::ch9::7": "Plane course against True North"
  },
  "edits": {}
 }
