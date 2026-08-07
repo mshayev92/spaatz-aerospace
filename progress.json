@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786067415461,
+ "updatedAt": 1786067421620,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1404,7 +1404,6 @@
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
   "aerospace::ch3::2": "First disaster in scheduled service\nLakehurst, NJ\nHydrogen combusted (likely)",
-  "aerospace::ch3::4": "New York to Paris",
   "aerospace::ch3::5": "Cmdr Reed\n\nYES, BUT HOW",
   "aerospace::ch3::6": "17 men, guns to action in 4 min\nWomen's Air Derby",
   "aerospace::ch3::7": "Barnstormers\n\nONE MORE, SIMILAR",
