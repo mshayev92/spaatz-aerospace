@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786127621353,
+ "updatedAt": 1786127633230,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1810,7 +1810,8 @@
   "aerospace::ch8::81": "Resists change in rotation",
   "aerospace::ch8::84": "Efficiency/quietness?\n\nKIND OF\nWHAT IS THE ONLY PROPFAN AIRCRAFT LEFT?",
   "aerospace::ch9::0": "Passes through Earth's center.",
-  "aerospace::ch9::1": "Numbers on top\nLetters on side\nCoordinate system"
+  "aerospace::ch9::1": "Numbers on top\nLetters on side\nCoordinate system",
+  "aerospace::ch9::2": "0 degrees\nPasses through Greenwich, England"
  },
  "edits": {}
 }
