@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786128316684,
+ "updatedAt": 1786128322691,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1825,7 +1825,7 @@
   "aerospace::ch9::6": "Prohibited or restricted",
   "aerospace::ch9::7": "Plane course against True North",
   "aerospace::ch9::8": "Plane's speed relative to air",
-  "aerospace::ch9::9": "Pl"
+  "aerospace::ch9::9": "Plane's speed relative to ground"
  },
  "edits": {}
 }
