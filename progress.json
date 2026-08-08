@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786220626840,
+ "updatedAt": 1786220698104,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1515,7 +1515,8 @@
   "aerospace::ch18::26": "mastered",
   "aerospace::ch18::27": "mastered",
   "aerospace::ch18::28": "mastered",
-  "aerospace::ch18::29": "review"
+  "aerospace::ch18::29": "review",
+  "aerospace::ch18::30": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2039,7 +2040,7 @@
   "aerospace::ch18::26": "Cool air moves over warm water, evaporation saturates past dew point\n\nREFINE \"PAST DEW POINT\" CONCEPT",
   "aerospace::ch18::27": "Drag\nFree oxygen atoms cause oxidation (rust)",
   "aerospace::ch18::28": "Heat and Earth's rotation",
-  "aerospace::ch18::30": "Some radiation is reflected by the atmosphere"
+  "aerospace::ch18::30": "Some radiation is reflected by the atmosphere\n\nELABORATE"
  },
  "edits": {}
 }
