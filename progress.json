@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786157894250,
+ "updatedAt": 1786157897957,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1437,7 +1437,8 @@
   "aerospace::ch9::23": "mastered",
   "aerospace::ch9::24": "review",
   "aerospace::ch9::25": "mastered",
-  "aerospace::ch9::26": "mastered"
+  "aerospace::ch9::26": "mastered",
+  "aerospace::ch9::27": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -1860,7 +1861,7 @@
   "aerospace::ch9::24": "Magenta\n\nWRONG, THINKING OF SOMETHING ELSE",
   "aerospace::ch9::25": "Enforces rules and regulations",
   "aerospace::ch9::26": "18",
-  "aerospace::ch9::27": "Cylindrical: ?\nCone: conical\n\nNOT R"
+  "aerospace::ch9::27": "Cylindrical: ?\nCone: conical\n\nNOT REALLY"
  },
  "edits": {}
 }
