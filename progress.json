@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786219787219,
+ "updatedAt": 1786219800190,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2031,7 +2031,8 @@
   "aerospace::ch18::21": "Vertical heat transfer",
   "aerospace::ch18::22": "Horizontal heat transfer",
   "aerospace::ch18::23": "Heating by sun",
-  "aerospace::ch18::25": "Moist air moves horizontally over cold surface and cooled below dew point"
+  "aerospace::ch18::25": "Moist air moves horizontally over cold surface and cooled below dew point",
+  "aerospace::ch18::26": "Cool air moves over warm water, evaporation saturates "
  },
  "edits": {}
 }
