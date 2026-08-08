@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786219532625,
+ "updatedAt": 1786219539274,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2019,7 +2019,7 @@
   "aerospace::ch18::16": "Molecules have same composition\nTo 300 mi?\n\nWRONG RANGE",
   "aerospace::ch18::17": "Different gaseous composition, molecules far apart and are only under gravitational influence (CONFUSED)\n(Layered)\n60 and up mi\n\nWRONG RANGE",
   "aerospace::ch18::18": "Particles are only under gravitational influence",
-  "aerospace::ch18::19": "Water vapor rises (gas)\nCondences\n"
+  "aerospace::ch18::19": "Water vapor rises (gas)\nCondense\nPrecipitation"
  },
  "edits": {}
 }
