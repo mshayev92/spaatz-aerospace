@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786157920048,
+ "updatedAt": 1786157927534,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1862,7 +1862,7 @@
   "aerospace::ch9::25": "Enforces rules and regulations",
   "aerospace::ch9::26": "18",
   "aerospace::ch9::27": "Cylindrical: ?\nCone: conical\n\nNOT REALLY",
-  "aerospace::ch9::28": "Shows differences in elevation\n\nDifferent ways, including color di"
+  "aerospace::ch9::28": "Shows differences in elevation\n\nDifferent ways, including shading, etc."
  },
  "edits": {}
 }
