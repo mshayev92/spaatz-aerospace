@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786220608938,
+ "updatedAt": 1786220609734,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2039,7 +2039,7 @@
   "aerospace::ch18::26": "Cool air moves over warm water, evaporation saturates past dew point\n\nREFINE \"PAST DEW POINT\" CONCEPT",
   "aerospace::ch18::27": "Drag\nFree oxygen atoms cause oxidation (rust)",
   "aerospace::ch18::28": "Heat and Earth's rotation",
-  "aerospace::ch18::30": "Some of the "
+  "aerospace::ch18::30": "Some radiation is reflected"
  },
  "edits": {}
 }
