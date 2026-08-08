@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786219592994,
+ "updatedAt": 1786219594298,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2027,7 +2027,7 @@
   "aerospace::ch18::20": "Direct heat transfer",
   "aerospace::ch18::21": "Vertical heat transfer",
   "aerospace::ch18::22": "Horizontal heat transfer",
-  "aerospace::ch18::23": "H"
+  "aerospace::ch18::23": "Heating by sun"
  },
  "edits": {}
 }
