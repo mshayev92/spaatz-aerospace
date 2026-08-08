@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786219566409,
+ "updatedAt": 1786219575085,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2023,7 +2023,7 @@
   "aerospace::ch18::18": "Particles are only under gravitational influence",
   "aerospace::ch18::19": "Water vapor rises (gas)\nCondense\nPrecipitation",
   "aerospace::ch18::20": "Direct heat transfer",
-  "aerospace::ch18::21": "Vertical"
+  "aerospace::ch18::21": "Vertical heat transfer"
  },
  "edits": {}
 }
