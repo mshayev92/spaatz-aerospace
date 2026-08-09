@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786243966091,
+ "updatedAt": 1786243972120,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2091,7 +2091,7 @@
   "aerospace::ch19::3": "Low\nMedium\nHigh\nExtreme",
   "aerospace::ch19::4": "Polar: cold\nTropical: hot\nMaritime: humid\nContinental: dry",
   "aerospace::ch19::5": "Warm air in between two cold air masses, which is pushed up. Can cause severe precipitation",
-  "aerospace::ch19::6": "Cirrus - high; thin, wispy, lacy\nStratus - blanket\nCumulus"
+  "aerospace::ch19::6": "Cirrus - high; thin, wispy, lacy\nStratus - blanket\nCumulus - layered\n"
  },
  "edits": {}
 }
