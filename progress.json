@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786307247386,
+ "updatedAt": 1786307264716,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2097,7 +2097,7 @@
   "aerospace::ch19::6": "Cirrus - high; thin, wispy, lacy\nStratus - blanket\nCumulus - layered\n\nMEANING CORRECT, BUT FIX WORDING",
   "aerospace::ch19::7": "Cumulus\nStratus\nStratocumulus\n...\n\nMORE, GIVING RANGE",
   "aerospace::ch19::8": "Altostratus\nAltocumulus\n...\n\nONE MORE, AND GIVE RANGE",
-  "aerospace::ch19::9": "Layered\n\nNOT WHAT ASKED FOR",
+  "aerospace::ch19::9": "Layered\n\nNOT WHAT ASKED FOR\n\nLow to no turbulence, smooth",
   "aerospace::ch19::10": "ASKING FOR COMPOSITION"
  },
  "edits": {}
