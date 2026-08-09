@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786313849137,
+ "updatedAt": 1786313858676,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2135,7 +2135,8 @@
   "aerospace::ch19::25": "Lens shape\nTop of mountains",
   "aerospace::ch19::26": "Ragged and broken",
   "aerospace::ch19::28": "Turbulence\nSevere weather/thunderstorm",
-  "aerospace::ch19::29": "No"
+  "aerospace::ch19::29": "No",
+  "aerospace::ch19::30": "Behind large aircraft\nAffect smaller aircraft"
  },
  "edits": {}
 }
