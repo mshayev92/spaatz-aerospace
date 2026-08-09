@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786242046347,
+ "updatedAt": 1786242058627,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1527,7 +1527,8 @@
   "aerospace::ch18::38": "review",
   "aerospace::ch18::39": "review",
   "aerospace::ch18::40": "general",
-  "aerospace::ch18::41": "general"
+  "aerospace::ch18::41": "general",
+  "aerospace::ch18::42": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2059,7 +2060,7 @@
   "aerospace::ch18::36": "Conduction: direct\nConvection: vertical\nAdvection: horizontal\nRadiation: sun",
   "aerospace::ch18::37": "Causes deflections\n\nWHAT DIRECTION?",
   "aerospace::ch18::41": "On the surface\nParticles are close together\n\nFIX THE REASON",
-  "aerospace::ch18::42": "Radiation"
+  "aerospace::ch18::42": "Radiation\n\nnot"
  },
  "edits": {}
 }
