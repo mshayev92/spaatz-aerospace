@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786314135364,
+ "updatedAt": 1786314139956,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2151,7 +2151,7 @@
   "aerospace::ch19::35": "Actually low altitude cloud trapped by warm layer",
   "aerospace::ch19::36": "Moist air carried up slope and cooled below dew pt.",
   "aerospace::ch19::37": "1. Surface formed over\n2. Surface traveled over\n3. Season in which formed\n4. Direction of travel?\n\nFIX 4.",
-  "aerospace::ch21::0": "All objects with mass attract one another\nNewton's Universal Law of Gravitation"
+  "aerospace::ch21::0": "All objects with mass attract one another"
  },
  "edits": {}
 }
