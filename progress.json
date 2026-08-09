@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786316655405,
+ "updatedAt": 1786316659338,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2247,7 +2247,7 @@
   "aerospace::ch21::48": "First calculations for a reaction engine to leave and reenter the atmosphere",
   "aerospace::ch23::15": "Orbit that crosses the poles\nCan photograph the entire surface",
   "aerospace::ch23::16": "Polar orbit that faces the sun, letting the craft get charge continuously",
-  "aerospace::ch23::17": "Thrust enough to match the fall tow"
+  "aerospace::ch23::17": "Thrust enough to match the fall towards earth"
  },
  "edits": {}
 }
