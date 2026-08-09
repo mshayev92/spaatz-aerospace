@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786241517975,
+ "updatedAt": 1786241539415,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2041,7 +2041,7 @@
   "aerospace::ch18::27": "Drag\nFree oxygen atoms cause oxidation (rust)",
   "aerospace::ch18::28": "Heat and Earth's rotation",
   "aerospace::ch18::30": "Some radiation is reflected by the atmosphere\n\nELABORATE",
-  "aerospace::ch18::31": "Acts on "
+  "aerospace::ch18::31": "Acts on air that is already rotating\nHigh pressure: makes faster\nLow pressure: makes slower"
  },
  "edits": {}
 }
