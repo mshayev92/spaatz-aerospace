@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786316539523,
+ "updatedAt": 1786316636772,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2244,7 +2244,8 @@
   "aerospace::ch21::46": "Decrease engine weight\nMake engine more powerful\n\nTHINKING OF SOMETHING ELSE",
   "aerospace::ch21::47": "Causes motion",
   "aerospace::ch21::48": "First calculations for a reaction engine to leave and reenter the atmosphere",
-  "aerospace::ch23::15": "Orbit that crosses the poles\nCan photograph the entire surface"
+  "aerospace::ch23::15": "Orbit that crosses the poles\nCan photograph the entire surface",
+  "aerospace::ch23::16": "Polar orbit that faces the sun, letting the craft get charge continuously"
  },
  "edits": {}
 }
