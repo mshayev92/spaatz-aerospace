@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786316659338,
+ "updatedAt": 1786316678823,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1626,7 +1626,8 @@
   "aerospace::ch21::47": "mastered",
   "aerospace::ch21::48": "mastered",
   "aerospace::ch23::15": "mastered",
-  "aerospace::ch23::16": "mastered"
+  "aerospace::ch23::16": "mastered",
+  "aerospace::ch23::17": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2247,7 +2248,7 @@
   "aerospace::ch21::48": "First calculations for a reaction engine to leave and reenter the atmosphere",
   "aerospace::ch23::15": "Orbit that crosses the poles\nCan photograph the entire surface",
   "aerospace::ch23::16": "Polar orbit that faces the sun, letting the craft get charge continuously",
-  "aerospace::ch23::17": "Thrust enough to match the fall towards earth"
+  "aerospace::ch23::17": "Thrust enough to match the fall towards earth\n\nCLOSE, BUT NO"
  },
  "edits": {}
 }
