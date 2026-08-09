@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786241706991,
+ "updatedAt": 1786241727735,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2050,7 +2050,7 @@
   "aerospace::ch18::32": "Aerospace",
   "aerospace::ch18::33": "Precipitation: water\nCondensation: no water falling",
   "aerospace::ch18::35": "Temperature\nPhotochemical\nMolecular composition\nDynamic-Kinetic",
-  "aerospace::ch18::36": "Condutive:"
+  "aerospace::ch18::36": "Conduction: direct\nConvection: vertical\nAdvection: horizontal\nRadiation: sun"
  },
  "edits": {}
 }
