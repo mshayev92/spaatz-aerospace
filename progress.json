@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786314165148,
+ "updatedAt": 1786314169337,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2155,7 +2155,7 @@
   "aerospace::ch19::37": "1. Surface formed over\n2. Surface traveled over\n3. Season in which formed\n4. Direction of travel?\n\nFIX 4.",
   "aerospace::ch21::0": "All objects with mass attract one another",
   "aerospace::ch21::1": "Gravitation applying to an object on or near the Earth's surface",
-  "aerospace::ch21::2": "GMm"
+  "aerospace::ch21::2": "GMm/r^2"
  },
  "edits": {}
 }
