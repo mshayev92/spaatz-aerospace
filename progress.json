@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786315718712,
+ "updatedAt": 1786315730921,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1602,7 +1602,8 @@
   "aerospace::ch21::22": "mastered",
   "aerospace::ch21::24": "mastered",
   "aerospace::ch21::25": "mastered",
-  "aerospace::ch21::26": "mastered"
+  "aerospace::ch21::26": "mastered",
+  "aerospace::ch21::27": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2204,7 +2205,7 @@
   "aerospace::ch21::24": "First gunpowder propelled rocket",
   "aerospace::ch21::25": "Spin stabilization",
   "aerospace::ch21::26": "Releases exhaust, which produces an equal and opposite reaction that moves the rocket",
-  "aerospace::ch21::27": "Galileo\nProved: gravity-related"
+  "aerospace::ch21::27": "Galileo\nProved: gravity-related\n\nFIX PROVED"
  },
  "edits": {}
 }
