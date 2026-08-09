@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786315711808,
+ "updatedAt": 1786315718712,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2204,7 +2204,7 @@
   "aerospace::ch21::24": "First gunpowder propelled rocket",
   "aerospace::ch21::25": "Spin stabilization",
   "aerospace::ch21::26": "Releases exhaust, which produces an equal and opposite reaction that moves the rocket",
-  "aerospace::ch21::27": "Galileo\nProved: "
+  "aerospace::ch21::27": "Galileo\nProved: gravity-related"
  },
  "edits": {}
 }
