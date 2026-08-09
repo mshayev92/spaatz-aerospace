@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786307458067,
+ "updatedAt": 1786307461917,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2106,7 +2106,7 @@
   "aerospace::ch19::10": "Thin, ice crystals",
   "aerospace::ch19::12": "Warning sign of thunder storm\nBumpy, turbulence\nBad vis?",
   "aerospace::ch19::13": "Maritime tropical",
-  "aerospace::ch19::14": "Continental "
+  "aerospace::ch19::14": "Continental polar"
  },
  "edits": {}
 }
