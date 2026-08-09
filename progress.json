@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786243409474,
+ "updatedAt": 1786243416286,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2077,7 +2077,7 @@
   "aerospace::ch18::48": "Air particles pushing down\n\nONE WORD TO DESCRIBE?",
   "aerospace::ch18::49": "Amount of material in an object",
   "aerospace::ch18::50": "The total of molecular motion\n\nCLOSE, BUT NO",
-  "aerospace::ch18::51": "The average "
+  "aerospace::ch18::51": "The average of "
  },
  "edits": {}
 }
