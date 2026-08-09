@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786307434196,
+ "updatedAt": 1786307448735,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2103,7 +2103,8 @@
   "aerospace::ch19::8": "Altostratus\nAltocumulus\n...\n\nONE MORE, AND GIVE RANGE",
   "aerospace::ch19::9": "Low to no turbulence, smooth (ALMOST)\n\nWHAT ELSE?",
   "aerospace::ch19::10": "Thin, ice crystals",
-  "aerospace::ch19::12": "Warning sign of thunder storm\nBumpy, turbulence\nBad vis?"
+  "aerospace::ch19::12": "Warning sign of thunder storm\nBumpy, turbulence\nBad vis?",
+  "aerospace::ch19::13": "Maritime tropical"
  },
  "edits": {}
 }
