@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786313873523,
+ "updatedAt": 1786313879980,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2137,7 +2137,8 @@
   "aerospace::ch19::26": "Ragged and broken",
   "aerospace::ch19::28": "Turbulence\nSevere weather/thunderstorm",
   "aerospace::ch19::29": "No",
-  "aerospace::ch19::30": "Behind large aircraft, vortices\nAffect smaller aircraft"
+  "aerospace::ch19::30": "Behind large aircraft, vortices\nAffect smaller aircraft",
+  "aerospace::ch19::31": "Windward"
  },
  "edits": {}
 }
