@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786313858676,
+ "updatedAt": 1786313873523,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1567,7 +1567,8 @@
   "aerospace::ch19::26": "mastered",
   "aerospace::ch19::27": "general",
   "aerospace::ch19::28": "mastered",
-  "aerospace::ch19::29": "mastered"
+  "aerospace::ch19::29": "mastered",
+  "aerospace::ch19::30": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2136,7 +2137,7 @@
   "aerospace::ch19::26": "Ragged and broken",
   "aerospace::ch19::28": "Turbulence\nSevere weather/thunderstorm",
   "aerospace::ch19::29": "No",
-  "aerospace::ch19::30": "Behind large aircraft\nAffect smaller aircraft"
+  "aerospace::ch19::30": "Behind large aircraft, vortices\nAffect smaller aircraft"
  },
  "edits": {}
 }
