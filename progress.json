@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786243942277,
+ "updatedAt": 1786243950221,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2090,7 +2090,8 @@
   "aerospace::ch19::2": "Change in speed and direction",
   "aerospace::ch19::3": "Low\nMedium\nHigh\nExtreme",
   "aerospace::ch19::4": "Polar: cold\nTropical: hot\nMaritime: humid\nContinental: dry",
-  "aerospace::ch19::5": "Warm air in between two cold air masses, which is pushed up. Can cause severe precipitation"
+  "aerospace::ch19::5": "Warm air in between two cold air masses, which is pushed up. Can cause severe precipitation",
+  "aerospace::ch19::6": "Cirrus\nStratus\nCumulus"
  },
  "edits": {}
 }
