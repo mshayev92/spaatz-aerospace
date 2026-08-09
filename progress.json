@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786316449108,
+ "updatedAt": 1786316473751,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1131,7 +1131,7 @@
   "aerospace::ch23::11": "mastered",
   "aerospace::ch23::12": "mastered",
   "aerospace::ch23::13": "mastered",
-  "aerospace::ch23::14": "mastered",
+  "aerospace::ch23::14": "review",
   "aerospace::ch4::0": "general",
   "aerospace::ch4::1": "mastered",
   "aerospace::ch4::2": "review",
@@ -1773,7 +1773,6 @@
   "aerospace::ch23::11": "Opposite direction",
   "aerospace::ch23::12": "Study of the arc of nonorbiting object",
   "aerospace::ch23::13": "Hovering over the same point (equator)",
-  "aerospace::ch23::14": "Geosynchronous: \nGeostrationary: ",
   "aerospace::ch23::15": "Geosynchronous: \nGeostrationary: ",
   "aerospace::ch4::0": "Lightning war\nPlanes supporting ground forces\nME-169?\n\nFIX AIRCRAFT MODEL",
   "aerospace::ch4::1": "Suicide bombers",
