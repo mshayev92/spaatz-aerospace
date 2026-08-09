@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786314443780,
+ "updatedAt": 1786314448214,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2168,7 +2168,8 @@
   "aerospace::ch21::5": "Expands the exhaust, lowering pressure and thus increasing velocity",
   "aerospace::ch21::6": "What the four major rocket systems are working to deliver",
   "aerospace::ch21::7": "How much thrust the propellant gives\nSpecific: isp\nDensity: by volume",
-  "aerospace::ch21::8": "Number of pounds of thrust by burning one pound of propellant in one second (Isp)"
+  "aerospace::ch21::8": "Number of pounds of thrust by burning one pound of propellant in one second (Isp)",
+  "aerospace::ch21::9": "By volume"
  },
  "edits": {}
 }
