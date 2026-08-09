@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786307951772,
+ "updatedAt": 1786307953906,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2123,7 +2123,7 @@
   "aerospace::ch19::20": "Stratus (NOT INC.)\nCirrus\n\nMORE",
   "aerospace::ch19::21": "Cumulonimbus\nBuilding cumulus",
   "aerospace::ch19::22": "Light\n\nONLY ONE OF THEM",
-  "aerospace::ch19::23": "Cold: more dense, moves fatse"
+  "aerospace::ch19::23": "Cold: more dense, moves faster"
  },
  "edits": {}
 }
