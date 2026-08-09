@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786316067211,
+ "updatedAt": 1786316082073,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2230,7 +2230,8 @@
   "aerospace::ch21::37": "IS:\nComputer\nInertial system\nStar-tracking\n\nMASTERED, IDENTIFIED WHICH 'IS'",
   "aerospace::ch21::38": "Streamlined, strong",
   "aerospace::ch21::39": "Brain: Guidance\nExecutes: Control",
-  "aerospace::ch21::40": "Centrifugal force"
+  "aerospace::ch21::40": "Centrifugal force",
+  "aerospace::ch21::41": "Bad range, inaccurate"
  },
  "edits": {}
 }
