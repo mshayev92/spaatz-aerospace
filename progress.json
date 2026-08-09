@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786314246430,
+ "updatedAt": 1786314252455,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2157,7 +2157,7 @@
   "aerospace::ch21::0": "All objects with mass attract one another",
   "aerospace::ch21::1": "Gravitation applying to an object on or near the Earth's surface",
   "aerospace::ch21::2": "GMm/r^2",
-  "aerospace::ch21::3": "Where the fuel is ignited, creating high pressure exhaust"
+  "aerospace::ch21::3": "Where the fuel is ignited, creating high pressure exhaust (propellant)"
  },
  "edits": {}
 }
