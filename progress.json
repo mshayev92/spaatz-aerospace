@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786241539415,
+ "updatedAt": 1786241566360,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1516,7 +1516,8 @@
   "aerospace::ch18::27": "mastered",
   "aerospace::ch18::28": "mastered",
   "aerospace::ch18::29": "review",
-  "aerospace::ch18::30": "general"
+  "aerospace::ch18::30": "general",
+  "aerospace::ch18::31": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2041,7 +2042,7 @@
   "aerospace::ch18::27": "Drag\nFree oxygen atoms cause oxidation (rust)",
   "aerospace::ch18::28": "Heat and Earth's rotation",
   "aerospace::ch18::30": "Some radiation is reflected by the atmosphere\n\nELABORATE",
-  "aerospace::ch18::31": "Acts on air that is already rotating\nHigh pressure: makes faster\nLow pressure: makes slower"
+  "aerospace::ch18::31": "Acts on air that is already rotating\nHigh pressure: makes faster\nLow pressure: makes slower\n\nCLOCKWISE/COUNTERCLOCKWISE?"
  },
  "edits": {}
 }
