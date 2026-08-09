@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786315953153,
+ "updatedAt": 1786315975204,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1611,7 +1611,8 @@
   "aerospace::ch21::32": "review",
   "aerospace::ch21::33": "mastered",
   "aerospace::ch21::34": "mastered",
-  "aerospace::ch21::35": "mastered"
+  "aerospace::ch21::35": "mastered",
+  "aerospace::ch21::36": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2221,7 +2222,7 @@
   "aerospace::ch21::33": "Dr. Oberth",
   "aerospace::ch21::34": "Force: causes motion\nVelocity: rate at which object moves\nAcceleration: force applied over time\nMomentum: p=mv",
   "aerospace::ch21::35": "Payload",
-  "aerospace::ch21::36": "IS:\nChemical\nGas-heated\nElectric"
+  "aerospace::ch21::36": "IS:\nChemical\nGas-heated\nElectric\n\nMASTERED, IDENTIFIED WHICH 'IS'"
  },
  "edits": {}
 }
