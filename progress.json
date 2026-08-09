@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786242069309,
+ "updatedAt": 1786242078641,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2060,7 +2060,8 @@
   "aerospace::ch18::36": "Conduction: direct\nConvection: vertical\nAdvection: horizontal\nRadiation: sun",
   "aerospace::ch18::37": "Causes deflections\n\nWHAT DIRECTION?",
   "aerospace::ch18::41": "On the surface\nParticles are close together\n\nFIX THE REASON",
-  "aerospace::ch18::42": "Radiation\n\nNOT WHAT ASKED FOR"
+  "aerospace::ch18::42": "Radiation\n\nNOT WHAT ASKED FOR",
+  "aerospace::ch18::43": "\n150-300 mph"
  },
  "edits": {}
 }
