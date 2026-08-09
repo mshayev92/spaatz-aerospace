@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786315529509,
+ "updatedAt": 1786315543988,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1597,7 +1597,8 @@
   "aerospace::ch21::18": "mastered",
   "aerospace::ch21::19": "general",
   "aerospace::ch21::20": "mastered",
-  "aerospace::ch21::21": "mastered"
+  "aerospace::ch21::21": "mastered",
+  "aerospace::ch21::23": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2193,7 +2194,8 @@
   "aerospace::ch21::18": "External heating source to heat solid propellant",
   "aerospace::ch21::19": "Uses electricity and magnetism to create thrust in small amounts\n\nALMOST",
   "aerospace::ch21::20": "Self-contained, senses motion and sends corrections to control system",
-  "aerospace::ch21::21": "Human operator, who is usually within a short distance"
+  "aerospace::ch21::21": "Human operator, who is usually within a short distance",
+  "aerospace::ch21::23": "Follows beam pointed at the target"
  },
  "edits": {}
 }
