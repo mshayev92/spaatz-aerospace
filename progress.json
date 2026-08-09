@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786307688586,
+ "updatedAt": 1786307702168,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2115,7 +2115,8 @@
   "aerospace::ch19::15": "Air mass\n\nALSO FRONT",
   "aerospace::ch19::16": "Advection - moist over cold\nEvaporation - cold over warm water\nUpslope - cooled with altitude\nRadiation - day/night\nHigh-inversion - low cloud trapped",
   "aerospace::ch19::17": "Cirrus\nStratus\nCumulus\n\nClassified by height and precipitation\n(alto, ciro, nimbo)",
-  "aerospace::ch19::18": "Low: 300-6500 ft\nMid: 6500-20k ft\nHigh: >20k ft"
+  "aerospace::ch19::18": "Low: 300-6500 ft\nMid: 6500-20k ft\nHigh: >20k ft",
+  "aerospace::ch19::19": "Fog?"
  },
  "edits": {}
 }
