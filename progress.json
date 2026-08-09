@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786315663559,
+ "updatedAt": 1786315671709,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2201,7 +2201,8 @@
   "aerospace::ch21::23": "Follows beam pointed at the target",
   "aerospace::ch21::22": "Follows temperature/energy",
   "aerospace::ch21::24": "First gunpowder propelled rocket",
-  "aerospace::ch21::25": "Spin stabilization"
+  "aerospace::ch21::25": "Spin stabilization",
+  "aerospace::ch21::26": "Releases exhaust, which produc"
  },
  "edits": {}
 }
