@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786244118833,
+ "updatedAt": 1786244152723,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1545,7 +1545,8 @@
   "aerospace::ch19::4": "mastered",
   "aerospace::ch19::5": "mastered",
   "aerospace::ch19::6": "general",
-  "aerospace::ch19::7": "review"
+  "aerospace::ch19::7": "review",
+  "aerospace::ch19::8": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2095,7 +2096,7 @@
   "aerospace::ch19::5": "Warm air in between two cold air masses, which is pushed up. Can cause severe precipitation",
   "aerospace::ch19::6": "Cirrus - high; thin, wispy, lacy\nStratus - blanket\nCumulus - layered\n\nMEANING CORRECT, BUT FIX WORDING",
   "aerospace::ch19::7": "Cumulus\nStratus\nStratocumulus\n...\n\nMORE, GIVING RANGE",
-  "aerospace::ch19::8": "Altostratus\nAltocumulus\n"
+  "aerospace::ch19::8": "Altostratus\nAltocumulus\n...\n\nONE MORE, AND GIVE RANGE"
  },
  "edits": {}
 }
