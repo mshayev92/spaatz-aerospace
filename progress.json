@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786316169292,
+ "updatedAt": 1786316181339,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2236,7 +2236,8 @@
   "aerospace::ch21::39": "Brain: Guidance\nExecutes: Control",
   "aerospace::ch21::40": "Centrifugal force",
   "aerospace::ch21::41": "Bad range, inaccurate",
-  "aerospace::ch21::42": "Liquid and solid"
+  "aerospace::ch21::42": "Liquid and solid",
+  "aerospace::ch21::45": "1. \n2. \n3. \n4. Beam"
  },
  "edits": {}
 }
