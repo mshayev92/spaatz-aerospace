@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786316260087,
+ "updatedAt": 1786316273038,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2239,7 +2239,7 @@
   "aerospace::ch21::41": "Bad range, inaccurate",
   "aerospace::ch21::42": "Liquid and solid",
   "aerospace::ch21::45": "1. Inertial: senses motion\n2. Command: human operator\n3. Homing: heat and light\n4. Beam: pointed at target",
-  "aerospace::ch21::46": "Decrease engine weight\nMake engine more powerful"
+  "aerospace::ch21::46": "Decrease engine weight\nMake engine more powerful\n\nTHINKING OF SOMETHING ELSE"
  },
  "edits": {}
 }
