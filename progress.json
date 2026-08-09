@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786315789473,
+ "updatedAt": 1786315796395,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2211,7 +2211,8 @@
   "aerospace::ch21::27": "Galileo\nProved: gravity-related\n\nFIX PROVED",
   "aerospace::ch21::28": "Eichstadt",
   "aerospace::ch21::29": "William Congreve",
-  "aerospace::ch21::30": "William Hale"
+  "aerospace::ch21::30": "William Hale",
+  "aerospace::ch21::31": "Russian scientist"
  },
  "edits": {}
 }
