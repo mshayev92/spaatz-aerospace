@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786314024649,
+ "updatedAt": 1786314044226,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2146,7 +2146,8 @@
   "aerospace::ch19::31": "Windward\n\nBUT WHY?",
   "aerospace::ch19::33": "Medium-altitude clouds",
   "aerospace::ch19::34": "Punch lost, not replacing one another\nAlmost any type of light weather",
-  "aerospace::ch19::35": "Actually low altitude cloud trapped by warm layer"
+  "aerospace::ch19::35": "Actually low altitude cloud trapped by warm layer",
+  "aerospace::ch19::36": "Moist air carried up slope and cooled below dew pt"
  },
  "edits": {}
 }
