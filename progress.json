@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786313725594,
+ "updatedAt": 1786313749455,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2125,7 +2125,7 @@
   "aerospace::ch19::21": "Cumulonimbus\nBuilding cumulus",
   "aerospace::ch19::22": "Light\n\nONLY ONE OF THEM",
   "aerospace::ch19::23": "Cold: more dense, moves faster\n\nELABORATE",
-  "aerospace::ch19::24": "Stationary: punch lost, all types of weather can happen\nOccluded: "
+  "aerospace::ch19::24": "Stationary: punch lost, all types of weather can happen\nOccluded: between two cold fronts"
  },
  "edits": {}
 }
