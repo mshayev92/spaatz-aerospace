@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786314352800,
+ "updatedAt": 1786314363968,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2162,7 +2162,8 @@
   "aerospace::ch21::2": "GMm/r^2",
   "aerospace::ch21::3": "Where the fuel is ignited, creating high pressure exhaust (propellant)",
   "aerospace::ch21::4": "Constricts the exhaust to increase the velocity",
-  "aerospace::ch21::5": "Expands the exhaust, lowering pressure and thus increasing velocity"
+  "aerospace::ch21::5": "Expands the exhaust, lowering pressure and thus increasing velocity",
+  "aerospace::ch21::6": "What the four major rocket systems are working to deliver"
  },
  "edits": {}
 }
