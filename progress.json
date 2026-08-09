@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786314623527,
+ "updatedAt": 1786315320283,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2182,7 +2182,8 @@
   "aerospace::ch21::12": "Involves the tank, the pipes, etc.\nEverything involved in delivering the fuel to be combusted",
   "aerospace::ch21::13": "Inertia",
   "aerospace::ch21::14": "F=MA",
-  "aerospace::ch21::15": "Equal and opposite"
+  "aerospace::ch21::15": "Equal and opposite",
+  "aerospace::ch21::16": "Reaction that lifts the rocket"
  },
  "edits": {}
 }
