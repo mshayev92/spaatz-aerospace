@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786242212830,
+ "updatedAt": 1786242217696,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2067,7 +2067,7 @@
   "aerospace::ch18::43": "Thin streams of air (like rivers)\n150-300 mph\n\nELABORATE",
   "aerospace::ch18::44": "When it reaches its boiling point\n\nNOT WHAT ASKED FOR",
   "aerospace::ch18::45": "How tightly particles are packed together\n\nNOT THE DEF IT WANTS",
-  "aerospace::ch18::46": "W/o it, there would be no condensation or "
+  "aerospace::ch18::46": "W/o it, there would be no condensation or percipitation\n"
  },
  "edits": {}
 }
