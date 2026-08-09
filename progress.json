@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786315629755,
+ "updatedAt": 1786315643614,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2197,7 +2197,8 @@
   "aerospace::ch21::20": "Self-contained, senses motion and sends corrections to control system",
   "aerospace::ch21::21": "Human operator, who is usually within a short distance",
   "aerospace::ch21::23": "Follows beam pointed at the target",
-  "aerospace::ch21::22": "Follows temperature/energy"
+  "aerospace::ch21::22": "Follows temperature/energy",
+  "aerospace::ch21::24": "First gunpowder propelled rocket"
  },
  "edits": {}
 }
