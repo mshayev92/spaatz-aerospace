@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786315753456,
+ "updatedAt": 1786315759189,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2207,7 +2207,8 @@
   "aerospace::ch21::25": "Spin stabilization",
   "aerospace::ch21::26": "Releases exhaust, which produces an equal and opposite reaction that moves the rocket",
   "aerospace::ch21::27": "Galileo\nProved: gravity-related\n\nFIX PROVED",
-  "aerospace::ch21::28": "Eichstadt"
+  "aerospace::ch21::28": "Eichstadt",
+  "aerospace::ch21::29": "William Congreve"
  },
  "edits": {}
 }
