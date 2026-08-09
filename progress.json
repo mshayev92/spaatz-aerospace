@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786314092103,
+ "updatedAt": 1786314101346,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1574,7 +1574,8 @@
   "aerospace::ch19::33": "mastered",
   "aerospace::ch19::34": "mastered",
   "aerospace::ch19::35": "mastered",
-  "aerospace::ch19::36": "mastered"
+  "aerospace::ch19::36": "mastered",
+  "aerospace::ch19::37": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2149,7 +2150,7 @@
   "aerospace::ch19::34": "Punch lost, not replacing one another\nAlmost any type of light weather",
   "aerospace::ch19::35": "Actually low altitude cloud trapped by warm layer",
   "aerospace::ch19::36": "Moist air carried up slope and cooled below dew pt.",
-  "aerospace::ch19::37": "1. Surface formed over\n2. Surface traveled over\n3. Season in which formed\n4. Direction of travel?"
+  "aerospace::ch19::37": "1. Surface formed over\n2. Surface traveled over\n3. Season in which formed\n4. Direction of travel?\n\nFIX 4."
  },
  "edits": {}
 }
