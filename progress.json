@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786315400081,
+ "updatedAt": 1786315404285,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2186,7 +2186,7 @@
   "aerospace::ch21::14": "F=MA",
   "aerospace::ch21::15": "Equal and opposite",
   "aerospace::ch21::17": "Mixing the fuel and oxidizer and heating it to produce hot gasses",
-  "aerospace::ch21::18": "External heating source to heat solid"
+  "aerospace::ch21::18": "External heating source to heat solid propellant"
  },
  "edits": {}
 }
