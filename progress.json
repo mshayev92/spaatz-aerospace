@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786307615384,
+ "updatedAt": 1786307628750,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2111,7 +2111,8 @@
   "aerospace::ch19::13": "Maritime tropical",
   "aerospace::ch19::14": "Continental polar",
   "aerospace::ch19::15": "Air mass\n\nALSO FRONT",
-  "aerospace::ch19::16": "Advection - moist over cold\nEvaporation - cold over warm water\nUpslope - cooled with altitude\nRadiation - day/night\nHigh-inversion - low cloud trapped"
+  "aerospace::ch19::16": "Advection - moist over cold\nEvaporation - cold over warm water\nUpslope - cooled with altitude\nRadiation - day/night\nHigh-inversion - low cloud trapped",
+  "aerospace::ch19::17": "Cirrus\nStratus\nCirrus"
  },
  "edits": {}
 }
