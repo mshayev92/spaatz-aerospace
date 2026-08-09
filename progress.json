@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786315543988,
+ "updatedAt": 1786315547652,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2195,7 +2195,8 @@
   "aerospace::ch21::19": "Uses electricity and magnetism to create thrust in small amounts\n\nALMOST",
   "aerospace::ch21::20": "Self-contained, senses motion and sends corrections to control system",
   "aerospace::ch21::21": "Human operator, who is usually within a short distance",
-  "aerospace::ch21::23": "Follows beam pointed at the target"
+  "aerospace::ch21::23": "Follows beam pointed at the target",
+  "aerospace::ch21::22": "Follows "
  },
  "edits": {}
 }
