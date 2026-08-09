@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786307833879,
+ "updatedAt": 1786307865002,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1559,7 +1559,8 @@
   "aerospace::ch19::18": "mastered",
   "aerospace::ch19::19": "review",
   "aerospace::ch19::20": "review",
-  "aerospace::ch19::21": "mastered"
+  "aerospace::ch19::21": "mastered",
+  "aerospace::ch19::22": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2121,7 +2122,7 @@
   "aerospace::ch19::18": "Low: 300-6500 ft\nMid: 6500-20k ft\nHigh: >20k ft",
   "aerospace::ch19::20": "Stratus (NOT INC.)\nCirrus\n\nMORE",
   "aerospace::ch19::21": "Cumulonimbus\nBuilding cumulus",
-  "aerospace::ch19::22": "Light"
+  "aerospace::ch19::22": "Light\n\nONLY ONE OF THEM"
  },
  "edits": {}
 }
