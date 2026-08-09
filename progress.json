@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786316059622,
+ "updatedAt": 1786316067211,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1615,7 +1615,8 @@
   "aerospace::ch21::36": "mastered",
   "aerospace::ch21::37": "mastered",
   "aerospace::ch21::38": "mastered",
-  "aerospace::ch21::39": "mastered"
+  "aerospace::ch21::39": "mastered",
+  "aerospace::ch21::40": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2229,7 +2230,7 @@
   "aerospace::ch21::37": "IS:\nComputer\nInertial system\nStar-tracking\n\nMASTERED, IDENTIFIED WHICH 'IS'",
   "aerospace::ch21::38": "Streamlined, strong",
   "aerospace::ch21::39": "Brain: Guidance\nExecutes: Control",
-  "aerospace::ch21::40": "Centrifugal"
+  "aerospace::ch21::40": "Centrifugal force"
  },
  "edits": {}
 }
