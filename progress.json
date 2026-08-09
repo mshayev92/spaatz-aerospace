@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786243580362,
+ "updatedAt": 1786243588906,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2084,7 +2084,8 @@
   "aerospace::ch18::51": "The average energy of moving particles in a substance",
   "aerospace::ch19::0": "About to or can produce precipitation",
   "aerospace::ch19::1": "Parallel slope and spin on that parallel axis",
-  "aerospace::ch19::2": "Change in speed and direction"
+  "aerospace::ch19::2": "Change in speed and direction",
+  "aerospace::ch19::3": "Low\nMedium\nHigh\nExtreme"
  },
  "edits": {}
 }
