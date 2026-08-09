@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786242161305,
+ "updatedAt": 1786242164420,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2065,7 +2065,7 @@
   "aerospace::ch18::42": "Radiation\n\nNOT WHAT ASKED FOR",
   "aerospace::ch18::43": "Thin streams of air (like rivers)\n150-300 mph\n\nELABORATE",
   "aerospace::ch18::44": "When it reaches its boiling point\n\nNOT WHAT ASKED FOR",
-  "aerospace::ch18::45": "How tightly particles are packed toge"
+  "aerospace::ch18::45": "How tightly particles are packed together"
  },
  "edits": {}
 }
