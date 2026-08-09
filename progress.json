@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786315444702,
+ "updatedAt": 1786315465352,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1594,7 +1594,8 @@
   "aerospace::ch21::15": "mastered",
   "aerospace::ch21::16": "general",
   "aerospace::ch21::17": "mastered",
-  "aerospace::ch21::18": "mastered"
+  "aerospace::ch21::18": "mastered",
+  "aerospace::ch21::19": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2188,7 +2189,7 @@
   "aerospace::ch21::15": "Equal and opposite",
   "aerospace::ch21::17": "Mixing the fuel and oxidizer and heating it to produce hot gasses",
   "aerospace::ch21::18": "External heating source to heat solid propellant",
-  "aerospace::ch21::19": "Uses electricity and magnetism to create thrust in small amounts"
+  "aerospace::ch21::19": "Uses electricity and magnetism to create thrust in small amounts\n\nALMOST"
  },
  "edits": {}
 }
