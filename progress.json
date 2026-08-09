@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786242672908,
+ "updatedAt": 1786242676217,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2069,7 +2069,7 @@
   "aerospace::ch18::44": "When it reaches its boiling point\n\nNOT WHAT ASKED FOR",
   "aerospace::ch18::45": "How tightly particles are packed together\n\nNOT THE DEF IT WANTS",
   "aerospace::ch18::46": "W/o it, there would be no condensation or precipitation\nCondensation nuclei",
-  "aerospace::ch18::47": "Increases\n10-"
+  "aerospace::ch18::47": "Increases\n10-30 mi"
  },
  "edits": {}
 }
