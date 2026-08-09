@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786243252319,
+ "updatedAt": 1786243278725,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1533,7 +1533,9 @@
   "aerospace::ch18::44": "review",
   "aerospace::ch18::45": "general",
   "aerospace::ch18::46": "mastered",
-  "aerospace::ch18::47": "mastered"
+  "aerospace::ch18::47": "mastered",
+  "aerospace::ch18::48": "general",
+  "aerospace::ch18::49": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2071,7 +2073,8 @@
   "aerospace::ch18::45": "How tightly particles are packed together\n\nNOT THE DEF IT WANTS",
   "aerospace::ch18::46": "W/o it, there would be no condensation or precipitation\nCondensation nuclei",
   "aerospace::ch18::47": "Increases\n10-30 mi",
-  "aerospace::ch18::48": "Air particles pushing down"
+  "aerospace::ch18::48": "Air particles pushing down\n\nONE WORD TO DESCRIBE?",
+  "aerospace::ch18::49": "Amount of material in an object"
  },
  "edits": {}
 }
