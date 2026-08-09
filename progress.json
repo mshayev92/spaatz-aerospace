@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786307264716,
+ "updatedAt": 1786307306570,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1546,7 +1546,8 @@
   "aerospace::ch19::5": "mastered",
   "aerospace::ch19::6": "general",
   "aerospace::ch19::7": "review",
-  "aerospace::ch19::8": "general"
+  "aerospace::ch19::8": "general",
+  "aerospace::ch19::10": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2098,7 +2099,7 @@
   "aerospace::ch19::7": "Cumulus\nStratus\nStratocumulus\n...\n\nMORE, GIVING RANGE",
   "aerospace::ch19::8": "Altostratus\nAltocumulus\n...\n\nONE MORE, AND GIVE RANGE",
   "aerospace::ch19::9": "Layered\n\nNOT WHAT ASKED FOR\n\nLow to no turbulence, smooth",
-  "aerospace::ch19::10": "ASKING FOR COMPOSITION"
+  "aerospace::ch19::10": "ASKING FOR COMPOSITION\n\nThin, ice crystals"
  },
  "edits": {}
 }
