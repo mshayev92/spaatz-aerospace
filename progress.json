@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786316366114,
+ "updatedAt": 1786316376724,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2242,7 +2242,8 @@
   "aerospace::ch21::42": "Liquid and solid",
   "aerospace::ch21::45": "1. Inertial: senses motion\n2. Command: human operator\n3. Homing: heat and light\n4. Beam: pointed at target",
   "aerospace::ch21::46": "Decrease engine weight\nMake engine more powerful\n\nTHINKING OF SOMETHING ELSE",
-  "aerospace::ch21::47": "Causes motion"
+  "aerospace::ch21::47": "Causes motion",
+  "aerospace::ch21::48": "First calculations for"
  },
  "edits": {}
 }
