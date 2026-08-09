@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786315853489,
+ "updatedAt": 1786315921134,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2216,7 +2216,8 @@
   "aerospace::ch21::29": "William Congreve",
   "aerospace::ch21::30": "William Hale",
   "aerospace::ch21::31": "Russian scientist\n\nGIVE NAME",
-  "aerospace::ch21::33": "Dr. Oberth"
+  "aerospace::ch21::33": "Dr. Oberth",
+  "aerospace::ch21::34": "Force: causes motion\nVelocity: rate at which object moves\nAcceleration: force applied over time\nMomentum: p=mv"
  },
  "edits": {}
 }
