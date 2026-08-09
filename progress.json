@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786243921040,
+ "updatedAt": 1786243928371,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2089,7 +2089,7 @@
   "aerospace::ch19::2": "Change in speed and direction",
   "aerospace::ch19::3": "Low\nMedium\nHigh\nExtreme",
   "aerospace::ch19::4": "Polar: cold\nTropical: hot\nMaritime: humid\nContinental: dry",
-  "aerospace::ch19::5": "Warm air in between two cold air masses"
+  "aerospace::ch19::5": "Warm air in between two cold air masses, which is pushed up"
  },
  "edits": {}
 }
