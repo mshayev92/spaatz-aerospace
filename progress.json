@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786307801269,
+ "updatedAt": 1786307809024,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2119,7 +2119,7 @@
   "aerospace::ch19::17": "Cirrus\nStratus\nCumulus\n\nClassified by height and precipitation\n(alto, ciro, nimbo)",
   "aerospace::ch19::18": "Low: 300-6500 ft\nMid: 6500-20k ft\nHigh: >20k ft",
   "aerospace::ch19::20": "Stratus (NOT INC.)\nCirrus\n\nMORE",
-  "aerospace::ch19::21": "Nimbocumulus\nBuilding cumulus"
+  "aerospace::ch19::21": "Cumulonimbus\nBuilding cumulus"
  },
  "edits": {}
 }
