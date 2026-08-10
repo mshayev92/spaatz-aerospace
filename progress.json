@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786323146699,
+ "updatedAt": 1786323157409,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2328,7 +2328,7 @@
   "aerospace::ch24::14": "Sphere of color, spicules",
   "aerospace::ch24::15": "Crown, extends all around, thin white light\n",
   "aerospace::ch24::16": "Cooler than the surrounding hot plasma\n\nON WHAT LAYER?",
-  "aerospace::ch24::17": "Like filaments, but a visible extension from the corona"
+  "aerospace::ch24::17": "Like filaments, but a visible extension from the corona\n\n"
  },
  "edits": {}
 }
