@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786320869488,
+ "updatedAt": 1786320874824,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2262,7 +2262,8 @@
   "aerospace::ch23::21": "East (following Earth's rotation)\nHow much: ?\n\nADD NUMBER",
   "aerospace::ch23::22": "Break circular orbit\n\nWRONG",
   "aerospace::ch23::23": "Decrease velocity\n\nELABORATE",
-  "aerospace::ch23::24": "Less subject to Earth's gravity"
+  "aerospace::ch23::24": "Less subject to Earth's gravity",
+  "aerospace::ch23::25": "Orbit"
  },
  "edits": {}
 }
