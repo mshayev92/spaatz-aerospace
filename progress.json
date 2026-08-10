@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786323054551,
+ "updatedAt": 1786323071799,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2324,7 +2324,7 @@
   "aerospace::ch24::12": "11 yr sunspot cycle\n24 year orbit (NOT ORBIT, WRONG #)\n\nONE WRONG",
   "aerospace::ch24::13": "Bottom-most layer (out of 3)\nGives the sun's light",
   "aerospace::ch24::14": "Sphere of color, spicules",
-  "aerospace::ch24::15": "Crown, extends all around\n"
+  "aerospace::ch24::15": "Crown, extends all around, thin white light\n"
  },
  "edits": {}
 }
