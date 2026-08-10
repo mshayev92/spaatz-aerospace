@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786332896224,
+ "updatedAt": 1786332943468,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1748,7 +1748,8 @@
   "aerospace::ch25::38": "review",
   "aerospace::ch25::39": "review",
   "aerospace::ch25::40": "review",
-  "aerospace::ch25::41": "review"
+  "aerospace::ch25::41": "review",
+  "aerospace::ch25::42": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2480,7 +2481,7 @@
   "aerospace::ch25::39": "Rings\n10 hour rotation\nSecond biggest\n\nMORE INFO",
   "aerospace::ch25::40": "Windiest planet\nMade of methane and other gases\nOne moon has its own atmosphere\n\nOTHER DATA",
   "aerospace::ch25::41": "Used to be planet, now dwarf\nNew Horizons explored it\nKuiper Belt lies beyond it\n\nMORE INFO",
-  "aerospace::ch25::42": "Dwarf w/ moon"
+  "aerospace::ch25::42": "Dwarf w/ moon\n\nYES, BUT NOT HIGHLIGHT"
  },
  "edits": {}
 }
