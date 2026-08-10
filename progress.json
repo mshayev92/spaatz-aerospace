@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786324856181,
+ "updatedAt": 1786324879033,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2353,7 +2353,7 @@
   "aerospace::ch24::27": "ASKING FOR SAFE, UNSAFE LEVELS",
   "aerospace::ch24::28": "Corona",
   "aerospace::ch24::29": "Sun spots",
-  "aerospace::ch24::30": "Filaments and Prominces"
+  "aerospace::ch24::30": "Filaments and prominences\n\nWRONG"
  },
  "edits": {}
 }
