@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786400180385,
+ "updatedAt": 1786400211117,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1671,7 +1671,7 @@
   "aerospace::ch24::16": "mastered",
   "aerospace::ch24::17": "general",
   "aerospace::ch24::18": "general",
-  "aerospace::ch24::19": "general",
+  "aerospace::ch24::19": "review",
   "aerospace::ch24::20": "review",
   "aerospace::ch24::21": "general",
   "aerospace::ch24::22": "mastered",
@@ -2521,8 +2521,7 @@
   "aerospace::ch24::6": "Solar disturbance at the poles\nBorealis (N) and Australis (S)",
   "aerospace::ch24::16": "Cooler than surrounding plasma\nOn photosphere",
   "aerospace::ch24::17": "Bright against dark background\nExtend from corona\n\nELABORATE",
-  "aerospace::ch24::18": "Like prominences, but against solar disk\n\nDARKER/LIGHTER?",
-  "aerospace::ch24::19": "Non-cyclic emission of charged particles that travel through interplanetary space"
+  "aerospace::ch24::18": "Like prominences, but against solar disk\n\nDARKER/LIGHTER?"
  },
  "edits": {}
 }
