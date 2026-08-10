@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786397580613,
+ "updatedAt": 1786397585337,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2485,7 +2485,7 @@
   "aerospace::ch9::22": "Close approach, to land\nCenterline, glide slope",
   "aerospace::ch9::33": "Prohibited and restricted",
   "aerospace::ch9::43": "Coordinates\nLetters top, number side",
-  "aerospace::ch9::61": "Not always shared"
+  "aerospace::ch9::61": "Not always shared\nMilitary name appears abov"
  },
  "edits": {}
 }
