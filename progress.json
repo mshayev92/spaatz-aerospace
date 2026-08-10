@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786393025457,
+ "updatedAt": 1786393043483,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2458,7 +2458,7 @@
   "aerospace::ch4::19": "CAA War Training Service\nMore pilots",
   "aerospace::ch4::22": "Germany",
   "aerospace::ch4::29": "Air battles against Japan, US won",
-  "aerospace::ch4::32": "Hiroshima - August 10, 1945\nNagasaki - August 13, 1945\n"
+  "aerospace::ch4::32": "Hiroshima - August 10, 1945\nNagasaki - August 13, 1945\n\nFIX DATES, WHEN SURRENDER?"
  },
  "edits": {}
 }
