@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786383060454,
+ "updatedAt": 1786383065178,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2538,7 +2538,7 @@
   "aerospace::ch26::4": "Artifical horizon (gyro)",
   "aerospace::ch26::6": "Atmosphere research with modified V-2 rocket (T-1)\nICBMs\nSputnik, we launched Explorer 1",
   "aerospace::ch26::7": "1. Freedom of use\n2. Non-attribution\n3. Common benefit\n\nALMOST, FIX 2.",
-  "aerospace::ch26::8": "3 space principles in written form\nClarified emergencies and military"
+  "aerospace::ch26::8": "3 space principles in written form\nClarified emergencies and military use (allowed)"
  },
  "edits": {}
 }
