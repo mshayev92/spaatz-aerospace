@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389703326,
+ "updatedAt": 1786389710148,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2712,7 +2712,7 @@
   "aerospace::ch27::5": "Second program\nTwo-person capsule\nFirst space walk\nDocking\nPrepare for Apollo",
   "aerospace::ch27::6": "First space station (Soviet)",
   "aerospace::ch27::7": "After Salyut\n\nDATE?",
-  "aerospace::ch27::8": "Expendable vs. Reusable\nAtlas, Delta, etc."
+  "aerospace::ch27::8": "Expendable vs. Reusable\nAtlas, Delta, etc.\nSpace Shuttle"
  },
  "edits": {}
 }
