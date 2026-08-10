@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387974464,
+ "updatedAt": 1786387992516,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2618,7 +2618,7 @@
   "aerospace::ch26::46": "Solar and Heliospheric Observatory\n\nGIVE DATE",
   "aerospace::ch26::47": "Studied electromagnetic\n\nNOT WHAT ASKED FOR",
   "aerospace::ch26::48": "Freedom of use (1958)",
-  "aerospace::ch26::49": "Combined orbiter "
+  "aerospace::ch26::49": "Combined orbiter and lander\n"
  },
  "edits": {}
 }
