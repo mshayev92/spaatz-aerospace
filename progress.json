@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389404075,
+ "updatedAt": 1786389430770,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2699,7 +2699,8 @@
   "aerospace::ch26::89": "Studied atmosphere with captured V-2 scientists\nArmy: Redstone\nNavy: ?\nAir Force: ICBMs, Atlas\n\nGIVE NAVY",
   "aerospace::ch26::90": "PPS within 30 meters\n\nWRONG",
   "aerospace::ch27::0": "Est. int. communications principles\n\nORG OF WHAT?",
-  "aerospace::ch27::1": "Not all wavelengths usable for uplink/downlink\nScintillation\nSolar Ionospheric Disturbances\n\nALMOST"
+  "aerospace::ch27::1": "Not all wavelengths usable for uplink/downlink\nScintillation\nSolar Ionospheric Disturbances\n\nALMOST",
+  "aerospace::ch27::2": "Media\nTV\n"
  },
  "edits": {}
 }
