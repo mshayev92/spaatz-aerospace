@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786390146143,
+ "updatedAt": 1786390154423,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2734,7 +2734,7 @@
   "aerospace::ch27::17": "First: Tereshkova\nFirst American: Ride",
   "aerospace::ch27::18": "November 21, 1969\nArmstrong then Aldrin\n\nFIX DATE",
   "aerospace::ch27::19": "US and USSR docked, did experiments\nDate: ?\n\nGIVE DATE",
-  "aerospace::ch27::20": "Space Transportation System\n"
+  "aerospace::ch27::20": "Space Transportation System\nComponents: "
  },
  "edits": {}
 }
