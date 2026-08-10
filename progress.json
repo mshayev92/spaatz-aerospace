@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387040774,
+ "updatedAt": 1786387064477,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2569,7 +2569,8 @@
   "aerospace::ch26::20": "LANDSAT\n\nBUT WHAT ARE THEY?\n",
   "aerospace::ch26::21": "1: Discovered Van Allen belts\n3: Radiation\n6: View of Earth",
   "aerospace::ch26::22": "Studied sun",
-  "aerospace::ch26::23": "Gave more info about universe\nConfirmed hydrogen clouds around comets\n\nELABORATE"
+  "aerospace::ch26::23": "Gave more info about universe\nConfirmed hydrogen clouds around comets\n\nELABORATE",
+  "aerospace::ch26::24": "Studied far end of electromagnetic spectrum"
  },
  "edits": {}
 }
