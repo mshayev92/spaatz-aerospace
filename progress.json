@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786324942880,
+ "updatedAt": 1786324948563,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1683,7 +1683,8 @@
   "aerospace::ch24::28": "mastered",
   "aerospace::ch24::29": "mastered",
   "aerospace::ch24::30": "review",
-  "aerospace::ch24::31": "mastered"
+  "aerospace::ch24::31": "mastered",
+  "aerospace::ch24::32": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2357,7 +2358,7 @@
   "aerospace::ch24::29": "Sun spots",
   "aerospace::ch24::30": "Filaments and prominences\n\nWRONG",
   "aerospace::ch24::31": "Solar flares",
-  "aerospace::ch24::32": "S"
+  "aerospace::ch24::32": "Solar winds"
  },
  "edits": {}
 }
