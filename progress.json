@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786325449923,
+ "updatedAt": 1786325452925,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2382,7 +2382,7 @@
   "aerospace::ch24::42": "8 minutes",
   "aerospace::ch24::43": "50 miles\nKarmann line: 62 miles",
   "aerospace::ch24::44": "Begin: ?\nExtends: Blends with exosphere\n\nWRONG",
-  "aerospace::ch24::45": "Shape: two crescents, caving down at the poles\nStructure: charged particles\nThreat: radiation (10-20 instead of 0.3 per hour"
+  "aerospace::ch24::45": "Shape: two crescents, caving down at the poles\nStructure: charged particles\nThreat: radiation (10-20 instead of 0.3 per hour)"
  },
  "edits": {}
 }
