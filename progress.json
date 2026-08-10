@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786383253563,
+ "updatedAt": 1786383268713,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2545,7 +2545,8 @@
   "aerospace::ch26::8": "3 space principles in written form\nClarified emergencies and military use (allowed)",
   "aerospace::ch26::9": "US and USSR could not develop Anti-Ballistic Missile Systems\nSatellites for monitoring other nations for treaty compliance banned (THAT IS NOT WHAT SANCTIONED MEANS)\n\nFIX",
   "aerospace::ch26::10": "Private companies could launch vehicles but need permit/license\nNASA and military would help",
-  "aerospace::ch26::11": "Observation\nScientific\nNavigation\nCommunication"
+  "aerospace::ch26::11": "Observation\nScientific\nNavigation\nCommunication",
+  "aerospace::ch26::12": "Organization with around 150 geostationary satellites that provide communication network"
  },
  "edits": {}
 }
