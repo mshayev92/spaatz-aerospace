@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786403263658,
+ "updatedAt": 1786403276755,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2537,7 +2537,8 @@
   "aerospace::ch26::23": "Give more info on universe\nExplore various wavelengths\nConfirmed hydrogen clouds around comets",
   "aerospace::ch26::28": "Earth as one environmental system\nData via satellites, Space Shuttle\nFirst integrated measurements of Earth systems",
   "aerospace::ch26::34": "Find life\nTemp, water",
-  "aerospace::ch26::37": "Entered orbit\nSurface, atmosphere, magnetic field, gravity (?)"
+  "aerospace::ch26::37": "Entered orbit\nSurface, atmosphere, magnetic field, gravity (?)",
+  "aerospace::ch26::39": "Int. venture led by ESA\nSaturn"
  },
  "edits": {}
 }
