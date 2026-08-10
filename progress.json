@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786402778918,
+ "updatedAt": 1786402798172,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2528,7 +2528,8 @@
   "aerospace::ch25::12": "Hot air = more energy\nDecreases as altitude increases\n\nGIVE DECREASE STAT",
   "aerospace::ch25::16": "Expendable launch vehicle\nFrom Titan II ICBM\nMost powerful, only one more is Saturn V\n",
   "aerospace::ch25::18": "WW1\nFrench squadron w/ American volunteers",
-  "aerospace::ch25::26": "Four distinct cloud and haze layers"
+  "aerospace::ch25::26": "Four distinct cloud and haze layers",
+  "aerospace::ch26::1": "Russian joined in 1993\nUS, ESA, Japan, Canada\n"
  },
  "edits": {}
 }
