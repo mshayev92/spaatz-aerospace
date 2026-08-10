@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389591735,
+ "updatedAt": 1786389598130,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1867,7 +1867,8 @@
   "aerospace::ch27::0": "general",
   "aerospace::ch27::1": "general",
   "aerospace::ch27::2": "review",
-  "aerospace::ch27::3": "mastered"
+  "aerospace::ch27::3": "mastered",
+  "aerospace::ch27::4": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2704,7 +2705,7 @@
   "aerospace::ch27::1": "Not all wavelengths usable for uplink/downlink\nScintillation\nSolar Ionospheric Disturbances\n\nALMOST",
   "aerospace::ch27::2": "Media\nTV\n\nELABORATE",
   "aerospace::ch27::3": "For military, connections with highest levels of government",
-  "aerospace::ch27::4": "First\nEffects of space on human body\n"
+  "aerospace::ch27::4": "First\nEffects of space on human body"
  },
  "edits": {}
 }
