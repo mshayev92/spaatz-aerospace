@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786399283675,
+ "updatedAt": 1786399309722,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2504,7 +2504,7 @@
   "aerospace::ch18::48": "Air molecules pressing down on those below them",
   "aerospace::ch19::3": "Low: items dislodge\nMid: thrown against seatbelt\nHigh: hard to control plane\nExtreme: close to impossible",
   "aerospace::ch19::6": "Cirrus (high, thin)\nStratus (layered)\nCumulus (piled up)",
-  "aerospace::ch19::8": "Altostratus\nAltocumulus\n"
+  "aerospace::ch19::8": "Altostratus\nAltocumulus"
  },
  "edits": {}
 }
