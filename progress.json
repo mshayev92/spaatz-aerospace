@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786383191878,
+ "updatedAt": 1786383224903,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2541,7 +2541,8 @@
   "aerospace::ch26::6": "Atmosphere research with modified V-2 rocket (T-1)\nICBMs\nSputnik, we launched Explorer 1",
   "aerospace::ch26::7": "1. Freedom of use\n2. Non-attribution\n3. Common benefit\n\nALMOST, FIX 2.",
   "aerospace::ch26::8": "3 space principles in written form\nClarified emergencies and military use (allowed)",
-  "aerospace::ch26::9": "US and USSR could not develop Anti-Ballistic Missile Systems\nSatellites for monitoring other nations for treaty compliance banned (THAT IS NOT WHAT SANCTIONED MEANS)\n\nFIX"
+  "aerospace::ch26::9": "US and USSR could not develop Anti-Ballistic Missile Systems\nSatellites for monitoring other nations for treaty compliance banned (THAT IS NOT WHAT SANCTIONED MEANS)\n\nFIX",
+  "aerospace::ch26::10": "Private companies could launch vehicles but need permit/license\nNASA and military would help"
  },
  "edits": {}
 }
