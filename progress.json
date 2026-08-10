@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786393236370,
+ "updatedAt": 1786393271622,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2463,7 +2463,8 @@
   "aerospace::ch5::4": "Communist separatists",
   "aerospace::ch5::15": "Yeager; Date: ?\nX-2 study heating at Mach 3\n\nGIVE DATE",
   "aerospace::ch5::22": "Short to mid haul jet\nLater equipped with turboprop\n240, 340, 440 (58 seats)\n\nSTAT WRONG, BUT CLOSE ENOUGH",
-  "aerospace::ch5::23": "Replace B-47\n(Need longer range, bigger bomber)"
+  "aerospace::ch5::23": "Replace B-47\n(Need longer range, bigger bomber)",
+  "aerospace::ch5::29": "Transport during Tet Offensive"
  },
  "edits": {}
 }
