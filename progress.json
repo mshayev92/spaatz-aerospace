@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326557628,
+ "updatedAt": 1786326614995,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1722,7 +1722,8 @@
   "aerospace::ch25::12": "general",
   "aerospace::ch25::13": "general",
   "aerospace::ch25::14": "mastered",
-  "aerospace::ch25::15": "review"
+  "aerospace::ch25::15": "review",
+  "aerospace::ch25::16": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2432,7 +2433,8 @@
   "aerospace::ch25::13": "Decreases with altitude\n\nELABORATE",
   "aerospace::ch25::14": "Fluid's resistance to flow\n\nGOT WRONG TWICE ON ACTUAL TEST",
   "aerospace::ch25::15": "Explored Halley's Comet\n\nWRONG",
-  "aerospace::ch25::16": "Most powerful launch vehicle\nOnly one more powerful: Saturn V"
+  "aerospace::ch25::16": "Most powerful launch vehicle\nOnly one more powerful: Saturn V\n\nSTARTED AS? ELABORATE",
+  "aerospace::ch25::17": "NASA, up then down for passengers to experience free fall"
  },
  "edits": {}
 }
