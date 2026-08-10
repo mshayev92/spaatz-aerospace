@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786332474081,
+ "updatedAt": 1786332488089,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2466,7 +2466,8 @@
   "aerospace::ch25::30": "Earth's only natural satellite\n270 degrees\nOnly one side faces us always\n\nELABORATE",
   "aerospace::ch25::31": "KREEP cannot be found on Earth\nOlder than Earth\n\nGIVE OTHERS",
   "aerospace::ch25::32": "1/2 of Earth's gravity?\n\nATMOSPHERE?\n",
-  "aerospace::ch25::34": "Rover and stationary lander\nSojourner, studied rocks and soil\nPart of low-cost Discovery missions"
+  "aerospace::ch25::34": "Rover and stationary lander\nSojourner, studied rocks and soil\nPart of low-cost Discovery missions",
+  "aerospace::ch25::35": "Enter the orbit of Mars\n"
  },
  "edits": {}
 }
