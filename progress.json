@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326100008,
+ "updatedAt": 1786326108258,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1711,7 +1711,8 @@
   "aerospace::ch25::1": "mastered",
   "aerospace::ch25::2": "mastered",
   "aerospace::ch25::3": "mastered",
-  "aerospace::ch25::4": "mastered"
+  "aerospace::ch25::4": "mastered",
+  "aerospace::ch25::5": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2410,7 +2411,8 @@
   "aerospace::ch25::2": "Spiral galaxy (ours)",
   "aerospace::ch25::3": "Gravity makes round\nCleared neighborhood of other objects\nOrbits star",
   "aerospace::ch25::4": "Not big enough to be planets\nOrbit sun\nMain belt between Mars/Jupiter\nRocky and metallic object",
-  "aerospace::ch25::5": "Irregular object\nNucleus with ice, water, other gases\nVery elliptical orbit around sun\nWhen approaching, develops \"aura\"\n(e.g.: Halley's Comet)\n\nELABORATE"
+  "aerospace::ch25::5": "Irregular object\nNucleus with ice, water, other gases\nVery elliptical orbit around sun\nWhen approaching, develops \"aura\"\n(e.g.: Halley's Comet)\n\nELABORATE",
+  "aerospace::ch25::6": "Micro: "
  },
  "edits": {}
 }
