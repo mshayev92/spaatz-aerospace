@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786400095637,
+ "updatedAt": 1786400097773,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2520,7 +2520,7 @@
   "aerospace::ch24::3": "Pos or neg charge\nStar, sun",
   "aerospace::ch24::6": "Solar disturbance at the poles\nBorealis (N) and Australis (S)",
   "aerospace::ch24::16": "Cooler than surrounding plasma\nOn photosphere",
-  "aerospace::ch24::17": "Bright against dark background\nExtend from coro"
+  "aerospace::ch24::17": "Bright against dark background\nExtend from corona"
  },
  "edits": {}
 }
