@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387697234,
+ "updatedAt": 1786387701727,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2604,7 +2604,7 @@
   "aerospace::ch26::39": "Saturn, ESA\n\nMORE PARTNERS",
   "aerospace::ch26::40": "X-ray observatory",
   "aerospace::ch26::41": "Launch vehicle\nLift: ?\n\nGIVE SECOND",
-  "aerospace::ch26::42": "First pressurized hull\n...\n\nASKING OR"
+  "aerospace::ch26::42": "First pressurized hull\n...\n\nASKING FOR OTHERS"
  },
  "edits": {}
 }
