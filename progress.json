@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786332859331,
+ "updatedAt": 1786332873566,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2478,7 +2478,7 @@
   "aerospace::ch25::38": "5 miles from\n16 total?\n3 discovered by ...\nMade of rocky objects and ice\n\nCOMP RIGHT; FIX OTHER DATA",
   "aerospace::ch25::39": "Rings\n10 hour rotation\nSecond biggest\n\nMORE INFO",
   "aerospace::ch25::40": "Windiest planet\nMade of methane and other gases\nOne moon has its own atmosphere\n\nOTHER DATA",
-  "aerospace::ch25::41": "Used to be planet, now dwarf\nNew Horizons explored it\nKuiper Belt lies beyond it"
+  "aerospace::ch25::41": "Used to be planet, now dwarf\nNew Horizons explored it\nKuiper Belt lies beyond it\n\n"
  },
  "edits": {}
 }
