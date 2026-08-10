@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392567471,
+ "updatedAt": 1786392578182,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2449,7 +2449,7 @@
   "aerospace::ch2::36": "Take-off and land on deck of ship\n\nIGNORED WHERE, UNIMPORTANT",
   "aerospace::ch3::1": "Date: ?\n37 hours\n\nGIVE DATE",
   "aerospace::ch3::4": "Air Mail Act of 1930\nPay acc. to available cargo space\nPG could combine or extend routes\nDC-3 (no accidents)",
-  "aerospace::ch3::5": "Lindenbrudh "
+  "aerospace::ch3::5": "Lindenbruh\n"
  },
  "edits": {}
 }
