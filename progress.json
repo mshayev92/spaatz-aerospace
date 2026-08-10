@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786322965274,
+ "updatedAt": 1786322975376,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1663,7 +1663,8 @@
   "aerospace::ch24::8": "mastered",
   "aerospace::ch24::9": "mastered",
   "aerospace::ch24::10": "review",
-  "aerospace::ch24::11": "mastered"
+  "aerospace::ch24::11": "mastered",
+  "aerospace::ch24::12": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2318,7 +2319,7 @@
   "aerospace::ch24::9": "The space between galaxies",
   "aerospace::ch24::10": "1. View of Earth from space\n2. ?\n3. Abundant resources\n4. Make resources unavailable on Earth\n\nGIVE 2.",
   "aerospace::ch24::11": "864,000 mi diameter\n>100x more than Earth\nMost gravity in solar system",
-  "aerospace::ch24::12": "11 yr sunspot cycle\n24 year orbit (NOT ORBIT, WRONG #)\n\nWRONG"
+  "aerospace::ch24::12": "11 yr sunspot cycle\n24 year orbit (NOT ORBIT, WRONG #)\n\nONE WRONG"
  },
  "edits": {}
 }
