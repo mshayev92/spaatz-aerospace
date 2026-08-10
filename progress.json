@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786402666025,
+ "updatedAt": 1786402680829,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1733,7 +1733,7 @@
   "aerospace::ch25::23": "mastered",
   "aerospace::ch25::24": "review",
   "aerospace::ch25::25": "review",
-  "aerospace::ch25::26": "general",
+  "aerospace::ch25::26": "mastered",
   "aerospace::ch25::27": "mastered",
   "aerospace::ch25::28": "mastered",
   "aerospace::ch25::29": "mastered",
@@ -2527,7 +2527,8 @@
   "aerospace::ch25::7": "Unstable star\nFlares and subsides",
   "aerospace::ch25::12": "Hot air = more energy\nDecreases as altitude increases\n\nGIVE DECREASE STAT",
   "aerospace::ch25::16": "Expendable launch vehicle\nFrom Titan II ICBM\nMost powerful, only one more is Saturn V\n",
-  "aerospace::ch25::18": "WW1\nFrench squadron w/ American volunteers"
+  "aerospace::ch25::18": "WW1\nFrench squadron w/ American volunteers",
+  "aerospace::ch25::26": "Four distinct cloud and haze layers"
  },
  "edits": {}
 }
