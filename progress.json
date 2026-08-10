@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786325217413,
+ "updatedAt": 1786325227425,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2377,7 +2377,8 @@
   "aerospace::ch24::39": "Diameter: 864k miles (>100x greater)\nMagnetic field: About 100x stronger",
   "aerospace::ch24::40": "27 days",
   "aerospace::ch24::41": "11 years",
-  "aerospace::ch24::42": "8 minutes"
+  "aerospace::ch24::42": "8 minutes",
+  "aerospace::ch24::43": "50 miles\nKarmann line: 62 miles"
  },
  "edits": {}
 }
