@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786320878024,
+ "updatedAt": 1786320887898,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1635,7 +1635,8 @@
   "aerospace::ch23::22": "review",
   "aerospace::ch23::23": "general",
   "aerospace::ch23::24": "mastered",
-  "aerospace::ch23::25": "mastered"
+  "aerospace::ch23::25": "mastered",
+  "aerospace::ch23::26": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2264,7 +2265,8 @@
   "aerospace::ch23::22": "Break circular orbit\n\nWRONG",
   "aerospace::ch23::23": "Decrease velocity\n\nELABORATE",
   "aerospace::ch23::24": "Less subject to Earth's gravity",
-  "aerospace::ch23::25": "Orbit"
+  "aerospace::ch23::25": "Orbit",
+  "aerospace::ch23::26": "Equatorial orbit"
  },
  "edits": {}
 }
