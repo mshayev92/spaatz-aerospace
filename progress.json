@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786321022182,
+ "updatedAt": 1786321036577,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1640,7 +1640,8 @@
   "aerospace::ch23::27": "mastered",
   "aerospace::ch23::28": "mastered",
   "aerospace::ch23::29": "mastered",
-  "aerospace::ch23::30": "mastered"
+  "aerospace::ch23::30": "mastered",
+  "aerospace::ch23::32": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2275,7 +2276,7 @@
   "aerospace::ch23::28": "Escape trajectory",
   "aerospace::ch23::29": "Polar orbit",
   "aerospace::ch23::30": "Low-energy transfer",
-  "aerospace::ch23::32": "Latter uses less fuel but is slower"
+  "aerospace::ch23::32": "Latter uses less fuel but is slower\n\nONE MORE DETAIL"
  },
  "edits": {}
 }
