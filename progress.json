@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392453299,
+ "updatedAt": 1786392468310,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2446,7 +2446,7 @@
   "aerospace::ch2::5": "Interrupting gear - Fokker\nAuto rifle - Garros",
   "aerospace::ch2::13": "Land-speed record - fastest man on Earth\nAerial Experimentation Ass.\n(ailerons and first seaplane)\n\nGIVE SPECIFIC NUMBER",
   "aerospace::ch2::30": "Nationality: ?\nContribution: interrupting gear",
-  "aerospace::ch2::36": "Take-off and land on deck of ship",
+  "aerospace::ch2::36": "Take-off and land on deck of ship\n\nIGNORED WHERE, UNIMPORTANT",
   "aerospace::ch3::1": "Date: ?\n37 hours\n\nGIVE DATE"
  },
  "edits": {}
