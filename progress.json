@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786388240669,
+ "updatedAt": 1786388256844,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2636,7 +2636,7 @@
   "aerospace::ch26::56": "Pioneers",
   "aerospace::ch26::57": "Voyager",
   "aerospace::ch26::58": "Giotto",
-  "aerospace::ch26::59": "Mars "
+  "aerospace::ch26::59": "Mars Global Surveyor"
  },
  "edits": {}
 }
