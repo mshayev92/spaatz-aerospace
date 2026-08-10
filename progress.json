@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786399152592,
+ "updatedAt": 1786399175157,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2502,7 +2502,7 @@
   "aerospace::ch18::43": "Thin currents of air\n150-300 mph\nChange depending on the season, etc.\n\nALTITUDE?",
   "aerospace::ch18::45": "How tightly particles are packed together",
   "aerospace::ch18::48": "Air molecules pressing down on those below them",
-  "aerospace::ch19::3": "Low: \nMid\nHigh\nExtreme"
+  "aerospace::ch19::3": "Low: items dislodge\nMid: thrown against seatbelt\nHigh: hard to control plane\nExtreme: close to impossible"
  },
  "edits": {}
 }
