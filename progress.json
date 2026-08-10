@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786402926851,
+ "updatedAt": 1786402933971,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1779,7 +1779,7 @@
   "aerospace::ch26::4": "mastered",
   "aerospace::ch26::5": "review",
   "aerospace::ch26::6": "mastered",
-  "aerospace::ch26::7": "general",
+  "aerospace::ch26::7": "mastered",
   "aerospace::ch26::8": "mastered",
   "aerospace::ch26::9": "general",
   "aerospace::ch26::10": "mastered",
@@ -2530,7 +2530,8 @@
   "aerospace::ch25::18": "WW1\nFrench squadron w/ American volunteers",
   "aerospace::ch25::26": "Four distinct cloud and haze layers",
   "aerospace::ch26::1": "Russian joined in 1993\nUS (resource management), ESA, Japan, Canada\n\nJoint use\nAttribution\nMilitary involvement",
-  "aerospace::ch26::7": "Freedom of use\nNon-appropriation\nCommon interest"
+  "aerospace::ch26::7": "Freedom of use\nNon-appropriation\nCommon interest",
+  "aerospace::ch26::9": "Ant"
  },
  "edits": {}
 }
