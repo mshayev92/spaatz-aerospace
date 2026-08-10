@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786323084833,
+ "updatedAt": 1786323113701,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1667,7 +1667,8 @@
   "aerospace::ch24::12": "review",
   "aerospace::ch24::13": "mastered",
   "aerospace::ch24::14": "mastered",
-  "aerospace::ch24::15": "mastered"
+  "aerospace::ch24::15": "mastered",
+  "aerospace::ch24::16": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2326,7 +2327,7 @@
   "aerospace::ch24::13": "Bottom-most layer (out of 3)\nGives the sun's light",
   "aerospace::ch24::14": "Sphere of color, spicules",
   "aerospace::ch24::15": "Crown, extends all around, thin white light\n",
-  "aerospace::ch24::16": "Cooler than the surrounding hot plasma"
+  "aerospace::ch24::16": "Cooler than the surrounding hot plasma\n\nON WHAT LAYER?"
  },
  "edits": {}
 }
