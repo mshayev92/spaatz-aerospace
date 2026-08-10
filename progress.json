@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786388223282,
+ "updatedAt": 1786388232966,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1829,7 +1829,8 @@
   "aerospace::ch26::54": "review",
   "aerospace::ch26::55": "mastered",
   "aerospace::ch26::56": "mastered",
-  "aerospace::ch26::57": "mastered"
+  "aerospace::ch26::57": "mastered",
+  "aerospace::ch26::58": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2633,7 +2634,8 @@
   "aerospace::ch26::53": "Took pics to make map\n\nWRONG",
   "aerospace::ch26::55": "Mariners",
   "aerospace::ch26::56": "Pioneers",
-  "aerospace::ch26::57": "Voyager"
+  "aerospace::ch26::57": "Voyager",
+  "aerospace::ch26::58": "Giotto"
  },
  "edits": {}
 }
