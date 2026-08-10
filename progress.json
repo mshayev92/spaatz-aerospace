@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786388761501,
+ "updatedAt": 1786388770601,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2667,7 +2667,7 @@
   "aerospace::ch26::70": "SOHO\n\nWRONG",
   "aerospace::ch26::71": "Earth Orbiting System\n\nFIX NAME",
   "aerospace::ch26::74": "Defense Meteorological Satellite Program\nMilitary",
-  "aerospace::ch26::76": "Active: "
+  "aerospace::ch26::76": "Active: send signals to ground stations\nPassive: simply relay signals"
  },
  "edits": {}
 }
