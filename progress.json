@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786320795875,
+ "updatedAt": 1786320807023,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1631,7 +1631,8 @@
   "aerospace::ch23::18": "mastered",
   "aerospace::ch23::19": "general",
   "aerospace::ch23::20": "general",
-  "aerospace::ch23::21": "general"
+  "aerospace::ch23::21": "general",
+  "aerospace::ch23::22": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2257,7 +2258,7 @@
   "aerospace::ch23::19": "Low energy transfer\n\nYES, BUT REVIEW PROCESS",
   "aerospace::ch23::20": "Uses more fuel, less time to get to destination\n\nYES, BUT REVIEW PROCESS",
   "aerospace::ch23::21": "East (following Earth's rotation)\nHow much: ?\n\nADD NUMBER",
-  "aerospace::ch23::22": "Break circular orbit"
+  "aerospace::ch23::22": "Break circular orbit\n\nWRONG"
  },
  "edits": {}
 }
