@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392653413,
+ "updatedAt": 1786392663253,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2452,7 +2452,8 @@
   "aerospace::ch3::6": "Decreased by 85%",
   "aerospace::ch3::9": "1923\nFirst nonstop cross country",
   "aerospace::ch3::39": "Pylon\nYear: ?",
-  "aerospace::ch3::40": "Transcontinental speed\nYear: ?"
+  "aerospace::ch3::40": "Transcontinental speed\nYear: ?",
+  "aerospace::ch3::45": "Sikorsky S-4\n"
  },
  "edits": {}
 }
