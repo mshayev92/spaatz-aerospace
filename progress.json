@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387874100,
+ "updatedAt": 1786387884940,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1818,7 +1818,8 @@
   "aerospace::ch26::43": "mastered",
   "aerospace::ch26::44": "mastered",
   "aerospace::ch26::45": "mastered",
-  "aerospace::ch26::46": "general"
+  "aerospace::ch26::46": "general",
+  "aerospace::ch26::47": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2614,7 +2615,7 @@
   "aerospace::ch26::44": "Launched in response to Sputnik\nJanuary 31, 1958",
   "aerospace::ch26::45": "Specialized Japanese Navy fighter\nMade in the Japanese year 2600 (Zero)",
   "aerospace::ch26::46": "Solar and Heliospheric Observatory\n\nGIVE DATE",
-  "aerospace::ch26::47": "Studied electromagnetic"
+  "aerospace::ch26::47": "Studied electromagnetic\n\nNOT WHAT ASKED FOR"
  },
  "edits": {}
 }
