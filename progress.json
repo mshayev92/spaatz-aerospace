@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786333457211,
+ "updatedAt": 1786333472122,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1761,7 +1761,8 @@
   "aerospace::ch25::51": "review",
   "aerospace::ch25::52": "mastered",
   "aerospace::ch25::53": "review",
-  "aerospace::ch25::54": "review"
+  "aerospace::ch25::54": "review",
+  "aerospace::ch25::55": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2505,7 +2506,7 @@
   "aerospace::ch25::52": "Narrow, deep valleys on the moon",
   "aerospace::ch25::53": "Starlike\nFound first: ?\n\nGIVE SECOND",
   "aerospace::ch25::54": "Orbit: very elliptical, past Pluto\nTail: ?\nObserved: ?\n\nFIX",
-  "aerospace::ch25::55": "10 hour rotation\n..."
+  "aerospace::ch25::55": "10 hour rotation\n...\n\nGIVE REST"
  },
  "edits": {}
 }
