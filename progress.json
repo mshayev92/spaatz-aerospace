@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786325847060,
+ "updatedAt": 1786325860109,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2397,7 +2397,8 @@
   "aerospace::ch24::49": "Outgassing: pressure leaves, damaging equipment (FIX CONCEPT)\nCold welding: air particles leave, lubricant necessary",
   "aerospace::ch24::50": "Absolute: same charging throughout\nDifferential: differs on different parts",
   "aerospace::ch24::51": "Smallest building block\nNeutrons, protons, electrons\nNucleus",
-  "aerospace::ch24::53": "Cold welding\nOutgassing\nFree fall\nDrag\n\nWRONG"
+  "aerospace::ch24::53": "Cold welding\nOutgassing\nFree fall\nDrag\n\nWRONG",
+  "aerospace::ch24::54": "Oxidation from free oxygen particles (rust)\n"
  },
  "edits": {}
 }
