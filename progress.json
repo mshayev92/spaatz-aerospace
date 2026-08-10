@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786383537791,
+ "updatedAt": 1786383551062,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2557,7 +2557,8 @@
   "aerospace::ch26::14": "Supports deep space probes\nSupported Apollo missions\n",
   "aerospace::ch26::15": "TRANSIT on Polaris\nTIMATION gave lat and long",
   "aerospace::ch26::16": "24 satellites\n6 in view\n4 min\nLat, Long, Elevation, Time\nPPS, SPS\n\nELABORATE ON ORIGIN",
-  "aerospace::ch26::17": "Reco.\nMulti-spectrum\nWeather"
+  "aerospace::ch26::17": "Reco.\nMulti-spectrum\nWeather",
+  "aerospace::ch26::18": "\nImportant: turbulence"
  },
  "edits": {}
 }
