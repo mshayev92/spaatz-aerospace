@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786403650764,
+ "updatedAt": 1786403668084,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2546,7 +2546,7 @@
   "aerospace::ch26::76": "Active: amplifies signal\nPassive: just reflects it",
   "aerospace::ch26::89": "Army established proving ground with captured German scientists to study atmosphere\nArmy: Redstone\nNavy: Improved V-2 (Viking)\nAF: ICBMs and Atlas",
   "aerospace::ch27::0": "UN org. managing int. communications",
-  "aerospace::ch27::1": "Not all signals usable for up/downlink\n"
+  "aerospace::ch27::1": "Not all signals usable for up/downlink\nSolar Flares, Solar Radio Burst"
  },
  "edits": {}
 }
