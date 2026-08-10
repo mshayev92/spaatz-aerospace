@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387105808,
+ "updatedAt": 1786387110096,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2574,7 +2574,7 @@
   "aerospace::ch26::23": "Gave more info about universe\nConfirmed hydrogen clouds around comets\n\nELABORATE",
   "aerospace::ch26::24": "Studied far end of electromagnetic spectrum",
   "aerospace::ch26::25": "Explorer class\nContinued x-ray research done by satellites",
-  "aerospace::ch26::26": "310 mi above Earth orbit\nUnlike ground observatory, has clear view "
+  "aerospace::ch26::26": "310 mi above Earth orbit\nUnlike ground observatory, has clear view"
  },
  "edits": {}
 }
