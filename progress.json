@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786388064450,
+ "updatedAt": 1786388071996,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2620,7 +2620,8 @@
   "aerospace::ch26::46": "Solar and Heliospheric Observatory\n\nGIVE DATE",
   "aerospace::ch26::47": "Studied electromagnetic\n\nNOT WHAT ASKED FOR",
   "aerospace::ch26::48": "Freedom of use (1958)",
-  "aerospace::ch26::49": "Combined probe and orbiter\nFound temperature range\nMore water than expected\n\nFIX 'COMBINED'"
+  "aerospace::ch26::49": "Combined probe and orbiter\nFound temperature range\nMore water than expected\n\nFIX 'COMBINED'",
+  "aerospace::ch26::51": "Pr"
  },
  "edits": {}
 }
