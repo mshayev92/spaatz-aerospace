@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786388453277,
+ "updatedAt": 1786388496303,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2657,7 +2657,8 @@
   "aerospace::ch26::66": "Hubble",
   "aerospace::ch26::67": "OAO",
   "aerospace::ch26::68": "OHSO (???)\n\nWRONG",
-  "aerospace::ch26::69": "Earth Mesosphere Explorer\n\nFIX NAME"
+  "aerospace::ch26::69": "Earth Mesosphere Explorer\n\nFIX NAME",
+  "aerospace::ch26::70": "SOHO"
  },
  "edits": {}
 }
