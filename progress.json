@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392816274,
+ "updatedAt": 1786392819435,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1154,7 +1154,7 @@
   "aerospace::ch4::19": "mastered",
   "aerospace::ch4::20": "mastered",
   "aerospace::ch4::21": "review",
-  "aerospace::ch4::22": "general",
+  "aerospace::ch4::22": "mastered",
   "aerospace::ch4::23": "mastered",
   "aerospace::ch4::24": "review",
   "aerospace::ch4::25": "review",
@@ -2456,7 +2456,8 @@
   "aerospace::ch3::45": "Sikorsky S-4\nFirst airline crossing of Atlantic/Pacific\n\nFIX MODEL",
   "aerospace::ch4::0": "Lightning war\nME-109\n",
   "aerospace::ch4::19": "CAA War Training Service\nMore pilots",
-  "aerospace::ch4::22": "Germany"
+  "aerospace::ch4::22": "Germany",
+  "aerospace::ch4::29": "A"
  },
  "edits": {}
 }
