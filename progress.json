@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786393376182,
+ "updatedAt": 1786393391902,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2467,7 +2467,8 @@
   "aerospace::ch5::29": "Transport during Tet Offensive",
   "aerospace::ch5::30": "Bombs dropped from planes\nKenney Cocktail\n\nNOT COCKTAIL",
   "aerospace::ch5::40": "Decreased\nBy: ?",
-  "aerospace::ch5::42": "Soviet blockade in Berlin\nDay: ? (asking for num tons)\n\nGIVE TONS"
+  "aerospace::ch5::42": "Soviet blockade in Berlin\nDay: ? (asking for num tons)\n\nGIVE TONS",
+  "aerospace::ch5::44": "Atomic bomb not enough\nFighters, conventional weapons needed"
  },
  "edits": {}
 }
