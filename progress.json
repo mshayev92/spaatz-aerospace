@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389389162,
+ "updatedAt": 1786389403316,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1864,7 +1864,8 @@
   "aerospace::ch26::89": "general",
   "aerospace::ch26::90": "review",
   "aerospace::ch26::91": "review",
-  "aerospace::ch27::0": "general"
+  "aerospace::ch27::0": "general",
+  "aerospace::ch27::1": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2698,7 +2699,7 @@
   "aerospace::ch26::89": "Studied atmosphere with captured V-2 scientists\nArmy: Redstone\nNavy: ?\nAir Force: ICBMs, Atlas\n\nGIVE NAVY",
   "aerospace::ch26::90": "PPS within 30 meters\n\nWRONG",
   "aerospace::ch27::0": "Est. int. communications principles\n\nORG OF WHAT?",
-  "aerospace::ch27::1": "Not all wavelengths usable for uplink/downlink\nScintillation\nSolar Ionospheric Disturbances"
+  "aerospace::ch27::1": "Not all wavelengths usable for uplink/downlink\nScintillation\nSolar Ionospheric Disturbances\n\nALMOST"
  },
  "edits": {}
 }
