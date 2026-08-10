@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786388946073,
+ "updatedAt": 1786388947139,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2675,7 +2675,7 @@
   "aerospace::ch26::77": "Treaties\nCustoms\nLaws\n\nMASTERED, KNOW WHICH 'IS'",
   "aerospace::ch26::78": "Freedom of use\n\nWRONG",
   "aerospace::ch26::79": "1. Research\n2. ?\n\nWRONG",
-  "aerospace::ch26::80": "Legrange, gravitational "
+  "aerospace::ch26::80": "Legrange, gravitational eq.\n"
  },
  "edits": {}
 }
