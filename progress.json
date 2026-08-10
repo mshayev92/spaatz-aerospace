@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786397855166,
+ "updatedAt": 1786397930097,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1516,7 +1516,7 @@
   "aerospace::ch18::27": "mastered",
   "aerospace::ch18::28": "mastered",
   "aerospace::ch18::29": "review",
-  "aerospace::ch18::30": "general",
+  "aerospace::ch18::30": "review",
   "aerospace::ch18::31": "general",
   "aerospace::ch18::32": "mastered",
   "aerospace::ch18::33": "mastered",
@@ -2494,8 +2494,7 @@
   "aerospace::ch18::14": "Below ionosphere\nLess ionization",
   "aerospace::ch18::15": "Important photochemical (radiant and chemical) reactions\nRange: ?\n\nGIVE RANGE",
   "aerospace::ch18::16": "0-60 mi\nSimilar gaseous comp. throughout",
-  "aerospace::ch18::17": "55-60 mi\nDifferent gaseous composition\nVertical arrangement",
-  "aerospace::ch18::30": "Rate at which space and atmosphere turn away insolation\n"
+  "aerospace::ch18::17": "55-60 mi\nDifferent gaseous composition\nVertical arrangement"
  },
  "edits": {}
 }
