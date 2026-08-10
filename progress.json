@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786390747317,
+ "updatedAt": 1786390752711,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1902,7 +1902,6 @@
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
   "aerospace::ch3::2": "First disaster in scheduled service\nLakehurst, NJ\nHydrogen combusted (likely)",
-  "aerospace::ch3::3": "First air refueling\n37 hours",
   "aerospace::ch3::4": "AKA Air Mail Act of 1930\nPayment acc. to available cargo space\nPG could change or extend routes\nAircraft: DC-4 staple (no accidents)\n\nWRONG AIRCRAFT",
   "aerospace::ch3::5": "Cmdr Reed\n\nYES, BUT HOW",
   "aerospace::ch3::6": "Declined\n\nWHAT PERCENT DID IT DROP BY?",
