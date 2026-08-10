@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786397375304,
+ "updatedAt": 1786397390810,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2480,7 +2480,8 @@
   "aerospace::ch8::33": "Flaps: back, lift/drag\nSlats: continue front, increase lift\nSpoilers: destroy lift, ruin laminar flow\nDrag devices: drag, but do not destroy lift",
   "aerospace::ch8::55": "What tank is used",
   "aerospace::ch8::70": "Takeoff and landing",
-  "aerospace::ch8::79": "Bracing\nLess weight on skin, and stronger"
+  "aerospace::ch8::79": "Bracing\nLess weight on skin, and stronger",
+  "aerospace::ch9::15": "Plane sends a signal, ground station returns it\nTime difference used to "
  },
  "edits": {}
 }
