@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786333056908,
+ "updatedAt": 1786333063723,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2490,7 +2490,7 @@
   "aerospace::ch25::44": "Sulfur\nDeserts\n\nONE WRONG",
   "aerospace::ch25::45": "Fly-by\n\nWRONG",
   "aerospace::ch25::46": "Anorthosite\n\nWRONG",
-  "aerospace::ch25::47": "Anorthosite"
+  "aerospace::ch25::47": "Anorthosite\n\nDEDUCTED"
  },
  "edits": {}
 }
