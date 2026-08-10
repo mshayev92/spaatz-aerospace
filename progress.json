@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389815606,
+ "updatedAt": 1786389836321,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2718,7 +2718,7 @@
   "aerospace::ch27::7": "After Salyut\n\nDATE?",
   "aerospace::ch27::8": "Expendable vs. Reusable\nAtlas, Delta, etc.\nSpace Shuttle",
   "aerospace::ch27::10": "First permanent space station\nUS and Russia\n\nOTHER PARTNERS",
-  "aerospace::ch27::12": "Mercury\nGemini\nApollo"
+  "aerospace::ch27::12": "Mercury: humans in space\nGemini: preparing for Apollo, long-term effects\nApollo: 11 landed on the moon"
  },
  "edits": {}
 }
