@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326156970,
+ "updatedAt": 1786326162687,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2414,7 +2414,7 @@
   "aerospace::ch25::4": "Not big enough to be planets\nOrbit sun\nMain belt between Mars/Jupiter\nRocky and metallic object",
   "aerospace::ch25::5": "Irregular object\nNucleus with ice, water, other gases\nVery elliptical orbit around sun\nWhen approaching, develops \"aura\"\n(e.g.: Halley's Comet)\n\nELABORATE",
   "aerospace::ch25::6": "Micro: particle-size\nMeteoroids: clumps of matter\nMeteors: enter atmosphere",
-  "aerospace::ch25::7": "Unstable star with "
+  "aerospace::ch25::7": "Unstable star "
  },
  "edits": {}
 }
