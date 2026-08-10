@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392031689,
+ "updatedAt": 1786392038752,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2438,7 +2438,7 @@
   "aerospace::ch1::0": "Lightweight aircraft that can be steered and propelled",
   "aerospace::ch1::2": "Developed by the Chinese\nUsed for reco.",
   "aerospace::ch1::6": "Aerial ship\nWhen: ?",
-  "aerospace::ch1::7": "Hot "
+  "aerospace::ch1::7": "Hot Air Balloon\nWhen: ?"
  },
  "edits": {}
 }
