@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389772719,
+ "updatedAt": 1786389782826,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1873,7 +1873,8 @@
   "aerospace::ch27::6": "mastered",
   "aerospace::ch27::7": "general",
   "aerospace::ch27::8": "mastered",
-  "aerospace::ch27::9": "review"
+  "aerospace::ch27::9": "review",
+  "aerospace::ch27::10": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2715,7 +2716,7 @@
   "aerospace::ch27::6": "First space station (Soviet)",
   "aerospace::ch27::7": "After Salyut\n\nDATE?",
   "aerospace::ch27::8": "Expendable vs. Reusable\nAtlas, Delta, etc.\nSpace Shuttle",
-  "aerospace::ch27::10": "First permanent space station\nUS and Russia"
+  "aerospace::ch27::10": "First permanent space station\nUS and Russia\n\nOTHER PARTNERS"
  },
  "edits": {}
 }
