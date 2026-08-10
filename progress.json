@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786322647283,
+ "updatedAt": 1786322666672,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2306,7 +2306,7 @@
   "aerospace::ch24::3": "Atom gains or loses an electron\n\nHOW?",
   "aerospace::ch24::4": "Where ionization and Earth's geomagnetic field play important role",
   "aerospace::ch24::5": "Charged particles from outside the solar system bombarding Earth",
-  "aerospace::ch24::6": "Borealis (North); Austrialis "
+  "aerospace::ch24::6": "Borealis (North); Australis (South)\n"
  },
  "edits": {}
 }
