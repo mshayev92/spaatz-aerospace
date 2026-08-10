@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786332579199,
+ "updatedAt": 1786332600141,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2469,7 +2469,7 @@
   "aerospace::ch25::32": "1/2 of Earth's gravity?\n\nATMOSPHERE?\n",
   "aerospace::ch25::34": "Rover and stationary lander\nSojourner, studied rocks and soil\nPart of low-cost Discovery missions",
   "aerospace::ch25::35": "Enter the orbit of Mars\nExamined atmosphere and surface",
-  "aerospace::ch25::36": "Biggest planet by far\nStorm (great spot) twice the size of Earth\n10 hour rotation\nGalileo entered orbit"
+  "aerospace::ch25::36": "Biggest planet by far\nStorm (great spot) twice the size of Earth\n10 hour rotation\nGalileo entered orbit\n\nMORE INFO"
  },
  "edits": {}
 }
