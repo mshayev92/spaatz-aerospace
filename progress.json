@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389097114,
+ "updatedAt": 1786389099003,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2685,7 +2685,7 @@
   "aerospace::ch26::83": "Gave private sector access to LANDSAT data at one price; provision of government data",
   "aerospace::ch26::84": "Freedom of use",
   "aerospace::ch26::85": "Observe enemies/other nations\n\nOTHER PURPOSES AS WELL",
-  "aerospace::ch26::86": "National Aeronautics and Space Administration\nEstablished in "
+  "aerospace::ch26::86": "National Aeronautics and Space Administration\nEstablished in 1958"
  },
  "edits": {}
 }
