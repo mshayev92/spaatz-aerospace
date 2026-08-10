@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786320898262,
+ "updatedAt": 1786320903464,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2268,7 +2268,8 @@
   "aerospace::ch23::24": "Less subject to Earth's gravity",
   "aerospace::ch23::25": "Orbit",
   "aerospace::ch23::26": "Equatorial orbit",
-  "aerospace::ch23::27": "Circular orbit"
+  "aerospace::ch23::27": "Circular orbit",
+  "aerospace::ch23::28": "Escape trajectory"
  },
  "edits": {}
 }
