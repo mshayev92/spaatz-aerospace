@@ -434,6 +434,11 @@
   .stage.is-empty .cardbtn{display:none}
   .notes-btn{right:14px}
   .edit-btn{right:56px}
+  .copy-btn{right:98px}
+  .copy-btn.copied{opacity:1;color:var(--accent);border-color:color-mix(in srgb,var(--accent) 45%,transparent)}
+  .copy-btn .icon-check{display:none}
+  .copy-btn.copied .icon-copy{display:none}
+  .copy-btn.copied .icon-check{display:block}
   .notes-btn.has-note{opacity:1;color:var(--accent);border-color:color-mix(in srgb,var(--accent) 45%,transparent)}
   .notes-dot{position:absolute;top:-3px;right:-3px;width:8px;height:8px;border-radius:50%;background:var(--accent);border:2px solid var(--face);display:none}
   .notes-btn.has-note .notes-dot{display:block}
@@ -886,6 +891,10 @@
     </button>
    </div>
 
+    <button class="cardbtn copy-btn" id="copy-btn" aria-label="Copy card" title="Copy card (C)">
+      <svg class="icon-copy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+      <svg class="icon-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+    </button>
     <button class="cardbtn edit-btn" id="edit-btn" aria-label="Edit card" title="Edit card (E)">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
     </button>
@@ -956,6 +965,7 @@
         <div class="shortcuts-row"><kbd>R</kbd><span>Mark for review</span></div>
         <div class="shortcuts-row"><kbd>G</kbd><span>Mark “know some”</span></div>
         <div class="shortcuts-row"><kbd>S</kbd><span>Shuffle / restore order</span></div>
+        <div class="shortcuts-row"><kbd>C</kbd><span>Copy card</span></div>
         <div class="shortcuts-row"><kbd>E</kbd><span>Edit card</span></div>
         <div class="shortcuts-row"><kbd>N</kbd><span>Toggle notes</span></div>
         <div class="shortcuts-row"><kbd>J</kbd><span>Jump to card number</span></div>
@@ -2144,6 +2154,33 @@ function resetEdit(){
   render(); persist();
 }
 
+/* ---- copy card ---- */
+let copyResetTimer=null;
+function copyCard(e){
+  if(e) e.stopPropagation();
+  const id=currentCardId(); if(!id) return;
+  const c=CARD[id];
+  const note=(S.notes&&S.notes[id])||"";
+  // fact-only cards have no separate term, so just use the definition text
+  let text=c.fact?c.d:`${c.t}\n${c.d}`;
+  if(note.trim()) text+=`\n${note.trim()}`;
+  const btn=$("copy-btn");
+  const showCopied=()=>{
+    btn.classList.add("copied");
+    clearTimeout(copyResetTimer);
+    copyResetTimer=setTimeout(()=>btn.classList.remove("copied"),1200);
+  };
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+    navigator.clipboard.writeText(text).then(showCopied).catch(()=>{});
+  } else {
+    const ta=document.createElement("textarea");
+    ta.value=text; ta.style.position="fixed"; ta.style.opacity="0";
+    document.body.appendChild(ta); ta.select();
+    try{ document.execCommand("copy"); showCopied(); }catch(err){}
+    document.body.removeChild(ta);
+  }
+}
+
 /* ---- card notes ---- */
 let notesSaveTimer=null;
 function openNotes(e){
@@ -2440,6 +2477,7 @@ $("shortcuts-close").addEventListener("click",closeShortcuts);
 $("shortcuts-backdrop").addEventListener("click",e=>{ if(e.target===$("shortcuts-backdrop")) closeShortcuts(); });
 $("toolsbtn").addEventListener("click",e=>{e.stopPropagation();toggleMenu();});
 $("toolsmenu").addEventListener("click",e=>e.stopPropagation());
+$("copy-btn").addEventListener("click",copyCard);
 $("edit-btn").addEventListener("click",openEdit);
 $("notes-btn").addEventListener("click",toggleNotes);
 $("notes-panel-close").addEventListener("click",e=>{ e.stopPropagation(); closeNotes(); });
@@ -2569,6 +2607,7 @@ document.addEventListener("keydown",e=>{
   else if(k==="r"){mark("review");}
   else if(k==="g"){mark("general");}
   else if(k==="s"){ if(isShuffled()) restoreOrder(); else shuffle(); }
+  else if(k==="c"){copyCard({stopPropagation:()=>{}});}
   else if(k==="e"){openEdit({stopPropagation:()=>{}});}
   else if(k==="n"){toggleNotes({stopPropagation:()=>{}});}
   else if(k==="j"){e.preventDefault();startJump();}
