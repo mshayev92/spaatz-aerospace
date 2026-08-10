@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786393215648,
+ "updatedAt": 1786393219830,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1196,7 +1196,7 @@
   "aerospace::ch5::19": "review",
   "aerospace::ch5::20": "mastered",
   "aerospace::ch5::21": "mastered",
-  "aerospace::ch5::22": "general",
+  "aerospace::ch5::22": "mastered",
   "aerospace::ch5::23": "general",
   "aerospace::ch5::24": "mastered",
   "aerospace::ch5::25": "mastered",
@@ -2462,7 +2462,8 @@
   "aerospace::ch4::36": "Ground troops + Air\nAir attacked opposing Air Force, routes\nCleared way for ground\n\nELABORATE",
   "aerospace::ch5::4": "Communist separatists",
   "aerospace::ch5::15": "Yeager; Date: ?\nX-2 study heating at Mach 3\n\nGIVE DATE",
-  "aerospace::ch5::22": "Short to mid haul jet\nLater equipped with turboprop\n240, 340, 440 (58 seats)\n\nSTAT WRONG, BUT CLOSE ENOUGH"
+  "aerospace::ch5::22": "Short to mid haul jet\nLater equipped with turboprop\n240, 340, 440 (58 seats)\n\nSTAT WRONG, BUT CLOSE ENOUGH",
+  "aerospace::ch5::23": "Re"
  },
  "edits": {}
 }
