@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786393400935,
+ "updatedAt": 1786393407365,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1218,7 +1218,7 @@
   "aerospace::ch5::41": "mastered",
   "aerospace::ch5::42": "general",
   "aerospace::ch5::43": "mastered",
-  "aerospace::ch5::44": "general",
+  "aerospace::ch5::44": "mastered",
   "aerospace::ch5::45": "mastered",
   "aerospace::ch5::46": "review",
   "aerospace::ch5::47": "general",
@@ -2468,7 +2468,8 @@
   "aerospace::ch5::30": "Bombs dropped from planes\nKenney Cocktail\n\nNOT COCKTAIL",
   "aerospace::ch5::40": "Decreased\nBy: ?",
   "aerospace::ch5::42": "Soviet blockade in Berlin\nDay: ? (asking for num tons)\n\nGIVE TONS",
-  "aerospace::ch5::44": "Atomic bomb not enough\nFighters, conventional weapons needed\nCentralized control, decentralized exec."
+  "aerospace::ch5::44": "Atomic bomb not enough\nFighters, conventional weapons needed\nCentralized control, decentralized exec.",
+  "aerospace::ch5::47": "Scott "
  },
  "edits": {}
 }
