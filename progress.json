@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786388844821,
+ "updatedAt": 1786388863531,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2670,7 +2670,8 @@
   "aerospace::ch26::71": "Earth Orbiting System\n\nFIX NAME",
   "aerospace::ch26::74": "Defense Meteorological Satellite Program\nMilitary",
   "aerospace::ch26::76": "Active: send signals to ground stations\nPassive: simply relay signals\n\nFIX WORDING",
-  "aerospace::ch26::77": "Treaties\nCustoms\nLaws\n\nMASTERED, KNOW WHICH 'IS'"
+  "aerospace::ch26::77": "Treaties\nCustoms\nLaws\n\nMASTERED, KNOW WHICH 'IS'",
+  "aerospace::ch26::78": "Freedom of use"
  },
  "edits": {}
 }
