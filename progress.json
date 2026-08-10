@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326859719,
+ "updatedAt": 1786326869804,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2451,7 +2451,7 @@
   "aerospace::ch25::21": "Soviet, crash landed on Venus",
   "aerospace::ch25::22": "Four distinct cloud/haze layers\n\nWRONG",
   "aerospace::ch25::23": "Cloud speed and direction",
-  "aerospace::ch25::26": "Four distinct cloud/haze layers"
+  "aerospace::ch25::26": "Four distinct cloud/haze layers\n\nMOSTLY DEDUCTED, NOT KNOWN"
  },
  "edits": {}
 }
