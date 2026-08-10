@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786391987054,
+ "updatedAt": 1786391992991,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1034,7 +1034,7 @@
   "aerospace::ch10::26": "general",
   "aerospace::ch10::28": "mastered",
   "aerospace::ch10::29": "general",
-  "aerospace::ch1::0": "general",
+  "aerospace::ch1::0": "mastered",
   "aerospace::ch1::1": "mastered",
   "aerospace::ch1::2": "general",
   "aerospace::ch1::3": "mastered",
@@ -2435,7 +2435,8 @@
   "aerospace::ch27::23": "ESA",
   "aerospace::ch27::24": "Nitrogen, Oxygen",
   "aerospace::ch27::26": "Winner: SpaceShipOne (Mojave Aerospace Ventures)\nTerms: Craft carrying weight of three adult males past 62 mi and bring back within 2 weeks - NGO",
-  "aerospace::ch1::0": "Lightweight aircraft that can be steered and propelled\n"
+  "aerospace::ch1::0": "Lightweight aircraft that can be steered and propelled",
+  "aerospace::ch1::2": "Develo"
  },
  "edits": {}
 }
