@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786397787188,
+ "updatedAt": 1786397798381,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2492,7 +2492,7 @@
   "aerospace::ch18::12": "Extra oxygen atom picked up, producing ozone that shields from harmful solar rays\n\nGIVE RANGE, FIX ERROR",
   "aerospace::ch18::13": "Stars, sun cause pos or neg charge\n\nRANGE? WHAT DOES IT DO?",
   "aerospace::ch18::14": "Below ionosphere\nLess ionization",
-  "aerospace::ch18::15": "Important photochemical (radiant and chemical) reactions\nRange: ?"
+  "aerospace::ch18::15": "Important photochemical (radiant and chemical) reactions\nRange: ?\n\nGIVE RANGE"
  },
  "edits": {}
 }
