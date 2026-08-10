@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326745220,
+ "updatedAt": 1786326752737,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1727,7 +1727,8 @@
   "aerospace::ch25::17": "mastered",
   "aerospace::ch25::18": "general",
   "aerospace::ch25::19": "general",
-  "aerospace::ch25::20": "mastered"
+  "aerospace::ch25::20": "mastered",
+  "aerospace::ch25::21": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2442,7 +2443,7 @@
   "aerospace::ch25::18": "WW2\nFrench squadron\nAmerican volunteers\n\nONE WRONG",
   "aerospace::ch25::19": "Earth's sister planet\nHot atmosphere, spins backward\nNo moons\nFirst successful interplanetary mission\n\nMAPPED BY? ATMOSPHERE?",
   "aerospace::ch25::20": "First successful interplanetary mission\nConfirmed hot temp on Venus",
-  "aerospace::ch25::21": "Soviet"
+  "aerospace::ch25::21": "Soviet, crash landed on Venus"
  },
  "edits": {}
 }
