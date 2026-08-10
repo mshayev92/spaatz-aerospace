@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786397198336,
+ "updatedAt": 1786397209372,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2476,7 +2476,7 @@
   "aerospace::ch6::1": "AF, Navy, NACA project for airplane\n4,500 mph\n250k ft altitude",
   "aerospace::ch7::17": "Change in temp, velocity, pressure\nLoss of energy",
   "aerospace::ch8::6": "Air hits against vanes, whirl\nPower plant",
-  "aerospace::ch8::29": "Simplest jet engine\n"
+  "aerospace::ch8::29": "Simplest jet engine\nTakes in air, spins vane"
  },
  "edits": {}
 }
