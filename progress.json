@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389636451,
+ "updatedAt": 1786389640160,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2707,8 +2707,7 @@
   "aerospace::ch27::2": "Media\nTV\n\nELABORATE",
   "aerospace::ch27::3": "For military, connections with highest levels of government",
   "aerospace::ch27::4": "First\nEffects of space on human body",
-  "aerospace::ch27::5": "Second program\nTwo-person capsule\nFirst space walk\nDocking\nPrepare for Apollo",
-  "aerospace::ch27::6": "First "
+  "aerospace::ch27::5": "Second program\nTwo-person capsule\nFirst space walk\nDocking\nPrepare for Apollo"
  },
  "edits": {}
 }
