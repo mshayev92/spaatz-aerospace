@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786399794302,
+ "updatedAt": 1786399808536,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2511,7 +2511,8 @@
   "aerospace::ch21::16": "Anything involved in propulsion\nFuel tanks, boosters, etc.",
   "aerospace::ch21::19": "Uses magnetism and currents to propel matter in small amounts",
   "aerospace::ch21::27": "Galileo\nObjects with the same weights fall at the same time\n\nNOT QUITE, WAS THINKING OF RIGHT",
-  "aerospace::ch21::31": "Konstantin T.\n\nGIVE FULL LAST NAME"
+  "aerospace::ch21::31": "Konstantin T.\n\nGIVE FULL LAST NAME",
+  "aerospace::ch23::17": "Fall as Earth curves"
  },
  "edits": {}
 }
