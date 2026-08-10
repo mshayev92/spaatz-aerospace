@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786332716704,
+ "updatedAt": 1786332730129,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2474,7 +2474,7 @@
   "aerospace::ch25::35": "Enter the orbit of Mars\nExamined atmosphere and surface",
   "aerospace::ch25::36": "Biggest planet by far\nStorm (great spot) twice the size of Earth\n10 hour rotation\nGalileo entered orbit\n\nMORE INFO",
   "aerospace::ch25::38": "5 miles from\n16 total?\n3 discovered by ...\nMade of rocky objects and ice\n\nCOMP RIGHT; FIX OTHER DATA",
-  "aerospace::ch25::39": "Rings\n10 hour rotation\n"
+  "aerospace::ch25::39": "Rings\n10 hour rotation\nSecond biggest\n"
  },
  "edits": {}
 }
