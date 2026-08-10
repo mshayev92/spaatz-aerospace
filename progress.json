@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786333525513,
+ "updatedAt": 1786333587148,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2507,7 +2507,8 @@
   "aerospace::ch25::52": "Narrow, deep valleys on the moon",
   "aerospace::ch25::53": "Starlike\nFound first: ?\n\nGIVE SECOND",
   "aerospace::ch25::54": "Orbit: very elliptical, past Pluto\nTail: ?\nObserved: ?\n\nFIX",
-  "aerospace::ch25::55": "10 hour rotation\n...\n\nGIVE REST"
+  "aerospace::ch25::55": "10 hour rotation\n...\n\nGIVE REST",
+  "aerospace::ch25::57": "Nova: unstable star, flares and subsides\nSupernova: much matter lost; giant explosion of light and energy\nPulsar: pulsating star, steady electromagnetic emissions\nQuasar: very luminous body\nBlack Hole: star collapsed, very strong gravity\nNebula: "
  },
  "edits": {}
 }
