@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786382734696,
+ "updatedAt": 1786382739587,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2519,7 +2519,7 @@
   "aerospace::ch25::59": "Spirit and Opportunity (twins)",
   "aerospace::ch25::62": "13",
   "aerospace::ch25::61": "Rotates in 24 hours\n70% water, 50% Pacific\n",
-  "aerospace::ch25::63": "\nExplore the outer planets"
+  "aerospace::ch25::63": "Date: ?\nExplore the outer planets"
  },
  "edits": {}
 }
