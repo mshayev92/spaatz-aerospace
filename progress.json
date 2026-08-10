@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786324545808,
+ "updatedAt": 1786324552937,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2336,7 +2336,8 @@
   "aerospace::ch24::17": "Like filaments, but a visible extension from the corona",
   "aerospace::ch24::18": "Plasma flowing across magnetic lines (NOT PLASMA)\n\nYES, BUT WHAT APPEARANCE?",
   "aerospace::ch24::19": "Electromagnetic emissions into interplanetary space\n\nCONFUSED SOLAR WINDS W/ FLARES",
-  "aerospace::ch24::21": "Earth bombarded\nMade of charged particles (electrons and protons) held together by the magnetosphere\nNeutrons are byproduct\n\nCLARIFY, SOME PARTS WRONG"
+  "aerospace::ch24::21": "Earth bombarded\nMade of charged particles (electrons and protons) held together by the magnetosphere\nNeutrons are byproduct\n\nCLARIFY, SOME PARTS WRONG",
+  "aerospace::ch24::22": "Radiation, some orbit"
  },
  "edits": {}
 }
