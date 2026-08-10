@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326713064,
+ "updatedAt": 1786326728888,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1725,7 +1725,8 @@
   "aerospace::ch25::15": "review",
   "aerospace::ch25::16": "general",
   "aerospace::ch25::17": "mastered",
-  "aerospace::ch25::18": "general"
+  "aerospace::ch25::18": "general",
+  "aerospace::ch25::19": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2438,7 +2439,8 @@
   "aerospace::ch25::16": "Most powerful launch vehicle\nOnly one more powerful: Saturn V\n\nSTARTED AS? ELABORATE",
   "aerospace::ch25::17": "NASA, up then down for passengers to experience free fall",
   "aerospace::ch25::18": "WW2\nFrench squadron\nAmerican volunteers\n\nONE WRONG",
-  "aerospace::ch25::19": "Earth's sister planet\nHot atmosphere, spins backward\nNo moons\nFirst successful interplanetary mission\n\nMAPPED BY? ATMOSPHERE?"
+  "aerospace::ch25::19": "Earth's sister planet\nHot atmosphere, spins backward\nNo moons\nFirst successful interplanetary mission\n\nMAPPED BY? ATMOSPHERE?",
+  "aerospace::ch25::20": "First successful interplanetary mission\nHott tem"
  },
  "edits": {}
 }
