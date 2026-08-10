@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326400745,
+ "updatedAt": 1786326409744,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2426,7 +2426,7 @@
   "aerospace::ch25::10": "Band of stars",
   "aerospace::ch25::11": "Decreases with altitude",
   "aerospace::ch25::12": "Decreases with altitude\n\nWHAT RATE? HOT AIR FACT?",
-  "aerospace::ch25::13": "Decreases with altitude\n"
+  "aerospace::ch25::13": "Decreases with altitude"
  },
  "edits": {}
 }
