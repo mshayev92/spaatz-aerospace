@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387318351,
+ "updatedAt": 1786387412655,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2585,7 +2585,8 @@
   "aerospace::ch26::28": "Set of satellites observing Earth and team of scientists\nFirst to give measurements of Earth\n\nELABORATE, WHAT SYSTEM?",
   "aerospace::ch26::29": "First space mission\nFirst probes sent to study moon\n",
   "aerospace::ch26::30": "Soft landers, had to know where to land on moon",
-  "aerospace::ch26::31": "Took pictures of the moon's surface to make a map"
+  "aerospace::ch26::31": "Took pictures of the moon's surface to make a map",
+  "aerospace::ch26::32": "Inner and outer planets"
  },
  "edits": {}
 }
