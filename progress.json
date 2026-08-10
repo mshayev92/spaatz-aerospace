@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786383317602,
+ "updatedAt": 1786383341411,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2548,7 +2548,7 @@
   "aerospace::ch26::10": "Private companies could launch vehicles but need permit/license\nNASA and military would help",
   "aerospace::ch26::11": "Observation\nScientific\nNavigation\nCommunication",
   "aerospace::ch26::12": "Organization with around 150 geostationary satellites that provide communication network",
-  "aerospace::ch26::13": "Tracking and Data Relay Satellite System\nSupported 27 probes and the DSN\n\nCLARIFY PROBES STAT"
+  "aerospace::ch26::13": "Tracking and Data Relay Satellite System\nSupported 27 probes and the DSN\n\nCLARIFY PROBES STAT\nHOW MANY SATELLITES/COMPONENTS?"
  },
  "edits": {}
 }
