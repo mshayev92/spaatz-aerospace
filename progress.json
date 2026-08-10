@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387534261,
+ "updatedAt": 1786387544579,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2594,7 +2594,7 @@
   "aerospace::ch26::32": "Inner and outer planets\n\nWRONG",
   "aerospace::ch26::34": "Combined lander and orbiter\nLook for life, water, temp (Mars)",
   "aerospace::ch26::36": "Studied Halley's Comet",
-  "aerospace::ch26::37": "Entered orbit\nInfo on surface and atmosphere"
+  "aerospace::ch26::37": "Entered orbit\nInfo on surface and atmosphere\n\nMORE"
  },
  "edits": {}
 }
