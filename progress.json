@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389448817,
+ "updatedAt": 1786389465094,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2701,7 +2701,8 @@
   "aerospace::ch26::90": "PPS within 30 meters\n\nWRONG",
   "aerospace::ch27::0": "Est. int. communications principles\n\nORG OF WHAT?",
   "aerospace::ch27::1": "Not all wavelengths usable for uplink/downlink\nScintillation\nSolar Ionospheric Disturbances\n\nALMOST",
-  "aerospace::ch27::2": "Media\nTV\n\nELABORATE"
+  "aerospace::ch27::2": "Media\nTV\n\nELABORATE",
+  "aerospace::ch27::3": "For military, connections with highest levels of government"
  },
  "edits": {}
 }
