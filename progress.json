@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786321168394,
+ "updatedAt": 1786321177157,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2284,7 +2284,8 @@
   "aerospace::ch23::33": "Dead weight\nThrust load\nPayload/useful load",
   "aerospace::ch23::34": "Trajectory: straight up\nPurpose: research",
   "aerospace::ch23::35": "A missile taking an arc but is non orbiting",
-  "aerospace::ch23::36": "The state of a body resisting changes in its motion"
+  "aerospace::ch23::36": "The state of a body resisting changes in its motion",
+  "aerospace::ch23::37": "NASA\nMilitary\nSpaceX\n"
  },
  "edits": {}
 }
