@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392711726,
+ "updatedAt": 1786392806897,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2454,7 +2454,8 @@
   "aerospace::ch3::39": "Pylon\nYear: ?",
   "aerospace::ch3::40": "Transcontinental speed\nYear: ?",
   "aerospace::ch3::45": "Sikorsky S-4\nFirst airline crossing of Atlantic/Pacific\n\nFIX MODEL",
-  "aerospace::ch4::0": "Lightning war\nME-109\n"
+  "aerospace::ch4::0": "Lightning war\nME-109\n",
+  "aerospace::ch4::19": "CAA War Training Service\nMore pilots"
  },
  "edits": {}
 }
