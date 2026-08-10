@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786325384093,
+ "updatedAt": 1786325393666,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2380,7 +2380,7 @@
   "aerospace::ch24::41": "11 years",
   "aerospace::ch24::42": "8 minutes",
   "aerospace::ch24::43": "50 miles\nKarmann line: 62 miles",
-  "aerospace::ch24::44": "Blends with exosphere"
+  "aerospace::ch24::44": "Begin: \nExtends: Blends with exosphere"
  },
  "edits": {}
 }
