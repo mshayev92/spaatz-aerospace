@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786402345775,
+ "updatedAt": 1786402360061,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2525,7 +2525,8 @@
   "aerospace::ch24::21": "Neutrons from stars/cosmic rays\nNeutrons decay, producing charged particles (electrons, protons) held by the magnetosphere",
   "aerospace::ch24::49": "Outgassing: gas particles leaving, potentially damaging equipment\nCold welding: air particles leave tight spaces, lubricant needed",
   "aerospace::ch25::7": "Unstable star\nFlares and subsides",
-  "aerospace::ch25::12": "Hot air = more energy\nDecreases as altitude increases\n\nGIVE DECREASE STAT"
+  "aerospace::ch25::12": "Hot air = more energy\nDecreases as altitude increases\n\nGIVE DECREASE STAT",
+  "aerospace::ch25::16": "From Titan II ICBM\nMost powerful, only one more is Saturn V\n"
  },
  "edits": {}
 }
