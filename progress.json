@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786398895446,
+ "updatedAt": 1786398910537,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2496,7 +2496,7 @@
   "aerospace::ch18::16": "0-60 mi\nSimilar gaseous comp. throughout",
   "aerospace::ch18::17": "55-60 mi\nDifferent gaseous composition\nVertical arrangement",
   "aerospace::ch18::31": "Acts on rotating air\nHigh-pressure: speeds up\nLow-pressure: slows down\n\nCYCLONES?",
-  "aerospace::ch18::37": "C"
+  "aerospace::ch18::37": "Causes deflections due to the Earth's rotation\nEast in Northern hemisphere"
  },
  "edits": {}
 }
