@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326034137,
+ "updatedAt": 1786326050160,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1710,7 +1710,8 @@
   "aerospace::ch25::0": "mastered",
   "aerospace::ch25::1": "mastered",
   "aerospace::ch25::2": "mastered",
-  "aerospace::ch25::3": "mastered"
+  "aerospace::ch25::3": "mastered",
+  "aerospace::ch25::4": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2408,7 +2409,8 @@
   "aerospace::ch25::1": "The space from the sun to the outermost planet",
   "aerospace::ch25::2": "Spiral galaxy (ours)",
   "aerospace::ch25::3": "Gravity makes round\nCleared neighborhood of other objects\nOrbits star",
-  "aerospace::ch25::4": "Not big enough to be planets\nOrbit sun\nMain belt between Mars/Jupiter\nRocky and metallic object"
+  "aerospace::ch25::4": "Not big enough to be planets\nOrbit sun\nMain belt between Mars/Jupiter\nRocky and metallic object",
+  "aerospace::ch25::5": "Irregular object\nNucleus with ice, water, other ga"
  },
  "edits": {}
 }
