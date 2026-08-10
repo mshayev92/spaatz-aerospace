@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786388136039,
+ "updatedAt": 1786388159744,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2624,7 +2624,8 @@
   "aerospace::ch26::48": "Freedom of use (1958)",
   "aerospace::ch26::49": "Combined probe and orbiter\nFound temperature range\nMore water than expected\n\nFIX 'COMBINED'",
   "aerospace::ch26::51": "Probe: fly by, orbit, or land\nSatellite: strictly orbit\n\nWRONG",
-  "aerospace::ch26::52": "Rangers"
+  "aerospace::ch26::52": "Rangers",
+  "aerospace::ch26::53": "Took pics to make map"
  },
  "edits": {}
 }
