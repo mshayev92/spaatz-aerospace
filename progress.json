@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786322384069,
+ "updatedAt": 1786322388604,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2298,7 +2298,7 @@
   "aerospace::ch23::41": "Blue Origin\n\nWHY DOES IT MATTER?",
   "aerospace::ch24::0": "Space between Earth and moon",
   "aerospace::ch24::1": "Atom fission\nTwo atoms are combined by being heated together\n\nSIMILAR CONCEPT",
-  "aerospace::ch24::2": "Electromagnetic emissions into interplan"
+  "aerospace::ch24::2": "Electromagnetic emissions into interplanetary space"
  },
  "edits": {}
 }
