@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786386895501,
+ "updatedAt": 1786386937245,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2562,7 +2562,7 @@
   "aerospace::ch26::17": "Reco.\nMulti-spectrum\nWeather",
   "aerospace::ch26::18": "Humidity?\nImportant: turbulence\n\nWRONG",
   "aerospace::ch26::19": "TIROS\n...\n\nMORE",
-  "aerospace::ch26::20": "LANDSAT\n"
+  "aerospace::ch26::20": "LANDSAT\n\nBUT WHAT ARE THEY\n"
  },
  "edits": {}
 }
