@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387603572,
+ "updatedAt": 1786387610051,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2600,7 +2600,7 @@
   "aerospace::ch26::37": "Entered orbit\nInfo on surface and atmosphere\n\nMORE",
   "aerospace::ch26::38": "Second of low-cost Discovery missions\nStationary lander and rover (Sojourner)",
   "aerospace::ch26::39": "Saturn, ESA\n\nMORE PARTNERS",
-  "aerospace::ch26::40": "X-ray obnservatory"
+  "aerospace::ch26::40": "X-ray observatory"
  },
  "edits": {}
 }
