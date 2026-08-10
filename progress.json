@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786398873709,
+ "updatedAt": 1786398878280,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2495,7 +2495,7 @@
   "aerospace::ch18::15": "Important photochemical (radiant and chemical) reactions\nRange: ?\n\nGIVE RANGE",
   "aerospace::ch18::16": "0-60 mi\nSimilar gaseous comp. throughout",
   "aerospace::ch18::17": "55-60 mi\nDifferent gaseous composition\nVertical arrangement",
-  "aerospace::ch18::31": "Acts on rotating air\nHigh-pressure: speeds up\nLow-pressure: slows down\n"
+  "aerospace::ch18::31": "Acts on rotating air\nHigh-pressure: speeds up\nLow-pressure: slows down"
  },
  "edits": {}
 }
