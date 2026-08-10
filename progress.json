@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786403722037,
+ "updatedAt": 1786403752023,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1874,7 +1874,7 @@
   "aerospace::ch27::7": "mastered",
   "aerospace::ch27::8": "mastered",
   "aerospace::ch27::9": "review",
-  "aerospace::ch27::10": "general",
+  "aerospace::ch27::10": "review",
   "aerospace::ch27::11": "mastered",
   "aerospace::ch27::12": "mastered",
   "aerospace::ch27::13": "review",
@@ -2547,8 +2547,7 @@
   "aerospace::ch26::89": "Army established proving ground with captured German scientists to study atmosphere\nArmy: Redstone\nNavy: Improved V-2 (Viking)\nAF: ICBMs and Atlas",
   "aerospace::ch27::0": "UN org. managing int. communications",
   "aerospace::ch27::1": "Not all signals usable for up/downlink\nScintillation\nSolar Flares, Solar Radio Burst",
-  "aerospace::ch27::7": "First, launched two years after Saylut",
-  "aerospace::ch27::10": "First permanent space station\nUS, Russia, and others"
+  "aerospace::ch27::7": "First, launched two years after Saylut"
  },
  "edits": {}
 }
