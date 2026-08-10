@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387884940,
+ "updatedAt": 1786387890995,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2615,7 +2615,8 @@
   "aerospace::ch26::44": "Launched in response to Sputnik\nJanuary 31, 1958",
   "aerospace::ch26::45": "Specialized Japanese Navy fighter\nMade in the Japanese year 2600 (Zero)",
   "aerospace::ch26::46": "Solar and Heliospheric Observatory\n\nGIVE DATE",
-  "aerospace::ch26::47": "Studied electromagnetic\n\nNOT WHAT ASKED FOR"
+  "aerospace::ch26::47": "Studied electromagnetic\n\nNOT WHAT ASKED FOR",
+  "aerospace::ch26::48": "Freedom of use (1958)"
  },
  "edits": {}
 }
