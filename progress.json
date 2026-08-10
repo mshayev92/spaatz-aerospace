@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326255686,
+ "updatedAt": 1786326262753,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2418,7 +2418,7 @@
   "aerospace::ch25::6": "Micro: particle-size\nMeteoroids: clumps of matter\nMeteors: enter atmosphere",
   "aerospace::ch25::7": "Unstable star that produces emissions of light and energy (LAST PART WRONG)\n\nALMOST, THINKING OF SUPERNOVAS",
   "aerospace::ch25::8": "Giant explosion of light and energy",
-  "aerospace::ch25::9": "Possible stars that collapsed into themselves\nGravity so strong nothing escapes"
+  "aerospace::ch25::9": "Possible stars that collapsed into themselves but did not explode\nGravity so strong nothing escapes"
  },
  "edits": {}
 }
