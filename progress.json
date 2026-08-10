@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389870012,
+ "updatedAt": 1786389893611,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1877,7 +1877,8 @@
   "aerospace::ch27::10": "general",
   "aerospace::ch27::11": "mastered",
   "aerospace::ch27::12": "mastered",
-  "aerospace::ch27::13": "review"
+  "aerospace::ch27::13": "review",
+  "aerospace::ch27::14": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2722,7 +2723,8 @@
   "aerospace::ch27::10": "First permanent space station\nUS and Russia\n\nOTHER PARTNERS",
   "aerospace::ch27::12": "Mercury: humans in space\nGemini: preparing for Apollo, long-term effects\nApollo: 11 landed on the moon",
   "aerospace::ch27::13": "Space Station Alpha\n\nTHINKING OF WRONG THING",
-  "aerospace::ch27::14": "Voskhod"
+  "aerospace::ch27::14": "Voskhod\n\nWRONG",
+  "aerospace::ch27::15": "Vostok: First\nVoskhod: "
  },
  "edits": {}
 }
