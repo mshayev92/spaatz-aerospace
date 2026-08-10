@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389002373,
+ "updatedAt": 1786389031534,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2678,7 +2678,8 @@
   "aerospace::ch26::77": "Treaties\nCustoms\nLaws\n\nMASTERED, KNOW WHICH 'IS'",
   "aerospace::ch26::78": "Freedom of use\n\nWRONG",
   "aerospace::ch26::79": "1. Research\n2. ?\n\nWRONG",
-  "aerospace::ch26::80": "Legrange, gravitational eq.\nSpace colonies"
+  "aerospace::ch26::80": "Legrange, gravitational eq.\nSpace colonies",
+  "aerospace::ch26::83": "Gave private sector access to LANDSAT data at one price; provision of government data"
  },
  "edits": {}
 }
