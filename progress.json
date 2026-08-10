@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786325588775,
+ "updatedAt": 1786325626682,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1699,7 +1699,8 @@
   "aerospace::ch24::44": "review",
   "aerospace::ch24::45": "mastered",
   "aerospace::ch24::46": "review",
-  "aerospace::ch24::47": "review"
+  "aerospace::ch24::47": "review",
+  "aerospace::ch24::48": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2387,7 +2388,8 @@
   "aerospace::ch24::44": "Begin: ?\nExtends: Blends with exosphere\n\nWRONG",
   "aerospace::ch24::45": "Shape: two crescents, caving down at the poles\nStructure: charged particles\nThreat: radiation (10-20 roentgen per hour instead of 0.3 per hour)",
   "aerospace::ch24::46": "Speed: light speed\nReduces: atmosphere (NOT QUITE)\n\nFIX",
-  "aerospace::ch24::47": "Within hours\n\nWRONG"
+  "aerospace::ch24::47": "Within hours\n\nWRONG",
+  "aerospace::ch24::49": "Out"
  },
  "edits": {}
 }
