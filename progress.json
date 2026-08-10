@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786386874538,
+ "updatedAt": 1786386883483,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1790,7 +1790,8 @@
   "aerospace::ch26::15": "mastered",
   "aerospace::ch26::16": "general",
   "aerospace::ch26::17": "mastered",
-  "aerospace::ch26::18": "review"
+  "aerospace::ch26::18": "review",
+  "aerospace::ch26::19": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2560,7 +2561,7 @@
   "aerospace::ch26::16": "24 satellites\n6 in view\n4 min\nLat, Long, Elevation, Time\nPPS, SPS\n\nELABORATE ON ORIGIN",
   "aerospace::ch26::17": "Reco.\nMulti-spectrum\nWeather",
   "aerospace::ch26::18": "Humidity?\nImportant: turbulence\n\nWRONG",
-  "aerospace::ch26::19": "TIROS\n...\n\n"
+  "aerospace::ch26::19": "TIROS\n...\n\nMORE"
  },
  "edits": {}
 }
