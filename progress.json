@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392196355,
+ "updatedAt": 1786392206103,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2443,7 +2443,7 @@
   "aerospace::ch1::27": "Garnerin\n1796\n\nDATE WRONG",
   "aerospace::ch1::31": "Planaphore\nFront-to-back stability",
   "aerospace::ch1::34": "Designs for manned powered airplane\nSteam version flown\nWhen: ?",
-  "aerospace::ch2::5": "Interrupting gear\nAuto rifle"
+  "aerospace::ch2::5": "Interrupting gear - Fokker\nAuto rifle - Garros"
  },
  "edits": {}
 }
