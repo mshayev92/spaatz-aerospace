@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326178003,
+ "updatedAt": 1786326205623,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1713,7 +1713,8 @@
   "aerospace::ch25::3": "mastered",
   "aerospace::ch25::4": "mastered",
   "aerospace::ch25::5": "general",
-  "aerospace::ch25::6": "mastered"
+  "aerospace::ch25::6": "mastered",
+  "aerospace::ch25::7": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2414,7 +2415,7 @@
   "aerospace::ch25::4": "Not big enough to be planets\nOrbit sun\nMain belt between Mars/Jupiter\nRocky and metallic object",
   "aerospace::ch25::5": "Irregular object\nNucleus with ice, water, other gases\nVery elliptical orbit around sun\nWhen approaching, develops \"aura\"\n(e.g.: Halley's Comet)\n\nELABORATE",
   "aerospace::ch25::6": "Micro: particle-size\nMeteoroids: clumps of matter\nMeteors: enter atmosphere",
-  "aerospace::ch25::7": "Unstable star that produces emissions of light and energy"
+  "aerospace::ch25::7": "Unstable star that produces emissions of light and energy (LAST PART WRONG)\n\nALMOST, THINKING OF SUPERNOVAS"
  },
  "edits": {}
 }
