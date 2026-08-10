@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786403504935,
+ "updatedAt": 1786403507218,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2543,7 +2543,7 @@
   "aerospace::ch26::49": "Combined orbiter and lander\nMore water than expected (at poles, not in liquid form)\nTemp",
   "aerospace::ch26::69": "Solar Mesosphere Observatory\n\nFIX NAME",
   "aerospace::ch26::71": "Earth Observation System\n\nFIX NAME",
-  "aerospace::ch26::76": "Active: "
+  "aerospace::ch26::76": "Active: amplifies signal\nPassive: "
  },
  "edits": {}
 }
