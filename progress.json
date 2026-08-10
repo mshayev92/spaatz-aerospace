@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786324633865,
+ "updatedAt": 1786324637149,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2341,7 +2341,7 @@
   "aerospace::ch24::21": "Earth bombarded\nMade of charged particles (electrons and protons) held together by the magnetosphere\nNeutrons are byproduct\n\nCLARIFY, SOME PARTS WRONG",
   "aerospace::ch24::22": "Radiation, some orbits (like polar) pass directly through them",
   "aerospace::ch24::23": "Cold welding: air particles escape\nOutgassing: pressure escapes, can damage equipment",
-  "aerospace::ch24::24": "Whole aircraft has same charge\n"
+  "aerospace::ch24::24": "Whole aircraft has same charge"
  },
  "edits": {}
 }
