@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786398959186,
+ "updatedAt": 1786398961330,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2498,7 +2498,7 @@
   "aerospace::ch18::31": "Acts on rotating air\nHigh-pressure: speeds up\nLow-pressure: slows down\n\nCYCLONES?",
   "aerospace::ch18::37": "Causes deflections due to the Earth's rotation\nEast in Northern hemisphere (meant right)",
   "aerospace::ch18::40": "Horizontal air transfer",
-  "aerospace::ch18::41": "At the surface; gra"
+  "aerospace::ch18::41": "At the surface; gravity is the strongest"
  },
  "edits": {}
 }
