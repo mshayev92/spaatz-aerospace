@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392819435,
+ "updatedAt": 1786392826640,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2457,7 +2457,7 @@
   "aerospace::ch4::0": "Lightning war\nME-109\n",
   "aerospace::ch4::19": "CAA War Training Service\nMore pilots",
   "aerospace::ch4::22": "Germany",
-  "aerospace::ch4::29": "A"
+  "aerospace::ch4::29": "Air battles against Japan, US won"
  },
  "edits": {}
 }
