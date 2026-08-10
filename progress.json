@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786322731306,
+ "updatedAt": 1786322739208,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2307,7 +2307,8 @@
   "aerospace::ch24::3": "Atom gains or loses an electron\n\nHOW?",
   "aerospace::ch24::4": "Where ionization and Earth's geomagnetic field play important role",
   "aerospace::ch24::5": "Charged particles from outside the solar system bombarding Earth",
-  "aerospace::ch24::6": "Borealis (North); Australis (South)\n\nUNDERSTAND MAGNETIC STORMS\n"
+  "aerospace::ch24::6": "Borealis (North); Australis (South)\n\nUNDERSTAND MAGNETIC STORMS\n",
+  "aerospace::ch24::7": "Changes in electron density\nAffects communic"
  },
  "edits": {}
 }
