@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786325870679,
+ "updatedAt": 1786325881091,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2400,7 +2400,7 @@
   "aerospace::ch24::51": "Smallest building block\nNeutrons, protons, electrons\nNucleus",
   "aerospace::ch24::53": "Cold welding\nOutgassing\nFree fall\nDrag\n\nWRONG",
   "aerospace::ch24::54": "Oxidation from free oxygen particles (rust)\nDrag",
-  "aerospace::ch25::0": "Ext"
+  "aerospace::ch25::0": "Extends infinitely in all directions\nContains everything"
  },
  "edits": {}
 }
