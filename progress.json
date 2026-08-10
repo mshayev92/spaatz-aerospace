@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387777541,
+ "updatedAt": 1786387789440,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2610,7 +2610,7 @@
   "aerospace::ch26::42": "First pressurized hull\n...\n\nASKING FOR OTHERS",
   "aerospace::ch26::43": "First artificial satellite (1957)\nHelps established freedom of use (1958)\nFollowed by Vanguard/Explorer",
   "aerospace::ch26::44": "Launched in response to Sputnik\nJanuary 31, 1958",
-  "aerospace::ch26::45": "Specialized Japanese Navy fighter\nMade in the year 2600 (Zero)"
+  "aerospace::ch26::45": "Specialized Japanese Navy fighter\nMade in the Japanese year 2600 (Zero)"
  },
  "edits": {}
 }
