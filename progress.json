@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786403575847,
+ "updatedAt": 1786403589587,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2544,7 +2544,8 @@
   "aerospace::ch26::69": "Solar Mesosphere Observatory\n\nFIX NAME",
   "aerospace::ch26::71": "Earth Observation System\n\nFIX NAME",
   "aerospace::ch26::76": "Active: amplifies signal\nPassive: just reflects it",
-  "aerospace::ch26::89": "Army established proving ground with captured German scientists to study atmosphere\nArmy: Redstone\nNavy: Improved V-2 (Viking)\nAF: ICBMs and Atlas"
+  "aerospace::ch26::89": "Army established proving ground with captured German scientists to study atmosphere\nArmy: Redstone\nNavy: Improved V-2 (Viking)\nAF: ICBMs and Atlas",
+  "aerospace::ch27::0": "UN org. managing int. communications"
  },
  "edits": {}
 }
