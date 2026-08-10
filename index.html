@@ -2161,9 +2161,10 @@ function copyCard(e){
   const id=currentCardId(); if(!id) return;
   const c=CARD[id];
   const note=(S.notes&&S.notes[id])||"";
-  // fact-only cards have no separate term, so just use the definition text
-  let text=c.fact?c.d:`${c.t}\n${c.d}`;
-  if(note.trim()) text+=`\n${note.trim()}`;
+  // fact-only cards have no separate term, so just label the definition
+  const lines=c.fact?[`Fact: ${c.d}`]:[`Term: ${c.t}`,`Definition: ${c.d}`];
+  if(note.trim()) lines.push(`Note: ${note.trim()}`);
+  const text=lines.join("\n");
   const btn=$("copy-btn");
   const showCopied=()=>{
     btn.classList.add("copied");
