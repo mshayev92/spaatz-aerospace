@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387710961,
+ "updatedAt": 1786387738711,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2605,7 +2605,8 @@
   "aerospace::ch26::39": "Saturn, ESA\n\nMORE PARTNERS",
   "aerospace::ch26::40": "X-ray observatory",
   "aerospace::ch26::41": "Launch vehicle\nLift: ?\n\nGIVE SECOND",
-  "aerospace::ch26::42": "First pressurized hull\n...\n\nASKING FOR OTHERS"
+  "aerospace::ch26::42": "First pressurized hull\n...\n\nASKING FOR OTHERS",
+  "aerospace::ch26::43": "First artificial satellite (1957)\nHelps established freedom of use (1958)\nFollowed by Vanguard/Explorer"
  },
  "edits": {}
 }
