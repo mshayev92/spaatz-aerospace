@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392136667,
+ "updatedAt": 1786392153323,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2441,7 +2441,8 @@
   "aerospace::ch1::7": "Hot Air Balloon\nWhen: ?",
   "aerospace::ch1::26": "When: 1793\nPhiladelphia",
   "aerospace::ch1::27": "Garnerin\n1796\n\nDATE WRONG",
-  "aerospace::ch1::31": "Planaphore\nFront-to-back stability"
+  "aerospace::ch1::31": "Planaphore\nFront-to-back stability",
+  "aerospace::ch1::34": "Designs for manned powered airplane\nSteam "
  },
  "edits": {}
 }
