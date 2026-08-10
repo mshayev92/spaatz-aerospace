@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786390139407,
+ "updatedAt": 1786390146143,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2733,7 +2733,8 @@
   "aerospace::ch27::16": "First man: Gagarin\nFirst woman: Tereshkova\nFirst orbit: Gagarin\nFirst walk: Leonov\n\nFirst man: Shepard\nFirst woman: Ride\nFirst orbit: Glenn\nFirst walk: White",
   "aerospace::ch27::17": "First: Tereshkova\nFirst American: Ride",
   "aerospace::ch27::18": "November 21, 1969\nArmstrong then Aldrin\n\nFIX DATE",
-  "aerospace::ch27::19": "US and USSR docked, did experiments\nDate: ?\n\nGIVE DATE"
+  "aerospace::ch27::19": "US and USSR docked, did experiments\nDate: ?\n\nGIVE DATE",
+  "aerospace::ch27::20": "Space Transportation System\n"
  },
  "edits": {}
 }
