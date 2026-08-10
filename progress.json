@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786403276755,
+ "updatedAt": 1786403302688,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2538,7 +2538,7 @@
   "aerospace::ch26::28": "Earth as one environmental system\nData via satellites, Space Shuttle\nFirst integrated measurements of Earth systems",
   "aerospace::ch26::34": "Find life\nTemp, water",
   "aerospace::ch26::37": "Entered orbit\nSurface, atmosphere, magnetic field, gravity (?)",
-  "aerospace::ch26::39": "Int. venture led by ESA\nSaturn"
+  "aerospace::ch26::39": "Int. venture led by ESA\nSaturn\n\nFIX PARTNERS, NOT LED BY ESA"
  },
  "edits": {}
 }
