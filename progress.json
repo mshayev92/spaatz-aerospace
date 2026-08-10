@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786323290532,
+ "updatedAt": 1786323306024,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1669,7 +1669,8 @@
   "aerospace::ch24::14": "mastered",
   "aerospace::ch24::15": "mastered",
   "aerospace::ch24::16": "general",
-  "aerospace::ch24::17": "review"
+  "aerospace::ch24::17": "review",
+  "aerospace::ch24::18": "general"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2330,7 +2331,7 @@
   "aerospace::ch24::15": "Crown, extends all around, thin white light\n",
   "aerospace::ch24::16": "Cooler than the surrounding hot plasma\n\nON WHAT LAYER?",
   "aerospace::ch24::17": "Like filaments, but a visible extension from the corona\n\nCONFUSED WITH SOMETHING ELSE",
-  "aerospace::ch24::18": "Plasma flowing across magnetic lines\n\n"
+  "aerospace::ch24::18": "Plasma flowing across magnetic lines\n\nYES, BUT WHAT APPEARANCE?"
  },
  "edits": {}
 }
