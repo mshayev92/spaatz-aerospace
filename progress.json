@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786403431634,
+ "updatedAt": 1786403438340,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2541,7 +2541,7 @@
   "aerospace::ch26::39": "Int. venture led by ESA\nSaturn\n\nFIX PARTNERS, NOT LED BY ESA",
   "aerospace::ch26::46": "Solar and Heliospheric Observatory\nDec 1995",
   "aerospace::ch26::49": "Combined orbiter and lander\nMore water than expected (at poles, not in liquid form)\nTemp",
-  "aerospace::ch26::69": "Solar Mesosphere "
+  "aerospace::ch26::69": "Solar Mesosphere Observatory"
  },
  "edits": {}
 }
