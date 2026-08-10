@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786397483646,
+ "updatedAt": 1786397505358,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1434,7 +1434,7 @@
   "aerospace::ch9::19": "review",
   "aerospace::ch9::20": "mastered",
   "aerospace::ch9::21": "mastered",
-  "aerospace::ch9::22": "general",
+  "aerospace::ch9::22": "mastered",
   "aerospace::ch9::23": "mastered",
   "aerospace::ch9::24": "review",
   "aerospace::ch9::25": "mastered",
@@ -2482,7 +2482,7 @@
   "aerospace::ch8::70": "Takeoff and landing",
   "aerospace::ch8::79": "Bracing\nLess weight on skin, and stronger",
   "aerospace::ch9::15": "Plane sends a signal, ground station returns it\nTime difference used to calculate distance in miles\n\nELABORATE ON VOR",
-  "aerospace::ch9::22": "Close approach, to land\nCenterline, glide slope\n"
+  "aerospace::ch9::22": "Close approach, to land\nCenterline, glide slope"
  },
  "edits": {}
 }
