@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392468310,
+ "updatedAt": 1786392478431,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2447,7 +2447,8 @@
   "aerospace::ch2::13": "Land-speed record - fastest man on Earth\nAerial Experimentation Ass.\n(ailerons and first seaplane)\n\nGIVE SPECIFIC NUMBER",
   "aerospace::ch2::30": "Nationality: ?\nContribution: interrupting gear",
   "aerospace::ch2::36": "Take-off and land on deck of ship\n\nIGNORED WHERE, UNIMPORTANT",
-  "aerospace::ch3::1": "Date: ?\n37 hours\n\nGIVE DATE"
+  "aerospace::ch3::1": "Date: ?\n37 hours\n\nGIVE DATE",
+  "aerospace::ch3::4": "A"
  },
  "edits": {}
 }
