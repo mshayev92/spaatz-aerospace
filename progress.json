@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392231320,
+ "updatedAt": 1786392237395,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2444,7 +2444,7 @@
   "aerospace::ch1::31": "Planaphore\nFront-to-back stability",
   "aerospace::ch1::34": "Designs for manned powered airplane\nSteam version flown\nWhen: ?",
   "aerospace::ch2::5": "Interrupting gear - Fokker\nAuto rifle - Garros",
-  "aerospace::ch2::13": "Motorcycle record - fastest man on Earth"
+  "aerospace::ch2::13": "Land-speed record - fastest man on Earth\n"
  },
  "edits": {}
 }
