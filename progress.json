@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326664708,
+ "updatedAt": 1786326684572,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2438,7 +2438,7 @@
   "aerospace::ch25::16": "Most powerful launch vehicle\nOnly one more powerful: Saturn V\n\nSTARTED AS? ELABORATE",
   "aerospace::ch25::17": "NASA, up then down for passengers to experience free fall",
   "aerospace::ch25::18": "WW2\nFrench squadron\nAmerican volunteers\n\nONE WRONG",
-  "aerospace::ch25::19": "Earth's sister planet\n"
+  "aerospace::ch25::19": "Earth's sister planet\nHot atmosphere, spins backward\nNo moons\nFirst successful interplanetary mission\n"
  },
  "edits": {}
 }
