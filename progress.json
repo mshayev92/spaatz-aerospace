@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786324790245,
+ "updatedAt": 1786324805110,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2348,7 +2348,8 @@
   "aerospace::ch24::24": "Whole aircraft has same charge",
   "aerospace::ch24::25": "Some parts have different charges\n(e.g., one part exposed to sun)",
   "aerospace::ch24::26": "1. Dehydration\n2. Heart weakness\n3. Dizziness",
-  "aerospace::ch24::27": "ASKING FOR SAFE, UNSAFE LEVELS"
+  "aerospace::ch24::27": "ASKING FOR SAFE, UNSAFE LEVELS",
+  "aerospace::ch24::28": "Corona"
  },
  "edits": {}
 }
