@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326218330,
+ "updatedAt": 1786326238741,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2417,7 +2417,8 @@
   "aerospace::ch25::5": "Irregular object\nNucleus with ice, water, other gases\nVery elliptical orbit around sun\nWhen approaching, develops \"aura\"\n(e.g.: Halley's Comet)\n\nELABORATE",
   "aerospace::ch25::6": "Micro: particle-size\nMeteoroids: clumps of matter\nMeteors: enter atmosphere",
   "aerospace::ch25::7": "Unstable star that produces emissions of light and energy (LAST PART WRONG)\n\nALMOST, THINKING OF SUPERNOVAS",
-  "aerospace::ch25::8": "Giant explosion of light and energy"
+  "aerospace::ch25::8": "Giant explosion of light and energy",
+  "aerospace::ch25::9": "Possible stars that collapses into themselves\nGravity so strong nothing escapes"
  },
  "edits": {}
 }
