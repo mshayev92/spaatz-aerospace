@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786393313124,
+ "updatedAt": 1786393318171,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2466,7 +2466,7 @@
   "aerospace::ch5::23": "Replace B-47\n(Need longer range, bigger bomber)",
   "aerospace::ch5::29": "Transport during Tet Offensive",
   "aerospace::ch5::30": "Bombs dropped from planes\nKenney Cocktail\n\nNOT COCKTAIL",
-  "aerospace::ch5::40": "Decreased\n"
+  "aerospace::ch5::40": "Decreased\nBy: ?"
  },
  "edits": {}
 }
