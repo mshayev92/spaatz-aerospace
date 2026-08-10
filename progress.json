@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389434784,
+ "updatedAt": 1786389448817,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1865,7 +1865,8 @@
   "aerospace::ch26::90": "review",
   "aerospace::ch26::91": "review",
   "aerospace::ch27::0": "general",
-  "aerospace::ch27::1": "general"
+  "aerospace::ch27::1": "general",
+  "aerospace::ch27::2": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2700,7 +2701,7 @@
   "aerospace::ch26::90": "PPS within 30 meters\n\nWRONG",
   "aerospace::ch27::0": "Est. int. communications principles\n\nORG OF WHAT?",
   "aerospace::ch27::1": "Not all wavelengths usable for uplink/downlink\nScintillation\nSolar Ionospheric Disturbances\n\nALMOST",
-  "aerospace::ch27::2": "Media\nTV"
+  "aerospace::ch27::2": "Media\nTV\n\nELABORATE"
  },
  "edits": {}
 }
