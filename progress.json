@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392578182,
+ "updatedAt": 1786392592924,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -955,7 +955,7 @@
   "aerospace::ch3::2": "mastered",
   "aerospace::ch3::3": "review",
   "aerospace::ch3::4": "mastered",
-  "aerospace::ch3::5": "general",
+  "aerospace::ch3::5": "review",
   "aerospace::ch3::6": "general",
   "aerospace::ch3::7": "review",
   "aerospace::ch3::8": "mastered",
@@ -2448,8 +2448,7 @@
   "aerospace::ch2::30": "Nationality: ?\nContribution: interrupting gear",
   "aerospace::ch2::36": "Take-off and land on deck of ship\n\nIGNORED WHERE, UNIMPORTANT",
   "aerospace::ch3::1": "Date: ?\n37 hours\n\nGIVE DATE",
-  "aerospace::ch3::4": "Air Mail Act of 1930\nPay acc. to available cargo space\nPG could combine or extend routes\nDC-3 (no accidents)",
-  "aerospace::ch3::5": "Lindenbruh\n"
+  "aerospace::ch3::4": "Air Mail Act of 1930\nPay acc. to available cargo space\nPG could combine or extend routes\nDC-3 (no accidents)"
  },
  "edits": {}
 }
