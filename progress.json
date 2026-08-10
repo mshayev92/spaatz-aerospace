@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786322328619,
+ "updatedAt": 1786322341711,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2296,7 +2296,7 @@
   "aerospace::ch23::38": "SpaceX ones\n\nNOT COMPANY, LIST OF VEHICLES",
   "aerospace::ch23::41": "Blue Origin\n\nWHY DOES IT MATTER?",
   "aerospace::ch24::0": "Space between Earth and moon",
-  "aerospace::ch24::1": "Atom fission\n"
+  "aerospace::ch24::1": "Atom fission\nTwo atoms are combined by being heated together"
  },
  "edits": {}
 }
