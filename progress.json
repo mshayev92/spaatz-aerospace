@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389137968,
+ "updatedAt": 1786389142423,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2689,7 +2689,7 @@
   "aerospace::ch26::85": "Observe enemies/other nations\n\nOTHER PURPOSES AS WELL",
   "aerospace::ch26::86": "National Aeronautics and Space Administration\nEstablished in 1958\nCivilian (not military) activities",
   "aerospace::ch26::87": "1958\nEstablished legal principles for civilian and military space activities",
-  "aerospace::ch26::88": "Fly by, orbit, or land on anot"
+  "aerospace::ch26::88": "Fly by, orbit, or land on another planet"
  },
  "edits": {}
 }
