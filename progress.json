@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786325740555,
+ "updatedAt": 1786325754673,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1701,7 +1701,8 @@
   "aerospace::ch24::46": "review",
   "aerospace::ch24::47": "review",
   "aerospace::ch24::48": "review",
-  "aerospace::ch24::49": "general"
+  "aerospace::ch24::49": "general",
+  "aerospace::ch24::50": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2391,7 +2392,8 @@
   "aerospace::ch24::46": "Speed: light speed\nReduces: atmosphere (NOT QUITE)\n\nFIX",
   "aerospace::ch24::47": "Within hours\n\nWRONG",
   "aerospace::ch24::49": "Outgassing: pressure leaves, damaging equipment (FIX CONCEPT)\nCold welding: air particles leave, lubricant necessary",
-  "aerospace::ch24::50": "Absolute: same charging throughout\nDifferential: differs on different parts"
+  "aerospace::ch24::50": "Absolute: same charging throughout\nDifferential: differs on different parts",
+  "aerospace::ch24::51": "Smallest building block\nNeutrons, protons, electrons"
  },
  "edits": {}
 }
