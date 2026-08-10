@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786397814252,
+ "updatedAt": 1786397817850,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1502,7 +1502,7 @@
   "aerospace::ch18::13": "general",
   "aerospace::ch18::14": "mastered",
   "aerospace::ch18::15": "general",
-  "aerospace::ch18::16": "general",
+  "aerospace::ch18::16": "mastered",
   "aerospace::ch18::17": "general",
   "aerospace::ch18::18": "mastered",
   "aerospace::ch18::19": "mastered",
@@ -2493,7 +2493,8 @@
   "aerospace::ch18::13": "Stars, sun cause pos or neg charge\n\nRANGE? WHAT DOES IT DO?",
   "aerospace::ch18::14": "Below ionosphere\nLess ionization",
   "aerospace::ch18::15": "Important photochemical (radiant and chemical) reactions\nRange: ?\n\nGIVE RANGE",
-  "aerospace::ch18::16": "0-60 mi\nSimilar gaseous comp. throughout"
+  "aerospace::ch18::16": "0-60 mi\nSimilar gaseous comp. throughout",
+  "aerospace::ch18::17": "55"
  },
  "edits": {}
 }
