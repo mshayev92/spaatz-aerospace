@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326927895,
+ "updatedAt": 1786326950433,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2457,7 +2457,8 @@
   "aerospace::ch25::26": "Four distinct cloud/haze layers\n\nMOSTLY DEDUCTED, NOT KNOWN",
   "aerospace::ch25::27": "Mapped 99% Venus's surface",
   "aerospace::ch25::28": "Combined probe and orbiter",
-  "aerospace::ch25::29": "ESA"
+  "aerospace::ch25::29": "ESA",
+  "aerospace::ch25::30": "Earth's only natural satellite\n270 degrees\nOnly one side faces us always"
  },
  "edits": {}
 }
