@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786333199395,
+ "updatedAt": 1786333217021,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2498,7 +2498,8 @@
   "aerospace::ch25::47": "Anorthosite\n\nDEDUCTED",
   "aerospace::ch25::48": "KREEP",
   "aerospace::ch25::50": "Older, but about the same age as Earth",
-  "aerospace::ch25::51": "1/6 of Earth gravity\n270 degrees, 14 days is one moon day\nSame face always\n\nRANGE = TEMP, GIVE"
+  "aerospace::ch25::51": "1/6 of Earth gravity\n270 degrees, 14 days is one moon day\nSame face always\n\nRANGE = TEMP, GIVE",
+  "aerospace::ch25::52": "Narrow, deep valleys on the moon"
  },
  "edits": {}
 }
