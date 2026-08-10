@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786382911646,
+ "updatedAt": 1786382954464,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1776,7 +1776,8 @@
   "aerospace::ch26::1": "general",
   "aerospace::ch26::2": "mastered",
   "aerospace::ch26::3": "mastered",
-  "aerospace::ch26::4": "mastered"
+  "aerospace::ch26::4": "mastered",
+  "aerospace::ch26::5": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2532,7 +2533,8 @@
   "aerospace::ch26::1": "US, Britain, Canada, Japan, Russia\n1993\nFacility use\nOwnership\nMilitary involvement\n\nALMOST, SOME MISTAKES",
   "aerospace::ch26::2": "Orbits a planet",
   "aerospace::ch26::3": "Roll",
-  "aerospace::ch26::4": "Artifical horizon (gyro)"
+  "aerospace::ch26::4": "Artifical horizon (gyro)",
+  "aerospace::ch26::6": "R"
  },
  "edits": {}
 }
