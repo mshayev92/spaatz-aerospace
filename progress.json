@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786382820855,
+ "updatedAt": 1786382826185,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2525,7 +2525,7 @@
   "aerospace::ch25::63": "Date: ?\nExplore the outer planets\n\nGIVE DATE",
   "aerospace::ch25::64": "Irregular\n\nWRONG",
   "aerospace::ch26::0": "How tightly particles packed together\nDecreases with altitude",
-  "aerospace::ch26::1": "US, Britain, Canada, Japan, Russia\n\n\nOwnership\nMilitary use"
+  "aerospace::ch26::1": "US, Britain, Canada, Japan, Russia\n\nFacility use\nOwnership\nMilitary i"
  },
  "edits": {}
 }
