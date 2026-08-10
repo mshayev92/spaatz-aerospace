@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786321047985,
+ "updatedAt": 1786321053684,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2277,7 +2277,7 @@
   "aerospace::ch23::29": "Polar orbit",
   "aerospace::ch23::30": "Low-energy transfer",
   "aerospace::ch23::32": "Latter uses less fuel but is slower\n\nONE MORE DETAIL",
-  "aerospace::ch23::33": "Dead weight\nThrust\nP"
+  "aerospace::ch23::33": "Dead weight\nThrust\nPayload/useful load"
  },
  "edits": {}
 }
