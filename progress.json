@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389230883,
+ "updatedAt": 1786389236458,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2691,7 +2691,7 @@
   "aerospace::ch26::86": "National Aeronautics and Space Administration\nEstablished in 1958\nCivilian (not military) activities",
   "aerospace::ch26::87": "1958\nEstablished legal principles for civilian and military space activities",
   "aerospace::ch26::88": "Fly by, orbit, or land on another planet",
-  "aerospace::ch26::89": "Studied atmosphere with captured V-2 scientists\nArmy: Redstone\nNavy: ?\nAir Force: ICBMs, Atlas"
+  "aerospace::ch26::89": "Studied atmosphere with captured V-2 scientists\nArmy: Redstone\nNavy: ?\nAir Force: ICBMs, Atlas\n\nGIVE NAVY"
  },
  "edits": {}
 }
