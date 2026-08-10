@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786324948563,
+ "updatedAt": 1786324960954,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2358,7 +2358,8 @@
   "aerospace::ch24::29": "Sun spots",
   "aerospace::ch24::30": "Filaments and prominences\n\nWRONG",
   "aerospace::ch24::31": "Solar flares",
-  "aerospace::ch24::32": "Solar winds"
+  "aerospace::ch24::32": "Solar winds",
+  "aerospace::ch24::33": "Prominces"
  },
  "edits": {}
 }
