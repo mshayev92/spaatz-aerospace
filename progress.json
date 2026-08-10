@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786391992991,
+ "updatedAt": 1786391998047,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2436,7 +2436,7 @@
   "aerospace::ch27::24": "Nitrogen, Oxygen",
   "aerospace::ch27::26": "Winner: SpaceShipOne (Mojave Aerospace Ventures)\nTerms: Craft carrying weight of three adult males past 62 mi and bring back within 2 weeks - NGO",
   "aerospace::ch1::0": "Lightweight aircraft that can be steered and propelled",
-  "aerospace::ch1::2": "Develo"
+  "aerospace::ch1::2": "Developed by the Chinese\nFirst used f"
  },
  "edits": {}
 }
