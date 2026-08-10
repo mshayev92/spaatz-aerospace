@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326882584,
+ "updatedAt": 1786326918282,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1734,7 +1734,8 @@
   "aerospace::ch25::24": "review",
   "aerospace::ch25::25": "review",
   "aerospace::ch25::26": "general",
-  "aerospace::ch25::27": "mastered"
+  "aerospace::ch25::27": "mastered",
+  "aerospace::ch25::28": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2453,7 +2454,8 @@
   "aerospace::ch25::22": "Four distinct cloud/haze layers\n\nWRONG",
   "aerospace::ch25::23": "Cloud speed and direction",
   "aerospace::ch25::26": "Four distinct cloud/haze layers\n\nMOSTLY DEDUCTED, NOT KNOWN",
-  "aerospace::ch25::27": "Mapped 99% Venus's surface"
+  "aerospace::ch25::27": "Mapped 99% Venus's surface",
+  "aerospace::ch25::28": "Combined probe and orbiter"
  },
  "edits": {}
 }
