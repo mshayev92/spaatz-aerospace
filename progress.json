@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786388297668,
+ "updatedAt": 1786388305824,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1833,7 +1833,8 @@
   "aerospace::ch26::58": "mastered",
   "aerospace::ch26::59": "mastered",
   "aerospace::ch26::60": "mastered",
-  "aerospace::ch26::61": "review"
+  "aerospace::ch26::61": "review",
+  "aerospace::ch26::62": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2641,7 +2642,8 @@
   "aerospace::ch26::58": "Giotto",
   "aerospace::ch26::59": "Mars Global Surveyor",
   "aerospace::ch26::60": "Sojourner (Pathfinder)",
-  "aerospace::ch26::61": "Viking\n\nWRONG"
+  "aerospace::ch26::61": "Viking\n\nWRONG",
+  "aerospace::ch26::62": "Cassini"
  },
  "edits": {}
 }
