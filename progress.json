@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387631943,
+ "updatedAt": 1786387651261,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1812,7 +1812,8 @@
   "aerospace::ch26::37": "general",
   "aerospace::ch26::38": "mastered",
   "aerospace::ch26::39": "general",
-  "aerospace::ch26::40": "mastered"
+  "aerospace::ch26::40": "mastered",
+  "aerospace::ch26::41": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2602,7 +2603,7 @@
   "aerospace::ch26::38": "Second of low-cost Discovery missions\nStationary lander and rover (Sojourner)",
   "aerospace::ch26::39": "Saturn, ESA\n\nMORE PARTNERS",
   "aerospace::ch26::40": "X-ray observatory",
-  "aerospace::ch26::41": "Launch vehicle\nLift: ?"
+  "aerospace::ch26::41": "Launch vehicle\nLift: ?\n\nGIVE SECOND"
  },
  "edits": {}
 }
