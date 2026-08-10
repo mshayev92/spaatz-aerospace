@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786324986560,
+ "updatedAt": 1786324990360,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2359,7 +2359,7 @@
   "aerospace::ch24::30": "Filaments and prominences\n\nWRONG",
   "aerospace::ch24::31": "Solar flares",
   "aerospace::ch24::32": "Solar winds",
-  "aerospace::ch24::33": "Prominences\n\nWRONG; REVIEW FILAMENTS/PROMINCES CAREFULLY"
+  "aerospace::ch24::33": "Prominences\n\nWRONG; REVIEW FILAMENTS/PROMINENCES CAREFULLY"
  },
  "edits": {}
 }
