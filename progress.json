@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786397590822,
+ "updatedAt": 1786397594815,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2486,7 +2486,7 @@
   "aerospace::ch9::33": "Prohibited and restricted",
   "aerospace::ch9::43": "Coordinates\nLetters top, number side",
   "aerospace::ch9::61": "Not always shared\nMilitary name appears above civilian",
-  "aerospace::ch9::69": "S"
+  "aerospace::ch9::69": "Self-contained"
  },
  "edits": {}
 }
