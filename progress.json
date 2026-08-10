@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786393413785,
+ "updatedAt": 1786393436081,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2469,7 +2469,7 @@
   "aerospace::ch5::40": "Decreased\nBy: ?",
   "aerospace::ch5::42": "Soviet blockade in Berlin\nDay: ? (asking for num tons)\n\nGIVE TONS",
   "aerospace::ch5::44": "Atomic bomb not enough\nFighters, conventional weapons needed\nCentralized control, decentralized exec.",
-  "aerospace::ch5::47": "Scott Crossfield\n\n"
+  "aerospace::ch5::47": "Scott Crossfield\nAircraft: ?\nWhen: ?"
  },
  "edits": {}
 }
