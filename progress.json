@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786324644271,
+ "updatedAt": 1786324653744,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2343,7 +2343,7 @@
   "aerospace::ch24::22": "Radiation, some orbits (like polar) pass directly through them",
   "aerospace::ch24::23": "Cold welding: air particles escape\nOutgassing: pressure escapes, can damage equipment",
   "aerospace::ch24::24": "Whole aircraft has same charge",
-  "aerospace::ch24::25": "Some part"
+  "aerospace::ch24::25": "Some parts have different charges\n(e.g., one part exposed to sun)"
  },
  "edits": {}
 }
