@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786322870490,
+ "updatedAt": 1786322871729,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2316,7 +2316,7 @@
   "aerospace::ch24::8": "Object only subject to gravity",
   "aerospace::ch24::9": "The space between galaxies",
   "aerospace::ch24::10": "1. View of Earth from space\n2. ?\n3. Abundant resources\n4. Make resources unavailable on Earth\n\nGIVE 2.",
-  "aerospace::ch24::11": "864,000 mi diameter\n>100x more than Earth"
+  "aerospace::ch24::11": "864,000 mi diameter\n>100x more than Earth\n"
  },
  "edits": {}
 }
