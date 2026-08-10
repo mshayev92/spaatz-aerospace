@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786325059376,
+ "updatedAt": 1786325061443,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2367,7 +2367,7 @@
   "aerospace::ch24::34": "No",
   "aerospace::ch24::35": "No",
   "aerospace::ch24::36": "100 billion",
-  "aerospace::ch24::37": "3.26 light years\n5 trill"
+  "aerospace::ch24::37": "3.26 light years\n5 trillion miles"
  },
  "edits": {}
 }
