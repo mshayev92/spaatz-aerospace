@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786388159744,
+ "updatedAt": 1786388170547,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1824,7 +1824,8 @@
   "aerospace::ch26::49": "general",
   "aerospace::ch26::50": "review",
   "aerospace::ch26::51": "review",
-  "aerospace::ch26::52": "mastered"
+  "aerospace::ch26::52": "mastered",
+  "aerospace::ch26::53": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2625,7 +2626,7 @@
   "aerospace::ch26::49": "Combined probe and orbiter\nFound temperature range\nMore water than expected\n\nFIX 'COMBINED'",
   "aerospace::ch26::51": "Probe: fly by, orbit, or land\nSatellite: strictly orbit\n\nWRONG",
   "aerospace::ch26::52": "Rangers",
-  "aerospace::ch26::53": "Took pics to make map"
+  "aerospace::ch26::53": "Took pics to make map\n\nWRONG"
  },
  "edits": {}
 }
