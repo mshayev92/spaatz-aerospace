@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387292427,
+ "updatedAt": 1786387296507,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2581,7 +2581,8 @@
   "aerospace::ch26::26": "310 mi above Earth orbit\nUnlike ground observatory, has clear view",
   "aerospace::ch26::27": "Studied interactions between the sun and the atmosphere",
   "aerospace::ch26::28": "Set of satellites observing Earth and team of scientists\nFirst to give measurements of Earth\n\nELABORATE, WHAT SYSTEM?",
-  "aerospace::ch26::29": "First space mission\nFirst probes sent to study moon\n"
+  "aerospace::ch26::29": "First space mission\nFirst probes sent to study moon\n",
+  "aerospace::ch26::30": "Soft landers, had to know where to land on"
  },
  "edits": {}
 }
