@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786322992680,
+ "updatedAt": 1786323002750,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2320,7 +2320,7 @@
   "aerospace::ch24::10": "1. View of Earth from space\n2. ?\n3. Abundant resources\n4. Make resources unavailable on Earth\n\nGIVE 2.",
   "aerospace::ch24::11": "864,000 mi diameter\n>100x more than Earth\nMost gravity in solar system",
   "aerospace::ch24::12": "11 yr sunspot cycle\n24 year orbit (NOT ORBIT, WRONG #)\n\nONE WRONG",
-  "aerospace::ch24::13": "Bottom-most layer (out of 3)\n"
+  "aerospace::ch24::13": "Bottom-most layer (out of 3)\nGives the sun's light"
  },
  "edits": {}
 }
