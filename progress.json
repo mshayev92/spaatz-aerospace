@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786324810914,
+ "updatedAt": 1786324818597,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1680,7 +1680,8 @@
   "aerospace::ch24::25": "mastered",
   "aerospace::ch24::26": "mastered",
   "aerospace::ch24::27": "review",
-  "aerospace::ch24::28": "mastered"
+  "aerospace::ch24::28": "mastered",
+  "aerospace::ch24::29": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2350,7 +2351,8 @@
   "aerospace::ch24::25": "Some parts have different charges\n(e.g., one part exposed to sun)",
   "aerospace::ch24::26": "1. Dehydration\n2. Heart weakness\n3. Dizziness",
   "aerospace::ch24::27": "ASKING FOR SAFE, UNSAFE LEVELS",
-  "aerospace::ch24::28": "Corona"
+  "aerospace::ch24::28": "Corona",
+  "aerospace::ch24::29": "Sun spots"
  },
  "edits": {}
 }
