@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786322822485,
+ "updatedAt": 1786322851160,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1661,7 +1661,8 @@
   "aerospace::ch24::6": "general",
   "aerospace::ch24::7": "mastered",
   "aerospace::ch24::8": "mastered",
-  "aerospace::ch24::9": "mastered"
+  "aerospace::ch24::9": "mastered",
+  "aerospace::ch24::10": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2314,7 +2315,7 @@
   "aerospace::ch24::7": "Changes in electron density\nAffects communications in the Ionosphere",
   "aerospace::ch24::8": "Object only subject to gravity",
   "aerospace::ch24::9": "The space between galaxies",
-  "aerospace::ch24::10": "1. View of Earth from space\n2. \n3. Abundant resources\n4. Make resources unavailable on Earth"
+  "aerospace::ch24::10": "1. View of Earth from space\n2. ?\n3. Abundant resources\n4. Make resources unavailable on Earth\n\nGIVE 2."
  },
  "edits": {}
 }
