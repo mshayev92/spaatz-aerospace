@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326050788,
+ "updatedAt": 1786326064654,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2410,7 +2410,7 @@
   "aerospace::ch25::2": "Spiral galaxy (ours)",
   "aerospace::ch25::3": "Gravity makes round\nCleared neighborhood of other objects\nOrbits star",
   "aerospace::ch25::4": "Not big enough to be planets\nOrbit sun\nMain belt between Mars/Jupiter\nRocky and metallic object",
-  "aerospace::ch25::5": "Irregular object\nNucleus with ice, water, other gases\n"
+  "aerospace::ch25::5": "Irregular object\nNucleus with ice, water, other gases\nVery elliptical orbit around sun\nWhen approaching, has a"
  },
  "edits": {}
 }
