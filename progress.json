@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786325181473,
+ "updatedAt": 1786325184605,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2372,7 +2372,7 @@
   "aerospace::ch24::36": "100 billion",
   "aerospace::ch24::37": "3.26 light years\n5 trillion miles",
   "aerospace::ch24::39": "Diameter: 864k miles (>100x greater)\nMagnetic field: About 100x stronger",
-  "aerospace::ch24::40": "27 "
+  "aerospace::ch24::40": "27 days"
  },
  "edits": {}
 }
