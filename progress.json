@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786388863531,
+ "updatedAt": 1786388875018,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1849,7 +1849,8 @@
   "aerospace::ch26::74": "mastered",
   "aerospace::ch26::75": "review",
   "aerospace::ch26::76": "general",
-  "aerospace::ch26::77": "mastered"
+  "aerospace::ch26::77": "mastered",
+  "aerospace::ch26::78": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2671,7 +2672,7 @@
   "aerospace::ch26::74": "Defense Meteorological Satellite Program\nMilitary",
   "aerospace::ch26::76": "Active: send signals to ground stations\nPassive: simply relay signals\n\nFIX WORDING",
   "aerospace::ch26::77": "Treaties\nCustoms\nLaws\n\nMASTERED, KNOW WHICH 'IS'",
-  "aerospace::ch26::78": "Freedom of use"
+  "aerospace::ch26::78": "Freedom of use\n\nWRONG"
  },
  "edits": {}
 }
