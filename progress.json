@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786322765290,
+ "updatedAt": 1786322780755,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1659,7 +1659,8 @@
   "aerospace::ch24::4": "mastered",
   "aerospace::ch24::5": "mastered",
   "aerospace::ch24::6": "general",
-  "aerospace::ch24::7": "mastered"
+  "aerospace::ch24::7": "mastered",
+  "aerospace::ch24::8": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2310,7 +2311,8 @@
   "aerospace::ch24::5": "Charged particles from outside the solar system bombarding Earth",
   "aerospace::ch24::6": "Borealis (North); Australis (South)\n\nUNDERSTAND MAGNETIC STORMS\n",
   "aerospace::ch24::7": "Changes in electron density\nAffects communications in the Ionosphere",
-  "aerospace::ch24::8": "Object only subject to gravity"
+  "aerospace::ch24::8": "Object only subject to gravity",
+  "aerospace::ch24::9": "The space between "
  },
  "edits": {}
 }
