@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786393051949,
+ "updatedAt": 1786393060047,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2459,7 +2459,7 @@
   "aerospace::ch4::22": "Germany",
   "aerospace::ch4::29": "Air battles against Japan, US won",
   "aerospace::ch4::32": "Hiroshima - August 10, 1945\nNagasaki - August 13, 1945\n\nFIX DATES, WHEN SURRENDER?",
-  "aerospace::ch4::36": "Ground troops + Air\n"
+  "aerospace::ch4::36": "Ground troops + Air\nAir attacked opposing Air Force, "
  },
  "edits": {}
 }
