@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786393300628,
+ "updatedAt": 1786393306812,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2465,7 +2465,7 @@
   "aerospace::ch5::22": "Short to mid haul jet\nLater equipped with turboprop\n240, 340, 440 (58 seats)\n\nSTAT WRONG, BUT CLOSE ENOUGH",
   "aerospace::ch5::23": "Replace B-47\n(Need longer range, bigger bomber)",
   "aerospace::ch5::29": "Transport during Tet Offensive",
-  "aerospace::ch5::30": "Bombs dropped from planes\nKenney Cocktail\n\nNOT COCKTAIL, FIX"
+  "aerospace::ch5::30": "Bombs dropped from planes\nKenney Cocktail\n\nNOT COCKTAIL"
  },
  "edits": {}
 }
