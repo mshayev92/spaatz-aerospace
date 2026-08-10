@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786397348220,
+ "updatedAt": 1786397362099,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2479,7 +2479,8 @@
   "aerospace::ch8::30": "Takes in more air than turbojet and accelerates it less, more efficient and quieter",
   "aerospace::ch8::33": "Flaps: back, lift/drag\nSlats: continue front, increase lift\nSpoilers: destroy lift, ruin laminar flow\nDrag devices: drag, but do not destroy lift",
   "aerospace::ch8::55": "What tank is used",
-  "aerospace::ch8::70": "Takeoff and landing"
+  "aerospace::ch8::70": "Takeoff and landing",
+  "aerospace::ch8::79": "Bracing\nLess weight on skin, "
  },
  "edits": {}
 }
