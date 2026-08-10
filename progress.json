@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786320903464,
+ "updatedAt": 1786320907285,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1637,7 +1637,8 @@
   "aerospace::ch23::24": "mastered",
   "aerospace::ch23::25": "mastered",
   "aerospace::ch23::26": "mastered",
-  "aerospace::ch23::27": "mastered"
+  "aerospace::ch23::27": "mastered",
+  "aerospace::ch23::28": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2269,7 +2270,8 @@
   "aerospace::ch23::25": "Orbit",
   "aerospace::ch23::26": "Equatorial orbit",
   "aerospace::ch23::27": "Circular orbit",
-  "aerospace::ch23::28": "Escape trajectory"
+  "aerospace::ch23::28": "Escape trajectory",
+  "aerospace::ch23::29": "P"
  },
  "edits": {}
 }
