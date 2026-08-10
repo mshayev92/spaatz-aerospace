@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786325048012,
+ "updatedAt": 1786325059376,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2366,7 +2366,8 @@
   "aerospace::ch24::33": "Prominences\n\nWRONG; REVIEW FILAMENTS/PROMINENCES CAREFULLY",
   "aerospace::ch24::34": "No",
   "aerospace::ch24::35": "No",
-  "aerospace::ch24::36": "100 billion"
+  "aerospace::ch24::36": "100 billion",
+  "aerospace::ch24::37": "3.26 light years\n5 trill"
  },
  "edits": {}
 }
