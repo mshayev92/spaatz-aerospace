@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786326752737,
+ "updatedAt": 1786326764362,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2443,7 +2443,8 @@
   "aerospace::ch25::18": "WW2\nFrench squadron\nAmerican volunteers\n\nONE WRONG",
   "aerospace::ch25::19": "Earth's sister planet\nHot atmosphere, spins backward\nNo moons\nFirst successful interplanetary mission\n\nMAPPED BY? ATMOSPHERE?",
   "aerospace::ch25::20": "First successful interplanetary mission\nConfirmed hot temp on Venus",
-  "aerospace::ch25::21": "Soviet, crash landed on Venus"
+  "aerospace::ch25::21": "Soviet, crash landed on Venus",
+  "aerospace::ch25::22": "Four distinct cloud/haze layers"
  },
  "edits": {}
 }
