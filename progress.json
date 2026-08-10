@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786399946143,
+ "updatedAt": 1786399958525,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2515,7 +2515,7 @@
   "aerospace::ch23::17": "Fall as Earth curves",
   "aerospace::ch23::21": "East\n1k mph",
   "aerospace::ch23::23": "Retrothrust\nMore velocity",
-  "aerospace::ch23::31": "Coplanar: same plane\nNon-coplanar: different plane\n\n"
+  "aerospace::ch23::31": "Coplanar: same plane\nNon-coplanar: different plane\n\nELABORATE NON-COPLANAR"
  },
  "edits": {}
 }
