@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387738711,
+ "updatedAt": 1786387748211,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1814,7 +1814,8 @@
   "aerospace::ch26::39": "general",
   "aerospace::ch26::40": "mastered",
   "aerospace::ch26::41": "review",
-  "aerospace::ch26::42": "review"
+  "aerospace::ch26::42": "review",
+  "aerospace::ch26::43": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2606,7 +2607,8 @@
   "aerospace::ch26::40": "X-ray observatory",
   "aerospace::ch26::41": "Launch vehicle\nLift: ?\n\nGIVE SECOND",
   "aerospace::ch26::42": "First pressurized hull\n...\n\nASKING FOR OTHERS",
-  "aerospace::ch26::43": "First artificial satellite (1957)\nHelps established freedom of use (1958)\nFollowed by Vanguard/Explorer"
+  "aerospace::ch26::43": "First artificial satellite (1957)\nHelps established freedom of use (1958)\nFollowed by Vanguard/Explorer",
+  "aerospace::ch26::44": "Launched in response to Spuntik"
  },
  "edits": {}
 }
