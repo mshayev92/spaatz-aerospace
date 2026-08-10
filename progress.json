@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786392095534,
+ "updatedAt": 1786392101164,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2440,7 +2440,7 @@
   "aerospace::ch1::6": "Aerial ship\nWhen: ?",
   "aerospace::ch1::7": "Hot Air Balloon\nWhen: ?",
   "aerospace::ch1::26": "When: 1793\nPhiladelphia",
-  "aerospace::ch1::27": "Garnerin\n"
+  "aerospace::ch1::27": "Garnerin\n1793"
  },
  "edits": {}
 }
