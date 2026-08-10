@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786325393666,
+ "updatedAt": 1786325408143,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1695,7 +1695,8 @@
   "aerospace::ch24::40": "mastered",
   "aerospace::ch24::41": "mastered",
   "aerospace::ch24::42": "mastered",
-  "aerospace::ch24::43": "mastered"
+  "aerospace::ch24::43": "mastered",
+  "aerospace::ch24::44": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2380,7 +2381,7 @@
   "aerospace::ch24::41": "11 years",
   "aerospace::ch24::42": "8 minutes",
   "aerospace::ch24::43": "50 miles\nKarmann line: 62 miles",
-  "aerospace::ch24::44": "Begin: \nExtends: Blends with exosphere"
+  "aerospace::ch24::44": "Begin: ?\nExtends: Blends with exosphere\n\nWRONG"
  },
  "edits": {}
 }
