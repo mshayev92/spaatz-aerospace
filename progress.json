@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786390386219,
+ "updatedAt": 1786390398199,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2744,7 +2744,7 @@
   "aerospace::ch27::22": "By STS-13 to conduct long-term experiments",
   "aerospace::ch27::23": "ESA",
   "aerospace::ch27::24": "Nitrogen, Oxygen",
-  "aerospace::ch27::25": "Purpose: first American orbiting space station\nConstruction: ?"
+  "aerospace::ch27::25": "Purpose: first American orbiting space station\nConstruction: ?\n\n"
  },
  "edits": {}
 }
