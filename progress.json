@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786399421461,
+ "updatedAt": 1786399457302,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2506,7 +2506,7 @@
   "aerospace::ch19::6": "Cirrus (high, thin)\nStratus (layered)\nCumulus (piled up)",
   "aerospace::ch19::8": "Altostratus\nAltocumulus\n\nONE MORE",
   "aerospace::ch19::9": "Low, no turbulence\nImpacts visibility",
-  "aerospace::ch19::23": "Cold: more dense, faster\nHigh pressure cell\nWarm: less dense, slower\nLow pressure cell"
+  "aerospace::ch19::23": "Cold: more dense, faster\nHigh pressure cell\nWarm: less dense, slower\nLow pressure cell\n\nELABORATE"
  },
  "edits": {}
 }
