@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786390079164,
+ "updatedAt": 1786390090240,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2729,7 +2729,8 @@
   "aerospace::ch27::14": "Voskhod\n\nWRONG",
   "aerospace::ch27::15": "Vostok: First spacecraft to take people to space\nVoskhod: 3-person capsule, first space walk",
   "aerospace::ch27::16": "First man: Gagarin\nFirst woman: Tereshkova\nFirst orbit: Gagarin\nFirst walk: Leonov\n\nFirst man: Shepard\nFirst woman: Ride\nFirst orbit: Glenn\nFirst walk: White",
-  "aerospace::ch27::17": "First: Tereshkova\nFirst American: Ride"
+  "aerospace::ch27::17": "First: Tereshkova\nFirst American: Ride",
+  "aerospace::ch27::18": "November 2, 1969"
  },
  "edits": {}
 }
