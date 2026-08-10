@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786383025537,
+ "updatedAt": 1786383037302,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2536,7 +2536,7 @@
   "aerospace::ch26::3": "Roll",
   "aerospace::ch26::4": "Artifical horizon (gyro)",
   "aerospace::ch26::6": "Atmosphere research with modified V-2 rocket (T-1)\nICBMs\nSputnik, we launched Explorer 1",
-  "aerospace::ch26::7": "Freedom of use\nNon-attribution\nCommon benefit"
+  "aerospace::ch26::7": "Freedom of use\nNon-attribution\nCommon benefit\n\nALMOST, FIX 2."
  },
  "edits": {}
 }
