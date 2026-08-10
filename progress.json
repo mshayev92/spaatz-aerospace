@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786388415264,
+ "updatedAt": 1786388432762,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1839,7 +1839,8 @@
   "aerospace::ch26::64": "mastered",
   "aerospace::ch26::65": "review",
   "aerospace::ch26::66": "mastered",
-  "aerospace::ch26::67": "mastered"
+  "aerospace::ch26::67": "mastered",
+  "aerospace::ch26::68": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2654,7 +2655,7 @@
   "aerospace::ch26::65": "OAO\n\nWRONG",
   "aerospace::ch26::66": "Hubble",
   "aerospace::ch26::67": "OAO",
-  "aerospace::ch26::68": "OHSO"
+  "aerospace::ch26::68": "OHSO (???)\n\nWRONG"
  },
  "edits": {}
 }
