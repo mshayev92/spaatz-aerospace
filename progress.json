@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786389259783,
+ "updatedAt": 1786389272079,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1861,7 +1861,8 @@
   "aerospace::ch26::86": "mastered",
   "aerospace::ch26::87": "mastered",
   "aerospace::ch26::88": "mastered",
-  "aerospace::ch26::89": "general"
+  "aerospace::ch26::89": "general",
+  "aerospace::ch26::90": "review"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2693,7 +2694,7 @@
   "aerospace::ch26::87": "1958\nEstablished legal principles for civilian and military space activities",
   "aerospace::ch26::88": "Fly by, orbit, or land on another planet",
   "aerospace::ch26::89": "Studied atmosphere with captured V-2 scientists\nArmy: Redstone\nNavy: ?\nAir Force: ICBMs, Atlas\n\nGIVE NAVY",
-  "aerospace::ch26::90": "PPS within 30 meters"
+  "aerospace::ch26::90": "PPS within 30 meters\n\nWRONG"
  },
  "edits": {}
 }
