@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786397563964,
+ "updatedAt": 1786397573170,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1469,7 +1469,7 @@
   "aerospace::ch9::54": "review",
   "aerospace::ch9::55": "review",
   "aerospace::ch9::56": "mastered",
-  "aerospace::ch9::57": "general",
+  "aerospace::ch9::57": "review",
   "aerospace::ch9::58": "mastered",
   "aerospace::ch9::59": "review",
   "aerospace::ch9::60": "mastered",
@@ -2484,8 +2484,7 @@
   "aerospace::ch9::15": "Plane sends a signal, ground station returns it\nTime difference used to calculate distance in miles\n\nELABORATE ON VOR",
   "aerospace::ch9::22": "Close approach, to land\nCenterline, glide slope",
   "aerospace::ch9::33": "Prohibited and restricted",
-  "aerospace::ch9::43": "Coordinates\nLetters top, number side",
-  "aerospace::ch9::57": "True: with regard to true north\nMagnetic: account for deviation"
+  "aerospace::ch9::43": "Coordinates\nLetters top, number side"
  },
  "edits": {}
 }
