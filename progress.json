@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786387510827,
+ "updatedAt": 1786387519268,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2591,7 +2591,8 @@
   "aerospace::ch26::30": "Soft landers, had to know where to land on moon",
   "aerospace::ch26::31": "Took pictures of the moon's surface to make a map",
   "aerospace::ch26::32": "Inner and outer planets\n\nWRONG",
-  "aerospace::ch26::34": "Combined lander and orbiter\nLook for life, water, temp (Mars)"
+  "aerospace::ch26::34": "Combined lander and orbiter\nLook for life, water, temp (Mars)",
+  "aerospace::ch26::36": "Studied Halley's Comet"
  },
  "edits": {}
 }
