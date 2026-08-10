@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786386970310,
+ "updatedAt": 1786386976872,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2565,7 +2565,8 @@
   "aerospace::ch26::18": "Humidity?\nImportant: turbulence\n\nWRONG",
   "aerospace::ch26::19": "TIROS\n...\n\nMORE",
   "aerospace::ch26::20": "LANDSAT\n\nBUT WHAT ARE THEY?\n",
-  "aerospace::ch26::21": "1: Discovered Van Allen belts\n3: Radiation\n6: View of Earth"
+  "aerospace::ch26::21": "1: Discovered Van Allen belts\n3: Radiation\n6: View of Earth",
+  "aerospace::ch26::22": "Studied sun"
  },
  "edits": {}
 }
