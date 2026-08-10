@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786322512819,
+ "updatedAt": 1786322538703,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1655,7 +1655,8 @@
   "aerospace::ch24::0": "mastered",
   "aerospace::ch24::1": "review",
   "aerospace::ch24::2": "review",
-  "aerospace::ch24::3": "general"
+  "aerospace::ch24::3": "general",
+  "aerospace::ch24::4": "mastered"
  },
  "notes": {
   "aerospace::ch3::0": "Ex-military aviators riding surplus aircraft\nPut on shows",
@@ -2302,7 +2303,8 @@
   "aerospace::ch24::1": "Atom fission\nTwo atoms are combined by being heated together\n\nSIMILAR CONCEPT",
   "aerospace::ch24::2": "Electromagnetic emissions into interplanetary space\n\nWRONG",
   "aerospace::ch24::3": "Atom gains or loses an electron\n\nHOW?",
-  "aerospace::ch24::4": "Where ionization and Earth's geomagnetic field play important role"
+  "aerospace::ch24::4": "Where ionization and Earth's geomagnetic field play important role",
+  "aerospace::ch24::5": "Charged particles from outside the solar system bombarding Earth"
  },
  "edits": {}
 }
