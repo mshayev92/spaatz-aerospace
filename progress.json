@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786399662776,
+ "updatedAt": 1786399665418,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2508,7 +2508,7 @@
   "aerospace::ch19::9": "Low, no turbulence\nImpacts visibility",
   "aerospace::ch19::23": "Cold: more dense, faster\nHigh pressure cell\nWarm: less dense, slower\nLow pressure cell\n\nELABORATE",
   "aerospace::ch19::31": "Windward\nLeeward goes down, gets hot and picks up air. Turbulent",
-  "aerospace::ch21::16": "Anything involved in propulsion\nF"
+  "aerospace::ch21::16": "Anything involved in propulsion\nFuel tanks, boosters, etc."
  },
  "edits": {}
 }
