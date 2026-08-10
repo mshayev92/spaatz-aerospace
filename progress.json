@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786399859545,
+ "updatedAt": 1786399894906,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2513,7 +2513,8 @@
   "aerospace::ch21::27": "Galileo\nObjects with the same weights fall at the same time\n\nNOT QUITE, WAS THINKING OF RIGHT",
   "aerospace::ch21::31": "Konstantin T.\n\nGIVE FULL LAST NAME",
   "aerospace::ch23::17": "Fall as Earth curves",
-  "aerospace::ch23::21": "East\n1k mph"
+  "aerospace::ch23::21": "East\n1k mph",
+  "aerospace::ch23::23": "Retrothrust\n"
  },
  "edits": {}
 }
