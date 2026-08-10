@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786399988908,
+ "updatedAt": 1786399996021,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2516,7 +2516,8 @@
   "aerospace::ch23::21": "East\n1k mph",
   "aerospace::ch23::23": "Retrothrust\nMore velocity",
   "aerospace::ch23::31": "Coplanar: same plane\nNon-coplanar: different plane\n\nELABORATE NON-COPLANAR",
-  "aerospace::ch23::32": "Fast: uses more fuel, faster\n\nELABORATE"
+  "aerospace::ch23::32": "Fast: uses more fuel, faster\n\nELABORATE",
+  "aerospace::ch24::3": "Pos or neg charge\nStar, sun"
  },
  "edits": {}
 }
