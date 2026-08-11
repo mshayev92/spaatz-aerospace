@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786479977504,
+ "updatedAt": 1786479983080,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2653,7 +2653,7 @@
   "aerospace::ch9::53": "Magnetic bearing from VOR",
   "aerospace::ch9::54": "Weather: tracks precipitation, turbulence, etc.\nGround: tracks aircraft position",
   "aerospace::ch9::55": "Metal\nInstruments and systems\nAircraft magnetic field",
-  "aerospace::ch9::57": "True: via true north\nMagnetic: applying variation to true north\nThen apply deviation to get "
+  "aerospace::ch9::57": "True: via true north\nMagnetic: applying variation to true north\nThen apply deviation to get (?)"
  },
  "edits": {}
 }
