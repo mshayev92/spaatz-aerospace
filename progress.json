@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786417803044,
+ "updatedAt": 1786417819056,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2620,7 +2620,8 @@
   "aerospace::ch7::24": "No",
   "aerospace::ch7::25": "Friction\n...\n\nGIVE REST",
   "aerospace::ch7::33": "Streamlines separate from airfoil, which can happen at any speed",
-  "aerospace::ch7::34": "Air particles move slower\n\nWRONG"
+  "aerospace::ch7::34": "Air particles move slower\n\nWRONG",
+  "aerospace::ch8::25": "Needle: direction of turn\nBall: quality of turn"
  },
  "edits": {}
 }
