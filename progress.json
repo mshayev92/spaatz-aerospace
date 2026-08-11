@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786478857804,
+ "updatedAt": 1786478879269,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2638,7 +2638,7 @@
   "aerospace::ch8::64": "Rotor: collect air\nStrator: power turbine\n\nWRONG",
   "aerospace::ch8::78": "Spoiler: ruins laminar flow\nFlap: increases the camber",
   "aerospace::ch8::82": "Frank Whittle\nWhen: ?\n\nWRONG",
-  "aerospace::ch8::83": "60 to 1\nEfficient: ?"
+  "aerospace::ch8::83": "60 to 1\nEfficient: ?\n\nGIVE SECOND"
  },
  "edits": {}
 }
