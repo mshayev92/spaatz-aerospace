@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786479256591,
+ "updatedAt": 1786479259936,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2643,7 +2643,7 @@
   "aerospace::ch9::10": "Measures wind drift, where pilot needs to steer to avoid it",
   "aerospace::ch9::19": "Improved glide slope\n\nTHINKING OF SOMETHING ELSE",
   "aerospace::ch9::24": "Blue",
-  "aerospace::ch9::27": "Cylindrical: mercator\nCone: Conic"
+  "aerospace::ch9::27": "Cylindrical: mercator\nCone: conic"
  },
  "edits": {}
 }
