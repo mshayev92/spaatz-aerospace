@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786415907637,
+ "updatedAt": 1786415916029,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1143,7 +1143,7 @@
   "aerospace::ch4::8": "mastered",
   "aerospace::ch4::9": "mastered",
   "aerospace::ch4::10": "mastered",
-  "aerospace::ch4::11": "review",
+  "aerospace::ch4::11": "general",
   "aerospace::ch4::12": "mastered",
   "aerospace::ch4::13": "mastered",
   "aerospace::ch4::14": "review",
@@ -2587,7 +2587,7 @@
   "aerospace::ch3::59": "Fast\n\nBUT HOW FAST?",
   "aerospace::ch4::2": "Handle orders from other nations, including Britain for new airplanes\n\nWHAT OTHER NATIONS ORDERED?\nHOW MANY AIRCRAFT?",
   "aerospace::ch4::5": "Air superiority\nInterdiction\nClose ground support",
-  "aerospace::ch4::11": "Daytime precision bombing\n\nWHAT"
+  "aerospace::ch4::11": "Daytime precision bombing\n\nWHAT PROBLEM?\nWHAT SOLVED IT?"
  },
  "edits": {}
 }
