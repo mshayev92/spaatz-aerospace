@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786407804388,
+ "updatedAt": 1786407809764,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2572,7 +2572,7 @@
   "aerospace::ch3::11": "Chicago\nSeattle\nBoston\nNew Orleans\nSeattle to Seattle\nBilly Mitchell\n1925\n\nWRONG DATE",
   "aerospace::ch3::12": "1917\n\nWRONG",
   "aerospace::ch3::15": "The 99s were founded\nFirst president: Earhart",
-  "aerospace::ch3::24": "Washington to NYC\nOther routes later\n"
+  "aerospace::ch3::24": "Washington to NYC\nOther routes later\nWhen: ?"
  },
  "edits": {}
 }
