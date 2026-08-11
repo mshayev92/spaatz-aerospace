@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786417230678,
+ "updatedAt": 1786417262222,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2611,7 +2611,7 @@
   "aerospace::ch6::7": "Joint use\nMulti-role\nSupersonic\nStealth",
   "aerospace::ch6::8": "4,500 mph; 250k ft altitude\nSet: ?\n\nGIVE REST",
   "aerospace::ch6::10": "Scott Crossfield",
-  "aerospace::ch6::13": "Epoxium Graphite"
+  "aerospace::ch6::13": "Epoxium Graphite (ACTUALLY: EPOXY)"
  },
  "edits": {}
 }
