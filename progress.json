@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786417179157,
+ "updatedAt": 1786417204537,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2609,7 +2609,8 @@
   "aerospace::ch5::70": "American/SV won",
   "aerospace::ch5::73": "Spotted by tanks and scouts (ONE FIX)\n\nELABORATE",
   "aerospace::ch6::7": "Joint use\nMulti-role\nSupersonic\nStealth",
-  "aerospace::ch6::8": "4,500 mph; 250k ft altitude\nSet: ?\n\nGIVE REST"
+  "aerospace::ch6::8": "4,500 mph; 250k ft altitude\nSet: ?\n\nGIVE REST",
+  "aerospace::ch6::10": "Scott Crossfield"
  },
  "edits": {}
 }
