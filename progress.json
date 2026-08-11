@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786480349938,
+ "updatedAt": 1786480364393,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2660,7 +2660,8 @@
   "aerospace::ch9::66": "Variation to get magnetic course, then deviation to get compass heading",
   "aerospace::ch9::71": "They are around many airports",
   "aerospace::ch10::19": "White on runway edges\n\nGIVE THAT OF TAXIWAY",
-  "aerospace::ch10::20": "Key the microphone\n\nELABORATE"
+  "aerospace::ch10::20": "Key the microphone\n\nELABORATE",
+  "aerospace::ch10::21": "Runways are wider, taxiways represented by letter instead of number"
  },
  "edits": {}
 }
