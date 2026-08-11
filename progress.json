@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786416656228,
+ "updatedAt": 1786416670938,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2601,7 +2601,8 @@
   "aerospace::ch4::35": "15 mil dead\n5 mil injured\n\nWRONG",
   "aerospace::ch4::37": "Attack opposing air force\nAttack vital points\nProceed with ground force",
   "aerospace::ch4::38": "Large: ?\n20 days",
-  "aerospace::ch4::39": "Trained at the Spanish Civil War\n\nNOT WHAT ASKED FOR"
+  "aerospace::ch4::39": "Trained at the Spanish Civil War\n\nNOT WHAT ASKED FOR",
+  "aerospace::ch5::19": "Transport during Berlin Airlift"
  },
  "edits": {}
 }
