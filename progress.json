@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786478764933,
+ "updatedAt": 1786478775557,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2635,7 +2635,8 @@
   "aerospace::ch8::60": "Magnetic compass, heading indicator, airspeed indicator, ...",
   "aerospace::ch8::61": "Measure wind drift\n\nWRONG",
   "aerospace::ch8::62": "The ball in the turn-and-slip indicator that shows quality of turn",
-  "aerospace::ch8::64": "Rotor: collect air\nStrator: power turbine\n\nWRONG"
+  "aerospace::ch8::64": "Rotor: collect air\nStrator: power turbine\n\nWRONG",
+  "aerospace::ch8::78": "Spoiler: "
  },
  "edits": {}
 }
