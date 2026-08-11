@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786407334019,
+ "updatedAt": 1786407339847,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2559,7 +2559,8 @@
   "aerospace::ch2::2": "Pilot, passenger. Train\n36 mph top speed\nDisassemble in field\nFirst Army plane",
   "aerospace::ch2::16": "Rodgers crossed US in 49 days in the WB's Vin Fiz, not meeting the 30-day requirement",
   "aerospace::ch2::18": "2 engines spinning three props.",
-  "aerospace::ch2::19": "LeFrance (know as first electric dirigible)\n\nWAS THINKING OF RIGHT ANSWER"
+  "aerospace::ch2::19": "LeFrance (know as first electric dirigible)\n\nWAS THINKING OF RIGHT ANSWER",
+  "aerospace::ch2::20": "Gnome"
  },
  "edits": {}
 }
