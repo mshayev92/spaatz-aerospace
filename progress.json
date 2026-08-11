@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786416986447,
+ "updatedAt": 1786416994237,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2605,7 +2605,8 @@
   "aerospace::ch5::19": "Transport during Berlin Airlift",
   "aerospace::ch5::61": "VTOL",
   "aerospace::ch5::62": "Conflict: oil rights and border dispute\nEmir fled after 3 days\nAsked for help after 6 days\n\nFIX",
-  "aerospace::ch5::65": "97 killed\n\nWRONG"
+  "aerospace::ch5::65": "97 killed\n\nWRONG",
+  "aerospace::ch5::70": "American/SV won"
  },
  "edits": {}
 }
