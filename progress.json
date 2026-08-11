@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786407713411,
+ "updatedAt": 1786407719575,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2568,7 +2568,7 @@
   "aerospace::ch2::33": "Air superiority essential (control of the air)",
   "aerospace::ch2::35": "Twin engine Benoist XIV",
   "aerospace::ch3::5": "NC-4, Lt Cdr Read\n\nFIRST NONSTOP?",
-  "aerospace::ch3::7": "A"
+  "aerospace::ch3::7": "Barnstormers\nArmy aviators"
  },
  "edits": {}
 }
