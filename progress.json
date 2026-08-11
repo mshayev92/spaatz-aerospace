@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786415621002,
+ "updatedAt": 1786415628948,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2581,7 +2581,7 @@
   "aerospace::ch3::47": "CAA War Training Service\nProduced 300k pilots",
   "aerospace::ch3::49": "Juan...\n\nFINISH",
   "aerospace::ch3::51": "Congress failed, British ones flown\n\nNOT WHAT ASKED FOR",
-  "aerospace::ch3::53": "Kelly and Macready\n1923"
+  "aerospace::ch3::53": "Kelly and Macready\n1923\nT-2"
  },
  "edits": {}
 }
