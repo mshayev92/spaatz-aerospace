@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786479206857,
+ "updatedAt": 1786479224644,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2641,7 +2641,7 @@
   "aerospace::ch8::83": "60 to 1\nEfficient: ?\n\nGIVE SECOND",
   "aerospace::ch8::84": "Not fuel efficient, only Ukraine still uses it in Antanov\n\nREASON WRONG",
   "aerospace::ch9::10": "Measures wind drift, where pilot needs to steer to avoid it",
-  "aerospace::ch9::19": "Improved glide slope"
+  "aerospace::ch9::19": "Improved glide slope\n\nTHINKING OF SOMETHING ELSE"
  },
  "edits": {}
 }
