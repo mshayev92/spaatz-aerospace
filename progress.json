@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786415790529,
+ "updatedAt": 1786415811632,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1116,7 +1116,7 @@
   "aerospace::ch3::56": "review",
   "aerospace::ch3::57": "review",
   "aerospace::ch3::58": "review",
-  "aerospace::ch3::59": "review",
+  "aerospace::ch3::59": "general",
   "aerospace::ch23::0": "mastered",
   "aerospace::ch23::1": "mastered",
   "aerospace::ch23::2": "mastered",
@@ -2584,7 +2584,7 @@
   "aerospace::ch3::53": "Kelly and Macready\n1923\nT-2",
   "aerospace::ch3::54": "Martin 130\nAcross the Pacific",
   "aerospace::ch3::55": "Bobby Trout\nEleanor ... (WRONG)\n\nFIX",
-  "aerospace::ch3::59": "Fast"
+  "aerospace::ch3::59": "Fast\n\nBUT HOW FAST?"
  },
  "edits": {}
 }
