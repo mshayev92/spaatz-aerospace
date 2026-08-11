@@ -635,6 +635,17 @@
   .hist-status-label.m{color:var(--m)} .hist-status-label.r{color:var(--r)}
   .hist-status-label.g{color:var(--g)} .hist-status-label.u{color:var(--fg-3)}
   .hist-note{font-size:12.5px;color:var(--fg-2);margin-top:6px;padding-top:6px;border-top:1px solid var(--edge);white-space:pre-wrap}
+  .hist-log-item{display:flex;align-items:center;gap:10px;padding:9px 12px;border-radius:var(--r-sm);background:var(--surface-2);border:1px solid var(--edge);margin-bottom:5px}
+  .hist-log-main{flex:1;min-width:0;line-height:1.45}
+  .hist-log-trans{display:flex;align-items:center;gap:6px;margin-top:2px}
+  .hist-log-arrow{color:var(--fg-3);font-size:11px}
+  .hist-log-time{font-family:var(--mono);font-size:10.5px;color:var(--fg-3);margin-top:3px}
+  .hist-revert-btn{
+    appearance:none;cursor:pointer;flex:0 0 auto;font-family:var(--mono);font-size:10.5px;font-weight:600;
+    color:var(--fg);background:var(--surface-3);border:1px solid var(--edge);border-radius:var(--r-xs);
+    padding:6px 10px;transition:.15s;
+  }
+  .hist-revert-btn:hover{border-color:var(--accent);color:var(--accent)}
 
   .sync-summary-note{font-size:12.5px;color:var(--fg-2);line-height:1.6;margin-bottom:14px}
   .sync-summary-counts{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
@@ -808,6 +819,9 @@
         <button id="show-history" role="menuitem">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8v4l3 2"/><path d="M3.1 10.5A9 9 0 1 1 12 21a9 9 0 0 1-6.4-2.7"/><path d="M3 4v5h5"/></svg>
           Mastery history</button>
+        <button id="show-change-log" role="menuitem">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/><path d="M12 8v4l2.5 1.5"/></svg>
+          Status change log</button>
         <button id="show-deck-report" role="menuitem">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M9 13h6"/><path d="M9 17h6"/></svg>
           Full deck report</button>
@@ -1631,6 +1645,7 @@ function freshState(){
   return { v:2,
     section:{[DECK]:DEFAULT_SECTION},
     dir:{}, filter:{}, order:{}, current:{}, mastery:{}, sz:"m", edits:{}, notes:{},
+    changeLog:[],
     deckSig:null };
 }
 
@@ -1907,9 +1922,18 @@ document.addEventListener("fullscreenchange",()=>{
     :'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3"/><path d="M21 8V5a2 2 0 0 0-2-2h-3"/><path d="M3 16v3a2 2 0 0 0 2 2h3"/><path d="M16 21h3a2 2 0 0 0 2-2v-3"/></svg>Fullscreen';
 });
 function flip(){ const id=S.current[scopeKey()]; if(id&&CARD[id]&&CARD[id].fact) return; flipped=!flipped; $("card").classList.toggle("flipped",flipped); }
+// Cap so the log can't grow forever on a long study session.
+const CHANGE_LOG_MAX=300;
+function logMasteryChange(id,from,to){
+  if(!S.changeLog) S.changeLog=[];
+  S.changeLog.unshift({id, from:from||null, to:to||null, ts:Date.now()});
+  if(S.changeLog.length>CHANGE_LOG_MAX) S.changeLog.length=CHANGE_LOG_MAX;
+}
 function mark(kind){ const list=workingList(); if(!list.length)return; let p=positionOf(list); if(p<0)p=0; const id=list[p];
-  const wasMarked=S.mastery[id]===kind;
+  const prev=S.mastery[id]||null;
+  const wasMarked=prev===kind;
   if(wasMarked) delete S.mastery[id]; else S.mastery[id]=kind;
+  logMasteryChange(id, prev, S.mastery[id]||null);
   const nl=workingList();
   if(kind==="mastered" && !wasMarked && nl.length){
     fireConfetti();
@@ -2347,6 +2371,70 @@ function openDeckReport(){
   closeMenu();
 }
 
+/* ---- status change log: every mark/unmark, timestamped, revertible ---- */
+function statusLabel(st){ return st?(STATUS_INFO[st]?STATUS_INFO[st].label:st):"Unmarked"; }
+function statusCls(st){ return st?(STATUS_INFO[st]?STATUS_INFO[st].cls:"u"):"u"; }
+function formatLogTime(ts){
+  const d=new Date(ts);
+  return d.toLocaleString([], {month:"short", day:"numeric", hour:"numeric", minute:"2-digit"});
+}
+function buildChangeLog(){
+  const deckName=(DECKS[DECK]&&DECKS[DECK].name)||DECK;
+  // Keep each entry's real index into S.changeLog (for revert), even though
+  // entries for since-deleted cards are filtered out of the display.
+  const log=(S.changeLog||[]).map((e,i)=>({...e,_i:i})).filter(e=>CARD[e.id]);
+  let htmlOut="", textOut="STATUS CHANGE HISTORY\n======================\n";
+
+  if(!log.length){
+    htmlOut=`<div class="modal-empty">No status changes yet.<br>Mark a card as <strong>Mastered</strong>, <strong>Need review</strong>, or <strong>Know some</strong> to see it here.</div>`;
+    textOut+="No status changes yet.\n";
+  }else{
+    htmlOut+=`<div class="hist-deck"><div class="hist-deck-name">${escapeHtml(deckName)}</div>`;
+    textOut+=`\n${deckName}\n${"-".repeat(deckName.length)}\n`;
+    log.forEach(entry=>{
+      const c=CARD[entry.id];
+      const title=c.fact?c.d:c.t;
+      const fromCls=statusCls(entry.from), toCls=statusCls(entry.to);
+      const fromLabel=statusLabel(entry.from), toLabel=statusLabel(entry.to);
+      const when=formatLogTime(entry.ts);
+      htmlOut+=`<div class="hist-log-item">`
+        +`<div class="hist-log-main">`
+        +`<div class="ht">${escapeHtml(title)}</div>`
+        +`<div class="hist-log-trans"><span class="hist-status-label ${fromCls}">${escapeHtml(fromLabel)}</span>`
+        +`<span class="hist-log-arrow">→</span>`
+        +`<span class="hist-status-label ${toCls}">${escapeHtml(toLabel)}</span></div>`
+        +`<div class="hist-log-time">${escapeHtml(when)}</div>`
+        +`</div>`
+        +`<button class="hist-revert-btn" type="button" data-log-idx="${entry._i}" title="Revert to ${escapeHtml(fromLabel)}">Revert</button>`
+        +`</div>`;
+      textOut+=`• [${when}] ${title}: ${fromLabel} → ${toLabel}\n`;
+    });
+    htmlOut+=`</div>`;
+  }
+
+  $("modal-body").innerHTML=htmlOut;
+  $("modal-body")._textOut=textOut;
+}
+function openChangeLog(){
+  $("modal-title").textContent="Status change history";
+  buildChangeLog();
+  $("history-backdrop").classList.add("open");
+  $("modal-copy").textContent="Copy to clipboard";
+  $("modal-copy").classList.remove("copied");
+  closeMenu();
+}
+function revertMasteryChange(i){
+  const log=S.changeLog; if(!log || !log[i]) return;
+  const entry=log[i];
+  const id=entry.id;
+  if(!CARD[id]) return;
+  const current=S.mastery[id]||null;
+  if(entry.from) S.mastery[id]=entry.from; else delete S.mastery[id];
+  logMasteryChange(id, current, entry.from||null);
+  render(); persist();
+  buildChangeLog();
+}
+
 /* ---- range mastery ----
    Numbers cards by the list actually on screen (current order *and* filter),
    so "1–100" means the same 1–100 the position counter is showing. Indexing
@@ -2440,6 +2528,8 @@ function applyRangeMastery(){
     if(excSet.has(pos)) continue;
     const id=ids[pos-1];
     if(!id) continue;
+    const prev=S.mastery[id]||null;
+    if(prev!=="mastered") logMasteryChange(id, prev, "mastered");
     S.mastery[id]="mastered";
     count++;
   }
@@ -2493,7 +2583,14 @@ $("edit-reset").addEventListener("click",resetEdit);
 $("edit-def").addEventListener("keydown",e=>{ if(e.key==="Enter"&&(e.ctrlKey||e.metaKey)){ e.preventDefault(); saveEdit(); } });
 $("edit-term").addEventListener("keydown",e=>{ if(e.key==="Enter"&&(e.ctrlKey||e.metaKey)){ e.preventDefault(); saveEdit(); } });
 $("show-history").addEventListener("click",openHistory);
+$("show-change-log").addEventListener("click",openChangeLog);
 $("show-deck-report").addEventListener("click",openDeckReport);
+$("modal-body").addEventListener("click",e=>{
+  const btn=e.target.closest(".hist-revert-btn");
+  if(!btn) return;
+  const idx=parseInt(btn.dataset.logIdx,10);
+  if(!isNaN(idx)) revertMasteryChange(idx);
+});
 $("sync-banner-btn").addEventListener("click",openSyncSummary);
 $("sync-banner-dismiss").addEventListener("click",()=>{ bannerDismissed=true; $("sync-banner").classList.remove("show"); });
 $("sync-summary-close").addEventListener("click",closeSyncSummary);
@@ -2678,6 +2775,7 @@ function bootError(msg){
   for(const id of Object.keys(S.mastery)) if(!CARD[id]) delete S.mastery[id];
   for(const id of Object.keys(S.notes||{})) if(!CARD[id]) delete S.notes[id];
   for(const id of Object.keys(S.edits||{})) if(!CARD[id]) delete S.edits[id];
+  if(S.changeLog) S.changeLog=S.changeLog.filter(e=>e&&CARD[e.id]);
   buildSectionSelect();
 
   // Load progress.json every time (not just first run) so a git pull with
