@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786478642286,
+ "updatedAt": 1786478647667,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2633,7 +2633,7 @@
   "aerospace::ch8::54": "Drains water/air (dregs) gathered at the bottom\n\nFIX",
   "aerospace::ch8::56": "An object resisting changes in motion\n\nELABORATE",
   "aerospace::ch8::60": "Magnetic compass, heading indicator, airspeed indicator, ...",
-  "aerospace::ch8::61": "Measure wind drift"
+  "aerospace::ch8::61": "Measure wind drift\n\nWRONG"
  },
  "edits": {}
 }
