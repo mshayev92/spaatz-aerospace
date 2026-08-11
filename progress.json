@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786417906601,
+ "updatedAt": 1786417931161,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2621,7 +2621,8 @@
   "aerospace::ch7::25": "Friction\n...\n\nGIVE REST",
   "aerospace::ch7::33": "Streamlines separate from airfoil, which can happen at any speed",
   "aerospace::ch7::34": "Air particles move slower\n\nWRONG",
-  "aerospace::ch8::25": "Needle: direction of turn\nBall: quality of turn"
+  "aerospace::ch8::25": "Needle: direction of turn\nBall: quality of turn",
+  "aerospace::ch8::28": "Intake\nCompression\nPower\nExhaust"
  },
  "edits": {}
 }
