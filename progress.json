@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786416266823,
+ "updatedAt": 1786416281639,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2594,7 +2594,7 @@
   "aerospace::ch4::21": "Under the guise of comm. aviation",
   "aerospace::ch4::25": "Crete",
   "aerospace::ch4::26": "Attack opposing air force\nAttack vital points\nProceed with ground force\n\nTHINKING OF SOMETHING ELSE",
-  "aerospace::ch4::28": "Bombed within 150 miles of shore"
+  "aerospace::ch4::28": "Bombed within 150 miles of shore\n\nWRONG"
  },
  "edits": {}
 }
