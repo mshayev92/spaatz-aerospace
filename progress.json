@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786478045155,
+ "updatedAt": 1786478051486,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2629,7 +2629,8 @@
   "aerospace::ch8::39": "Cork, string, (?)\n\nGIVE OTHER",
   "aerospace::ch8::42": "Heading indicator",
   "aerospace::ch8::46": "To make into spindle",
-  "aerospace::ch8::52": "Releases oxygen\n\nWRONG"
+  "aerospace::ch8::52": "Releases oxygen\n\nWRONG",
+  "aerospace::ch8::54": "Drains water and "
  },
  "edits": {}
 }
