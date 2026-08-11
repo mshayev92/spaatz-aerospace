@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786477872897,
+ "updatedAt": 1786477894568,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2625,7 +2625,8 @@
   "aerospace::ch8::28": "Intake\nCompression\nPower\nExhaust",
   "aerospace::ch8::29": "Simplest form of jet engine\nAccelerates more air than turbofan, louder/less efficient\n\nNOT WHAT ASKED FOR",
   "aerospace::ch8::31": "Unducted rotor\nCombines features of turboprop and turbofan\n\nELABORATE",
-  "aerospace::ch8::36": "Pascal's Law of fluid in confined space\nMechanical advantage\n\nELABORATE"
+  "aerospace::ch8::36": "Pascal's Law of fluid in confined space\nMechanical advantage\n\nELABORATE",
+  "aerospace::ch8::39": "Cork, string, "
  },
  "edits": {}
 }
