@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786407841825,
+ "updatedAt": 1786407867408,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1083,7 +1083,7 @@
   "aerospace::ch3::23": "mastered",
   "aerospace::ch3::24": "general",
   "aerospace::ch3::25": "mastered",
-  "aerospace::ch3::26": "review",
+  "aerospace::ch3::26": "general",
   "aerospace::ch3::27": "mastered",
   "aerospace::ch3::28": "review",
   "aerospace::ch3::29": "mastered",
@@ -2573,7 +2573,7 @@
   "aerospace::ch3::12": "1917\n\nWRONG",
   "aerospace::ch3::15": "The 99s were founded\nFirst president: Earhart",
   "aerospace::ch3::24": "Washington to NYC\nOther routes later\nWhen: ?\n\nGIVE DATE",
-  "aerospace::ch3::26": "Route: NY to Paris\nAircraft: ?\nDuration: ?"
+  "aerospace::ch3::26": "Route: NY to Paris\nAircraft: ?\nDuration: ?\n\nGIVE REST"
  },
  "edits": {}
 }
