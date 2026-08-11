@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786415952337,
+ "updatedAt": 1786415964256,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2588,7 +2588,8 @@
   "aerospace::ch4::2": "Handle orders from other nations, including Britain for new airplanes\n\nWHAT OTHER NATIONS ORDERED?\nHOW MANY AIRCRAFT?",
   "aerospace::ch4::5": "Air superiority\nInterdiction\nClose ground support",
   "aerospace::ch4::11": "Daytime precision bombing\n\nWHAT PROBLEM?\nWHAT SOLVED IT?",
-  "aerospace::ch4::14": "First pressurized bomber\n\nWHAT NOTABLE EVENT(S)?"
+  "aerospace::ch4::14": "First pressurized bomber\n\nWHAT NOTABLE EVENT(S)?",
+  "aerospace::ch4::15": "Independent from army\n"
  },
  "edits": {}
 }
