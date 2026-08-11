@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786415819575,
+ "updatedAt": 1786415825524,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2585,7 +2585,7 @@
   "aerospace::ch3::54": "Martin 130\nAcross the Pacific",
   "aerospace::ch3::55": "Bobby Trout\nEleanor ... (WRONG)\n\nFIX",
   "aerospace::ch3::59": "Fast\n\nBUT HOW FAST?",
-  "aerospace::ch4::2": "Handle orders from other nations, inc"
+  "aerospace::ch4::2": "Handle orders from other nations, including Britain for new airplanes\n"
  },
  "edits": {}
 }
