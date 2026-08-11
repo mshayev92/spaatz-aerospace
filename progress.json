@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786406959445,
+ "updatedAt": 1786406970402,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2550,7 +2550,8 @@
   "aerospace::ch27::7": "First, launched two years after Saylut",
   "aerospace::ch27::18": "July 21, 1969\nArmstrong, then Aldrin\n\nFIX DATE",
   "aerospace::ch27::27": "Extra-Vehicular Activity\nManned Maneuvering Unit: nitrogen propelled",
-  "aerospace::ch27::28": "Apollo: customs sizes, removable life support\nShuttle: set sizes, custom gloves, life support on torso"
+  "aerospace::ch27::28": "Apollo: customs sizes, removable life support\nShuttle: set sizes, custom gloves, life support on torso",
+  "aerospace::ch1::10": "Zeppelin (LZ-1)\n"
  },
  "edits": {}
 }
