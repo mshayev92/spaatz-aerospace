@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786417413284,
+ "updatedAt": 1786417422308,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2613,7 +2613,7 @@
   "aerospace::ch6::10": "Scott Crossfield",
   "aerospace::ch6::13": "Epoxium Graphite (ACTUALLY: EPOXY)",
   "aerospace::ch6::19": "Boeing 747\n...\n\nGIVE REST AND DATE",
-  "aerospace::ch6::20": "Britain and France\nLondon/Paris to Washington DC"
+  "aerospace::ch6::20": "Britain and France\nAgreement: ?\nYear: ?\nLondon/Paris to Washington DC"
  },
  "edits": {}
 }
