@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786417754081,
+ "updatedAt": 1786417782973,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2619,7 +2619,8 @@
   "aerospace::ch7::21": "Induced lift: Low pressure top\nDynamic lift: High pressure bottom",
   "aerospace::ch7::24": "No",
   "aerospace::ch7::25": "Friction\n...\n\nGIVE REST",
-  "aerospace::ch7::33": "Streamlines separate from airfoil, which can happen at any speed"
+  "aerospace::ch7::33": "Streamlines separate from airfoil, which can happen at any speed",
+  "aerospace::ch7::34": "Particles move slower"
  },
  "edits": {}
 }
