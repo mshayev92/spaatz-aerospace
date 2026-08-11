@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786479628431,
+ "updatedAt": 1786479647860,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2648,7 +2648,7 @@
   "aerospace::ch9::39": "Master and slave station\nTime difference to plot on LORAN chart the location",
   "aerospace::ch9::42": "Turbulence ahead of aircraftt",
   "aerospace::ch9::47": "Cultural: man-made\nHydrographic: water",
-  "aerospace::ch9::51": "Accelerometer\nComputer\n"
+  "aerospace::ch9::51": "Accelerometer\nComputer\nClock"
  },
  "edits": {}
 }
