@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786407894101,
+ "updatedAt": 1786407903724,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2574,7 +2574,7 @@
   "aerospace::ch3::15": "The 99s were founded\nFirst president: Earhart",
   "aerospace::ch3::24": "Washington to NYC\nOther routes later\nWhen: ?\n\nGIVE DATE",
   "aerospace::ch3::26": "Route: NY to Paris\nAircraft: ?\nDuration: ?\n\nGIVE REST",
-  "aerospace::ch3::28": "Cessna, Beech, \nWichita, Kansas"
+  "aerospace::ch3::28": "Cessna, Beech, (?)\nWichita, Kansas"
  },
  "edits": {}
 }
