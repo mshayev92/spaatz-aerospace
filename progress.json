@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786407452699,
+ "updatedAt": 1786407460346,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2562,7 +2562,8 @@
   "aerospace::ch2::19": "LeFrance (know as first electric dirigible)\n\nWAS THINKING OF RIGHT ANSWER",
   "aerospace::ch2::20": "Gnome",
   "aerospace::ch2::21": "Louis Breguet\nWhen: ?\n\nGIVE DATE",
-  "aerospace::ch2::27": "Dirigible"
+  "aerospace::ch2::27": "Dirigible",
+  "aerospace::ch2::31": "Billy Mitchell\n"
  },
  "edits": {}
 }
