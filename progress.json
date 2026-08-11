@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786416417239,
+ "updatedAt": 1786416422280,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2598,7 +2598,7 @@
   "aerospace::ch4::31": "March 9-10, 1945\nIncendiary, not precise, bombing\nCasualties: ?",
   "aerospace::ch4::33": "Japanese stronger, Pearl Harbor too\n\nELABORATE",
   "aerospace::ch4::34": "Air superiority (but not alone)\n\nWRONG",
-  "aerospace::ch4::35": "15 mil dead\n"
+  "aerospace::ch4::35": "15 mil dead\n5 mil injured"
  },
  "edits": {}
 }
