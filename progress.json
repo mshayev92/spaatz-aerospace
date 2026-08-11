@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786479744017,
+ "updatedAt": 1786479753470,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2650,7 +2650,7 @@
   "aerospace::ch9::47": "Cultural: man-made\nHydrographic: water",
   "aerospace::ch9::51": "Accelerometer\nComputer\nClock (WRONG)\n\nFIX",
   "aerospace::ch9::52": "Standard and Differential GPS",
-  "aerospace::ch9::53": "M"
+  "aerospace::ch9::53": "Magnetic bearing from VOR"
  },
  "edits": {}
 }
