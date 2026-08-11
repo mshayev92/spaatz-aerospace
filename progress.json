@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786407118983,
+ "updatedAt": 1786407135947,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2554,7 +2554,7 @@
   "aerospace::ch1::10": "Zeppelin (LZ-1)\nWhen: ?\n\nGIVE DATE",
   "aerospace::ch1::23": "Leonardo da Vinci",
   "aerospace::ch1::29": "Spinning arm",
-  "aerospace::ch1::36": "12 sec\n58 sec"
+  "aerospace::ch1::36": "12 sec\n58 sec (WRONG)\n\nFIX, INC. FT"
  },
  "edits": {}
 }
