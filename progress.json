@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786416379961,
+ "updatedAt": 1786416385973,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1165,7 +1165,7 @@
   "aerospace::ch4::30": "mastered",
   "aerospace::ch4::31": "general",
   "aerospace::ch4::32": "general",
-  "aerospace::ch4::33": "review",
+  "aerospace::ch4::33": "general",
   "aerospace::ch4::34": "review",
   "aerospace::ch4::35": "review",
   "aerospace::ch4::36": "general",
@@ -2596,7 +2596,7 @@
   "aerospace::ch4::26": "Attack opposing air force\nAttack vital points\nProceed with ground force\n\nTHINKING OF SOMETHING ELSE",
   "aerospace::ch4::28": "Bombed within 150 miles of shore\n\nWRONG",
   "aerospace::ch4::31": "March 9-10, 1945\nIncendiary, not precise, bombing\nCasualties: ?",
-  "aerospace::ch4::33": "Japanese stronger, Pearl Harbor too\n\nELA"
+  "aerospace::ch4::33": "Japanese stronger, Pearl Harbor too\n\nELABORATE"
  },
  "edits": {}
 }
