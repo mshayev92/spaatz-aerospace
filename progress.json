@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786415899362,
+ "updatedAt": 1786415907637,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2587,7 +2587,7 @@
   "aerospace::ch3::59": "Fast\n\nBUT HOW FAST?",
   "aerospace::ch4::2": "Handle orders from other nations, including Britain for new airplanes\n\nWHAT OTHER NATIONS ORDERED?\nHOW MANY AIRCRAFT?",
   "aerospace::ch4::5": "Air superiority\nInterdiction\nClose ground support",
-  "aerospace::ch4::11": "Daytime precision bombing"
+  "aerospace::ch4::11": "Daytime precision bombing\n\nWHAT"
  },
  "edits": {}
 }
