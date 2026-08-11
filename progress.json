@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786416225387,
+ "updatedAt": 1786416230603,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2592,7 +2592,8 @@
   "aerospace::ch4::15": "Independent from army\nCripples\n\nELABORATE\n",
   "aerospace::ch4::17": "Gain air superiority\n\nWHAT ELSE?",
   "aerospace::ch4::21": "Under the guise of comm. aviation",
-  "aerospace::ch4::25": "Crete"
+  "aerospace::ch4::25": "Crete",
+  "aerospace::ch4::26": "Attack opposing air force"
  },
  "edits": {}
 }
