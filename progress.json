@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786480074157,
+ "updatedAt": 1786480078251,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2655,7 +2655,7 @@
   "aerospace::ch9::55": "Metal\nInstruments and systems\nAircraft magnetic field",
   "aerospace::ch9::57": "True: via true north\nMagnetic: applying variation to true north\nThen apply deviation to get (?)\n\nGIVE THIRD",
   "aerospace::ch9::59": "Military Training Routes\nLow altitude",
-  "aerospace::ch9::62": "Civil and military / Joint"
+  "aerospace::ch9::62": "Civil and military / Joint-use"
  },
  "edits": {}
 }
