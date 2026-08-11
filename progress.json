@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786479911795,
+ "updatedAt": 1786479917537,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2652,7 +2652,7 @@
   "aerospace::ch9::52": "Standard and Differential GPS",
   "aerospace::ch9::53": "Magnetic bearing from VOR",
   "aerospace::ch9::54": "Weather: tracks precipitation, turbulence, etc.\nGround: tracks aircraft position",
-  "aerospace::ch9::55": "Metal\nIn"
+  "aerospace::ch9::55": "Metal\nInstruments and systems\nAircraft magnetic field"
  },
  "edits": {}
 }
