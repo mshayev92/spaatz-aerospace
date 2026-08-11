@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786480103442,
+ "updatedAt": 1786480146015,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2656,7 +2656,7 @@
   "aerospace::ch9::57": "True: via true north\nMagnetic: applying variation to true north\nThen apply deviation to get (?)\n\nGIVE THIRD",
   "aerospace::ch9::59": "Military Training Routes\nLow altitude",
   "aerospace::ch9::62": "Civil and military / Joint-use",
-  "aerospace::ch9::65": "Passes through the center of the Earth, arc is most directly a straight line on a map"
+  "aerospace::ch9::65": "Passes through the center of the Earth, arc is most directly a straight line on a map\n\nGOOD, BUT "
  },
  "edits": {}
 }
