@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786407767810,
+ "updatedAt": 1786407775089,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2570,7 +2570,7 @@
   "aerospace::ch3::5": "NC-4, Lt Cdr Read\n\nFIRST NONSTOP?",
   "aerospace::ch3::7": "Barnstormers\nArmy aviators",
   "aerospace::ch3::11": "Chicago\nSeattle\nBoston\nNew Orleans\nSeattle to Seattle\nBilly Mitchell\n1925\n\nWRONG DATE",
-  "aerospace::ch3::12": "1917"
+  "aerospace::ch3::12": "1917\n\nWRONG"
  },
  "edits": {}
 }
