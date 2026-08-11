@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786477714393,
+ "updatedAt": 1786477722321,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2624,7 +2624,7 @@
   "aerospace::ch8::25": "Needle: direction of turn\nBall: quality of turn",
   "aerospace::ch8::28": "Intake\nCompression\nPower\nExhaust",
   "aerospace::ch8::29": "Simplest form of jet engine\nAccelerates more air than turbofan, louder/less efficient\n\nNOT WHAT ASKED FOR",
-  "aerospace::ch8::31": "Unducted rotor\nCombines features of turboprop and turbofan\n"
+  "aerospace::ch8::31": "Unducted rotor\nCombines features of turboprop and turbofan"
  },
  "edits": {}
 }
