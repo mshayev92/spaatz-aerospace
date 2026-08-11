@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786415785814,
+ "updatedAt": 1786415790529,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2583,7 +2583,8 @@
   "aerospace::ch3::51": "Congress failed, British ones flown\n\nNOT WHAT ASKED FOR",
   "aerospace::ch3::53": "Kelly and Macready\n1923\nT-2",
   "aerospace::ch3::54": "Martin 130\nAcross the Pacific",
-  "aerospace::ch3::55": "Bobby Trout\nEleanor ... (WRONG)\n\nFIX"
+  "aerospace::ch3::55": "Bobby Trout\nEleanor ... (WRONG)\n\nFIX",
+  "aerospace::ch3::59": "Fast"
  },
  "edits": {}
 }
