@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786408014798,
+ "updatedAt": 1786408023288,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2576,7 +2576,7 @@
   "aerospace::ch3::26": "Route: NY to Paris\nAircraft: ?\nDuration: ?\n\nGIVE REST",
   "aerospace::ch3::28": "Cessna, Beech, (?)\nWichita, Kansas\nWhen: ?\n\nGIVE REST",
   "aerospace::ch3::32": "1. S-4 (WRONG)\n2. Sikorsky S-42 (Pan Am Clipper)\n3. China Clipper (MODEL?)\n\nFIX",
-  "aerospace::ch3::33": "LZ-7, LZ-9, LZ-10\n"
+  "aerospace::ch3::33": "LZ-7, LZ-9, LZ-10\n\nWRONG"
  },
  "edits": {}
 }
