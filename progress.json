@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786503011776,
+ "updatedAt": 1786503014696,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2676,7 +2676,7 @@
   "aerospace::ch19::7": "Stratus, Cumulus, Nimbostratus, Cumulonimbus, Stratocumulus\n300-6500 ft",
   "aerospace::ch19::19": "Stratus and cumulus",
   "aerospace::ch19::22": "Stratocumulus: heavy precipitation\nAltostratus: light\n\nELABORATE",
-  "aerospace::ch19::32": "El\nAffect weather worldwide"
+  "aerospace::ch19::32": "El Niño: \nAffect weather worldwide"
  },
  "edits": {}
 }
