@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786494811751,
+ "updatedAt": 1786494820865,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2665,7 +2665,7 @@
   "aerospace::ch10::22": "First two digits of compass heading, rounded to nearest 10 degrees\n\nONE SMALL CLARIFICATION",
   "aerospace::ch10::23": "L, C, D, E\n\nWRONG",
   "aerospace::ch18::6": "Day: breeze from sea\nNight: breeze from land toward sea\n(Filling low pressure area)\n\nELABORATE",
-  "aerospace::ch18::24": "At night, warm land radiates heat, "
+  "aerospace::ch18::24": "At night, warm land radiates heat, which is cooled by"
  },
  "edits": {}
 }
