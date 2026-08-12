@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786505180394,
+ "updatedAt": 1786505184192,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2689,7 +2689,7 @@
   "aerospace::ch24::1": "Atom fusion\nTwo atoms bond to make a new one under extreme heat\n\nFIX",
   "aerospace::ch24::2": "Charged particles into interplanetary space\n\nREVIEW ONCE MORE",
   "aerospace::ch24::10": "View of Earth, Clear view of universe, Abundant resources, Unique resources that can be made",
-  "aerospace::ch24::12": "\n27 day rotation\n11 yr sunspot cycle"
+  "aerospace::ch24::12": "27 day rotation\n11 yr sunspot cycle"
  },
  "edits": {}
 }
