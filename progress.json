@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786505480190,
+ "updatedAt": 1786505547833,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2693,7 +2693,8 @@
   "aerospace::ch24::19": "Non-cyclic electromagnetic waves being ejected into interplanetary space\n\nNOT WHAT ASKED FOR",
   "aerospace::ch24::20": "Solare flares, etc. = Solar Ionospheric Disturbances (SIDs)\n\nELABORATE",
   "aerospace::ch24::27": "Safe is 0.3 roentgen per hour\nBelts give 10-20 per hour",
-  "aerospace::ch24::30": "Spicules"
+  "aerospace::ch24::30": "Spicules",
+  "aerospace::ch24::33": "Corona Holes"
  },
  "edits": {}
 }
