@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786561952672,
+ "updatedAt": 1786561960837,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2709,7 +2709,8 @@
   "aerospace::ch25::38": "250k miles from planet\nTotal: ?\n\nMORE",
   "aerospace::ch25::42": "In Kuiper Belt, in field of icy bodies",
   "aerospace::ch25::44": "Iron\nDeserts",
-  "aerospace::ch25::45": "First close-up pictures of surface\n\nREVIEW ONE MORE TIME"
+  "aerospace::ch25::45": "First close-up pictures of surface\n\nREVIEW ONE MORE TIME",
+  "aerospace::ch25::46": "Anorthosite"
  },
  "edits": {}
 }
