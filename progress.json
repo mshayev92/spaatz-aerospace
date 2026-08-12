@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786565187105,
+ "updatedAt": 1786565198079,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2736,7 +2736,7 @@
   "aerospace::ch26::85": "Detect heat plums of nuclear launches; observe enemies\n\nGIVE THREE SPECIFIC ONES",
   "aerospace::ch26::90": "Within 3 meters, but more precise for military\n\nELABORATE",
   "aerospace::ch26::91": "Preceded: ?\nAF directed to build Navstar\n\nGIVE ONE",
-  "aerospace::ch27::9": "Mercury: high-altitude pressurized Navy flight suits\nGemini: personalized "
+  "aerospace::ch27::9": "Mercury: high-altitude pressurized Navy flight suits\nGemini: personalized (WRONG)\n\nFIX"
  },
  "edits": {}
 }
