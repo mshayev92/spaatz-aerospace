@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786504090002,
+ "updatedAt": 1786504099825,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2684,7 +2684,8 @@
   "aerospace::ch23::22": "Goes to higher orbit",
   "aerospace::ch23::37": "SpaceX, Blue Origin, United Alliance",
   "aerospace::ch23::39": "SpaceX\nFalcon 1, Falcon 9, Falcon Heavy. Coming: Falcon Super Heavy, Starship",
-  "aerospace::ch23::40": "United Launch Alliance\nFigures: ?\n\nGIVE SECOND"
+  "aerospace::ch23::40": "United Launch Alliance\nFigures: ?\n\nGIVE SECOND",
+  "aerospace::ch23::41": "Blue Origin "
  },
  "edits": {}
 }
