@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786502995598,
+ "updatedAt": 1786503011776,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2675,7 +2675,8 @@
   "aerospace::ch18::50": "The total energy of moving molecules in a substance",
   "aerospace::ch19::7": "Stratus, Cumulus, Nimbostratus, Cumulonimbus, Stratocumulus\n300-6500 ft",
   "aerospace::ch19::19": "Stratus and cumulus",
-  "aerospace::ch19::22": "Stratocumulus: heavy precipitation\nAltostratus: light\n\nELABORATE"
+  "aerospace::ch19::22": "Stratocumulus: heavy precipitation\nAltostratus: light\n\nELABORATE",
+  "aerospace::ch19::32": "El\nAffect weather worldwide"
  },
  "edits": {}
 }
