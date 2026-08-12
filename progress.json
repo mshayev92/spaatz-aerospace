@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786502425193,
+ "updatedAt": 1786502438899,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2670,7 +2670,8 @@
   "aerospace::ch18::34": "Dew point - current temp",
   "aerospace::ch18::38": "High: high pressure surrounded by lower\nLow: vice versa",
   "aerospace::ch18::39": "Ridge: elongated area of high pressure\nTrough: elongated area of low pressure\nCol: saddleback between high and low pressure",
-  "aerospace::ch18::42": "Uneven heating"
+  "aerospace::ch18::42": "Uneven heating",
+  "aerospace::ch18::44": "When the air has not re"
  },
  "edits": {}
 }
