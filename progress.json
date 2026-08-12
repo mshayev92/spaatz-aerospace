@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786565224213,
+ "updatedAt": 1786565253766,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2737,7 +2737,7 @@
   "aerospace::ch26::90": "Within 3 meters, but more precise for military\n\nELABORATE",
   "aerospace::ch26::91": "Preceded: ?\nAF directed to build Navstar\n\nGIVE ONE",
   "aerospace::ch27::9": "Mercury: high-altitude pressurized Navy flight suits\nGemini: personalized (WRONG)\n\nFIX",
-  "aerospace::ch27::10": "Permanent space station of the near future\nUS, Russia, Japan, Britain"
+  "aerospace::ch27::10": "Permanent space station of the near future\nUS, Russia, Japan, Britain (WRONG)\n\nFIX"
  },
  "edits": {}
 }
