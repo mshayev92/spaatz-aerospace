@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786502883662,
+ "updatedAt": 1786502885841,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2674,7 +2674,7 @@
   "aerospace::ch18::44": "When the air has not reached saturation",
   "aerospace::ch18::50": "The total energy of moving molecules in a substance",
   "aerospace::ch19::7": "Stratus, Cumulus, Nimbostratus, Cumulonimbus, Stratocumulus\n300-6500 ft",
-  "aerospace::ch19::19": "Str"
+  "aerospace::ch19::19": "Stratus and cumulus"
  },
  "edits": {}
 }
