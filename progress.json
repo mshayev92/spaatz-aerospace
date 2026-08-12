@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786564480945,
+ "updatedAt": 1786564482417,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2733,7 +2733,7 @@
   "aerospace::ch26::79": "Environmental analysis and ...\n\nGIVE SECOND",
   "aerospace::ch26::81": "Blue Origin\n\nWRONG",
   "aerospace::ch26::82": "Russia",
-  "aerospace::ch26::85": "Detect heat plums of nuclear launches; observe enemies\n\nGIVE THREE SPE"
+  "aerospace::ch26::85": "Detect heat plums of nuclear launches; observe enemies\n\nGIVE THREE SPECIFIC ONES"
  },
  "edits": {}
 }
