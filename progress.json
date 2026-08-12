@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786561998050,
+ "updatedAt": 1786562020341,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2711,7 +2711,8 @@
   "aerospace::ch25::44": "Iron\nDeserts",
   "aerospace::ch25::45": "First close-up pictures of surface\n\nREVIEW ONE MORE TIME",
   "aerospace::ch25::46": "Anorthosite\n\nSAME MISTAKE TWICE",
-  "aerospace::ch25::47": "Anorthosite\n\nDEDUCTED"
+  "aerospace::ch25::47": "Anorthosite\n\nDEDUCTED",
+  "aerospace::ch25::51": "1/6 gravity of Earth\nFaces on side, 270 degrees in 14 Earth days is one lunar day\n"
  },
  "edits": {}
 }
