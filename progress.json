@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786504273405,
+ "updatedAt": 1786504289066,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2686,7 +2686,7 @@
   "aerospace::ch23::39": "SpaceX\nFalcon 1, Falcon 9, Falcon Heavy. Coming: Falcon Super Heavy, Starship",
   "aerospace::ch23::40": "United Launch Alliance\nFigures: ?\n\nGIVE SECOND",
   "aerospace::ch23::41": "Blue Origin\nMatter: ?\n\nGIVE SECOND",
-  "aerospace::ch24::1": "Atom fusion\nTwo atoms bond to make a new one under extreme heat"
+  "aerospace::ch24::1": "Atom fusion\nTwo atoms bond to make a new one under extreme heat\n\nFIX"
  },
  "edits": {}
 }
