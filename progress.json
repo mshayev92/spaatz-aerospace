@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786564504624,
+ "updatedAt": 1786564554061,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2734,7 +2734,7 @@
   "aerospace::ch26::81": "Blue Origin\n\nWRONG",
   "aerospace::ch26::82": "Russia",
   "aerospace::ch26::85": "Detect heat plums of nuclear launches; observe enemies\n\nGIVE THREE SPECIFIC ONES",
-  "aerospace::ch26::90": "Within 3 meters, but more precise for military"
+  "aerospace::ch26::90": "Within 3 meters, but more precise for military\n\nELABORATE"
  },
  "edits": {}
 }
