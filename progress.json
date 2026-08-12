@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786563872754,
+ "updatedAt": 1786563887475,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2720,7 +2720,8 @@
   "aerospace::ch26::32": "Inner planets\n\nWHICH FLEW BY VENUS AND MERCURY?",
   "aerospace::ch26::33": "Inner and outer planets; took pictures\n\nMORE DETAILS",
   "aerospace::ch26::35": "Improved pics on Pioneer\n\nELABORATE",
-  "aerospace::ch26::42": "Launched first communications satellite\n\nGIVE MORE"
+  "aerospace::ch26::42": "Launched first communications satellite\n\nGIVE MORE",
+  "aerospace::ch26::50": "Banded structure that dissipates at the poles"
  },
  "edits": {}
 }
