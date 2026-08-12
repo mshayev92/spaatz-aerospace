@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786565415511,
+ "updatedAt": 1786565444349,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2739,7 +2739,8 @@
   "aerospace::ch27::9": "Mercury: high-altitude pressurized Navy flight suits\nGemini: personalized (WRONG)\n\nFIX",
   "aerospace::ch27::10": "Permanent space station of the near future\nUS, Russia, Japan, Britain (WRONG)\n\nFIX",
   "aerospace::ch27::13": "Saylut",
-  "aerospace::ch27::14": "Soyuz"
+  "aerospace::ch27::14": "Soyuz",
+  "aerospace::ch27::19": "US and USSR spacecraft docking and conducting experiments\n1975"
  },
  "edits": {}
 }
