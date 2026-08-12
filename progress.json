@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786495587270,
+ "updatedAt": 1786495603907,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2669,7 +2669,7 @@
   "aerospace::ch18::30": "Equilibrium; how much insolation reaches Earth vs. how much is reflected by the space and atmosphere\n\nFIX WORDING",
   "aerospace::ch18::34": "Dew point - current temp",
   "aerospace::ch18::38": "High: high pressure surrounded by lower\nLow: vice versa",
-  "aerospace::ch18::39": "Ridge: "
+  "aerospace::ch18::39": "Ridge: elongated area of high pressure\nTrough: elongated area of low pressure\nCol: saddleback between high"
  },
  "edits": {}
 }
