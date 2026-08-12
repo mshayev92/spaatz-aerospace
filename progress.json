@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786505393521,
+ "updatedAt": 1786505402067,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2691,7 +2691,7 @@
   "aerospace::ch24::10": "View of Earth, Clear view of universe, Abundant resources, Unique resources that can be made",
   "aerospace::ch24::12": "27 day rotation\n11 yr sunspot cycle\n\nELABORATE",
   "aerospace::ch24::19": "Non-cyclic electromagnetic waves being ejected into interplanetary space\n\nNOT WHAT ASKED FOR",
-  "aerospace::ch24::20": "Solar Ionospheric Disturbances (SIDs)"
+  "aerospace::ch24::20": "Solare flares, etc.; Solar Ionospheric Disturbances (SIDs)"
  },
  "edits": {}
 }
