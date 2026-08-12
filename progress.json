@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786565269681,
+ "updatedAt": 1786565357010,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2738,7 +2738,8 @@
   "aerospace::ch26::91": "Preceded: ?\nAF directed to build Navstar\n\nGIVE ONE",
   "aerospace::ch27::9": "Mercury: high-altitude pressurized Navy flight suits\nGemini: personalized (WRONG)\n\nFIX",
   "aerospace::ch27::10": "Permanent space station of the near future\nUS, Russia, Japan, Britain (WRONG)\n\nFIX",
-  "aerospace::ch27::13": "Saylut"
+  "aerospace::ch27::13": "Saylut",
+  "aerospace::ch27::14": "Soyuz"
  },
  "edits": {}
 }
