@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786505620245,
+ "updatedAt": 1786505639156,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2695,7 +2695,8 @@
   "aerospace::ch24::27": "Safe is 0.3 roentgen per hour\nBelts give 10-20 per hour",
   "aerospace::ch24::30": "Spicules",
   "aerospace::ch24::33": "Corona Holes",
-  "aerospace::ch24::38": "4.3 light years - Alpha Centauri system"
+  "aerospace::ch24::38": "4.3 light years - Alpha Centauri system",
+  "aerospace::ch24::46": "Speed: slightly less than the speed of sound\nReduces: "
  },
  "edits": {}
 }
