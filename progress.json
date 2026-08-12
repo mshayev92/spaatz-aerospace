@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786503911258,
+ "updatedAt": 1786503921925,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2681,7 +2681,8 @@
   "aerospace::ch21::32": "Dr. Goddard",
   "aerospace::ch21::43": "WW1",
   "aerospace::ch23::14": "Geosynchronous: 24 hour rotation (w/ Earth)\nGeostationary: across equator (hover over single point)",
-  "aerospace::ch23::22": "Goes to higher orbit"
+  "aerospace::ch23::22": "Goes to higher orbit",
+  "aerospace::ch23::37": "SpaceX, Blue Origin, "
  },
  "edits": {}
 }
