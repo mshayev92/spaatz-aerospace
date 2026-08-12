@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786563232056,
+ "updatedAt": 1786563246902,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2717,7 +2717,8 @@
   "aerospace::ch25::60": "Kuiper Belt billions of miles beyond Pluto (know that Pluto reclassified, and about Quasar, Sedna, and Eris)\n\nONE TINY CHANGE",
   "aerospace::ch25::64": "Irregular\n\nWRONG",
   "aerospace::ch26::5": "Also called a thunderstorm; heavy precipitation and turbulence\n\nALMOST; CLARIFY",
-  "aerospace::ch26::32": "Inner planets\n\nWHICH FLEW BY VENUS AND MERCURY?"
+  "aerospace::ch26::32": "Inner planets\n\nWHICH FLEW BY VENUS AND MERCURY?",
+  "aerospace::ch26::33": "Inner and outer planets; took pictures"
  },
  "edits": {}
 }
