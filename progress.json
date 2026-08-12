@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786505820317,
+ "updatedAt": 1786505827925,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2698,7 +2698,8 @@
   "aerospace::ch24::38": "4.3 light years - Alpha Centauri system",
   "aerospace::ch24::46": "Speed: slightly less than the speed of light\nReduces: atmosphere (ELABORATE)\n\nFIX",
   "aerospace::ch24::47": "Solar disturbance; Under one hour\n\nWHAT IS MAGNETIC STORM?",
-  "aerospace::ch24::48": "Short wave, reflects off the ionosphere better than long waves (which are used locally)"
+  "aerospace::ch24::48": "Short wave, reflects off the ionosphere better than long waves (which are used locally)",
+  "aerospace::ch24::53": "Vacuum, "
  },
  "edits": {}
 }
