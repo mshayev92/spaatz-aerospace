@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786562098318,
+ "updatedAt": 1786562115513,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2713,7 +2713,8 @@
   "aerospace::ch25::46": "Anorthosite\n\nSAME MISTAKE TWICE",
   "aerospace::ch25::47": "Anorthosite\n\nDEDUCTED",
   "aerospace::ch25::51": "1/6 gravity of Earth\nFaces on side, 270 degrees in 14 Earth days is one lunar day\n\nFIX",
-  "aerospace::ch25::53": "Starlike\nCeres"
+  "aerospace::ch25::53": "Starlike\nCeres",
+  "aerospace::ch25::60": "Kuiper Belt billions of miles beyond Pluto"
  },
  "edits": {}
 }
