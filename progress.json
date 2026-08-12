@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786564099356,
+ "updatedAt": 1786564104523,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2724,7 +2724,8 @@
   "aerospace::ch26::50": "Banded structure that dissipates at the poles\n\nWHAT ELSE?",
   "aerospace::ch26::51": "Probe: fly by, orbits, or lands on a planet other than Earth\nSatellite: orbits Earth",
   "aerospace::ch26::53": "Surveyors - soft landers",
-  "aerospace::ch26::54": "Lunar Orbiters"
+  "aerospace::ch26::54": "Lunar Orbiters",
+  "aerospace::ch26::61": "Galileo"
  },
  "edits": {}
 }
