@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786561675591,
+ "updatedAt": 1786561688050,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2705,7 +2705,7 @@
   "aerospace::ch25::22": "Canyons, mountains, plateaus\n\nWRONG",
   "aerospace::ch25::24": "Craters",
   "aerospace::ch25::25": "Canyons, mountains, plateaus\n\nDEDUCTED",
-  "aerospace::ch25::31": "Basalt (, Anorthosite (most common, contains feldspar)"
+  "aerospace::ch25::31": "Basalt (has holes were gas escaped), Anorthosite (most common, contains feldspar), KREEP (not found on Earth)"
  },
  "edits": {}
 }
