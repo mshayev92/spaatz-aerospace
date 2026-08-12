@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786564253388,
+ "updatedAt": 1786564279954,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2729,7 +2729,7 @@
   "aerospace::ch26::68": "Rossi\n\nWRONG",
   "aerospace::ch26::70": "Earth Radiation Budget Satellite",
   "aerospace::ch26::75": "TELSTAR 1",
-  "aerospace::ch26::78": "Non-appropriation"
+  "aerospace::ch26::78": "Non-appropriation\n\nELABORATE"
  },
  "edits": {}
 }
