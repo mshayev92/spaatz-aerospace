@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786561631249,
+ "updatedAt": 1786561644397,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2703,7 +2703,8 @@
   "aerospace::ch25::13": "Hot air = particles spread farther apart\nHow tight particles are packed together",
   "aerospace::ch25::15": "Enter Jupiter's orbit\n\nWHAT DID IT DO?",
   "aerospace::ch25::22": "Canyons, mountains, plateaus\n\nWRONG",
-  "aerospace::ch25::24": "Craters"
+  "aerospace::ch25::24": "Craters",
+  "aerospace::ch25::25": "Canyons, mountains, plateaus"
  },
  "edits": {}
 }
