@@ -77,6 +77,7 @@
     --g:#A78BFA;  --g-soft:rgba(167,139,250,.15);
     --r:#FB7185;  --r-soft:rgba(251,113,133,.15);
     --u:#5D7286;  --u-soft:rgba(148,167,186,.12);
+    --c:#FFD76B;  --c-soft:rgba(255,215,107,.16);  --c-ink:#2B1E00;
 
     --face:#FFFFFF;
     --face-2:#E8EEF5;
@@ -126,6 +127,7 @@
     --g:#6D4CE0;  --g-soft:rgba(109,76,224,.11);
     --r:#D93A55;  --r-soft:rgba(217,58,85,.11);
     --u:#8496A8;  --u-soft:rgba(117,135,154,.12);
+    --c:#B8860B;  --c-soft:rgba(184,134,11,.12);  --c-ink:#FFFFFF;
 
     --face:#FFFFFF;
     --face-2:#F7FAFC;
@@ -266,11 +268,11 @@
   .chip b{font-family:var(--mono);font-weight:600;font-variant-numeric:tabular-nums;color:var(--fg)}
   .chip::before{content:"";width:7px;height:7px;border-radius:50%;background:currentColor;opacity:.85}
   .chip[data-filter="all"]::before{display:none}
-  .chip.m{color:var(--m)} .chip.g{color:var(--g)} .chip.r{color:var(--r)} .chip.u{color:var(--u)}
+  .chip.m{color:var(--m)} .chip.g{color:var(--g)} .chip.r{color:var(--r)} .chip.u{color:var(--u)} .chip.c{color:var(--c)}
   .chip:hover{border-color:var(--edge-2);background:var(--surface-2)}
   .chip.on{border-color:currentColor;background:var(--accent-soft)}
   .chip.m.on{background:var(--m-soft)} .chip.g.on{background:var(--g-soft)}
-  .chip.r.on{background:var(--r-soft)} .chip.u.on{background:var(--u-soft)}
+  .chip.r.on{background:var(--r-soft)} .chip.u.on{background:var(--u-soft)} .chip.c.on{background:var(--c-soft)}
   .chip[data-filter="all"]{color:var(--fg-2)}
   .chip[data-filter="all"].on{color:var(--fg);border-color:var(--edge-2);background:var(--surface-3)}
 
@@ -392,6 +394,7 @@
   .status-stripe.m{background:var(--m)}
   .status-stripe.r{background:var(--r)}
   .status-stripe.g{background:var(--g)}
+  .status-stripe.c{background:var(--c)}
 
   .flip-hint{
     flex:0 0 auto;padding:0 16px 14px;text-align:center;
@@ -403,6 +406,12 @@
     content:"edited";position:absolute;bottom:12px;left:16px;
     font-family:var(--mono);font-size:9px;font-weight:600;letter-spacing:.11em;text-transform:uppercase;
     color:var(--accent);background:color-mix(in srgb,var(--accent) 14%,transparent);
+    padding:4px 9px;border-radius:99px;
+  }
+  .card.confirmed .face.front::before{
+    content:"★ confirmed";position:absolute;bottom:12px;right:16px;
+    font-family:var(--mono);font-size:9px;font-weight:600;letter-spacing:.11em;text-transform:uppercase;
+    color:var(--c);background:color-mix(in srgb,var(--c) 16%,transparent);
     padding:4px 9px;border-radius:99px;
   }
 
@@ -520,6 +529,12 @@
   .mbtn.review.on{background:var(--r);border-color:transparent;color:#fff}
   .mbtn.general.on{background:var(--g);border-color:transparent;color:#fff}
   .mbtn.master.on{background:var(--m);border-color:transparent;color:var(--m-ink)}
+  /* Confirm only makes sense once a card is mastered, so it stays out of the
+     way (zero width, not just hidden) until render() reveals it. */
+  .mbtn.confirm{flex:0;min-width:0;padding:0;border:0;opacity:0;overflow:hidden;pointer-events:none}
+  .mbtn.confirm.show{flex:1;min-width:0;padding:12px 10px;border:1px solid var(--edge);opacity:1;pointer-events:auto}
+  .mbtn.confirm:hover{color:var(--c);border-color:var(--c)}
+  .mbtn.confirm.on{background:var(--c);border-color:transparent;color:var(--c-ink)}
   @media (max-width:600px){
     .mastery{
       position:sticky;bottom:0;z-index:30;
@@ -634,6 +649,11 @@
   .hist-status-label{font-family:var(--mono);font-size:9.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;flex:0 0 auto}
   .hist-status-label.m{color:var(--m)} .hist-status-label.r{color:var(--r)}
   .hist-status-label.g{color:var(--g)} .hist-status-label.u{color:var(--fg-3)}
+  .hist-confirmed-pip{
+    font-family:var(--mono);font-size:9px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;
+    color:var(--c);background:color-mix(in srgb,var(--c) 16%,transparent);
+    padding:2px 7px;border-radius:99px;white-space:nowrap;
+  }
   .hist-note{font-size:12.5px;color:var(--fg-2);margin-top:6px;padding-top:6px;border-top:1px solid var(--edge);white-space:pre-wrap}
   .hist-log-item{display:flex;align-items:center;gap:10px;padding:9px 12px;border-radius:var(--r-sm);background:var(--surface-2);border:1px solid var(--edge);margin-bottom:5px}
   .hist-log-main{flex:1;min-width:0;line-height:1.45}
@@ -883,6 +903,7 @@
     <div class="chips" id="chips" role="group" aria-label="Filter cards">
       <button class="chip" data-filter="all" type="button">All <b id="c-all">0</b></button>
       <button class="chip m" data-filter="mastered" type="button">Mastered <b id="c-master">0</b></button>
+      <button class="chip c" data-filter="unconfirmed" type="button">Needs confirm <b id="c-unconfirmed">0</b></button>
       <button class="chip g" data-filter="general" type="button">Know some <b id="c-general">0</b></button>
       <button class="chip r" data-filter="review" type="button">Review <b id="c-review">0</b></button>
       <button class="chip u" data-filter="unmarked" type="button">Unmarked <b id="c-unmarked">0</b></button>
@@ -952,6 +973,9 @@
     <button class="mbtn master" id="mark-master">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
       <span>Mastered</span></button>
+    <button class="mbtn confirm" id="mark-confirm" title="Confirm this is truly mastered, not just mastered for now">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.5 14.9 8.5 21.5 9.4 16.8 14 17.9 20.6 12 17.5 6.1 20.6 7.2 14 2.5 9.4 9.1 8.5z"/></svg>
+      <span>Confirm</span></button>
     <span class="confetti-burst" id="confetti-burst" aria-hidden="true"></span>
   </div>
 
@@ -976,6 +1000,7 @@
         <div class="shortcuts-row"><kbd>Space</kbd><span>Flip card</span></div>
         <div class="shortcuts-row"><span><kbd>←</kbd> <kbd>→</kbd></span><span>Move between cards</span></div>
         <div class="shortcuts-row"><kbd>M</kbd><span>Mark mastered</span></div>
+        <div class="shortcuts-row"><kbd>V</kbd><span>Confirm mastery (mastered cards only)</span></div>
         <div class="shortcuts-row"><kbd>R</kbd><span>Mark for review</span></div>
         <div class="shortcuts-row"><kbd>G</kbd><span>Mark “know some”</span></div>
         <div class="shortcuts-row"><kbd>S</kbd><span>Shuffle / restore order</span></div>
@@ -1213,7 +1238,8 @@ function progressPayload(){
     order: S.order[ALL_SCOPE]||null,
     mastery: S.mastery||{},
     notes: S.notes||{},
-    edits: S.edits||{}
+    edits: S.edits||{},
+    confirmed: S.confirmed||{}
   };
 }
 
@@ -1233,6 +1259,9 @@ function applyProgressPayload(p){
   }
   if(p.edits) for(const [id,e] of Object.entries(p.edits)){
     if(validIds.has(id) && e && typeof e==="object") S.edits[id]=e;
+  }
+  if(p.confirmed) for(const [id,v] of Object.entries(p.confirmed)){
+    if(validIds.has(id) && v && S.mastery[id]==="mastered") S.confirmed[id]=true;
   }
 }
 
@@ -1645,7 +1674,7 @@ function freshState(){
   return { v:2,
     section:{[DECK]:DEFAULT_SECTION},
     dir:{}, filter:{}, order:{}, current:{}, mastery:{}, sz:"m", edits:{}, notes:{},
-    changeLog:[],
+    changeLog:[], confirmed:{},
     deckSig:null };
 }
 
@@ -1714,7 +1743,9 @@ function persist(){
 }
 
 function passesFilter(id){ const f=getFilter(), st=S.mastery[id];
-  if(f==="all")return true; if(f==="mastered")return st==="mastered"; if(f==="review")return st==="review"; if(f==="general")return st==="general"; if(f==="unmarked")return !st; return true; }
+  if(f==="all")return true; if(f==="mastered")return st==="mastered"; if(f==="review")return st==="review"; if(f==="general")return st==="general"; if(f==="unmarked")return !st;
+  if(f==="unconfirmed")return st==="mastered" && !(S.confirmed&&S.confirmed[id]);
+  return true; }
 function workingList(){ ensureOrder(); return S.order[scopeKey()].filter(passesFilter); }
 function positionOf(list){ return list.indexOf(S.current[scopeKey()]); }
 
@@ -1797,7 +1828,7 @@ function render(){
   // double as the filter control (so the numbers and the filter can't
   // disagree with each other).
   const ids=baseIds(DECK,curSection()); const n=ids.length;
-  let m=0,r=0,g=0; ids.forEach(id=>{const st=S.mastery[id]; if(st==="mastered")m++; else if(st==="review")r++; else if(st==="general")g++;});
+  let m=0,r=0,g=0,unconfirmed=0; ids.forEach(id=>{const st=S.mastery[id]; if(st==="mastered"){m++; if(!(S.confirmed&&S.confirmed[id])) unconfirmed++;} else if(st==="review")r++; else if(st==="general")g++;});
   const unmarked=n-m-r-g;
   const pct=n?Math.round(m/n*100):0;
   $("pct").textContent=pct+"%";
@@ -1805,6 +1836,7 @@ function render(){
   $("c-all").textContent=n;
   $("c-master").textContent=m; $("c-review").textContent=r; $("c-general").textContent=g;
   $("c-unmarked").textContent=unmarked;
+  $("c-unconfirmed").textContent=unconfirmed;
   $("gauge").style.width=(n?(m/n*100):0)+"%";
   $("gauge-general").style.width=(n?(g/n*100):0)+"%";
   $("gauge-review").style.width=(n?(r/n*100):0)+"%";
@@ -1824,6 +1856,7 @@ function render(){
       review:"Nothing marked for review.",
       general:"Nothing marked “know some” yet.",
       unmarked:"Every card here has been marked.",
+      unconfirmed:"Every mastered card here is confirmed.",
       all:"This topic is empty."
     };
     $("empty-msg").textContent=msgs[getFilter()]||"";
@@ -1831,6 +1864,7 @@ function render(){
     $("mark-review").classList.remove("on");
     $("mark-general").classList.remove("on");
     $("mark-master").classList.remove("on");
+    $("mark-confirm").classList.remove("on","show");
     $("notes-btn").classList.remove("has-note");
     closeNotes();
     return;
@@ -1859,14 +1893,18 @@ function render(){
     $("content-b").textContent=frontIsTerm?c.d:c.t; $("content-b").className=frontIsTerm?"def":"term";
   }
 
-  const st=S.mastery[id]; const sc=st==="mastered"?"m":st==="review"?"r":st==="general"?"g":"none";
+  const st=S.mastery[id]; const isConfirmed=st==="mastered" && !!(S.confirmed&&S.confirmed[id]);
+  const sc=st==="mastered"?(isConfirmed?"c":"m"):st==="review"?"r":st==="general"?"g":"none";
   $("stripe-f").className="status-stripe "+sc; $("stripe-b").className="status-stripe "+sc;
   $("mark-review").classList.toggle("on",st==="review");
   $("mark-general").classList.toggle("on",st==="general");
   $("mark-master").classList.toggle("on",st==="mastered");
-  // edited indicator
+  $("mark-confirm").classList.toggle("show",st==="mastered");
+  $("mark-confirm").classList.toggle("on",isConfirmed);
+  // edited / confirmed indicators
   const isEdited=S.edits&&S.edits[id];
   card.classList.toggle("edited",!!isEdited);
+  card.classList.toggle("confirmed",isConfirmed);
 
   $("pos").textContent=p+1; $("poslen").textContent=list.length;
   $("filternote").textContent=getFilter()==="all"?"":" · "+getFilter();
@@ -1933,6 +1971,8 @@ function mark(kind){ const list=workingList(); if(!list.length)return; let p=pos
   const prev=S.mastery[id]||null;
   const wasMarked=prev===kind;
   if(wasMarked) delete S.mastery[id]; else S.mastery[id]=kind;
+  // "Confirmed" only makes sense while the card is actually mastered.
+  if(S.mastery[id]!=="mastered" && S.confirmed) delete S.confirmed[id];
   logMasteryChange(id, prev, S.mastery[id]||null);
   const nl=workingList();
   if(kind==="mastered" && !wasMarked && nl.length){
@@ -1946,6 +1986,13 @@ function mark(kind){ const list=workingList(); if(!list.length)return; let p=pos
     S.current[scopeKey()]=nl[Math.min(p,nl.length-1)];
   }
   render(); persist(); }
+function toggleConfirm(){
+  const list=workingList(); if(!list.length) return; let p=positionOf(list); if(p<0)p=0; const id=list[p];
+  if(S.mastery[id]!=="mastered") return; // only meaningful on already-mastered cards
+  if(!S.confirmed) S.confirmed={};
+  if(S.confirmed[id]) delete S.confirmed[id]; else S.confirmed[id]=true;
+  render(); persist();
+}
 function fireConfetti(){
   const host=$("confetti-burst"); if(!host) return;
   const btn=$("mark-master");
@@ -1982,7 +2029,7 @@ function resetProgress(){ const ids=baseIds(DECK,curSection()); const marked=ids
   const where=sectionLabel();
   closeMenu();
   if(marked>0 && !confirm("Clear mastery/review marks for the "+marked+" marked cards in “"+where+"”? This cannot be undone.")) return;
-  ids.forEach(id=>{ delete S.mastery[id]; }); render(); persist(); }
+  ids.forEach(id=>{ delete S.mastery[id]; if(S.confirmed) delete S.confirmed[id]; }); render(); persist(); }
 function clearNotesUnmastered(){
   const ids=baseIds(DECK,curSection());
   const where=sectionLabel();
@@ -2260,7 +2307,7 @@ function buildHistory(){
       const st=S.mastery[id];
       if(!groups[st]) continue;
       const c=CARD[id];
-      groups[st].push({term:c.fact?"(fact)":c.t, def:c.d, fact:c.fact, section:sec.name});
+      groups[st].push({term:c.fact?"(fact)":c.t, def:c.d, fact:c.fact, section:sec.name, confirmed:st==="mastered"&&!!(S.confirmed&&S.confirmed[id])});
     }
   }
 
@@ -2276,14 +2323,18 @@ function buildHistory(){
 
     const renderGroup=(items,cls,label)=>{
       if(!items.length) return;
-      htmlOut+=`<div class="hist-group"><div class="hist-group-label ${cls}"><span class="pip"></span>${label} (${items.length})</div>`;
-      textOut+=`\n${label.toUpperCase()} (${items.length}):\n`;
+      const confirmedCount=items.filter(e=>e.confirmed).length;
+      const countLabel=confirmedCount
+        ? `${items.length} — ${confirmedCount} confirmed`
+        : `${items.length}`;
+      htmlOut+=`<div class="hist-group"><div class="hist-group-label ${cls}"><span class="pip"></span>${label} (${countLabel})</div>`;
+      textOut+=`\n${label.toUpperCase()} (${countLabel}):\n`;
       items.forEach(e=>{
         const title=e.fact?e.def:e.term;
-        htmlOut+=`<div class="hist-item"><div class="ht">${escapeHtml(title)}</div>`
+        htmlOut+=`<div class="hist-item"><div class="ht">${escapeHtml(title)}${e.confirmed?` <span class="hist-confirmed-pip">★ confirmed</span>`:""}</div>`
           +(e.fact?"":`<div class="hd">${escapeHtml(e.def)}</div>`)
           +`<div class="hist-section-name">${escapeHtml(e.section)}</div></div>`;
-        textOut+=`• ${title}${e.fact?"":": "+e.def}\n`;
+        textOut+=`• ${title}${e.fact?"":": "+e.def}${e.confirmed?" [confirmed]":""}\n`;
       });
       htmlOut+=`</div>`;
     };
@@ -2291,7 +2342,8 @@ function buildHistory(){
     renderGroup(groups.review,"r","Need Review");
     renderGroup(groups.general,"g","Know Some");
     htmlOut+=`</div>`;
-    textOut+=`\nTotal: ${groups.mastered.length} mastered, ${groups.review.length} need review, ${groups.general.length} know some\n`;
+    const confirmedTotal=groups.mastered.filter(e=>e.confirmed).length;
+    textOut+=`\nTotal: ${groups.mastered.length} mastered (${confirmedTotal} confirmed), ${groups.review.length} need review, ${groups.general.length} know some\n`;
   }
 
   $("modal-body").innerHTML=htmlOut;
@@ -2321,7 +2373,7 @@ function buildDeckReport(){
   const dk=DECK;
   const deckName=(DECKS[dk]&&DECKS[dk].name)||dk;
   let htmlOut="", textOut=`${deckName.toUpperCase()} -- FULL DECK REPORT\n${"=".repeat(deckName.length+20)}\n`;
-  let total=0, counts={mastered:0, review:0, general:0, unmarked:0}, notesCount=0;
+  let total=0, counts={mastered:0, review:0, general:0, unmarked:0}, notesCount=0, confirmedCount=0;
 
   for(const sec of DECKS[dk].sections){
     const ids=SECTION_IDS[dk][sec.id]||[];
@@ -2336,18 +2388,20 @@ function buildDeckReport(){
       const st=S.mastery[id];
       const info=STATUS_INFO[st]||{cls:"u", label:"Not reviewed"};
       counts[st in STATUS_INFO ? st : "unmarked"]++;
+      const isConfirmed=st==="mastered" && !!(S.confirmed&&S.confirmed[id]);
+      if(isConfirmed) confirmedCount++;
       const note=(S.notes&&S.notes[id]||"").trim();
       if(note) notesCount++;
 
       const title=c.fact?c.d:c.t;
       const def=c.fact?"":c.d;
 
-      htmlOut+=`<div class="hist-item"><div class="hist-item-top"><span class="hist-status-pip ${info.cls}"></span><span class="ht">${escapeHtml(title)}</span><span class="hist-status-label ${info.cls}">${info.label}</span></div>`;
+      htmlOut+=`<div class="hist-item"><div class="hist-item-top"><span class="hist-status-pip ${info.cls}"></span><span class="ht">${escapeHtml(title)}</span><span class="hist-status-label ${info.cls}">${info.label}</span>${isConfirmed?`<span class="hist-confirmed-pip">★ confirmed</span>`:""}</div>`;
       if(def) htmlOut+=`<div class="hd">${escapeHtml(def)}</div>`;
       if(note) htmlOut+=`<div class="hist-note">${escapeHtml(note)}</div>`;
       htmlOut+=`</div>`;
 
-      textOut+=`• [${info.label}] ${title}${def?": "+def:""}${note?"\n    Note: "+note:""}\n`;
+      textOut+=`• [${info.label}${isConfirmed?", confirmed":""}] ${title}${def?": "+def:""}${note?"\n    Note: "+note:""}\n`;
     });
     htmlOut+=`</div>`;
   }
@@ -2356,7 +2410,7 @@ function buildDeckReport(){
     htmlOut=`<div class="modal-empty">No cards in this deck.</div>`;
     textOut+="No cards in this deck.\n";
   } else {
-    textOut+=`\nTotal: ${total} cards -- ${counts.mastered} mastered, ${counts.review} need review, ${counts.general} know some, ${counts.unmarked} not reviewed, ${notesCount} with notes\n`;
+    textOut+=`\nTotal: ${total} cards -- ${counts.mastered} mastered (${confirmedCount} confirmed), ${counts.review} need review, ${counts.general} know some, ${counts.unmarked} not reviewed, ${notesCount} with notes\n`;
   }
 
   $("modal-body").innerHTML=htmlOut;
@@ -2430,6 +2484,7 @@ function revertMasteryChange(i){
   if(!CARD[id]) return;
   const current=S.mastery[id]||null;
   if(entry.from) S.mastery[id]=entry.from; else delete S.mastery[id];
+  if(S.mastery[id]!=="mastered" && S.confirmed) delete S.confirmed[id];
   logMasteryChange(id, current, entry.from||null);
   render(); persist();
   buildChangeLog();
@@ -2562,6 +2617,7 @@ $("chips").addEventListener("click",e=>{
 });
 $("mark-general").addEventListener("click",()=>mark("general"));
 $("mark-master").addEventListener("click",()=>mark("mastered"));
+$("mark-confirm").addEventListener("click",toggleConfirm);
 $("toggle-fullscreen-item").addEventListener("click",()=>{toggleFullscreen();closeMenu();});
 $("shortcuts-item").addEventListener("click",()=>{openShortcuts();closeMenu();});
 $("shortcuts-close").addEventListener("click",closeShortcuts);
@@ -2702,6 +2758,7 @@ document.addEventListener("keydown",e=>{
   else if(k==="arrowright"){e.preventDefault();go(1);}
   else if(k==="arrowleft"){e.preventDefault();go(-1);}
   else if(k==="m"){mark("mastered");}
+  else if(k==="v"){toggleConfirm();}
   else if(k==="r"){mark("review");}
   else if(k==="g"){mark("general");}
   else if(k==="s"){ if(isShuffled()) restoreOrder(); else shuffle(); }
@@ -2775,6 +2832,8 @@ function bootError(msg){
   for(const id of Object.keys(S.mastery)) if(!CARD[id]) delete S.mastery[id];
   for(const id of Object.keys(S.notes||{})) if(!CARD[id]) delete S.notes[id];
   for(const id of Object.keys(S.edits||{})) if(!CARD[id]) delete S.edits[id];
+  // "Confirmed" only means anything on top of an actual "mastered" mark.
+  for(const id of Object.keys(S.confirmed||{})) if(!CARD[id] || S.mastery[id]!=="mastered") delete S.confirmed[id];
   if(S.changeLog) S.changeLog=S.changeLog.filter(e=>e&&CARD[e.id]);
   buildSectionSelect();
 
