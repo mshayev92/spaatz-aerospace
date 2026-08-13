@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786661805513,
+ "updatedAt": 1786661839178,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2666,7 +2666,7 @@
   "aerospace::ch10::23": "L, C, D, E\n\nWRONG",
   "aerospace::ch18::6": "Day: breeze from sea\nNight: breeze from land toward sea\n(Filling low pressure area)\n\nELABORATE",
   "aerospace::ch18::24": "At night, warm land radiates heat, which is cooled by the air around it below dew pt.\n\nWRONG",
-  "aerospace::ch18::30": "Equilibrium; how much insolation reaches Earth vs. how much is turned back by the space and atmosphere\n\nFIX WORDING",
+  "aerospace::ch18::30": "Equilibrium; how much insolation reaches Earth vs. how much is reflected by the space and atmosphere\n\nFIX WORDING\n\nFixed: turned back instead of reflected",
   "aerospace::ch18::34": "Dew point - current temp",
   "aerospace::ch18::38": "High: high pressure surrounded by lower\nLow: vice versa",
   "aerospace::ch18::39": "Ridge: elongated area of high pressure\nTrough: elongated area of low pressure\nCol: saddleback between high and low pressure",
