@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786661589737,
+ "updatedAt": 1786661594584,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2662,7 +2662,7 @@
   "aerospace::ch10::19": "White on runway edges\n\nGIVE THAT OF TAXIWAY",
   "aerospace::ch10::20": "Key the microphone\n\nELABORATE\n\nFixed: Tune to frequency; number of times microphone keyed changes brightness; 15 minutes = turn off",
   "aerospace::ch10::21": "Runways are wider, taxiways represented by letter instead of number",
-  "aerospace::ch10::22": "First two digits of compass heading, rounded to nearest 10 degrees, and last digit dropped\n\nONE SMALL CLARIFICATION",
+  "aerospace::ch10::22": "First two digits of compass heading, rounded to nearest 10 degrees, and last digit dropped",
   "aerospace::ch10::23": "L, C, D, E\n\nWRONG",
   "aerospace::ch18::6": "Day: breeze from sea\nNight: breeze from land toward sea\n(Filling low pressure area)\n\nELABORATE",
   "aerospace::ch18::24": "At night, warm land radiates heat, which is cooled by the air around it below dew pt.\n\nWRONG",
