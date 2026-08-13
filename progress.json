@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786661972705,
+ "updatedAt": 1786661976602,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2510,7 +2510,7 @@
   "aerospace::ch19::31": "Windward\nLeeward goes down, gets hot and picks up air. Turbulent",
   "aerospace::ch21::16": "Anything involved in propulsion\nFuel tanks, boosters, etc.",
   "aerospace::ch21::19": "Uses magnetism and currents to propel matter in small amounts",
-  "aerospace::ch21::27": "Galileo\nObjects with the same weights fall at the same time\n\nNOT QUITE, WAS THINKING OF RIGHT\n\nFixed: objects of different",
+  "aerospace::ch21::27": "Galileo\nObjects with the same weights fall at the same time\n\nNOT QUITE, WAS THINKING OF RIGHT\n\nFixed: objects of different weights ",
   "aerospace::ch21::31": "Konstantin T.\n\nGIVE FULL LAST NAME",
   "aerospace::ch23::17": "Fall as Earth curves",
   "aerospace::ch23::21": "East\n1k mph",
