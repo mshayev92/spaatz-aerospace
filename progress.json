@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786663271983,
+ "updatedAt": 1786663293771,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2734,7 +2734,7 @@
   "aerospace::ch26::81": "Blue Origin\n\nWRONG",
   "aerospace::ch26::82": "Russia",
   "aerospace::ch26::85": "Detect heat plums of nuclear launches; observe enemies\n\nGIVE THREE SPECIFIC ONES",
-  "aerospace::ch26::90": "Within 3 meters, but more precise for military\n\nELABORATE\n\nFixed: depends on equipment and location",
+  "aerospace::ch26::90": "Within 3 meters, but more precise for military\n\nELABORATE\n\nFixed: depends on equipment and location\n\nALMOST, FIX ERROR",
   "aerospace::ch26::91": "Preceded: ?\nAF directed to build Navstar\n\nGIVE ONE",
   "aerospace::ch27::9": "Mercury: high-altitude pressurized Navy flight suits\nGemini: personalized (WRONG)\n\nFIX",
   "aerospace::ch27::10": "Permanent space station of the near future\nUS, Russia, Japan, Britain (WRONG)\n\nFIX",
