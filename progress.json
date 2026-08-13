@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786662148257,
+ "updatedAt": 1786662172722,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1652,7 +1652,7 @@
   "aerospace::ch23::42": "review",
   "aerospace::ch24::0": "mastered",
   "aerospace::ch24::1": "review",
-  "aerospace::ch24::2": "general",
+  "aerospace::ch24::2": "mastered",
   "aerospace::ch24::3": "mastered",
   "aerospace::ch24::4": "mastered",
   "aerospace::ch24::5": "general",
@@ -2687,7 +2687,7 @@
   "aerospace::ch23::40": "United Launch Alliance\nFigures: ?\n\nGIVE SECOND",
   "aerospace::ch23::41": "Blue Origin\nMatter: ?\n\nGIVE SECOND",
   "aerospace::ch24::1": "Atom fusion\nTwo atoms bond to make a new one under extreme heat\n\nFIX",
-  "aerospace::ch24::2": "Charged particles into interplanetary space\n\nREVIEW ONCE MORE",
+  "aerospace::ch24::2": "Charged particles into interplanetary space\n\nREVIEW ONCE MORE\n\nReviewed",
   "aerospace::ch24::10": "View of Earth, Clear view of universe, Abundant resources, Unique resources that can be made",
   "aerospace::ch24::12": "27 day rotation\n11 yr sunspot cycle\n\nELABORATE",
   "aerospace::ch24::19": "Non-cyclic electromagnetic waves being ejected into interplanetary space\n\nNOT WHAT ASKED FOR",
