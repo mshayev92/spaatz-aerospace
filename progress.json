@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786663109173,
+ "updatedAt": 1786663115907,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2538,7 +2538,7 @@
   "aerospace::ch26::28": "Earth as one environmental system\nData via satellites, Space Shuttle\nFirst integrated measurements of Earth systems",
   "aerospace::ch26::34": "Find life\nTemp, water",
   "aerospace::ch26::37": "Entered orbit\nSurface, atmosphere, magnetic field, gravity (?)",
-  "aerospace::ch26::39": "Int. venture led by ESA\nSaturn\n\nFIX PARTNERS, NOT LED BY ESA\n\nFixed: US, ESA, Japan, Canada",
+  "aerospace::ch26::39": "Int. venture led by ESA\nSaturn\n\nFIX PARTNERS, NOT LED BY ESA\n\nFixed: US, ESA, Japan, Canada\n\nWRONG",
   "aerospace::ch26::46": "Solar and Heliospheric Observatory\nDec 1995",
   "aerospace::ch26::49": "Combined orbiter and lander\nMore water than expected (at poles, not in liquid form)\nTemp",
   "aerospace::ch26::69": "Solar Mesosphere Observatory\n\nFIX NAME",
