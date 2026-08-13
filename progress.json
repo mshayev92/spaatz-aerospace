@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786581688080,
+ "updatedAt": 1786581697949,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2746,5 +2746,7 @@
   "aerospace::ch27::31": "STS-7\n\nWRONG"
  },
  "edits": {},
- "confirmed": {}
+ "confirmed": {
+  "aerospace::ch1::0": true
+ }
 }
