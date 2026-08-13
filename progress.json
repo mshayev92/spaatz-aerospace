@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786660984348,
+ "updatedAt": 1786661012695,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2631,7 +2631,7 @@
   "aerospace::ch8::46": "To make into spindle",
   "aerospace::ch8::52": "Releases oxygen\n\nWRONG",
   "aerospace::ch8::54": "Drains water/air (dregs) gathered at the bottom\n\nFIX",
-  "aerospace::ch8::56": "An object resisting changes in motion\n\nELABORATE",
+  "aerospace::ch8::56": "An object resisting changes in motion\n\nELABORATE\n\nFixed: the ball resists",
   "aerospace::ch8::60": "Magnetic compass, heading indicator, airspeed indicator, ...",
   "aerospace::ch8::61": "Measure wind drift\n\nWRONG",
   "aerospace::ch8::62": "The ball in the turn-and-slip indicator that shows quality of turn",
