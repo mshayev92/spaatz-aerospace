@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786663520878,
+ "updatedAt": 1786663528608,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2746,7 +2746,7 @@
   "aerospace::ch27::31": "STS-7\n\nWRONG",
   "aerospace::ch1::33": "2,000",
   "aerospace::ch2::11": "$25k, plus $5k for additional mileage (WRONG)\n\nFIX",
-  "aerospace::ch2::23": "19 planes, 200 pilots"
+  "aerospace::ch2::23": "19 planes, 200 pilots (WRONG)\n\nFIX"
  },
  "edits": {},
  "confirmed": {
