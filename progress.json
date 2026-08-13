@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786663361345,
+ "updatedAt": 1786663374413,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2741,7 +2741,7 @@
   "aerospace::ch27::13": "Saylut",
   "aerospace::ch27::14": "Soyuz",
   "aerospace::ch27::19": "US and USSR spacecraft docking and conducting experiments\n1975",
-  "aerospace::ch27::21": "Enterprise, atmospheric tests\nFirst viable: STS-5\n\nWHAT WAS STS-1?\n\nFixed: Columbia",
+  "aerospace::ch27::21": "Enterprise, atmospheric tests\nFirst operational: STS-5\n\nWHAT WAS STS-1?\n\nFixed: Columbia\n\nWHAT DATE?",
   "aerospace::ch27::30": "First operational space shuttle mission",
   "aerospace::ch27::31": "STS-7\n\nWRONG"
  },
