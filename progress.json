@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786581697949,
+ "updatedAt": 1786581730477,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2747,6 +2747,20 @@
  },
  "edits": {},
  "confirmed": {
-  "aerospace::ch1::0": true
+  "aerospace::ch1::0": true,
+  "aerospace::ch1::1": true,
+  "aerospace::ch1::2": true,
+  "aerospace::ch1::3": true,
+  "aerospace::ch1::4": true,
+  "aerospace::ch1::5": true,
+  "aerospace::ch1::8": true,
+  "aerospace::ch1::9": true,
+  "aerospace::ch1::10": true,
+  "aerospace::ch1::11": true,
+  "aerospace::ch1::12": true,
+  "aerospace::ch1::13": true,
+  "aerospace::ch1::14": true,
+  "aerospace::ch1::15": true,
+  "aerospace::ch1::16": true
  }
 }
