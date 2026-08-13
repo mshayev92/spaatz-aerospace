@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786660966116,
+ "updatedAt": 1786660973806,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2630,7 +2630,7 @@
   "aerospace::ch8::42": "Heading indicator",
   "aerospace::ch8::46": "To make into spindle",
   "aerospace::ch8::52": "Releases oxygen\n\nWRONG",
-  "aerospace::ch8::54": "Drains water/air (dregs) gathered at the bottom\n\nFIX\n\nFixed: drains ",
+  "aerospace::ch8::54": "Drains water/air (dregs) gathered at the bottom\n\nFIX\n\nFixed: drains air and ",
   "aerospace::ch8::56": "An object resisting changes in motion\n\nELABORATE",
   "aerospace::ch8::60": "Magnetic compass, heading indicator, airspeed indicator, ...",
   "aerospace::ch8::61": "Measure wind drift\n\nWRONG",
