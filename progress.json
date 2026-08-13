@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786663011538,
+ "updatedAt": 1786663031252,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2719,7 +2719,7 @@
   "aerospace::ch26::5": "Also called a thunderstorm; heavy precipitation and turbulence\n\nALMOST; CLARIFY\n\nFixed: not called a thunderstorm. If builds further, then called a thunderstorm",
   "aerospace::ch26::32": "Inner planets\n\nWHICH FLEW BY VENUS AND MERCURY? Fixed: Mariner 10",
   "aerospace::ch26::33": "Inner and outer planets; took pictures\n\nMORE DETAILS\n\nFixed: 10 flew by Jupiter, 11 Saturn",
-  "aerospace::ch26::35": "Improved pics on Pioneer\n\nELABORATE",
+  "aerospace::ch26::35": "Improved pics on Pioneer\n\nELABORATE\n\nFixed: 2 took pics of Saturn",
   "aerospace::ch26::42": "Launched first communications satellite\n\nGIVE MORE",
   "aerospace::ch26::50": "Banded structure that dissipates at the poles\n\nWHAT ELSE?",
   "aerospace::ch26::51": "Probe: fly by, orbits, or lands on a planet other than Earth\nSatellite: orbits Earth",
