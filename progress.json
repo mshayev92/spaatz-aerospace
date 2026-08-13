@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786660716248,
+ "updatedAt": 1786660742821,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2471,7 +2471,7 @@
   "aerospace::ch5::44": "Atomic bomb not enough\nFighters, conventional weapons needed\nCentralized control, decentralized exec.",
   "aerospace::ch5::47": "Scott Crossfield\nAircraft: ?\nWhen: ?\n\nGIVE REST",
   "aerospace::ch5::48": "X-1: Break the sound barrier\nX-2: Study heating at Mach 3\n\nIMPORTANT DETAIL FOR X-2\n\nSecond attempt: came apart due to inertial decoupling (FIX WORD)\n\nWHO ACHIEVED MACH 3?",
-  "aerospace::ch5::52": "B-52 to replace B-47 as larger, longer range bomber\n\nELABORATE",
+  "aerospace::ch5::52": "B-52 to replace B-47 as larger, longer range bomber",
   "aerospace::ch5::54": "DC-4: Army surplus made popular\nConstellation became the best\n(more range, pressurized)\n\nNOT MORE RANGE",
   "aerospace::ch6::1": "AF, Navy, NACA project for airplane\n4,500 mph\n250k ft altitude",
   "aerospace::ch7::17": "Change in temp, velocity, pressure\nLoss of energy",
