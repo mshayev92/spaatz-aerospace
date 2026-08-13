@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786661875112,
+ "updatedAt": 1786661886916,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2499,7 +2499,7 @@
   "aerospace::ch18::37": "Causes deflections due to the Earth's rotation\nEast in Northern hemisphere (meant right)",
   "aerospace::ch18::40": "Horizontal air transfer",
   "aerospace::ch18::41": "At the surface; gravity is the strongest",
-  "aerospace::ch18::43": "Thin currents of air\n150-300 mph\nChange depending on the season, etc.\n\nALTITUDE?",
+  "aerospace::ch18::43": "Thin currents of air\n150-300 mph\nChange depending on the season, etc.\n\nALTITUDE?\n\nFixed: 30k ft",
   "aerospace::ch18::45": "How tightly particles are packed together",
   "aerospace::ch18::48": "Air molecules pressing down on those below them",
   "aerospace::ch19::3": "Low: items dislodge\nMid: thrown against seatbelt\nHigh: hard to control plane\nExtreme: close to impossible",
