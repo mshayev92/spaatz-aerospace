@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786662531624,
+ "updatedAt": 1786662545487,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2525,7 +2525,7 @@
   "aerospace::ch24::21": "Neutrons from stars/cosmic rays\nNeutrons decay, producing charged particles (electrons, protons) held by the magnetosphere",
   "aerospace::ch24::49": "Outgassing: gas particles leaving, potentially damaging equipment\nCold welding: air particles leave tight spaces, lubricant needed",
   "aerospace::ch25::7": "Unstable star\nFlares and subsides",
-  "aerospace::ch25::12": "Hot air = more energy\nDecreases as altitude increases\n\nGIVE DECREASE STAT",
+  "aerospace::ch25::12": "Hot air = more energy\nDecreases as altitude increases\n\nGIVE DECREASE STAT\n\nFixed: 3.5 degrees F every 1k ft",
   "aerospace::ch25::16": "Expendable launch vehicle\nFrom Titan II ICBM\nMost powerful, only one more is Saturn V\n",
   "aerospace::ch25::18": "WW1\nFrench squadron w/ American volunteers",
   "aerospace::ch25::26": "Four distinct cloud and haze layers",
