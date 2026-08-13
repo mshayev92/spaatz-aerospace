@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786662778223,
+ "updatedAt": 1786662797638,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2529,7 +2529,7 @@
   "aerospace::ch25::16": "Expendable launch vehicle\nFrom Titan II ICBM\nMost powerful, only one more is Saturn V\n",
   "aerospace::ch25::18": "WW1\nFrench squadron w/ American volunteers",
   "aerospace::ch25::26": "Four distinct cloud and haze layers",
-  "aerospace::ch26::1": "Russian joined in 1993\nUS (resource management) in 1988, ESA, Japan, Canada\n\nJoint use\nAttribution\nMilitary involvement\n\nNew agreement: 1998",
+  "aerospace::ch26::1": "Russian joined in 1993\nUS (resource management) in 1988, ESA, Japan, Canada\n\nJoint use\nAttribution\nMilitary involvement\n\nNew agreement: 1998\n\nFIXED: ",
   "aerospace::ch26::7": "Freedom of use\nNon-appropriation\nCommon interest",
   "aerospace::ch26::9": "US and USSR agreed not to develop Anti-Ballistic Missile Systems\nSanctioned satellite use to monitor compliance",
   "aerospace::ch26::13": "Tracking and Data Relay Satellite System\nSpace shuttle, 25 crafts, and DSN",
