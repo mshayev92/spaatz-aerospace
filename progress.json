@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786663535603,
+ "updatedAt": 1786663549749,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2564,7 +2564,7 @@
   "aerospace::ch2::21": "Louis Breguet\nWhen: ?\n\nGIVE DATE",
   "aerospace::ch2::27": "Dirigible",
   "aerospace::ch2::31": "Billy Mitchell\n1943\n\nWRONG DATE",
-  "aerospace::ch2::32": "First fighter jet\n\nWRONG",
+  "aerospace::ch2::32": "First fighter jet\n\nWRONG\n\nFixed: first all-metal, monoplane jet",
   "aerospace::ch2::33": "Air superiority essential (control of the air)",
   "aerospace::ch2::35": "Twin engine Benoist XIV",
   "aerospace::ch3::5": "NC-4, Lt Cdr Read\n\nFIRST NONSTOP?",
