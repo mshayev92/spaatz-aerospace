@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786660590195,
+ "updatedAt": 1786660596208,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2466,7 +2466,7 @@
   "aerospace::ch5::23": "Replace B-47\n(Need longer range, bigger bomber)",
   "aerospace::ch5::29": "Transport during Tet Offensive",
   "aerospace::ch5::30": "Bombs dropped from planes\nKenney Cocktail\n\nNOT COCKTAIL\n\nFixed: firebomb",
-  "aerospace::ch5::40": "Decreased\nBy: 300k ",
+  "aerospace::ch5::40": "Decreased\nBy: 300k (know detail about atomic bomb)",
   "aerospace::ch5::42": "Soviet blockade in Berlin\nDay: ? (asking for num tons)\n\nGIVE TONS",
   "aerospace::ch5::44": "Atomic bomb not enough\nFighters, conventional weapons needed\nCentralized control, decentralized exec.",
   "aerospace::ch5::47": "Scott Crossfield\nAircraft: ?\nWhen: ?\n\nGIVE REST",
