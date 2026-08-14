@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786719937758,
+ "updatedAt": 1786719957501,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2763,7 +2763,8 @@
   "aerospace::ch23::42": "New Shepard",
   "aerospace::ch24::44": "25-250 miles\n\nWRONG",
   "aerospace::ch26::65": "High Energy Astronomical Observatory",
-  "aerospace::ch26::72": "Rossi"
+  "aerospace::ch26::72": "Rossi",
+  "aerospace::ch27::25": "First American space station\nMade of spare Apollo parts\n2 years after Saylut"
  },
  "edits": {},
  "confirmed": {
