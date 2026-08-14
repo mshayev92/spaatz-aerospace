@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786672297429,
+ "updatedAt": 1786672323872,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2690,7 +2690,7 @@
   "aerospace::ch24::2": "Charged particles into interplanetary space\n\nREVIEW ONCE MORE\n\nReviewed",
   "aerospace::ch24::10": "View of Earth, Clear view of universe, Abundant resources, Unique resources that can be made",
   "aerospace::ch24::12": "27 day rotation\n11 yr sunspot cycle\n\nELABORATE\n\nFixed: irregular magnetic field (100x stronger than Earth's)",
-  "aerospace::ch24::19": "Non-cyclic electromagnetic waves being ejected into interplanetary space\n\nNOT WHAT ASKED FOR",
+  "aerospace::ch24::19": "Non-cyclic electromagnetic waves being ejected into interplanetary space\n\nNOT WHAT ASKED FOR\n\nFrom chromosphere ej",
   "aerospace::ch24::20": "Solare flares, etc. = Solar Ionospheric Disturbances (SIDs)\n\nELABORATE",
   "aerospace::ch24::27": "Safe is 0.3 roentgen per hour\nBelts give 10-20 per hour",
   "aerospace::ch24::30": "Spicules",
