@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786719780930,
+ "updatedAt": 1786719872891,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2736,7 +2736,7 @@
   "aerospace::ch26::85": "Detect heat plums of nuclear launches; observe enemies\n\nGIVE THREE SPECIFIC ONES\n\nFixed: nuclear explosions, electronic surveillance, and missile launches",
   "aerospace::ch26::90": "Within 3 meters, but more precise for military\n\nELABORATE\n\nFixed: depends on equipment and location\n\nALMOST, FIX ERROR",
   "aerospace::ch26::91": "Preceded: ?\nAF directed to build Navstar\n\nGIVE ONE\n\nFixed: System 621",
-  "aerospace::ch27::9": "Mercury: high-altitude pressurized Navy flight suits\nGemini: personalized (WRONG)\n\nFIX",
+  "aerospace::ch27::9": "Mercury: high-altitude pressurized Navy flight suits\nGemini: personalized (WRONG)\n\nFIX\n\nFixed: Gemini - lighter, removable",
   "aerospace::ch27::10": "Permanent space station of the near future\nUS, Russia, Japan, Britain (WRONG)\n\nFIX\n\nFixed: Canada\n\nWRONG",
   "aerospace::ch27::13": "Saylut",
   "aerospace::ch27::14": "Soyuz",
