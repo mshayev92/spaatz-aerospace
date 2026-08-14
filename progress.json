@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786672529429,
+ "updatedAt": 1786672541839,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2696,7 +2696,7 @@
   "aerospace::ch24::30": "Spicules",
   "aerospace::ch24::33": "Corona Holes",
   "aerospace::ch24::38": "4.3 light years - Alpha Centauri system",
-  "aerospace::ch24::46": "Speed: slightly less than the speed of light\nReduces: atmosphere (ELABORATE)\n\nFIX\n\nFixed: ",
+  "aerospace::ch24::46": "Speed: slightly less than the speed of light\nReduces: atmosphere (ELABORATE)\n\nFIX\n\nFixed: magnetosphere and solar winds",
   "aerospace::ch24::47": "Solar disturbance; in or under one hour\n\nWHAT IS MAGNETIC STORM?\n\nFixed: sporadic disturbance from radiation\n\nELABORATE",
   "aerospace::ch24::48": "Short wave, reflects off the ionosphere better than long waves (which are used locally)",
   "aerospace::ch24::53": "Vacuum, ...\n\nGIVE REST",
