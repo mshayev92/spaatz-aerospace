@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786719326681,
+ "updatedAt": 1786719340316,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2715,7 +2715,7 @@
   "aerospace::ch25::51": "1/6 gravity of Earth\nFaces one side, 270 degrees in 14 Earth days is one lunar day\n\nFIX\n\nFixed: 1/6 gravity, faces one side, 270 degrees in 14 days (about 29.5 days is a day/night cycle)\n\nTINY FIX REGARDING TEMP",
   "aerospace::ch25::53": "Starlike\nCeres",
   "aerospace::ch25::60": "Kuiper Belt billions of miles beyond Pluto (know that Pluto reclassified, and about Quasar, Sedna, and Eris)\n\nONE TINY CHANGE\n\nFixed: beyond Neptune",
-  "aerospace::ch25::64": "Irregular\n\nWRONG",
+  "aerospace::ch25::64": "Irregular\n\nWRONG\n\nFixed: the poles, when compared to Earth, are reversed",
   "aerospace::ch26::5": "Also called a thunderstorm; heavy precipitation and turbulence\n\nALMOST; CLARIFY\n\nFixed: not called a thunderstorm. If builds further, then called a thunderstorm",
   "aerospace::ch26::32": "Inner planets\n\nWHICH FLEW BY VENUS AND MERCURY? Fixed: Mariner 10",
   "aerospace::ch26::33": "Inner and outer planets; took pictures\n\nMORE DETAILS\n\nFixed: 10 flew by Jupiter, 11 Saturn",
