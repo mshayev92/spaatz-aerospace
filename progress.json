@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786719454060,
+ "updatedAt": 1786719491402,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2726,7 +2726,7 @@
   "aerospace::ch26::53": "Surveyors - soft landers",
   "aerospace::ch26::54": "Lunar Orbiters",
   "aerospace::ch26::61": "Galileo",
-  "aerospace::ch26::68": "Rossi\n\nWRONG",
+  "aerospace::ch26::68": "Rossi\n\nWRONG\n\nFixed: Orbiting Solar Observatory",
   "aerospace::ch26::70": "Earth Radiation Budget Satellite",
   "aerospace::ch26::75": "TELSTAR 1",
   "aerospace::ch26::78": "Non-appropriation\n\nELABORATE\n\nFixed: Bogota Declaration (from 8 equatorial nations claiming sovereignty of geostationary orbits above their nations)\n\nBUT WHICH POLICY?",
