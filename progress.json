@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786668272944,
+ "updatedAt": 1786668280670,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2594,7 +2594,7 @@
   "aerospace::ch4::21": "Under the guise of comm. aviation",
   "aerospace::ch4::25": "Crete",
   "aerospace::ch4::26": "Attack opposing air force\nAttack vital points\nProceed with ground force\n\nTHINKING OF SOMETHING ELSE",
-  "aerospace::ch4::28": "Bombed within 150 miles of shore\n\nWRONG",
+  "aerospace::ch4::28": "Bombed within 150 miles of shore\n\nWRONG\n\nFixed: 130 miles",
   "aerospace::ch4::31": "March 9-10, 1945\nIncendiary, not precise, bombing\nCasualties: ?\n\nGIVE THIRD, INJURED, AND OVERARCHING DETAIL",
   "aerospace::ch4::33": "Japanese stronger, Pearl Harbor too\n\nELABORATE",
   "aerospace::ch4::34": "Air superiority (but not alone)\n\nWRONG",
