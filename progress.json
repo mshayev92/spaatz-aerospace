@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786669811235,
+ "updatedAt": 1786669837280,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2623,7 +2623,7 @@
   "aerospace::ch7::34": "Air particles move slower\n\nWRONG\n\nFixed: Because temperature decreases",
   "aerospace::ch8::25": "Needle: direction and rate of turn\nBall: quality of turn (inclinometer)",
   "aerospace::ch8::28": "Intake\nCompression\nPower\nExhaust",
-  "aerospace::ch8::29": "Simplest form of jet engine\nAccelerates more air than turbofan, louder/less efficient\n\nNOT WHAT ASKED FOR",
+  "aerospace::ch8::29": "Simplest form of jet engine\nAccelerates more air than turbofan, louder/less efficient\n\nNOT WHAT ASKED FOR\n\nFixed: rotor takes in air, ",
   "aerospace::ch8::31": "Unducted rotor\nCombines features of turboprop and turbofan\n\nELABORATE",
   "aerospace::ch8::36": "Pascal's Law of fluid in confined space\nMechanical advantage\n\nELABORATE\n\nFixed: in confined fluid, pressure transmitted throughout",
   "aerospace::ch8::39": "Cork, string, (?)\n\nGIVE OTHER",
