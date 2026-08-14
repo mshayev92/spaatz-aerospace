@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786670401559,
+ "updatedAt": 1786670412134,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2639,7 +2639,7 @@
   "aerospace::ch8::78": "Spoiler: ruins laminar flow\nFlap: increases the camber",
   "aerospace::ch8::82": "Frank Whittle\nWhen: ?\n\nWRONG",
   "aerospace::ch8::83": "60 to 1\nEfficient: ?\n\nGIVE SECOND",
-  "aerospace::ch8::84": "Not fuel efficient, only Ukraine still uses it in Antanov\n\nREASON WRONG\n\nFixed: noisy, ",
+  "aerospace::ch8::84": "Not fuel efficient, only Ukraine still uses it in Antanov\n\nREASON WRONG",
   "aerospace::ch9::10": "Measures wind drift, where pilot needs to steer to avoid it",
   "aerospace::ch9::19": "Improved glide slope\n\nTHINKING OF SOMETHING ELSE",
   "aerospace::ch9::24": "Blue",
