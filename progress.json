@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786670048222,
+ "updatedAt": 1786670070365,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2629,7 +2629,7 @@
   "aerospace::ch8::39": "Cork, string, (?)\n\nGIVE OTHER\n\nFixed: + stick",
   "aerospace::ch8::42": "Heading indicator",
   "aerospace::ch8::46": "To make into spindle",
-  "aerospace::ch8::52": "Releases oxygen\n\nWRONG",
+  "aerospace::ch8::52": "Releases oxygen\n\nWRONG\n\nFixed: brings in air to be mixed with",
   "aerospace::ch8::54": "Drains water/air (dregs) gathered at the bottom\n\nFIX",
   "aerospace::ch8::56": "An object resisting changes in motion\n\nELABORATE\n\nFixed: the ball resists\n\nNOT QUITE",
   "aerospace::ch8::60": "Magnetic compass, heading indicator, airspeed indicator, ...",
