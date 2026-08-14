@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786669315909,
+ "updatedAt": 1786669369876,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2609,7 +2609,7 @@
   "aerospace::ch5::70": "American/SV won",
   "aerospace::ch5::73": "Spotted by tanks and scouts (ONE FIX)\n\nELABORATE",
   "aerospace::ch6::7": "Joint use\nMulti-role\nSupersonic\nStealth",
-  "aerospace::ch6::8": "4,500 mph; 250k ft altitude\nSet: ?\n\nGIVE REST\n\nFixed: set Mach 6.7 record and 67 mi altitude",
+  "aerospace::ch6::8": "4,500 mph; 250k ft altitude\nSet: ?\n\nGIVE REST\n\nFixed: set Mach 6.7 record and 67 mi altitude\n\nPEOPLE WHO SET THEM?",
   "aerospace::ch6::10": "Scott Crossfield",
   "aerospace::ch6::13": "Epoxium Graphite (ACTUALLY: EPOXY)",
   "aerospace::ch6::19": "Boeing 747\n...\n\nGIVE REST AND DATE",
