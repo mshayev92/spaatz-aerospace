@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786719191161,
+ "updatedAt": 1786719194927,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2712,7 +2712,7 @@
   "aerospace::ch25::45": "First close-up pictures of surface\n\nREVIEW ONE MORE TIME\n\nReviewed",
   "aerospace::ch25::46": "Anorthosite\n\nSAME MISTAKE TWICE\n\nFixed: basalt",
   "aerospace::ch25::47": "Anorthosite\n\nDEDUCTED\n\nFixed",
-  "aerospace::ch25::51": "1/6 gravity of Earth\nFaces one side, 270 degrees in 14 Earth days\n\nFIX\n\nFixed: ",
+  "aerospace::ch25::51": "1/6 gravity of Earth\nFaces one side, 270 degrees in 14 Earth days is one lunar day\n\nFIX\n\nFixed: ",
   "aerospace::ch25::53": "Starlike\nCeres",
   "aerospace::ch25::60": "Kuiper Belt billions of miles beyond Pluto (know that Pluto reclassified, and about Quasar, Sedna, and Eris)\n\nONE TINY CHANGE\n\nFixed: beyond Neptune",
   "aerospace::ch25::64": "Irregular\n\nWRONG",
