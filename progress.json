@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786671088991,
+ "updatedAt": 1786671095919,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2758,7 +2758,8 @@
   "aerospace::ch6::15": "Learjet\n\nWRONG",
   "aerospace::ch7::10": "Compression to make way as aircraft passes\nExpansion to fill back in",
   "aerospace::ch18::29": "Condensation releases heat, which affects temperature",
-  "aerospace::ch19::11": "Thin, light precipitation, supercooled"
+  "aerospace::ch19::11": "Thin, light precipitation, supercooled",
+  "aerospace::ch19::27": "Upward, downward, side"
  },
  "edits": {},
  "confirmed": {
