@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786669384829,
+ "updatedAt": 1786669414081,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2752,7 +2752,8 @@
   "aerospace::ch5::6": "Raise morale of SV and tell north that if they did not negotiate, bombing would continue",
   "aerospace::ch5::36": "Production: ?\nUse: only 100 used\n\nGIVE ONE",
   "aerospace::ch5::51": "F-100",
-  "aerospace::ch5::72": "100k ton bombs dropped in 13k sorties, and 10 tons in supplies\n\nWRONG"
+  "aerospace::ch5::72": "100k ton bombs dropped in 13k sorties, and 10 tons in supplies\n\nWRONG",
+  "aerospace::ch6::9": "3 aircraft built\n199 flights\nSorties: "
  },
  "edits": {},
  "confirmed": {
