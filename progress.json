@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786719657287,
+ "updatedAt": 1786719686055,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2733,7 +2733,7 @@
   "aerospace::ch26::79": "Environmental analysis and ...\n\nGIVE SECOND\n\nFixed: orbital analysis\n\nCHANGE WORDING",
   "aerospace::ch26::81": "Blue Origin\n\nWRONG\n\nFixed: National Security",
   "aerospace::ch26::82": "Russia",
-  "aerospace::ch26::85": "Detect heat plums of nuclear launches; observe enemies\n\nGIVE THREE SPECIFIC ONES",
+  "aerospace::ch26::85": "Detect heat plums of nuclear launches; observe enemies\n\nGIVE THREE SPECIFIC ONES\n\nFixed: nuclear explosions, electronic surveillance, and missile launches",
   "aerospace::ch26::90": "Within 3 meters, but more precise for military\n\nELABORATE\n\nFixed: depends on equipment and location\n\nALMOST, FIX ERROR",
   "aerospace::ch26::91": "Preceded: ?\nAF directed to build Navstar\n\nGIVE ONE",
   "aerospace::ch27::9": "Mercury: high-altitude pressurized Navy flight suits\nGemini: personalized (WRONG)\n\nFIX",
