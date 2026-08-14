@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786670442156,
+ "updatedAt": 1786670450656,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2648,7 +2648,7 @@
   "aerospace::ch9::39": "Master and slave station\nTime difference to plot on LORAN chart the location",
   "aerospace::ch9::42": "Turbulence ahead of aircraftt",
   "aerospace::ch9::47": "Cultural: man-made\nHydrographic: water",
-  "aerospace::ch9::51": "Accelerometer\nComputer\nClock (WRONG)\n\nFIX",
+  "aerospace::ch9::51": "Accelerometer\nComputer\nClock (WRONG)\n\nFIX\n\nFixed: Gyro",
   "aerospace::ch9::52": "Standard and Differential GPS",
   "aerospace::ch9::53": "Magnetic bearing from VOR",
   "aerospace::ch9::54": "Weather: tracks precipitation, turbulence, etc.\nGround: tracks aircraft position",
