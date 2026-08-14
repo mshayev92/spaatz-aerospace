@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786672511961,
+ "updatedAt": 1786672521905,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2761,7 +2761,7 @@
   "aerospace::ch19::11": "Thin, light precipitation, supercooled",
   "aerospace::ch19::27": "Upward, downward, sides",
   "aerospace::ch23::42": "New Shepard",
-  "aerospace::ch24::44": "25-250 miles"
+  "aerospace::ch24::44": "25-250 miles\n\nWRONG"
  },
  "edits": {},
  "confirmed": {
