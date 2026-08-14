@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786669208238,
+ "updatedAt": 1786669214810,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2750,7 +2750,8 @@
   "aerospace::ch3::35": "Military presence in Europe inadequate",
   "aerospace::ch5::5": "Gulf Tonkin Resolution in August 7 1963 empowered the President to take action against threats\n\nFIX DATE",
   "aerospace::ch5::6": "Raise morale of SV and tell north that if they did not negotiate, bombing would continue",
-  "aerospace::ch5::36": "Production: ?\nUse: only 100 used\n\nGIVE ONE"
+  "aerospace::ch5::36": "Production: ?\nUse: only 100 used\n\nGIVE ONE",
+  "aerospace::ch5::51": "F-100"
  },
  "edits": {},
  "confirmed": {
