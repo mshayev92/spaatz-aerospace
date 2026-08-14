@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786671116066,
+ "updatedAt": 1786671162899,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2676,7 +2676,7 @@
   "aerospace::ch19::7": "Stratus, Cumulus, Nimbostratus, Cumulonimbus, Stratocumulus\n300-6500 ft",
   "aerospace::ch19::19": "Stratus and cumulus",
   "aerospace::ch19::22": "Stratocumulus: heavy precipitation\nAltostratus: light\n\nELABORATE",
-  "aerospace::ch19::32": "El Niño: South America\nLa Niña: Indian Ocean\nAffect weather worldwide\n\nFIX",
+  "aerospace::ch19::32": "El Niño: South America\nLa Niña: Indian Ocean\nAffect weather worldwide\n\nFIX\n\nFixed: South America; El Niño: ",
   "aerospace::ch19::37": "Season\nSurface formed over\nSurface traveled over\n...\n\nGIVE FOURTH\n\nFixed: Time from source",
   "aerospace::ch21::32": "Dr. Goddard",
   "aerospace::ch21::43": "WW1",
