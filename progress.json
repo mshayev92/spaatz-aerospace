@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786669697233,
+ "updatedAt": 1786669710247,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2620,7 +2620,7 @@
   "aerospace::ch7::24": "No",
   "aerospace::ch7::25": "Friction\n...\n\nGIVE REST\n\nFixed: Wave, Induced, Form",
   "aerospace::ch7::33": "Streamlines separate from airfoil, which can happen at any speed",
-  "aerospace::ch7::34": "Air particles move slower\n\nWRONG",
+  "aerospace::ch7::34": "Air particles move slower\n\nWRONG\n\nFixed: Because temperature decreases",
   "aerospace::ch8::25": "Needle: direction and rate of turn\nBall: quality of turn (inclinometer)",
   "aerospace::ch8::28": "Intake\nCompression\nPower\nExhaust",
   "aerospace::ch8::29": "Simplest form of jet engine\nAccelerates more air than turbofan, louder/less efficient\n\nNOT WHAT ASKED FOR",
