@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786669638541,
+ "updatedAt": 1786669652070,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2618,7 +2618,7 @@
   "aerospace::ch7::14": "Camber\nAngle of Attack",
   "aerospace::ch7::21": "Induced lift: Low pressure top\nDynamic lift: High pressure bottom",
   "aerospace::ch7::24": "No",
-  "aerospace::ch7::25": "Friction\n...\n\nGIVE REST",
+  "aerospace::ch7::25": "Friction\n...\n\nGIVE REST\n\nFixed: Wave, Induced, ",
   "aerospace::ch7::33": "Streamlines separate from airfoil, which can happen at any speed",
   "aerospace::ch7::34": "Air particles move slower\n\nWRONG",
   "aerospace::ch8::25": "Needle: direction and rate of turn\nBall: quality of turn (inclinometer)",
