@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786820375344,
+ "updatedAt": 1786820384965,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1820,7 +1820,7 @@
   "aerospace::ch26::47": "review",
   "aerospace::ch26::48": "mastered",
   "aerospace::ch26::49": "mastered",
-  "aerospace::ch26::50": "general",
+  "aerospace::ch26::50": "mastered",
   "aerospace::ch26::51": "mastered",
   "aerospace::ch26::52": "mastered",
   "aerospace::ch26::53": "mastered",
