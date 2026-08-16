@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786842937866,
+ "updatedAt": 1786842960225,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2400,7 +2400,6 @@
   "aerospace::ch3::13": "Faster speed\n",
   "aerospace::ch3::14": "Bendix Trophy: Transcontinental\nThompson: Pylon\nPulitzer: Speed\nSchneider: Seaplanes",
   "aerospace::ch3::15": "The 99s were founded\nFirst president: Earhart",
-  "aerospace::ch3::16": "Smith and Richter",
   "aerospace::ch3::18": "Air Commerce Act (1926): first federal attempt to standardize regs.\nAir Mail Act (1925): Kelly Act, 80% of profits\nAir Mail Act (1930): McNary-Natres Act, paid acc. to available cargo space, PG combine/extend routes (DC-3)\nAir Mail Act (1934): Rectify 1930 act\nAir Mail Act (1938): Unify everyone under one authority",
   "aerospace::ch3::19": "Air Commerce Act (1926)",
   "aerospace::ch3::20": "Air Mail Act (1934)",
