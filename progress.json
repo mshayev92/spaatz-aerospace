@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786901349109,
+ "updatedAt": 1786901358445,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1929,7 +1929,10 @@
   "aerospace::ch26::87": "mastered",
   "aerospace::ch10::29": "mastered",
   "aerospace::ch21::47": "mastered",
-  "aerospace::ch1::41": "general"
+  "aerospace::ch1::41": "general",
+  "aerospace::ch6::33": "review",
+  "aerospace::ch25::58": "review",
+  "aerospace::ch2::40": "review"
  },
  "notes": {
   "aerospace::ch1::0": "Lightweight aircraft that can be steered and propelled",
