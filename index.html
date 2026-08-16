@@ -1117,7 +1117,7 @@
 <script>
 const DECK = "aerospace";
 let DECKS = {};
-let CARD = {}, SECTION_IDS = {}, ALL_IDS = {}, SECTIONS = {}, SECTION_ID_SET = {};
+let CARD = {}, ORIGINAL = {}, SECTION_IDS = {}, ALL_IDS = {}, SECTIONS = {}, SECTION_ID_SET = {};
 const SEARCH_INDEX = []; // [{id, section, fact}] — term/def read live from CARD so edits are picked up
 
 const KEY = "studydeck_lto_v2";
@@ -1133,18 +1133,22 @@ const VIEWS = [
 const isViewSection = id => VIEWS.some(v=>v.id===id);
 
 function buildLookups(){
-  CARD={}; SECTION_IDS={}; ALL_IDS={}; SECTIONS={}; SECTION_ID_SET={}; SEARCH_INDEX.length=0;
+  CARD={}; ORIGINAL={}; SECTION_IDS={}; ALL_IDS={}; SECTIONS={}; SECTION_ID_SET={}; SEARCH_INDEX.length=0;
 
   for(const dk of Object.keys(DECKS)){
     SECTION_IDS[dk]={}; ALL_IDS[dk]=[]; SECTIONS[dk]=[];
 
     // Real sections, in data.json order — these own the canonical card IDs.
+    // Each card carries its own explicit id (c[0], stable across reordering/
+    // insertion/deletion elsewhere in the section) rather than being named by
+    // its position in the array. See the comment on ORIGINAL below.
     for(const sec of DECKS[dk].sections){
-      const ids=sec.cards.map((c,i)=>{
-        const id=dk+"::"+sec.id+"::"+i;
-        const fact=c.length===1;
-        CARD[id]=fact?{t:"",d:c[0],fact:true,sectionName:sec.name}
-                     :{t:c[0],d:c[1],fact:false,sectionName:sec.name};
+      const ids=sec.cards.map(c=>{
+        const id=dk+"::"+sec.id+"::"+c[0];
+        const fact=c.length===2;
+        CARD[id]=fact?{t:"",d:c[1],fact:true,sectionName:sec.name}
+                     :{t:c[1],d:c[2],fact:false,sectionName:sec.name};
+        ORIGINAL[id]=fact?{t:"",d:c[1]}:{t:c[1],d:c[2]};
         SEARCH_INDEX.push({id, section:sec.name, fact});
         return id;
       });
@@ -1686,15 +1690,16 @@ function freshState(){
     deckSig:null };
 }
 
-/* Mastery, notes and order are keyed by card INDEX ("aerospace::ch3::8"), so
-   they only mean anything against the deck they were written against. If cards
-   are added or removed in data.json, every index after that point now names a
-   different card -- and because the payload merge below only ever sets keys,
-   a device still holding the old state would quietly push those stale keys back
-   up and land marks on the wrong cards.
+/* Mastery, notes and order are keyed by card id ("aerospace::ch3::8"), where
+   the last segment is the card's own explicit id (data.json's c[0]) rather
+   than its position in the array -- so reordering, inserting, or deleting
+   other cards in the same section no longer relabels anything. The one way
+   this can still go stale is a card's id itself being reused for different
+   text (e.g. hand-editing data.json instead of appending), which is exactly
+   what the shape fingerprint below is a safety net for.
 
    So we fingerprint the deck shape alongside the state. A mismatch on boot
-   means the deck moved under this device, and its index-keyed data is no longer
+   means the deck moved under this device, and its old state is no longer
    trustworthy: progress.json is taken as truth outright instead of merged into.
    (Fingerprinting shape rather than content is deliberate -- rewording a card
    doesn't shift any index, so it must not invalidate anything.) */
@@ -2158,11 +2163,7 @@ function toggleSearch(e){
 let editingId=null;
 
 function originalCard(id){
-  const [dk, secId, idx] = id.split("::");
-  const sec = (DECKS[dk]&&DECKS[dk].sections||[]).find(s=>s.id===secId);
-  const raw = sec && sec.cards[parseInt(idx,10)];
-  if(!raw) return null;
-  return raw.length===1 ? {t:"", d:raw[0]} : {t:raw[0], d:raw[1]};
+  return ORIGINAL[id] || null;
 }
 
 /* Reset every card to its data.json text, then overlay the saved edits. Doing
