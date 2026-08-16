@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786920255842,
+ "updatedAt": 1786920264802,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1343,7 +1343,7 @@
   "aerospace::ch7::30": "mastered",
   "aerospace::ch7::31": "mastered",
   "aerospace::ch7::32": "mastered",
-  "aerospace::ch7::33": "mastered",
+  "aerospace::ch7::33": "general",
   "aerospace::ch7::34": "mastered",
   "aerospace::ch7::35": "mastered",
   "aerospace::ch7::36": "mastered",
@@ -3043,7 +3043,6 @@
   "aerospace::ch7::30": true,
   "aerospace::ch7::31": true,
   "aerospace::ch7::32": true,
-  "aerospace::ch7::33": true,
   "aerospace::ch7::35": true,
   "aerospace::ch7::36": true,
   "aerospace::ch7::37": true,
