@@ -1265,6 +1265,44 @@ function applyProgressPayload(p){
   }
 }
 
+/* applyProgressPayload only ever ADDS or overwrites keys -- it has no way to
+   express "this entry is gone". So a key this device is still holding that
+   progress.json has dropped survives the merge above and gets pushed straight
+   back on the next sync. That is the mechanism behind every replay this deck
+   has suffered: notes cleared on one device reappearing days later, and
+   confirmed flags surviving a deck reshape.
+
+   The shared file is the truth for anything this device has NOT itself touched
+   since its last sync, so adopt its deletions too -- while keeping every key
+   the diff says this device genuinely changed, which is what protects work
+   done offline.
+
+   Two independent things can establish that a leftover is not local work:
+   a sync baseline to diff against, or a progress.json written more recently
+   than this device's last edit (in which case the device has made no change
+   the file could be missing). With neither, there is no way to tell stale
+   from unsynced, and the safe move is to touch nothing. */
+function adoptRemoteDeletions(remote, preDiff, hadSnapshot, localUpdatedAt){
+  if(!remote || typeof remote!=="object") return;
+  // localUpdatedAt must be read before applyProgressPayload runs -- that call
+  // advances S.updatedAt to the remote's, which would erase the comparison.
+  const remoteIsNewer = typeof remote.updatedAt==="number" && remote.updatedAt > (localUpdatedAt||0);
+  if(!hadSnapshot && !remoteIsNewer) return;
+  const none = new Set();
+  const keep = hadSnapshot ? {
+    mastery:   new Set(preDiff.changed.mastery),
+    notes:     new Set(preDiff.changed.notes),
+    edits:     new Set(preDiff.changed.edits),
+    confirmed: new Set(preDiff.changed.confirmed)
+  } : {mastery:none, notes:none, edits:none, confirmed:none};
+  for(const field of ["mastery","notes","edits","confirmed"]){
+    const theirs = remote[field] || {};
+    for(const id of Object.keys(S[field]||{})){
+      if(!(id in theirs) && !keep[field].has(id)) delete S[field][id];
+    }
+  }
+}
+
 async function connectProgressFile(){
   if(!hasFSAccess){
     alert("Your browser doesn't support connecting directly to a file. Use “Download progress.json” instead, then commit it manually.");
@@ -2861,6 +2899,13 @@ function bootError(msg){
       const text = await progRes.text();
       if(text.trim()){
         const remote=JSON.parse(text);
+        // Work out what this device has genuinely changed since its last sync
+        // BEFORE adoptSyncSnapshot moves that baseline onto `remote` -- after
+        // that call the diff can no longer tell a local edit apart from a
+        // stale leftover.
+        const hadSnapshot = !!syncSnapshot;
+        const preDiff = diffAgainstSnapshot();
+        const localUpdatedAt = S.updatedAt||0;
         adoptSyncSnapshot(remote); // last known truth on GitHub, used to detect what's still unsynced
         if(deckMoved){
           // The deck changed under this device, so its own mastery/notes/order
@@ -2875,6 +2920,7 @@ function bootError(msg){
           S.deckSig=deckSignature();   // reconciled: don't redo this next boot
         }else if(!(typeof remote.updatedAt==="number" && remote.updatedAt < (S.updatedAt||0))){
           applyProgressPayload(remote);
+          adoptRemoteDeletions(remote, preDiff, hadSnapshot, localUpdatedAt);
         }
       }
     }
