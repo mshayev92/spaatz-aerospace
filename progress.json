@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786842998449,
+ "updatedAt": 1786843009250,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2251,7 +2251,6 @@
   "aerospace::ch25::17": "Canyons, mountains, plateaus\n\nDEDUCTED",
   "aerospace::ch25::18": "Four distinct cloud and haze layers",
   "aerospace::ch25::19": "Mapped 99% Venus's surface",
-  "aerospace::ch25::20": "Combined probe and orbiter",
   "aerospace::ch25::21": "ESA",
   "aerospace::ch25::23": "Basalt (has holes were gas escaped), Anorthosite (most common, contains feldspar), KREEP (not found on Earth)",
   "aerospace::ch25::26": "Rover and stationary lander\nSojourner, studied rocks and soil\nPart of low-cost Discovery missions",
