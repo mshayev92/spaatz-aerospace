@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786846859237,
+ "updatedAt": 1786847176116,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2251,6 +2251,7 @@
   "aerospace::ch25::17": "Canyons, mountains, plateaus\n\nDEDUCTED",
   "aerospace::ch25::18": "Four distinct cloud and haze layers",
   "aerospace::ch25::19": "Mapped 99% Venus's surface",
+  "aerospace::ch25::20": "Combined probe and orbiter",
   "aerospace::ch25::21": "ESA",
   "aerospace::ch25::23": "Basalt (has holes were gas escaped), Anorthosite (most common, contains feldspar), KREEP (not found on Earth)",
   "aerospace::ch25::26": "Rover and stationary lander\nSojourner, studied rocks and soil\nPart of low-cost Discovery missions",
@@ -2399,6 +2400,7 @@
   "aerospace::ch3::13": "Faster speed\n",
   "aerospace::ch3::14": "Bendix Trophy: Transcontinental\nThompson: Pylon\nPulitzer: Speed\nSchneider: Seaplanes",
   "aerospace::ch3::15": "The 99s were founded\nFirst president: Earhart",
+  "aerospace::ch3::16": "Smith and Richter",
   "aerospace::ch3::18": "Air Commerce Act (1926): first federal attempt to standardize regs.\nAir Mail Act (1925): Kelly Act, 80% of profits\nAir Mail Act (1930): McNary-Natres Act, paid acc. to available cargo space, PG combine/extend routes (DC-3)\nAir Mail Act (1934): Rectify 1930 act\nAir Mail Act (1938): Unify everyone under one authority",
   "aerospace::ch3::19": "Air Commerce Act (1926)",
   "aerospace::ch3::20": "Air Mail Act (1934)",
@@ -2775,9 +2777,7 @@
   "aerospace::ch9::70": "They are around many airports",
   "aerospace::ch9::71": "Blue: controlled\nMagenta: uncontrolled",
   "aerospace::ch9::72": "Civilian and military\nIf sharing, military over civilian",
-  "aerospace::ch8::75": "On the fuselage and wings",
-  "aerospace::ch25::20": "Combined probe and orbiter",
-  "aerospace::ch3::16": "Smith and Richter"
+  "aerospace::ch8::75": "On the fuselage and wings"
  },
  "edits": {},
  "confirmed": {
@@ -3075,6 +3075,7 @@
   "aerospace::ch9::11": true,
   "aerospace::ch9::12": true,
   "aerospace::ch9::13": true,
+  "aerospace::ch9::14": true,
   "aerospace::ch9::16": true,
   "aerospace::ch9::17": true,
   "aerospace::ch9::20": true,
@@ -3347,6 +3348,7 @@
   "aerospace::ch25::34": true,
   "aerospace::ch25::35": true,
   "aerospace::ch25::42": true,
+  "aerospace::ch25::43": true,
   "aerospace::ch25::44": true,
   "aerospace::ch25::50": true,
   "aerospace::ch25::52": true,
@@ -3371,10 +3373,12 @@
   "aerospace::ch26::26": true,
   "aerospace::ch26::27": true,
   "aerospace::ch26::28": true,
+  "aerospace::ch26::29": true,
   "aerospace::ch26::30": true,
   "aerospace::ch26::34": true,
   "aerospace::ch26::36": true,
   "aerospace::ch26::38": true,
+  "aerospace::ch26::43": true,
   "aerospace::ch26::44": true,
   "aerospace::ch26::45": true,
   "aerospace::ch26::46": true,
@@ -3415,6 +3419,7 @@
   "aerospace::ch27::15": true,
   "aerospace::ch27::16": true,
   "aerospace::ch27::17": true,
+  "aerospace::ch27::19": true,
   "aerospace::ch27::20": true,
   "aerospace::ch27::22": true,
   "aerospace::ch27::23": true,
@@ -3497,6 +3502,7 @@
   "aerospace::ch26::65": true,
   "aerospace::ch26::68": true,
   "aerospace::ch26::69": true,
+  "aerospace::ch26::71": true,
   "aerospace::ch26::81": true,
   "aerospace::ch27::9": true,
   "aerospace::ch27::14": true,
@@ -3576,7 +3582,6 @@
   "aerospace::ch6::8": true,
   "aerospace::ch8::56": true,
   "aerospace::ch8::83": true,
-  "aerospace::ch9::14": true,
   "aerospace::ch18::6": true,
   "aerospace::ch18::13": true,
   "aerospace::ch23::23": true,
@@ -3585,11 +3590,6 @@
   "aerospace::ch24::46": true,
   "aerospace::ch24::47": true,
   "aerospace::ch25::30": true,
-  "aerospace::ch25::43": true,
-  "aerospace::ch26::29": true,
-  "aerospace::ch26::33": true,
-  "aerospace::ch26::43": true,
-  "aerospace::ch26::71": true,
-  "aerospace::ch27::19": true
+  "aerospace::ch26::33": true
  }
 }
