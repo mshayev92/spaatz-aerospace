@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786843184342,
+ "updatedAt": 1786843189759,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1066,7 +1066,7 @@
   "aerospace::ch1::28": "mastered",
   "aerospace::ch1::29": "review",
   "aerospace::ch1::30": "mastered",
-  "aerospace::ch1::31": "mastered",
+  "aerospace::ch1::31": "general",
   "aerospace::ch1::32": "review",
   "aerospace::ch1::33": "general",
   "aerospace::ch1::34": "mastered",
@@ -1931,7 +1931,7 @@
   "aerospace::ch1::28": "Spinning arm",
   "aerospace::ch1::29": "4 forces of flight\n\nNO",
   "aerospace::ch1::30": "Planaphore\nFront-to-back stability",
-  "aerospace::ch1::31": "Manned glider with seagull-like wings\nManley first flew it",
+  "aerospace::ch1::31": "Manned glider with seagull-like wings\nManley first flew it (WRONG)\n\nFIX",
   "aerospace::ch1::32": "2,000",
   "aerospace::ch1::33": "Designs for manned powered airplane\nSteam version flown\nWhen: ?",
   "aerospace::ch1::34": "Catapault\nFailed, fell into Potomac",
@@ -2803,7 +2803,6 @@
   "aerospace::ch1::23": true,
   "aerospace::ch1::26": true,
   "aerospace::ch1::28": true,
-  "aerospace::ch1::31": true,
   "aerospace::ch1::38": true,
   "aerospace::ch1::39": true,
   "aerospace::ch2::0": true,
