@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1786843021282,
+ "updatedAt": 1786843050821,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2511,7 +2511,7 @@
   "aerospace::ch5::32": "Military commanders chose targets",
   "aerospace::ch5::33": "Football War\nEscaping forces pummeled",
   "aerospace::ch5::35": "No, Germany did",
-  "aerospace::ch5::36": "Production: ?\nUse: only 100 used\n\nGIVE ONE",
+  "aerospace::ch5::36": "Production: 1,400",
   "aerospace::ch5::37": "Buzz bomb\nMade a sound\n\nGIVE STATS",
   "aerospace::ch5::38": "V-1 buzz bomb\nV-2 ballistic missile",
   "aerospace::ch5::39": "First practical military heli\nSearch and rescue, rescue downed pilots behind enemy lines\n\nNOT WHAT ASKED FOR",
