@@ -1497,20 +1497,22 @@ function saveSyncSnapshot(p){
 // Everything changed locally since the snapshot of what's actually on GitHub.
 function diffAgainstSnapshot(){
   const cur = progressPayload();
-  const base = syncSnapshot || {mastery:{}, notes:{}, edits:{}, order:null};
+  const base = syncSnapshot || {mastery:{}, notes:{}, edits:{}, confirmed:{}, order:null};
   const ids = new Set([
     ...Object.keys(cur.mastery||{}), ...Object.keys(base.mastery||{}),
     ...Object.keys(cur.notes||{}), ...Object.keys(base.notes||{}),
-    ...Object.keys(cur.edits||{}), ...Object.keys(base.edits||{})
+    ...Object.keys(cur.edits||{}), ...Object.keys(base.edits||{}),
+    ...Object.keys(cur.confirmed||{}), ...Object.keys(base.confirmed||{})
   ]);
-  const changed = {mastery:[], notes:[], edits:[]};
+  const changed = {mastery:[], notes:[], edits:[], confirmed:[]};
   for(const id of ids){
     if((cur.mastery[id]||null) !== (base.mastery[id]||null)) changed.mastery.push(id);
     if(((cur.notes[id]||"").trim()) !== ((base.notes[id]||"").trim())) changed.notes.push(id);
     if(JSON.stringify(cur.edits[id]||null) !== JSON.stringify(base.edits[id]||null)) changed.edits.push(id);
+    if(!!(cur.confirmed||{})[id] !== !!(base.confirmed||{})[id]) changed.confirmed.push(id);
   }
   const orderChanged = JSON.stringify(cur.order||null) !== JSON.stringify(base.order||null);
-  const changedIds = new Set([...changed.mastery, ...changed.notes, ...changed.edits]);
+  const changedIds = new Set([...changed.mastery, ...changed.notes, ...changed.edits, ...changed.confirmed]);
   return { changed, orderChanged, changedIds, total: changedIds.size + (orderChanged?1:0) };
 }
 
@@ -1583,6 +1585,7 @@ function buildSyncSummaryBody(){
   if(diff.changed.mastery.length) html+=`<span class="sync-count-pill">${diff.changed.mastery.length} status change${diff.changed.mastery.length===1?"":"s"}</span>`;
   if(diff.changed.notes.length) html+=`<span class="sync-count-pill">${diff.changed.notes.length} note${diff.changed.notes.length===1?"":"s"} changed</span>`;
   if(diff.changed.edits.length) html+=`<span class="sync-count-pill">${diff.changed.edits.length} card${diff.changed.edits.length===1?"":"s"} edited</span>`;
+  if(diff.changed.confirmed.length) html+=`<span class="sync-count-pill">${diff.changed.confirmed.length} confirmation${diff.changed.confirmed.length===1?"":"s"} changed</span>`;
   if(diff.orderChanged) html+=`<span class="sync-count-pill">Order changed</span>`;
   html += `</div>`;
   diff.changedIds.forEach(id=>{
@@ -1622,7 +1625,7 @@ async function performGuardedSync(){
     const diff = diffAgainstSnapshot();
     const local = progressPayload();
     const file = await ghGetFile();
-    const remote = ghDecodePayload(file) || {mastery:{}, notes:{}, edits:{}, order:null};
+    const remote = ghDecodePayload(file) || {mastery:{}, notes:{}, edits:{}, confirmed:{}, order:null};
 
     // Start from the shared (remote) truth, then re-apply only the fields
     // this device actually changed, so a concurrent change made elsewhere
@@ -1634,17 +1637,22 @@ async function performGuardedSync(){
       order: diff.orderChanged ? local.order : (remote.order || local.order),
       mastery: Object.assign({}, remote.mastery||{}),
       notes: Object.assign({}, remote.notes||{}),
-      edits: Object.assign({}, remote.edits||{})
+      edits: Object.assign({}, remote.edits||{}),
+      confirmed: Object.assign({}, remote.confirmed||{})
     };
     for(const id of diff.changed.mastery){ if(local.mastery[id]) merged.mastery[id]=local.mastery[id]; else delete merged.mastery[id]; }
     for(const id of diff.changed.notes){ if(local.notes[id]&&local.notes[id].trim()) merged.notes[id]=local.notes[id]; else delete merged.notes[id]; }
     for(const id of diff.changed.edits){ if(local.edits[id]) merged.edits[id]=local.edits[id]; else delete merged.edits[id]; }
+    for(const id of diff.changed.confirmed){ if(local.confirmed[id]) merged.confirmed[id]=true; else delete merged.confirmed[id]; }
+    // A card demoted off "mastered" anywhere keeps no confirmed flag: the flag
+    // only means anything layered on an actual mastered mark.
+    for(const id of Object.keys(merged.confirmed)){ if(merged.mastery[id]!=="mastered") delete merged.confirmed[id]; }
 
     // Adopt the merged result wholesale rather than layering it on: this is
     // the one path where an entry can legitimately *disappear* (a mark or note
     // cleared here or on another device), and applyProgressPayload only ever
     // adds/overwrites, so it would leave the cleared entry behind.
-    S.mastery={}; S.notes={}; S.edits={};
+    S.mastery={}; S.notes={}; S.edits={}; S.confirmed={};
     applyProgressPayload(merged);
     S.updatedAt = merged.updatedAt;
     applyEdits();
@@ -2858,8 +2866,11 @@ function bootError(msg){
           // The deck changed under this device, so its own mastery/notes/order
           // can't be trusted to name the right cards. Drop them and take
           // progress.json wholesale rather than merging the two -- merging is
-          // what would resurrect the stale keys.
-          S.mastery={}; S.notes={}; S.edits={}; delete S.order[ALL_SCOPE];
+          // what would resurrect the stale keys. `confirmed` is index-keyed
+          // too, so it has to be dropped with the rest: left in place, a stale
+          // flag that happens to land on a still-mastered card would survive
+          // and silently mark a card the user never confirmed.
+          S.mastery={}; S.notes={}; S.edits={}; S.confirmed={}; delete S.order[ALL_SCOPE];
           applyProgressPayload(remote);
           S.deckSig=deckSignature();   // reconciled: don't redo this next boot
         }else if(!(typeof remote.updatedAt==="number" && remote.updatedAt < (S.updatedAt||0))){
