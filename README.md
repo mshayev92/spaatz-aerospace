@@ -16,13 +16,23 @@ installs as an offline-capable PWA.
 
 ### How `data.json` is organised
 
-The deck has five sections — Definitions, Concepts, People / Aircraft,
-Miscellaneous, Planets — and each card is a JSON array:
+Each card is a JSON array whose first entry is its own **id** — a string
+that's stable and unique within its section, used to key that card's
+progress. The remaining entries are the card content:
 
 ```jsonc
-["Helium", "safer than hydrogen"]   // two entries: a term/definition pair, flippable
-["Fixed gear cheaper, retractable reduces drag"]   // one entry: a single-sided fact
+["7", "Helium", "safer than hydrogen"]              // id + term/definition pair, flippable
+["12", "Fixed gear cheaper, retractable reduces drag"]  // id + one entry: a single-sided fact
 ```
+
+Card ids only need to be unique within their own section (the app namespaces
+them by deck and section internally). To add a card, give it any id not
+already used in that section — appending to the end with the next unused
+number is simplest. Don't change an existing card's id or reuse it for a
+different card: that id is what your `progress.json` mastery/notes/order are
+keyed against, so doing so reassigns that card's saved progress to whatever
+card ends up with the id instead. Reordering, inserting, or deleting *other*
+cards in the section is safe and no longer disturbs anyone's progress.
 
 The two entries at the top of the section picker — **Terms & Definitions** and
 **Facts & Concepts** — are *cross-section views*, not stored sections. The app
@@ -125,24 +135,25 @@ online and perfectly in sync.
 
 #### When the deck itself changes
 
-Mastery marks and notes are stored against a card's **position** in `data.json`
-(`aerospace::ch3::8`), not against its text. So if cards are added to or removed
-from the deck, every position after that point now names a different card, and
-any device still holding the old layout would put your marks on the wrong ones.
+Mastery marks and notes are stored against a card's own **id**
+(`aerospace::ch3::8`, where `8` is the card's id from `data.json`, not its
+position in the array). So adding, removing, or reordering *other* cards in a
+section is safe and never relabels anyone's progress. The one thing that
+still breaks the pairing is reusing an existing id for a different card, or
+changing a card's id after it's already been studied — don't do either; give
+new cards ids that aren't already used in their section.
 
-The app guards against this by recording the deck's shape alongside your
+The app still guards against unexpected deck-shape changes (e.g. a section
+gaining or losing cards) by recording the deck's shape alongside your
 progress. When it starts up and finds the shape has changed, it treats
 `progress.json` as the truth and rebuilds this device's copy from it, rather
-than merging the two — merging is what would resurrect the stale positions.
+than merging the two.
 
 If the deck changed but `progress.json` can't be reached (you're offline), the
 footer reads *Deck changed — reconnect to sync your marks* and the app
 deliberately **stops pushing** until it can reconcile, so a device that's out of
 date can't overwrite good progress. Keep studying; the next start-up that
 reaches `progress.json` sorts it out and resumes syncing.
-
-If you edit `data.json` by hand, remember to update `progress.json` in the same
-change — matching cards up by text, not by position.
 
 ### Option B: manual file + git (no token required)
 
