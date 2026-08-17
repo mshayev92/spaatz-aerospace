@@ -1363,13 +1363,61 @@ async function ghPutFile(sha){
   if(!res.ok){ const t=await res.text(); throw new Error("write failed ("+res.status+"): "+t.slice(0,200)); }
   return res.json();
 }
+// Shared by ghSyncNow() and performGuardedSync(): start from the shared
+// (remote) truth, then re-apply only the fields *this* device actually
+// changed since its last synced snapshot, so a concurrent change made
+// elsewhere (another tab, another device) never gets clobbered by a blind
+// push of local state, and nothing this device did gets lost either.
+function mergeWithRemote(diff, local, remote){
+  const merged = {
+    v:1,
+    updatedAt: Date.now(),
+    order: diff.orderChanged ? local.order : (remote.order || local.order),
+    mastery: Object.assign({}, remote.mastery||{}),
+    notes: Object.assign({}, remote.notes||{}),
+    edits: Object.assign({}, remote.edits||{}),
+    confirmed: Object.assign({}, remote.confirmed||{})
+  };
+  for(const id of diff.changed.mastery){ if(local.mastery[id]) merged.mastery[id]=local.mastery[id]; else delete merged.mastery[id]; }
+  for(const id of diff.changed.notes){ if(local.notes[id]&&local.notes[id].trim()) merged.notes[id]=local.notes[id]; else delete merged.notes[id]; }
+  for(const id of diff.changed.edits){ if(local.edits[id]) merged.edits[id]=local.edits[id]; else delete merged.edits[id]; }
+  for(const id of diff.changed.confirmed){ if(local.confirmed[id]) merged.confirmed[id]=true; else delete merged.confirmed[id]; }
+  // A card demoted off "mastered" anywhere keeps no confirmed flag: the flag
+  // only means anything layered on an actual mastered mark.
+  for(const id of Object.keys(merged.confirmed)){ if(merged.mastery[id]!=="mastered") delete merged.confirmed[id]; }
+  return merged;
+}
+
+// Adopts a merge result into S. This is the one path where an entry can
+// legitimately *disappear* (a mark or note cleared here or on another
+// device), and applyProgressPayload only ever adds/overwrites, so it would
+// leave a cleared entry behind if we didn't reset first.
+function adoptMerged(merged){
+  S.mastery={}; S.notes={}; S.edits={}; S.confirmed={};
+  applyProgressPayload(merged);
+  S.updatedAt = merged.updatedAt;
+  applyEdits();
+  render();
+  saveRaw(JSON.stringify(S));
+}
+
 async function ghSyncNow(){
   clearTimeout(ghSyncTimer); ghSyncTimer=null;
   if(!ghToken||!ghOwner||!ghRepo) return;
   if(!isOnline){ pendingLocalSync=false; return; } // stays queued locally; the reconnect banner picks it up once back online
   ghSyncing=true; $("savestate").textContent=storageLabel();
   try{
-    const file=await ghGetFile();
+    const diff = diffAgainstSnapshot();
+    const local = progressPayload();
+    const file = await ghGetFile();
+    // Merge against whatever's actually on GitHub right now rather than
+    // pushing this tab's in-memory state wholesale: another tab, window, or
+    // device may hold changes (e.g. a just-confirmed mastered card) that
+    // this tab's own state never picked up, and a blind overwrite here would
+    // silently erase them the moment this tab saves anything at all.
+    const remote = ghDecodePayload(file) || {mastery:{}, notes:{}, edits:{}, confirmed:{}, order:null};
+    const merged = mergeWithRemote(diff, local, remote);
+    adoptMerged(merged);
     await ghPutFile(file.sha);
     ghLastError=null;
     saveSyncSnapshot(progressPayload());
@@ -1630,38 +1678,8 @@ async function performGuardedSync(){
     const local = progressPayload();
     const file = await ghGetFile();
     const remote = ghDecodePayload(file) || {mastery:{}, notes:{}, edits:{}, confirmed:{}, order:null};
-
-    // Start from the shared (remote) truth, then re-apply only the fields
-    // this device actually changed, so a concurrent change made elsewhere
-    // while this device was offline doesn't get clobbered by a blind push
-    // of local state, and nothing this device did gets lost either.
-    const merged = {
-      v:1,
-      updatedAt: Date.now(),
-      order: diff.orderChanged ? local.order : (remote.order || local.order),
-      mastery: Object.assign({}, remote.mastery||{}),
-      notes: Object.assign({}, remote.notes||{}),
-      edits: Object.assign({}, remote.edits||{}),
-      confirmed: Object.assign({}, remote.confirmed||{})
-    };
-    for(const id of diff.changed.mastery){ if(local.mastery[id]) merged.mastery[id]=local.mastery[id]; else delete merged.mastery[id]; }
-    for(const id of diff.changed.notes){ if(local.notes[id]&&local.notes[id].trim()) merged.notes[id]=local.notes[id]; else delete merged.notes[id]; }
-    for(const id of diff.changed.edits){ if(local.edits[id]) merged.edits[id]=local.edits[id]; else delete merged.edits[id]; }
-    for(const id of diff.changed.confirmed){ if(local.confirmed[id]) merged.confirmed[id]=true; else delete merged.confirmed[id]; }
-    // A card demoted off "mastered" anywhere keeps no confirmed flag: the flag
-    // only means anything layered on an actual mastered mark.
-    for(const id of Object.keys(merged.confirmed)){ if(merged.mastery[id]!=="mastered") delete merged.confirmed[id]; }
-
-    // Adopt the merged result wholesale rather than layering it on: this is
-    // the one path where an entry can legitimately *disappear* (a mark or note
-    // cleared here or on another device), and applyProgressPayload only ever
-    // adds/overwrites, so it would leave the cleared entry behind.
-    S.mastery={}; S.notes={}; S.edits={}; S.confirmed={};
-    applyProgressPayload(merged);
-    S.updatedAt = merged.updatedAt;
-    applyEdits();
-    render();
-    saveRaw(JSON.stringify(S));
+    const merged = mergeWithRemote(diff, local, remote);
+    adoptMerged(merged);
     await ghPutFile(file.sha);
     saveSyncSnapshot(progressPayload());
     ghLastError=null;
