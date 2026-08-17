@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787001586663,
+ "updatedAt": 1787001607000,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2737,7 +2737,7 @@
   "aerospace::ch8::57": "Performance: how aircraft responds to commands\nControl: tells state of devices",
   "aerospace::ch8::58": "Tachometer\nOil temp/flow\n",
   "aerospace::ch8::59": "Airspeed indicator\nAttitude indicator\n...\n\nNEED MORE (TOTAL: 5)",
-  "aerospace::ch8::60": "Magnetic compass, heading indicator, airspeed indicator, radio, clock\n\nTWO MORE",
+  "aerospace::ch8::60": "Magnetic compass, heading indicator, airspeed indicator, radio, clock\n\nTWO MORE\n\nFixed: radar, GPS",
   "aerospace::ch8::61": "Measure wind drift\n\nWRONG\n\nFixed: to measure SLIP, whether coordinated or not",
   "aerospace::ch8::62": "The ball in the turn-and-slip indicator that shows quality of turn",
   "aerospace::ch8::63": "Tells the time",
