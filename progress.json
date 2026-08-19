@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787109914453,
+ "updatedAt": 1787109935912,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2793,7 +2793,7 @@
   "aerospace::ch4::36": "Plane with moving artillery\n\nPlane goes around ground defenses and paves the way for artillery (e.g., Maginot Line in WW2)\n\nGIVE ACTUAL SEQUENCE",
   "aerospace::ch4::42": "Japanese navy fighter\nFaced off against P-38 Lightning",
   "aerospace::ch4::47": "B-25s took off from navy carrier 800 miles from Japan\nFirst sign of hope",
-  "aerospace::ch5::34": "Frenchman Frank Whittle\n\nWhen: ?",
+  "aerospace::ch5::34": "Frenchman Frank Whittle\n\nWhen: ?\n\nFIX",
   "aerospace::ch5::42": "Soviet ground blockade",
   "aerospace::ch5::47": "Scott Crossfield\n\nWhat: ?\nWhen: ?",
   "aerospace::ch5::73": "Tried to sneak up, but spotted by tanks and observers\n\nELABORATE",
@@ -2802,7 +2802,8 @@
   "aerospace::ch6::16": "C-135\n\nYear: ?",
   "aerospace::ch6::20": "Builders: Anglo-French (?)\nYear: ?\nService: London/Paris to DC",
   "aerospace::ch6::22": "First airliner to use advanced materials\n\nWHAT ELSE?",
-  "aerospace::ch8::64": "Rotor pushes air back and accelerates it\nStrator straightens it out\nTogether they ..."
+  "aerospace::ch8::64": "Rotor pushes air back and accelerates it\nStrator straightens it out\nTogether they ...",
+  "aerospace::ch9::45": "Cultural features, landmarks"
  },
  "edits": {},
  "confirmed": {
