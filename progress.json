@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787108748280,
+ "updatedAt": 1787108757972,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2781,7 +2781,7 @@
   "aerospace::ch26::86": "For military, connections with highest levels of government",
   "aerospace::ch26::87": "UN org. managing int. communications",
   "aerospace::ch8::60": "Magnetic compass\nHeading indicator\nClock\nAirspeed indicator\n\nRadio\nRadar\nGPS",
-  "aerospace::ch1::33": "Designs for manned powered aircraft called the Ariel, did not come to fruition\n\nStringfellow later built steam-powered version"
+  "aerospace::ch1::33": "Designs for manned powered aircraft called the Ariel, did not come to fruition\n\nStringfellow later built steam-powered version\n\nWhen: ?"
  },
  "edits": {},
  "confirmed": {
