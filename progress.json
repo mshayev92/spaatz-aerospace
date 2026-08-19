@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787110329327,
+ "updatedAt": 1787110504657,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2807,7 +2807,8 @@
   "aerospace::ch18::15": "Misses with ionosphere/exosphere\nImportant photochemical reactions\n\nWRONG RANGE",
   "aerospace::ch18::18": "Particles only subject to gravity\n\nBOTTOM RANGE?",
   "aerospace::ch19::22": "Stratocumulus: heavy, warning sign\nAltostratus: light",
-  "aerospace::ch19::23": "Cold: more dense/fast\nDepends on high pressure cell behind it\nDisplaces warm air, causing severe precipitation\n\nELABORATE ON WARM"
+  "aerospace::ch19::23": "Cold: more dense/fast\nDepends on high pressure cell behind it\nDisplaces warm air, causing severe precipitation\n\nELABORATE ON WARM",
+  "aerospace::ch23::32": "ONE IMPORTANT DETAIL"
  },
  "edits": {},
  "confirmed": {
