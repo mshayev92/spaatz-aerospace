@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787166671828,
+ "updatedAt": 1787166685384,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2821,7 +2821,7 @@
   "aerospace::ch25::55": "Explore outer planets\n\nDate: 3 January 19..\n\nFIX",
   "aerospace::ch25::57": "Examines in infrared\nLaunched to Earth orbit in 2003\nKuiper Belt",
   "aerospace::ch26::35": "Mission to Saturn\nNASA, ESA, other European partners",
-  "aerospace::ch26::84": "Enter Jupiter orbit in 1997\nFirst to take integrated measurements"
+  "aerospace::ch26::84": "Enter Jupiter orbit in 1997\nFirst to take integrated measurements\n\nFIX"
  },
  "edits": {},
  "confirmed": {
