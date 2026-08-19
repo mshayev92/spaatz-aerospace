@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787171080311,
+ "updatedAt": 1787171102549,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2844,7 +2844,8 @@
   "aerospace::ch5::83": "First all-jet battle\nRockets, smart weapons used\n\nELABORATE",
   "aerospace::ch6::9": "199 sorties\n\nMUCH MORE",
   "aerospace::ch6::15": "British Hawkeye Siddeley 125\n\nFIX NAME",
-  "aerospace::ch7::10": "Compress when the plane passes\nExpansion to fill back in\n\nGIVE DEF. OF SHOCK WAVE"
+  "aerospace::ch7::10": "Compress when the plane passes\nExpansion to fill back in\n\nGIVE DEF. OF SHOCK WAVE",
+  "aerospace::ch7::44": "Air is incompressible at subsonic\nNo warning ahead at those speeds"
  },
  "edits": {},
  "confirmed": {
