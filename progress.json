@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787109572816,
+ "updatedAt": 1787109582902,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2796,7 +2796,7 @@
   "aerospace::ch5::34": "Frenchman Frank Whittle\n\nWhen: ?",
   "aerospace::ch5::42": "Soviet ground blockade",
   "aerospace::ch5::47": "Scott Crossfield\n\nWhat: ?\nWhen: ?",
-  "aerospace::ch5::73": "Tried to sneak up, but spotted by tanks and observers"
+  "aerospace::ch5::73": "Tried to sneak up, but spotted by tanks and observers\n\nELABORATE"
  },
  "edits": {},
  "confirmed": {
