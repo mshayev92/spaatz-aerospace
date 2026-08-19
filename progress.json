@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787108543339,
+ "updatedAt": 1787108566414,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2836,7 +2836,7 @@
   "aerospace::ch24::58": "Solar and Heliospheric Observatory\nDec 1995",
   "aerospace::ch26::86": "For military, connections with highest levels of government",
   "aerospace::ch26::87": "UN org. managing int. communications",
-  "aerospace::ch8::60": "Magnetic compass\nHeading indicator\nClock\n\n\nRadio\nRadar\nGPS"
+  "aerospace::ch8::60": "Magnetic compass\nHeading indicator\nClock\nAirspeed indicator\n\n\nRadio\nRadar\nGPS"
  },
  "edits": {},
  "confirmed": {
