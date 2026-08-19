@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787109845764,
+ "updatedAt": 1787109850751,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2801,8 +2801,7 @@
   "aerospace::ch5::78": "Snark missIle - smart, from 100 mi away\n\nRascal - attack from far away\n\nFIX",
   "aerospace::ch6::16": "C-135\n\nYear: ?",
   "aerospace::ch6::20": "Builders: Anglo-French (?)\nYear: ?\nService: London/Paris to DC",
-  "aerospace::ch6::22": "First airliner to use advanced materials\n\nWHAT ELSE?",
-  "aerospace::ch8::29": "Rotor pushes air back and accelerates it\nStrator straightens it out\nTogether they ..."
+  "aerospace::ch6::22": "First airliner to use advanced materials\n\nWHAT ELSE?"
  },
  "edits": {},
  "confirmed": {
