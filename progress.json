@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787109597273,
+ "updatedAt": 1787109605975,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2797,7 +2797,7 @@
   "aerospace::ch5::42": "Soviet ground blockade",
   "aerospace::ch5::47": "Scott Crossfield\n\nWhat: ?\nWhen: ?",
   "aerospace::ch5::73": "Tried to sneak up, but spotted by tanks and observers\n\nELABORATE",
-  "aerospace::ch5::74": "Target C&C, airspace defenses, "
+  "aerospace::ch5::74": "Target C&C, airspace defenses, AF\n\nEnabled complete control of air"
  },
  "edits": {},
  "confirmed": {
