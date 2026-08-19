@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787168295725,
+ "updatedAt": 1787168310327,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2824,7 +2824,7 @@
   "aerospace::ch26::84": "Enter Jupiter orbit in 1997\nFirst to take integrated measurements\n\nFIX",
   "aerospace::ch1::31": "Made/flew a glider with seagull wings\n\nELABORATE",
   "aerospace::ch2::34": "Separate from army\nControl the skies\n\nONE MORE DETAIL",
-  "aerospace::ch2::41": "Britain Gotha IV bombed German Zeppelin yard\nGerman formed bombing squad"
+  "aerospace::ch2::41": "Britain Gotha IV bombed German Zeppelin yard\nGerman formed bombing squad\n\nFIX"
  },
  "edits": {},
  "confirmed": {
