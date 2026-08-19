@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787170926221,
+ "updatedAt": 1787170935311,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2843,7 +2843,7 @@
   "aerospace::ch5::79": "Front in subsonic, back in supersonic\nTested: ?",
   "aerospace::ch5::83": "First all-jet battle\nRockets, smart weapons used\n\nELABORATE",
   "aerospace::ch6::9": "199 sorties\n\nMUCH MORE",
-  "aerospace::ch6::15": "Business Hawkeye Siddeley 125"
+  "aerospace::ch6::15": "British Hawkeye Siddeley 125\n\n"
  },
  "edits": {},
  "confirmed": {
