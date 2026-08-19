@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787166592451,
+ "updatedAt": 1787166614194,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2818,7 +2818,8 @@
   "aerospace::ch25::20": "Swung around Venus for Jupiter\n\nDATE?",
   "aerospace::ch25::22": "-250 to 270 degrees\n29.5 day cycle (14 ea.)\nSame side faces us\n\nCraters from meteorite impacts\nMoon rocks older than Earth ones (Anorthosite, Basalt, Breccia, KREEP)\nDust has sterilizing effect",
   "aerospace::ch25::28": "10 hour rotation\n79 moons\nGiant spot (storm)\nGas giant (has rings)\n\nELABORATE",
-  "aerospace::ch25::55": "Explore outer planets\n\nDate: 3 January 19..\n\nFIX"
+  "aerospace::ch25::55": "Explore outer planets\n\nDate: 3 January 19..\n\nFIX",
+  "aerospace::ch25::57": "Examines in infared\nLaunched to Earth orbit in 2003\nKuiper Belt"
  },
  "edits": {},
  "confirmed": {
