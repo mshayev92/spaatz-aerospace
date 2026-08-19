@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787168343859,
+ "updatedAt": 1787168359501,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2825,7 +2825,7 @@
   "aerospace::ch1::31": "Made/flew a glider with seagull wings\n\nELABORATE",
   "aerospace::ch2::34": "Separate from army\nControl the skies\n\nONE MORE DETAIL",
   "aerospace::ch2::41": "Britain Gotha IV bombed German Zeppelin yard\nGerman formed bombing squad\n\nFIX",
-  "aerospace::ch3::3": "September 1929\nBrooks Field, TX\nSgt. led 17 men, jumped from DC-4 and landed safely 3k ft below"
+  "aerospace::ch3::3": "September 1929\nBrooks Field, TX\nSgt. led 17 men, jumped from DC-4 and landed safely 3k ft below\n\nGIVE SERGEANT'S NAME"
  },
  "edits": {},
  "confirmed": {
