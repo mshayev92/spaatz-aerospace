@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787169351805,
+ "updatedAt": 1787169366648,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2828,7 +2828,8 @@
   "aerospace::ch3::3": "September 1929\nBrooks Field, TX\nSgt. led 17 men, jumped from DC-4 and landed safely 3k ft below\n\nGIVE SERGEANT'S NAME",
   "aerospace::ch3::30": "24 people w/o cargo or 3k lbs\nRange: ?\n\nFIX + ELABORATE",
   "aerospace::ch3::44": "Boeing 247\n\nELABORATE",
-  "aerospace::ch3::50": "Better cowlings and ...\nPressurized cabin\n\nTWO MORE"
+  "aerospace::ch3::50": "Better cowlings and ...\nPressurized cabin\n\nTWO MORE",
+  "aerospace::ch3::56": "1,500 lbs and ...\nLed to the R-4"
  },
  "edits": {},
  "confirmed": {
