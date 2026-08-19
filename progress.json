@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787109678130,
+ "updatedAt": 1787109685640,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2799,7 +2799,8 @@
   "aerospace::ch5::73": "Tried to sneak up, but spotted by tanks and observers\n\nELABORATE",
   "aerospace::ch5::74": "Target C&C, airspace defenses, AF\n\nEnabled complete control of air\n\nFIX",
   "aerospace::ch5::78": "Snark missIle - smart, from 100 mi away\n\nRascal - attack from far away\n\nFIX",
-  "aerospace::ch6::16": "C-135\n\nYear: ?"
+  "aerospace::ch6::16": "C-135\n\nYear: ?",
+  "aerospace::ch6::20": "B"
  },
  "edits": {},
  "confirmed": {
