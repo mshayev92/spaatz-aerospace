@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787110631698,
+ "updatedAt": 1787162462449,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2811,7 +2811,8 @@
   "aerospace::ch23::32": "ONE IMPORTANT DETAIL",
   "aerospace::ch23::46": "Launched first comms satellite\nBoosted Project Mercury\nLaunched spacecraft to numerous planets",
   "aerospace::ch24::20": "Solar Ionospheric Disturbances (SIDs) caused by non-cyclic solar eruptions (e.g., solar flares)\n\nRANGE?",
-  "aerospace::ch24::26": "Dehydration\nHeart weakness\nMotion sickness\n\nONE MORE, AND\nHOW COUNTERED?"
+  "aerospace::ch24::26": "Dehydration\nHeart weakness\nMotion sickness\n\nONE MORE, AND\nHOW COUNTERED?",
+  "aerospace::ch24::60": "Sun -\n"
  },
  "edits": {},
  "confirmed": {
