@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787170591520,
+ "updatedAt": 1787170598542,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2839,7 +2839,7 @@
   "aerospace::ch5::62": "2 August - Iraq invades over oil and land claims\n4 August - Emir flees\n6 August - King asks for help, UN passes Resolution 660\n\nWHAT YEAR? FIX",
   "aerospace::ch5::65": "95 killed\nIraq: 30-60k losses\n\nALMOST",
   "aerospace::ch5::72": "110k ton bombs dropped",
-  "aerospace::ch5::77": "Noble Eagle\nEnduring Freedom\n"
+  "aerospace::ch5::77": "Noble Eagle\nEnduring Freedom"
  },
  "edits": {},
  "confirmed": {
