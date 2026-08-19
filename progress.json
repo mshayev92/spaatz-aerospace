@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787171343877,
+ "updatedAt": 1787171351078,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2849,7 +2849,7 @@
   "aerospace::ch8::5": "4 strokes, 5 events\n\nELABORATE",
   "aerospace::ch8::59": "Airspeed indicator\nVertical velocity indicator\nTurn and slip indicator\nAttitude indicator\n\nONE MORE",
   "aerospace::ch8::82": "Frenchman Rene Lorin\nWhen: ?",
-  "aerospace::ch9::18": "NOT "
+  "aerospace::ch9::18": "NOT LANDING SYSTEM RELATED"
  },
  "edits": {},
  "confirmed": {
