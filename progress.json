@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787108706581,
+ "updatedAt": 1787108737933,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2780,7 +2780,8 @@
   "aerospace::ch24::58": "Solar and Heliospheric Observatory\nDec 1995",
   "aerospace::ch26::86": "For military, connections with highest levels of government",
   "aerospace::ch26::87": "UN org. managing int. communications",
-  "aerospace::ch8::60": "Magnetic compass\nHeading indicator\nClock\nAirspeed indicator\n\nRadio\nRadar\nGPS"
+  "aerospace::ch8::60": "Magnetic compass\nHeading indicator\nClock\nAirspeed indicator\n\nRadio\nRadar\nGPS",
+  "aerospace::ch1::33": "Designs for manned powered aircraft called the Ariel, did not come to fruition\nStringfellow "
  },
  "edits": {},
  "confirmed": {
