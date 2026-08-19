@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787171178809,
+ "updatedAt": 1787171192529,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2847,7 +2847,7 @@
   "aerospace::ch7::10": "Compress when the plane passes\nExpansion to fill back in\n\nGIVE DEF. OF SHOCK WAVE",
   "aerospace::ch7::44": "Air is incompressible at subsonic\nNo warning ahead at those speeds\n\nWRONG",
   "aerospace::ch8::5": "4 strokes, 5 events\n\nELABORATE",
-  "aerospace::ch8::59": "Airspeed indicator\nVertical velocity indicator\nTurn and slip indicator\nAttitude indicator\n"
+  "aerospace::ch8::59": "Airspeed indicator\nVertical velocity indicator\nTurn and slip indicator\nAttitude indicator"
  },
  "edits": {},
  "confirmed": {
