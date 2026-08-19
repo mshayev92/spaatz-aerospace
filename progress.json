@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787170188552,
+ "updatedAt": 1787170229489,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2832,7 +2832,7 @@
   "aerospace::ch3::56": "1,500 lbs and ...\nLed to the R-4\n\nFIX",
   "aerospace::ch4::15": "3 PRINCIPLES",
   "aerospace::ch4::24": "22 June 1941",
-  "aerospace::ch4::44": "August 1940\nBegan with aerial raid, Britain had to defend against Germany"
+  "aerospace::ch4::44": "August 1940\nBegan with aerial raid, Britain had to defend against Germany\n\nWHAT TARGET OF INITIAL RAIDS?"
  },
  "edits": {},
  "confirmed": {
