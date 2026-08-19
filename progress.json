@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787109192422,
+ "updatedAt": 1787109197734,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2787,7 +2787,7 @@
   "aerospace::ch2::23": "19 planes, 29 pilots\nNo combat-worthy at start of WW1\n\nHOW MANY GERM, BRIT, FRANCE?",
   "aerospace::ch3::5": "NC-4 by Lt Cdr Read\n\nTwo weeks later: Alcock and Brown\n$50k prize for 72 hour nonstop (met)",
   "aerospace::ch3::13": "Origin: Ralph Pulitzer for high-speed flight (1920); last 1925\n\nTurned into National Air Races\n\nFirst winner: Lt Mosely",
-  "aerospace::ch3::24": "1918; post office borrowed army planes to start from DC to NY"
+  "aerospace::ch3::24": "1918; post office borrowed army planes to start from DC to NY (army flew)"
  },
  "edits": {},
  "confirmed": {
