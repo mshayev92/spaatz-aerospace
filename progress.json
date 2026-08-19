@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787109363869,
+ "updatedAt": 1787109383366,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2791,7 +2791,8 @@
   "aerospace::ch3::61": "$25k for crossing the Atlantic nonstop\nLindbergh met it",
   "aerospace::ch4::33": "NUMBERS",
   "aerospace::ch4::36": "Plane with moving artillery\n\nPlane goes around ground defenses and paves the way for artillery (e.g., Maginot Line in WW2)\n\nGIVE ACTUAL SEQUENCE",
-  "aerospace::ch4::42": "Japanese navy fighter\nFaced off against P-38 Lightning"
+  "aerospace::ch4::42": "Japanese navy fighter\nFaced off against P-38 Lightning",
+  "aerospace::ch4::47": "B-25s took off from navy carrier 800 miles from Japan and "
  },
  "edits": {},
  "confirmed": {
