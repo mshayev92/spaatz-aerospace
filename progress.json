@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787169314859,
+ "updatedAt": 1787169330042,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2827,7 +2827,8 @@
   "aerospace::ch2::41": "Britain Gotha IV bombed German Zeppelin yard\nGerman formed bombing squad\n\nFIX",
   "aerospace::ch3::3": "September 1929\nBrooks Field, TX\nSgt. led 17 men, jumped from DC-4 and landed safely 3k ft below\n\nGIVE SERGEANT'S NAME",
   "aerospace::ch3::30": "24 people w/o cargo or 3k lbs\nRange: ?\n\nFIX + ELABORATE",
-  "aerospace::ch3::44": "Boeing 247\n\nELABORATE"
+  "aerospace::ch3::44": "Boeing 247\n\nELABORATE",
+  "aerospace::ch3::50": "\n\nBetter cowlings and ...\nPressurized cabin"
  },
  "edits": {},
  "confirmed": {
