@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787170512772,
+ "updatedAt": 1787170522164,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -1269,7 +1269,7 @@
   "aerospace::ch5::62": "general",
   "aerospace::ch5::63": "review",
   "aerospace::ch5::64": "mastered",
-  "aerospace::ch5::65": "review",
+  "aerospace::ch5::65": "general",
   "aerospace::ch5::66": "mastered",
   "aerospace::ch5::67": "mastered",
   "aerospace::ch5::68": "mastered",
@@ -2837,7 +2837,7 @@
   "aerospace::ch5::46": "670 mph\n42k ft\n\nELABORATE",
   "aerospace::ch5::56": "3, 17, 30 mil",
   "aerospace::ch5::62": "2 August - Iraq invades over oil and land claims\n4 August - Emir flees\n6 August - King asks for help, UN passes Resolution 660\n\nWHAT YEAR? FIX",
-  "aerospace::ch5::65": "95 killed\nIraq: 30-60k losses"
+  "aerospace::ch5::65": "95 killed\nIraq: 30-60k losses\n\nALMOST"
  },
  "edits": {},
  "confirmed": {
