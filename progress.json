@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787110019308,
+ "updatedAt": 1787110028037,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2805,7 +2805,7 @@
   "aerospace::ch8::64": "Rotor pushes air back and accelerates it\nStrator straightens it out\nTogether they ...",
   "aerospace::ch9::45": "Cultural features, landmarks - delegated shape",
   "aerospace::ch18::15": "Misses with ionosphere/exosphere\nImportant photochemical reactions\n\nWRONG RANGE",
-  "aerospace::ch18::18": "Particles only subje"
+  "aerospace::ch18::18": "Particles only subject to gravity\n\nBOTTOM RANGE?"
  },
  "edits": {},
  "confirmed": {
