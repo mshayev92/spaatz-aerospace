@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787171390213,
+ "updatedAt": 1787171547283,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2850,7 +2850,8 @@
   "aerospace::ch8::59": "Airspeed indicator\nVertical velocity indicator\nTurn and slip indicator\nAttitude indicator\n\nONE MORE",
   "aerospace::ch8::82": "Frenchman Rene Lorin\nWhen: ?",
   "aerospace::ch9::18": "NOT LANDING SYSTEM RELATED",
-  "aerospace::ch9::28": "Black - cultural features\nBlue - hydro\n\nFIX + MANY MORE"
+  "aerospace::ch9::28": "Black - cultural features\nBlue - hydro\n\nFIX + MANY MORE",
+  "aerospace::ch9::66": "Plane moving in air mass\nGround speed - air + wind\nSteering into wind c"
  },
  "edits": {},
  "confirmed": {
