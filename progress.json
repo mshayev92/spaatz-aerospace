@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787166470344,
+ "updatedAt": 1787166477723,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2816,7 +2816,7 @@
   "aerospace::ch25::5": "Eccentric orbit (past Pluto)\nComa appears near sun\nNucleus from water, ice, rock, gases\nSome come from Oort cloud\n\nMORE DETAILS",
   "aerospace::ch25::11": "Hot\nClosest in distance and size (Earth's sister planet)\nCarbon dioxide-rich and reflective atmosphere",
   "aerospace::ch25::20": "Swung around Venus for Jupiter\n\nDATE?",
-  "aerospace::ch25::22": "-250 to 270 degrees\n29.5 day cycle (14 ea.)\n\n\nCraters from meteorite impacts\nMoon rocks older than Earth ones (Anorthosite, Basalt, Breccia, KREEP)\nDust has sterilizing effect"
+  "aerospace::ch25::22": "-250 to 270 degrees\n29.5 day cycle (14 ea.)\nSame side faces us\n\nCraters from meteorite impacts\nMoon rocks older than Earth ones (Anorthosite, Basalt, Breccia, KREEP)\nDust has sterilizing effect"
  },
  "edits": {},
  "confirmed": {
