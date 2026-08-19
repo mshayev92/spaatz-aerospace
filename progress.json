@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787109450637,
+ "updatedAt": 1787109543397,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2794,7 +2794,8 @@
   "aerospace::ch4::42": "Japanese navy fighter\nFaced off against P-38 Lightning",
   "aerospace::ch4::47": "B-25s took off from navy carrier 800 miles from Japan\nFirst sign of hope",
   "aerospace::ch5::34": "Frenchman Frank Whittle\n\nWhen: ?",
-  "aerospace::ch5::42": "Soviet ground blockade"
+  "aerospace::ch5::42": "Soviet ground blockade",
+  "aerospace::ch5::47": "Scott Crossfield\n\nWhat: ?\nWhen: ?"
  },
  "edits": {},
  "confirmed": {
