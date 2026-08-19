@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787109263144,
+ "updatedAt": 1787109290249,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2789,7 +2789,8 @@
   "aerospace::ch3::13": "Origin: Ralph Pulitzer for high-speed flight (1920); last 1925\n\nTurned into National Air Races\n\nFirst winner: Lt Mosely",
   "aerospace::ch3::24": "1918; post office borrowed army planes to start from DC to NY (army flew)",
   "aerospace::ch3::61": "$25k for crossing the Atlantic nonstop\nLindbergh met it",
-  "aerospace::ch4::33": "NUMBERS"
+  "aerospace::ch4::33": "NUMBERS",
+  "aerospace::ch4::36": "Plane with moving artillery\n\nPlane goes around ground defenses and paves the way for artillery (e.g., Maginot Line in WW2)"
  },
  "edits": {},
  "confirmed": {
