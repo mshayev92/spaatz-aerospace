@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787162560621,
+ "updatedAt": 1787162839560,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2813,7 +2813,7 @@
   "aerospace::ch24::20": "Solar Ionospheric Disturbances (SIDs) caused by non-cyclic solar eruptions (e.g., solar flares)\n\nRANGE?",
   "aerospace::ch24::26": "Dehydration\nHeart weakness\nMotion sickness\n\nONE MORE, AND\nHOW COUNTERED?",
   "aerospace::ch24::60": "Sun - electromagnetic radiation\nStars - cosmic waves\n\nFIX",
-  "aerospace::ch25::5": "Eccentric orbit (past Pluto)\nComa appears near sun\nNucleus from water, ice, rock, gases\nSome come from Oort cloud"
+  "aerospace::ch25::5": "Eccentric orbit (past Pluto)\nComa appears near sun\nNucleus from water, ice, rock, gases\nSome come from Oort cloud\n\nMORE DETAILS"
  },
  "edits": {},
  "confirmed": {
