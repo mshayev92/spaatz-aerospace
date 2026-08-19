@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787166509163,
+ "updatedAt": 1787166516351,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2817,7 +2817,7 @@
   "aerospace::ch25::11": "Hot\nClosest in distance and size (Earth's sister planet)\nCarbon dioxide-rich and reflective atmosphere",
   "aerospace::ch25::20": "Swung around Venus for Jupiter\n\nDATE?",
   "aerospace::ch25::22": "-250 to 270 degrees\n29.5 day cycle (14 ea.)\nSame side faces us\n\nCraters from meteorite impacts\nMoon rocks older than Earth ones (Anorthosite, Basalt, Breccia, KREEP)\nDust has sterilizing effect",
-  "aerospace::ch25::28": "10 hour rotation\nGiant spot\nGas giant (has rings)"
+  "aerospace::ch25::28": "10 hour rotation\n\nGiant spot (storm)\nGas giant (has rings)"
  },
  "edits": {},
  "confirmed": {
