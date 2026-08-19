@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1787110072582,
+ "updatedAt": 1787110295085,
  "order": [
   "aerospace::ch1::0",
   "aerospace::ch1::1",
@@ -2806,7 +2806,8 @@
   "aerospace::ch9::45": "Cultural features, landmarks - delegated shape",
   "aerospace::ch18::15": "Misses with ionosphere/exosphere\nImportant photochemical reactions\n\nWRONG RANGE",
   "aerospace::ch18::18": "Particles only subject to gravity\n\nBOTTOM RANGE?",
-  "aerospace::ch19::22": "Stratocumulus: heavy, warning sign\nAltostratus: light"
+  "aerospace::ch19::22": "Stratocumulus: heavy, warning sign\nAltostratus: light",
+  "aerospace::ch19::23": "Cold: more dense/fast\nDepends on high pressure cell behind it\n"
  },
  "edits": {},
  "confirmed": {
